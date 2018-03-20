@@ -1,0 +1,2 @@
+                        if (construal_resp.status === psychoJS.STARTED && t >= frameRemains) {
+                          construal_resp.status = psychoJS.STOPPED;

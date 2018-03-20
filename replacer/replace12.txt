@@ -1,0 +1,3 @@
+expInfo = {'participant':'', 'session':'01'};
+								expInfo = run_replace_default_expInfo();
+								after_scheduleInstantiation();

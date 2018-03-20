@@ -1,0 +1,11 @@
+						after_construal_trialRoutineEachFrame();
+                          // refresh the screen if continuing
+                          if (continueRoutine) {
+                            return psychoJS.FLIP_REPEAT;
+                          }
+                          else {
+                            return psychoJS.NEXT;
+                          }
+                        }
+                        
+                        function construal_trialRoutineEnd() {

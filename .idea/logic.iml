@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/design_csv_files" />
+      <excludeFolder url="file://$MODULE_DIR$/fmri_v120180213002343 copy" />
+      <excludeFolder url="file://$MODULE_DIR$/html copy" />
+      <excludeFolder url="file://$MODULE_DIR$/html/data" />
+      <excludeFolder url="file://$MODULE_DIR$/html/resources" />
+      <excludeFolder url="file://$MODULE_DIR$/html_sub2005" />
+      <excludeFolder url="file://$MODULE_DIR$/htmlold" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

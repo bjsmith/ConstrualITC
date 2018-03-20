@@ -1,0 +1,12 @@
+					after_TrialRoutineEachFrame();
+                  // refresh the screen if continuing
+                  if (continueRoutine) {
+                    return psychoJS.FLIP_REPEAT;
+                  }
+                  else {
+                    return psychoJS.NEXT;
+                  }
+                }
+                
+                function trialRoutineEnd() {
+

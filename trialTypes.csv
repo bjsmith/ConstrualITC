@@ -1,0 +1,7 @@
+text,letterColor,corrAns,congruent
+red,red,left,1
+red,green,right,0
+green,green,left,1
+green,blue,right,0
+blue,blue,left,1
+blue,red,right,0
