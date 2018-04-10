@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2062,1,R,,,,,0.676134337427,,,,,29,1,,5,90,0,2,4,1.38276622795,2,How to make breakfast?, Crack eggs.,4
+2062,2,R,,,,,2.82869080008,,,,,37,1,,5,90,0,2,4,0.691524198897,1,How to lift weights?, Fasten seatbelt.,4
+2062,3,L,,,,,4.80425219029,,,,,24,1,,5,90,0,2,4,0.612271296324,3,Why make breakfast?, Satisfy hunger.,2
+2062,4,L,,,,,0.620476971515,,,,,25,1,,5,90,0,2,4,0.883554592082,0,Why go shopping?, Make a purchase.,2

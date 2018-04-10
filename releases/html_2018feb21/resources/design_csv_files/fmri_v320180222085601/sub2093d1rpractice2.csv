@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2093,1,R,,,,,1.04304599309,,,,25,30,1,,2,,1,1,4,1.34523007805,8,Why write a song?, Seek advice.,2
+2093,2,R,,,,,0.57174545412,,,,25,30,1,,7,,1,1,4,1.33686089093,3,Why watch television?, Show competence.,2
+2093,3,L,,,,,2.79227711807,,,,25,30,1,,9,,1,1,4,0.550733602786,4,How to feel nostalgia?, Keep a memory.,6
+2093,4,L,,,,,2.25688676587,,,,25,30,1,,8,,1,1,4,0.741942920847,11,How to feel well?, Reduce pain.,6
+2093,5,L,,,,,3.8497468486,,,,25,30,1,,5,,1,1,4,0.954840069881,0,Why point a camera?, Take a picture.,1
+2093,6,R,,,,,1.41270051249,,,,25,30,1,,6,,1,1,4,1.23958798385,1,Why turn a doorknob?, Enter a classroom.,1
+2093,7,R,,,,,1.13486212976,,,,25,30,1,,3,,1,1,4,1.45733582869,5,How to paint a picture?, Use a brush.,4
+2093,8,R,,,,,4.95297650872,,,,25,30,1,,4,,1,1,4,0.550396159964,6,How to clip coupons?, Cut paper.,4
+2093,9,R,,,,,2.25738361448,,,,25,30,1,,8,,1,1,4,1.35575464601,10,How to contact a friend?, Make a phone call.,5
+2093,10,L,,,,,0.734685021999,,,,25,30,1,,4,,1,1,4,0.595713287366,7,How to teach others?, Give a lecture.,5
+2093,11,L,,,,,0.60311667622,,,,25,30,1,,9,,1,1,4,1.0209988554,9,Why provide food?, Help a person.,3
+2093,12,L,,,,,2.42838061926,,,,25,30,1,,5,,1,1,4,0.846507001811,2,Why plan ahead?, Reduce worry.,3

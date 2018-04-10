@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2132,1,L,,,,,4.32827715795,,,,,26,1,,5,90,0,3,4,0.586579036611,3,How to paint a picture?, Use a brush.,4
+2132,2,L,,,,,0.874628196507,,,,,24,1,,5,90,0,3,4,0.53546957282,1,How to clip coupons?, Cut paper.,4
+2132,3,R,,,,,2.4349720359,,,,,40,1,,5,90,0,3,4,1.64053234584,2,How to plan ahead?, Make a list.,5
+2132,4,R,,,,,1.22386373671,,,,,25,1,,5,90,0,3,4,1.0061768007,0,How to express doubt?, Use scissors.,5

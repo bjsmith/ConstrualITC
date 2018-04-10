@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2150,1,L,,,,,4.0339726635,,,,25,30,1,,7,,1,1,3,0.809504881842,11,How to show cleanliness?, Write an email.,6
+2150,2,R,,,,,0.874710080286,,,,25,30,1,,1,,1,1,3,0.699767819312,0,How to feel sociable?, Hold a party.,6
+2150,3,L,,,,,0.985646629118,,,,25,30,1,,3,,1,1,3,0.870855658458,10,Why dial numbers?, Make a phone call.,1
+2150,4,R,,,,,2.34787872991,,,,25,30,1,,4,,1,1,3,0.688403651842,9,Why open a magazine?, Read articles.,1
+2150,5,R,,,,,2.17321297469,,,,25,30,1,,6,,1,1,3,0.697935954463,8,Why gain knowledge?, Improve oneself.,3
+2150,6,R,,,,,2.34014305268,,,,25,30,1,,8,,1,1,3,0.869285650386,2,Why get a promotion?, Achieve success.,3
+2150,7,R,,,,,0.73310471848,,,,25,30,1,,9,,1,1,3,0.609490287558,6,How to give applause?, Clap hands.,4
+2150,8,L,,,,,1.33343909899,,,,25,30,1,,5,,1,1,3,0.79490593936,1,How to write a check?, Sign ones name.,4
+2150,9,L,,,,,1.1634398085,,,,25,30,1,,7,,1,1,3,1.63178180168,5,How to save money?, Clip coupons.,5
+2150,10,L,,,,,5.31380498837,,,,25,30,1,,6,,1,1,3,0.639257499746,3,How to build muscles?, Lift weights.,5
+2150,11,L,,,,,0.665430372613,,,,25,30,1,,1,,1,1,3,0.718219677399,4,Why paint a picture?, Make art.,2
+2150,12,R,,,,,1.08008586488,,,,25,30,1,,3,,1,1,3,2.30797761532,7,Why drink wine?, Consume alcohol.,2

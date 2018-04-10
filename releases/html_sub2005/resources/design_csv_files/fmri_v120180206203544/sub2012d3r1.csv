@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,1,,,,,0.900247611804,,,,25,30,1,,3,,1,3,1,0.891492170303,0,How to show humility?, Build muscles.,6
+2012,2,1,,,,,0.783657928405,,,,25,30,1,,4,,1,3,1,1.62036682057,0,Why avoid diseases?, Live a long life.,3
+2012,3,2,,,,,0.802467014539,,,,25,30,1,,5,,1,3,1,0.565269519859,0,How to attend a school?, Enter a classroom.,5
+2012,4,1,,,,,3.30857366974,,,,25,30,1,,1,,1,3,1,1.35561367535,0,How to clip coupons?, Cut paper.,4
+2012,5,1,,,,,1.26939173242,,,,25,30,1,,7,,1,3,1,0.630187220715,0,Why open a bottle?, Consume medicine.,1
+2012,6,1,,,,,1.08162585469,,,,25,30,1,,9,,1,3,1,0.605415521044,0,Why dress formally?, Get a promotion.,2
+2012,7,2,,,,,1.42617078426,,,,25,30,1,,6,,1,3,1,1.60815595847,0,Why wash ones hands?, Kill germs.,1
+2012,8,1,,,,,0.916533367989,,,,25,30,1,,8,,1,3,1,1.00253701241,0,How to write a poem?, Grab a pencil.,4
+2012,9,1,,,,,0.711445699643,,,,25,30,1,,7,,1,3,1,0.794189627572,0,Why kill germs?, Avoid diseases.,2
+2012,10,1,,,,,5.79213701186,,,,25,30,1,,4,,1,3,1,0.661818041763,0,Why entertain others?, Express a talent.,3
+2012,11,2,,,,,2.71503323365,,,,25,30,1,,5,,1,3,1,1.04170419342,0,How to reduce worry?, Plan ahead.,6
+2012,12,1,,,,,0.939427740752,,,,25,30,1,,3,,1,3,1,1.7986301056,0,How to make a purchase?, Go shopping.,5
+2012,13,2,,,,,3.03082255645,,,,25,30,1,,6,,1,3,1,1.57438818024,0,How to satisfy a need?, Make a purchase.,6
+2012,14,2,,,,,1.13975973958,,,,25,30,1,,2,,1,3,1,0.632678345318,0,Why reduce pain?, Feel well.,3
+2012,15,2,,,,,1.20370189875,,,,25,30,1,,8,,1,3,1,0.836031153899,0,Why make a list?, Plan ahead.,2
+2012,16,1,,,,,1.54045933241,,,,25,30,1,,9,,1,3,1,1.2350803623,0,How to write a check?, Sign ones name.,4
+2012,17,2,,,,,1.01752480674,,,,25,30,1,,2,,1,3,1,0.567069611208,0,Why dial numbers?, Make a phone call.,1
+2012,18,1,,,,,3.56629992011,,,,25,30,1,,4,,1,3,1,1.29799545191,0,How to make a donation?, Mix a cocktail.,5
+2012,19,1,,,,,1.5091344186,,,,25,30,1,,8,,1,3,1,0.653016030671,0,Why drink wine?, Consume alcohol.,2
+2012,20,2,,,,,2.29157604569,,,,25,30,1,,3,,1,3,1,0.822014791064,0,Why plan ahead?, Reduce worry.,3
+2012,21,1,,,,,5.71202354267,,,,25,30,1,,9,,1,3,1,0.921012823993,0,How to make breakfast?, Crack eggs.,4
+2012,22,2,,,,,1.61053053923,,,,25,30,1,,5,,1,3,1,1.10428474999,0,Why click a mouse?, Open a browser.,1
+2012,23,1,,,,,2.25832613011,,,,25,30,1,,1,,1,3,1,0.619865808715,0,How to contact a friend?, Make a phone call.,5
+2012,24,2,,,,,4.05311299623,,,,25,30,1,,6,,1,3,1,0.61251856528,0,How to impress others?, Show intelligence.,6
+2012,25,2,,,,,1.6820630836,,,,25,30,1,,1,,1,3,1,1.23836507309,0,Why enter a classroom?, Attend a school.,2
+2012,26,2,,,,,1.58977763058,,,,25,30,1,,4,,1,3,1,2.0400400483,0,How to avoid diseases?, Kill germs.,5
+2012,27,2,,,,,1.47038404825,,,,25,30,1,,6,,1,3,1,0.565202058599,0,How to lift weights?, Fasten seatbelt.,4
+2012,28,1,,,,,1.0976298861,,,,25,30,1,,5,,1,3,1,0.689098369966,1,Why clap hands?, Give applause.,1
+2012,29,2,,,,,3.43412202834,,,,25,30,1,,3,,1,3,1,0.670788548839,0,Why make a purchase?, Satisfy a need.,3
+2012,30,2,,,,,1.81673780353,,,,25,30,1,,9,,1,3,1,0.862072319919,0,How to spread knowledge?, Teach others.,6
+2012,31,1,,,,,2.5921750263,,,,25,30,1,,8,,1,3,1,1.23339588939,0,Why read articles?, Gain knowledge.,2
+2012,32,2,,,,,1.01434636921,,,,25,30,1,,7,,1,3,1,0.630086926708,0,How to show intelligence?, Participate in class.,5
+2012,33,1,,,,,3.59994775802,,,,25,30,1,,5,,1,3,1,1.14737230214,0,Why satisfy hunger?, Show an ability.,3
+2012,34,1,,,,,0.924800794239,,,,25,30,1,,4,,1,3,1,0.595696340075,0,How to feel sociable?, Hold a party.,6
+2012,35,1,,,,,3.34195021793,,,,25,30,1,,1,,1,3,1,1.52596962351,0,How to go shopping?, Use credit cards.,4
+2012,36,2,,,,,0.873393527583,,,,25,30,1,,7,,1,3,1,1.48535037108,0,Why point a camera?, Take a picture.,1
+2012,37,2,,,,,1.10958512212,,,,25,30,1,,6,,1,3,1,0.974243639337,0,Why save money?, Get fit.,3
+2012,38,1,,,,,3.51519760199,,,,25,30,1,,8,,1,3,1,0.698106911481,0,How to show appreciation?, Give applause.,5
+2012,39,2,,,,,0.890997009494,,,,25,30,1,,3,,1,3,1,1.57104362436,0,Why give applause?, Show appreciation.,2
+2012,40,2,,,,,1.3567668267,,,,25,30,1,,2,,1,3,1,0.624444079059,0,Why throw away trash?, Make a list.,1

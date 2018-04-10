@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2005,1,1,,,,,1.50157588084,,,,,28,1,,5,90,0,3,1,2.87670212431,0,Why open a bottle?, Consume medicine.,1
+2005,2,1,,,,,1.61070920688,,,,,33,1,,5,90,0,3,1,1.9838487426,0,Why use credit cards?, Go shopping.,1
+2005,3,1,,,,,1.41214751003,,,,,39,1,,5,90,0,3,1,1.08543161517,0,Why gain knowledge?, Improve oneself.,3
+2005,4,2,,,,,1.26594697585,,,,,29,1,,5,90,0,3,1,1.74849632257,0,Why write an email?, Send a message.,3
+2005,5,2,,,,,1.3387455318,,,,,36,1,,5,90,0,3,1,1.64997285745,0,Why read articles?, Gain knowledge.,2
+2005,6,1,,,,,1.06691305386,,,,,34,1,,5,90,0,3,1,1.42253352224,0,Why participate in class?, Show intelligence.,2
+2005,7,2,,,,,1.40760098165,,,,,32,1,,5,90,0,3,1,1.58921838671,0,How to show intelligence?, Participate in class.,5
+2005,8,2,,,,,1.6379353692,,,,,37,1,,5,90,0,3,1,3.75640305752,0,How to save money?, Clip coupons.,5
+2005,9,1,,,,,1.53513759413,,,,,20,1,,5,90,0,3,1,1.46034030843,0,How to open a browser?, Click a mouse.,4
+2005,10,2,,,,,1.62119432024,,,,,25,1,,5,90,0,3,1,3.06031039271,0,How to drink wine?, Open a bottle. ,4
+2005,11,2,,,,,1.53353294723,,,,,38,1,,5,90,0,3,1,2.04877579633,0,How to support a cause?, Give to charity.,6
+2005,12,1,,,,,2.12452616413,,,,,21,1,,5,90,0,3,1,1.999294971,0,How to avoid mistakes?, Obey laws.,6
+2005,13,2,,,,,1.7649272419,,,,,24,1,,5,90,0,3,1,1.33121927203,0,Why raise a hand?, Participate in class.,1
+2005,14,2,,,,,4.25112983835,,,,,35,1,,5,90,0,3,1,1.87556397642,1,Why cut paper?, Clip coupons.,1
+2005,15,2,,,,,1.4594628846,,,,,23,1,,5,90,0,3,1,1.03058611767,0,How to write a poem?, Grab a pencil.,4
+2005,16,2,,,,,1.41332570813,,,,,40,1,,5,90,0,3,1,1.23570626739,0,How to give applause?, Clap hands.,4
+2005,17,1,,,,,2.10134461999,,,,,31,1,,5,90,0,3,1,2.53577858372,0,Why make art?, Show creativity.,3
+2005,18,1,,,,,1.05784402684,,,,,30,1,,5,90,0,3,1,2.9539277841,0,Why make a purchase?, Satisfy a need.,3
+2005,19,2,,,,,1.94671869669,,,,,26,1,,5,90,0,3,1,1.71616868584,0,How to feel secure?, Save money.,6
+2005,20,1,,,,,1.41690144554,,,,,27,1,,5,90,0,3,1,3.0556210731,0,How to get a degree?, Attend a school.,6
+2005,21,1,,,,,1.00488361281,,,,,28,1,,5,90,0,3,1,2.38870056948,0,How to make a donation?, Mix a cocktail.,5
+2005,22,1,,,,,1.09245314808,,,,,27,1,,5,90,0,3,1,2.85826389287,0,How to give to charity?, Use a camera.,5
+2005,23,1,,,,,1.87437337339,,,,,34,1,,5,90,0,3,1,1.14674447308,0,Why paint a picture?, Make art.,2
+2005,24,1,,,,,2.99359257249,,,,,39,1,,5,90,0,3,1,1.14263565525,0,Why kill germs?, Avoid diseases.,2
+2005,25,2,,,,,2.21030517698,,,,,25,1,,5,90,0,3,1,1.27593237366,0,Why give to charity?, Support a cause.,3
+2005,26,2,,,,,1.65155624128,,,,,37,1,,5,90,0,3,1,1.66685451992,0,Why provide food?, Help a person.,3
+2005,27,1,,,,,4.19278968839,,,,,40,1,,5,90,0,3,1,3.04547375646,0,How to make a list?, Throw away trash.,4
+2005,28,1,,,,,1.79762737385,,,,,35,1,,5,90,0,3,1,1.31471251715,0,How to consume caffeine?, Press buttons.,4
+2005,29,1,,,,,1.1710784565,,,,,24,1,,5,90,0,3,1,1.8975594819,0,Why use a camera?, Give to charity.,2
+2005,30,2,,,,,1.76916050222,,,,,33,1,,5,90,0,3,1,3.89758270571,0,Why go shopping?, Make a purchase.,2
+2005,31,2,,,,,1.64916834252,,,,,32,1,,5,90,0,3,1,2.94502670341,0,How to make art?, Paint a picture.,5
+2005,32,2,,,,,6.57999357608,,,,,21,1,,5,90,0,3,1,1.36978630457,0,How to teach others?, Give a lecture.,5
+2005,33,1,,,,,5.84617166838,,,,,22,1,,5,90,0,3,1,2.10304568163,0,Why dial numbers?, Make a phone call.,1
+2005,34,1,,,,,1.29563349142,,,,,36,1,,5,90,0,3,1,1.99279699217,0,Why lift a glass?, Drink wine.,1
+2005,35,2,,,,,1.38325667217,,,,,29,1,,5,90,0,3,1,1.75160423445,0,How to spread joy?, Get a job.,6
+2005,36,2,,,,,1.31003245413,,,,,23,1,,5,90,0,3,1,1.03443279844,0,How to reduce worry?, Plan ahead.,6

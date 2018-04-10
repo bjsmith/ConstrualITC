@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2010,1,R,,,,,1.71519143758,,,,25,30,1,,1,,1,1,3,1.05539076198,3,Why drink coffee?, Consume caffeine.,1
+2010,2,R,,,,,1.974739481,,,,25,30,1,,9,,1,1,3,1.09822190099,7,Why take aspirin?, Serve alcohol.,1
+2010,3,L,,,,,5.77880189027,,,,25,30,1,,3,,1,1,3,1.29337459076,4,How to write a song?, Play piano.,4
+2010,4,L,,,,,1.11770746255,,,,25,30,1,,2,,1,1,3,0.690294425474,11,How to paint a picture?, Use a brush.,4
+2010,5,L,,,,,1.58709710034,,,,25,30,1,,8,,1,1,3,0.577373828941,10,Why make breakfast?, Satisfy hunger.,2
+2010,6,R,,,,,2.09700842241,,,,25,30,1,,5,,1,1,3,1.04666348886,0,Why use a camera?, Give to charity.,2
+2010,7,R,,,,,3.39316096904,,,,25,30,1,,7,,1,1,3,1.13204914194,5,How to express doubt?, Use scissors.,5
+2010,8,R,,,,,1.88191275028,,,,25,30,1,,6,,1,1,3,1.41881321381,6,How to provide food?, Prepare meals.,5
+2010,9,L,,,,,2.32843865799,,,,25,30,1,,8,,1,1,3,0.715069756672,2,How to feel productive?, Finish a job.,6
+2010,10,L,,,,,0.638470530859,,,,25,30,1,,2,,1,1,3,1.00143122242,1,How to spread knowledge?, Teach others.,6
+2010,11,L,,,,,0.545442213834,,,,25,30,1,,6,,1,1,3,1.3579027653,8,Why satisfy hunger?, Show an ability.,3
+2010,12,R,,,,,0.552136646463,,,,25,30,1,,3,,1,1,3,0.887466491119,9,Why entertain others?, Express a talent.,3

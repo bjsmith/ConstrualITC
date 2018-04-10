@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2158,1,R,,,,,1.60566916942,,,,,38,1,,5,90,0,1,4,0.787339992396,10,How to consume medicine?, Take pills. ,4
+2158,2,L,,,,,1.31547876617,,,,,30,1,,5,90,0,1,4,0.552982601325,4,How to take a picture?, Point a camera.,4
+2158,3,L,,,,,1.5656070532,,,,,29,1,,5,90,0,1,4,0.790224852536,7,Why use chalk?, Get fit.,1
+2158,4,R,,,,,2.17007836638,,,,,28,1,,5,90,0,1,4,1.80619507102,9,Why crack eggs?, Make breakfast.,1
+2158,5,R,,,,,1.10204684031,,,,,26,1,,5,90,0,1,4,0.743402178851,2,How to teach others?, Give a lecture.,5
+2158,6,R,,,,,3.25320323517,,,,,22,1,,5,90,0,1,4,1.07426739899,11,How to consume alcohol?, Drink wine.,5
+2158,7,L,,,,,1.95788593898,,,,,35,1,,5,90,0,1,4,1.54550179406,5,How to avoid boredom?, Entertain oneself.,6
+2158,8,R,,,,,4.35005189534,,,,,32,1,,5,90,0,1,4,1.15783080458,3,How to avoid mistakes?, Obey laws.,6
+2158,9,L,,,,,0.785014983486,,,,,37,1,,5,90,0,1,4,1.26419473405,1,Why teach a class?, Obey laws.,2
+2158,10,R,,,,,1.17268693395,,,,,27,1,,5,90,0,1,4,0.680140476661,6,Why participate in class?, Show intelligence.,2
+2158,11,L,,,,,3.91010103275,,,,,24,1,,5,90,0,1,4,0.578443143058,8,Why make art?, Show creativity.,3
+2158,12,L,,,,,0.990617059328,,,,,39,1,,5,90,0,1,4,0.749175184425,0,Why entertain others?, Express a talent.,3

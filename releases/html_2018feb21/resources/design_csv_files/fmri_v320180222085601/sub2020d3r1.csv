@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,R,,,,,1.25583877624,,,,25,30,1,,3,,1,3,1,4.1147690965,25,How to watch television?, Use a remote.,4
+2020,2,L,,,,,1.03306302039,,,,25,30,1,,9,,1,3,1,1.78612808536,42,How to write a check?, Sign ones name.,4
+2020,3,R,,,,,1.27043503472,,,,25,30,1,,8,,1,3,1,1.24384799583,43,How to contact a friend?, Make a phone call.,5
+2020,4,L,,,,,3.32299183719,,,,25,30,1,,1,,1,3,1,1.81400225594,11,How to entertain oneself?, Watch television.,5
+2020,5,R,,,,,1.26046505195,,,,25,30,1,,2,,1,3,1,3.00975192342,12,Why consume caffeine?, Stay alert.,2
+2020,6,R,,,,,3.96839773449,,,,25,30,1,,5,,1,3,1,1.69317718701,37,Why teach a class?, Obey laws.,2
+2020,7,R,,,,,1.51240998096,,,,25,30,1,,6,,1,3,1,1.23104352725,51,Why wear ties?, Dress formally.,1
+2020,8,L,,,,,1.51486884881,,,,25,30,1,,4,,1,3,1,1.2360267222,35,Why crack eggs?, Make breakfast.,1
+2020,9,L,,,,,1.87929833595,,,,25,30,1,,4,,1,3,1,1.40818586131,15,How to show humility?, Build muscles.,6
+2020,10,L,,,,,1.1187531853,,,,25,30,1,,5,,1,3,1,1.64721300345,44,How to live a long life?, Avoid diseases.,6
+2020,11,L,,,,,1.07198150498,,,,25,30,1,,3,,1,3,1,2.00257538826,9,Why reduce pain?, Feel well.,3
+2020,12,R,,,,,1.92596859353,,,,25,30,1,,7,,1,3,1,2.36184489615,13,Why entertain others?, Express a talent.,3
+2020,13,R,,,,,2.4896954646,,,,25,30,1,,8,,1,3,1,2.47028998494,18,Why read articles?, Gain knowledge.,2
+2020,14,R,,,,,1.79543822165,,,,25,30,1,,9,,1,3,1,3.31725255474,46,Why consume medicine?, Reduce pain.,2
+2020,15,L,,,,,1.54779980072,,,,25,30,1,,6,,1,3,1,1.07146678423,38,How to spread knowledge?, Teach others.,6
+2020,16,L,,,,,1.19330591729,,,,25,30,1,,2,,1,3,1,1.02987279016,16,How to show intellect?, Share ideas.,6
+2020,17,L,,,,,4.08733949674,,,,25,30,1,,8,,1,3,1,1.57145729363,22,How to make a list?, Throw away trash.,4
+2020,18,L,,,,,3.39771693471,,,,25,30,1,,1,,1,3,1,2.228812523,52,How to give a lecture?, Brush ones hair.,4
+2020,19,R,,,,,2.14726436051,,,,25,30,1,,7,,1,3,1,1.30873075613,53,Why open a bottle?, Consume medicine.,1
+2020,20,R,,,,,1.495457751,,,,25,30,1,,5,,1,3,1,2.16383670153,55,Why click a mouse?, Open a browser.,1
+2020,21,R,,,,,2.53554238812,,,,25,30,1,,9,,1,3,1,2.48903726391,6,Why plan ahead?, Reduce worry.,3
+2020,22,R,,,,,1.04443606711,,,,25,30,1,,3,,1,3,1,2.22983557162,57,Why get a promotion?, Achieve success.,3
+2020,23,L,,,,,2.44182777031,,,,25,30,1,,4,,1,3,1,1.98280816177,23,How to provide food?, Prepare meals.,5
+2020,24,L,,,,,3.39828855728,,,,25,30,1,,2,,1,3,1,3.21149024324,39,How to make art?, Paint a picture.,5
+2020,25,L,,,,,3.72322106011,,,,25,30,1,,6,,1,3,1,2.15052066576,54,How to mix a cocktail?, Stir ingredients.,4
+2020,26,R,,,,,1.50970019195,,,,25,30,1,,3,,1,3,1,3.11528545288,27,How to make breakfast?, Crack eggs.,4
+2020,27,L,,,,,1.01352228997,,,,25,30,1,,5,,1,3,1,1.18875526617,40,Why hold a party?, Feel sociable.,3
+2020,28,R,,,,,1.85174213987,,,,25,30,1,,9,,1,3,1,1.05099299319,0,Why attend a school?, Get a degree.,3
+2020,29,L,,,,,2.48931018384,,,,25,30,1,,8,,1,3,1,1.6268163936,2,Why give applause?, Show appreciation.,2
+2020,30,R,,,,,1.21531109929,,,,25,30,1,,2,,1,3,1,2.17598441796,41,Why paint a picture?, Make art.,2
+2020,31,L,,,,,1.74680935005,,,,25,30,1,,7,,1,3,1,3.03162108544,32,Why cut paper?, Clip coupons.,1
+2020,32,L,,,,,1.14876222577,,,,25,30,1,,4,,1,3,1,3.44490885639,21,Why drink coffee?, Consume caffeine.,1
+2020,33,R,,,,,1.44300359322,,,,25,30,1,,2,,1,3,1,1.4449632279,30,How to feel connected?, Contact a friend.,6
+2020,34,R,,,,,3.68129553343,,,,25,30,1,,4,,1,3,1,1.21149392624,48,How to spread joy?, Get a job.,6
+2020,35,R,,,,,2.20973453736,,,,25,30,1,,9,,1,3,1,1.82672663187,59,How to get a promotion?, Arrive on time.,5
+2020,36,L,,,,,1.78706552336,,,,25,30,1,,5,,1,3,1,1.18586662648,10,How to show intelligence?, Participate in class.,5
+2020,37,L,,,,,2.73411617095,,,,25,30,1,,6,,1,3,1,3.48936584284,8,How to consume alcohol?, Drink wine.,5
+2020,38,R,,,,,2.70225129948,,,,25,30,1,,8,,1,3,1,2.20705471948,3,How to write an email?, Open a browser.,5
+2020,39,R,,,,,1.22804888498,,,,25,30,1,,7,,1,3,1,1.41973486993,36,Why use chalk?, Get fit.,1
+2020,40,L,,,,,1.61299775131,,,,25,30,1,,3,,1,3,1,1.59643272788,28,Why use credit cards?, Go shopping.,1
+2020,41,L,,,,,1.52835916778,,,,25,30,1,,5,,1,3,1,1.15289490032,47,How to open a browser?, Click a mouse.,4
+2020,42,R,,,,,1.54536684126,,,,25,30,1,,2,,1,3,1,1.14566259547,29,How to dress formally?, Wear ties. ,4
+2020,43,L,,,,,1.15350529608,,,,25,30,1,,3,,1,3,1,1.81440790542,58,How to show cleanliness?, Write an email.,6
+2020,44,R,,,,,4.44289104511,,,,25,30,1,,8,,1,3,1,2.66568298987,26,How to impress others?, Show intelligence.,6
+2020,45,L,,,,,1.25664943571,,,,25,30,1,,9,,1,3,1,2.16035133078,4,Why give a lecture?, Teach others.,2
+2020,46,R,,,,,2.46507882055,,,,25,30,1,,1,,1,3,1,2.01308685128,56,Why watch television?, Show competence.,2
+2020,47,L,,,,,2.0181681893,,,,25,30,1,,6,,1,3,1,1.74513433103,20,Why make a purchase?, Satisfy a need.,3
+2020,48,R,,,,,1.22893981224,,,,25,30,1,,7,,1,3,1,2.98187204826,33,Why show appreciation?, Spread joy.,3
+2020,49,L,,,,,1.9666389481,,,,25,30,1,,5,,1,3,1,2.44975913804,14,Why make a list?, Plan ahead.,2
+2020,50,R,,,,,1.80863288417,,,,25,30,1,,6,,1,3,1,1.43189691881,31,Why drink wine?, Consume alcohol.,2
+2020,51,R,,,,,1.51498753702,,,,25,30,1,,2,,1,3,1,1.71237760602,1,How to read articles?, Open a magazine.,4
+2020,52,L,,,,,1.90964950714,,,,25,30,1,,7,,1,3,1,1.35309112279,19,How to lift weights?, Fasten seatbelt.,4
+2020,53,L,,,,,1.57157978523,,,,25,30,1,,1,,1,3,1,3.10864202514,34,How to avoid boredom?, Entertain oneself.,6
+2020,54,R,,,,,1.91949312576,,,,25,30,1,,3,,1,3,1,1.08545876144,50,How to reduce worry?, Plan ahead.,6
+2020,55,R,,,,,1.36123999484,,,,25,30,1,,8,,1,3,1,1.41538415018,17,How to entertain others?, Write a song.,5
+2020,56,L,,,,,2.18517983025,,,,25,30,1,,4,,1,3,1,2.42768583663,5,How to teach others?, Give a lecture.,5
+2020,57,L,,,,,2.35913736133,,,,25,30,1,,5,,1,3,1,2.33907281168,45,Why show intelligence?, Impress others.,3
+2020,58,L,,,,,2.67991641462,,,,25,30,1,,4,,1,3,1,2.41389106755,49,Why show competence?, Pass the time.,3
+2020,59,R,,,,,2.65838196303,,,,25,30,1,,8,,1,3,1,2.17075329288,24,Why turn a doorknob?, Enter a classroom.,1
+2020,60,R,,,,,1.28648169169,,,,25,30,1,,1,,1,3,1,2.27188229944,7,Why stir ingredients?, Mix a cocktail.,1

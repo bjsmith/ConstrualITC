@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2014,1,2,,,,,0.777906101653,,,,25,30,1,,6,,1,3,1,0.757769026644,0,Why consume caffeine?, Stay alert.,2
+2014,2,2,,,,,3.15569647527,,,,25,30,1,,7,,1,3,1,0.518332449799,0,How to feel secure?, Save money.,6
+2014,3,1,,,,,1.63010169429,,,,25,30,1,,4,,1,3,1,1.37770846424,0,How to prepare meals?, Follow recipes.,4
+2014,4,2,,,,,2.63772374203,,,,25,30,1,,8,,1,3,1,0.680810136281,0,How to contact a friend?, Make a phone call.,5
+2014,5,1,,,,,0.650076219223,,,,25,30,1,,3,,1,3,1,0.62018241465,0,Why throw away trash?, Make a list.,1
+2014,6,2,,,,,1.51810503824,,,,25,30,1,,9,,1,3,1,0.541135121966,0,Why provide food?, Help a person.,3
+2014,7,1,,,,,1.36407938028,,,,25,30,1,,5,,1,3,1,0.731050719693,0,How to avoid diseases?, Kill germs.,5
+2014,8,2,,,,,2.21641770261,,,,25,30,1,,2,,1,3,1,0.617964557973,0,Why use a camera?, Give to charity.,2
+2014,9,1,,,,,0.739592698181,,,,25,30,1,,8,,1,3,1,0.704682619477,0,Why clap hands?, Give applause.,1
+2014,10,1,,,,,4.32089109077,,,,25,30,1,,7,,1,3,1,2.30052549869,0,How to write a poem?, Grab a pencil.,4
+2014,11,2,,,,,1.96074448246,,,,25,30,1,,3,,1,3,1,1.3793246065,0,Why avoid diseases?, Live a long life.,3
+2014,12,1,,,,,0.545652407263,,,,25,30,1,,5,,1,3,1,0.800050997914,0,How to support a cause?, Give to charity.,6
+2014,13,1,,,,,1.3149519396,,,,25,30,1,,4,,1,3,1,0.880083923763,1,How to watch television?, Use a remote.,4
+2014,14,2,,,,,0.587457525666,,,,25,30,1,,6,,1,3,1,0.62685462596,0,Why lift a glass?, Drink wine.,1
+2014,15,2,,,,,2.02428539815,,,,25,30,1,,9,,1,3,1,2.58832708865,0,How to make a donation?, Mix a cocktail.,5
+2014,16,2,,,,,0.795113015508,,,,25,30,1,,2,,1,3,1,0.507302741689,0,Why kill germs?, Avoid diseases.,2
+2014,17,1,,,,,1.80762328486,,,,25,30,1,,7,,1,3,1,0.993976353806,0,Why make art?, Show creativity.,3
+2014,18,1,,,,,3.72972459612,,,,25,30,1,,2,,1,3,1,1.1957991991,0,How to avoid boredom?, Entertain oneself.,6
+2014,19,1,,,,,2.1733215053,,,,25,30,1,,8,,1,3,1,0.623547278401,0,Why watch television?, Show competence.,2
+2014,20,1,,,,,0.765636399399,,,,25,30,1,,6,,1,3,1,0.516285583993,0,Why gain knowledge?, Improve oneself.,3
+2014,21,1,,,,,2.97755318704,,,,25,30,1,,1,,1,3,1,0.909987152956,0,How to consume caffeine?, Press buttons.,4
+2014,22,2,,,,,1.14813290002,,,,25,30,1,,3,,1,3,1,1.1448923072,0,How to show cleanliness?, Write an email.,6
+2014,23,1,,,,,0.810180822966,,,,25,30,1,,9,,1,3,1,0.857783044428,0,How to teach others?, Give a lecture.,5
+2014,24,2,,,,,1.05368278057,,,,25,30,1,,5,,1,3,1,0.576631506767,0,Why follow recipes?, Prepare meals.,1
+2014,25,1,,,,,2.25113992171,,,,25,30,1,,4,,1,3,1,2.8534873685,0,Why hold a party?, Feel sociable.,3
+2014,26,2,,,,,3.7693350466,,,,25,30,1,,2,,1,3,1,0.844145894859,0,How to express doubt?, Use scissors.,5
+2014,27,1,,,,,1.50147639674,,,,25,30,1,,8,,1,3,1,1.08582708077,0,Why dress formally?, Get a promotion.,2
+2014,28,1,,,,,0.586281618809,,,,25,30,1,,5,,1,3,1,0.511440255858,0,How to spread joy?, Get a job.,6
+2014,29,2,,,,,5.31615078284,,,,25,30,1,,1,,1,3,1,0.865740736819,0,Why stir ingredients?, Mix a cocktail.,1
+2014,30,2,,,,,1.64448127327,,,,25,30,1,,6,,1,3,1,1.81589211278,0,How to take a picture?, Point a camera.,4
+2014,31,1,,,,,3.82704741135,,,,25,30,1,,7,,1,3,1,0.61104165192,0,How to show appreciation?, Give applause.,5
+2014,32,2,,,,,0.567720126581,,,,25,30,1,,9,,1,3,1,0.518000805977,0,Why drink wine?, Consume alcohol.,2
+2014,33,2,,,,,2.26256033602,,,,25,30,1,,7,,1,3,1,1.15201834414,0,How to clip coupons?, Cut paper.,4
+2014,34,2,,,,,0.649786807208,,,,25,30,1,,9,,1,3,1,0.902632961395,0,How to spread knowledge?, Teach others.,6
+2014,35,2,,,,,3.10540188129,,,,25,30,1,,1,,1,3,1,1.06361300239,0,Why show appreciation?, Spread joy.,3
+2014,36,2,,,,,4.48037227368,,,,25,30,1,,2,,1,3,1,1.35970248797,0,Why use a comb?, Write a song.,1
+2014,37,1,,,,,1.85174226122,,,,25,30,1,,8,,1,3,1,0.544623154345,0,Why share ideas?, Show intellect.,3
+2014,38,1,,,,,1.65459796206,,,,25,30,1,,3,,1,3,1,1.79840523244,0,Why wear ties?, Dress formally.,1
+2014,39,1,,,,,2.88233947119,,,,25,30,1,,4,,1,3,1,1.3441460389,0,How to go shopping?, Use credit cards.,4
+2014,40,2,,,,,1.98643596306,,,,25,30,1,,6,,1,3,1,0.507189456279,0,How to feel well?, Reduce pain.,6

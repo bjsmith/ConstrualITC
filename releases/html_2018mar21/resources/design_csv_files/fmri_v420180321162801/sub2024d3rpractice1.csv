@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2024,1,L,,,,,2.93338138247,,,,25,30,1,,5,,1,3,3,0.932270036063,3,Why make breakfast?, Satisfy hunger.,2
+2024,2,R,,,,,1.95353876812,,,,25,30,1,,6,,1,3,3,1.62964338328,1,Why give a lecture?, Teach others.,2
+2024,3,R,,,,,1.78250747558,,,,25,30,1,,9,,1,3,3,0.814554235699,0,Why write an email?, Send a message.,3
+2024,4,L,,,,,2.01232462744,,,,25,30,1,,1,,1,3,3,0.514792693891,2,Why show courtesy?, Make a friend.,3

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2062,1,L,,,,,1.22647546258,,,,,34,1,,5,90,0,1,4,1.31753686781,11,How to clip coupons?, Cut paper.,4
+2062,2,R,,,,,2.34550872807,,,,,23,1,,5,90,0,1,4,1.32515564355,1,How to kill germs?, Wash ones hands.,4
+2062,3,L,,,,,2.87822027939,,,,,35,1,,5,90,0,1,4,0.574702208924,5,Why cut paper?, Clip coupons.,1
+2062,4,L,,,,,0.872749713617,,,,,28,1,,5,90,0,1,4,0.703709945772,4,Why use chalk?, Get fit.,1
+2062,5,L,,,,,1.28158227281,,,,,32,1,,5,90,0,1,4,1.23420539634,8,How to spread knowledge?, Teach others.,6
+2062,6,R,,,,,6.16514224661,,,,,21,1,,5,90,0,1,4,1.46924594388,3,How to get a degree?, Attend a school.,6
+2062,7,L,,,,,1.50317047458,,,,,26,1,,5,90,0,1,4,0.801855271391,2,Why contact a friend?, Feel connected.,3
+2062,8,R,,,,,2.62011679317,,,,,27,1,,5,90,0,1,4,1.18241366606,0,Why provide food?, Help a person.,3
+2062,9,R,,,,,1.54491882516,,,,,29,1,,5,90,0,1,4,1.49623749181,6,Why make a list?, Plan ahead.,2
+2062,10,R,,,,,0.527090076468,,,,,30,1,,5,90,0,1,4,0.535544599114,10,Why make breakfast?, Satisfy hunger.,2
+2062,11,R,,,,,1.73247376679,,,,,31,1,,5,90,0,1,4,1.22810412355,7,How to reduce pain?, Consume medicine.,5
+2062,12,L,,,,,1.42625863239,,,,,38,1,,5,90,0,1,4,0.868394423384,9,How to make a donation?, Mix a cocktail.,5

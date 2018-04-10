@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2126,1,R,,,,,0.509791868102,,,,,39,1,,5,90,0,3,4,1.00888787305,0,Why go shopping?, Make a purchase.,2
+2126,2,L,,,,,2.42511277727,,,,,32,1,,5,90,0,3,4,0.812173074352,1,Why enter a classroom?, Attend a school.,2
+2126,3,L,,,,,2.73427366179,,,,,24,1,,5,90,0,3,4,1.40275382097,2,Why sign ones name?, Write a check.,1
+2126,4,R,,,,,2.11621464372,,,,,27,1,,5,90,0,3,4,0.650153572254,3,Why open a magazine?, Read articles.,1

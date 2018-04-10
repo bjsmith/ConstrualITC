@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2094,1,L,,,,,0.614064258856,,,,,20,1,,5,90,0,1,4,0.869799449429,1,Why click a mouse?, Open a browser.,1
+2094,2,L,,,,,1.09065009578,,,,,34,1,,5,90,0,1,4,1.20887869276,10,Why clap hands?, Give applause.,1
+2094,3,R,,,,,1.04801648403,,,,,27,1,,5,90,0,1,4,0.73609964018,9,How to show intellect?, Share ideas.,6
+2094,4,R,,,,,1.79566842679,,,,,22,1,,5,90,0,1,4,0.525433506122,3,How to show cleanliness?, Write an email.,6
+2094,5,R,,,,,1.02014139304,,,,,29,1,,5,90,0,1,4,0.755250723383,6,Why give to charity?, Support a cause.,3
+2094,6,R,,,,,0.624469527042,,,,,23,1,,5,90,0,1,4,0.690294043321,7,Why write an email?, Send a message.,3
+2094,7,L,,,,,2.87948211172,,,,,28,1,,5,90,0,1,4,0.753553838379,11,How to make a phone call?, Dial numbers.,4
+2094,8,L,,,,,1.90114961157,,,,,30,1,,5,90,0,1,4,0.547181634998,2,How to go shopping?, Use credit cards.,4
+2094,9,L,,,,,2.19285045437,,,,,21,1,,5,90,0,1,4,1.30901671888,4,Why kill germs?, Avoid diseases.,2
+2094,10,R,,,,,2.28459436566,,,,,40,1,,5,90,0,1,4,1.76253919981,0,Why consume caffeine?, Stay alert.,2
+2094,11,R,,,,,3.29022851148,,,,,35,1,,5,90,0,1,4,1.02217720956,8,How to contact a friend?, Make a phone call.,5
+2094,12,L,,,,,5.61545897366,,,,,37,1,,5,90,0,1,4,1.67800237204,5,How to write an email?, Open a browser.,5

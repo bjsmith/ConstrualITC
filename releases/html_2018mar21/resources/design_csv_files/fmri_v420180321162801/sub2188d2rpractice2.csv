@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2188,1,L,,,,,0.62837024778,,,,,20,1,,5,90,0,2,4,1.36339922851,1,Why point a camera?, Take a picture.,1
+2188,2,R,,,,,2.4000840223,,,,,32,1,,5,90,0,2,4,0.560356150674,2,Why follow recipes?, Prepare meals.,1
+2188,3,R,,,,,4.24946930645,,,,,29,1,,5,90,0,2,4,0.532723261574,3,How to consume alcohol?, Drink wine.,5
+2188,4,L,,,,,0.555105596945,,,,,36,1,,5,90,0,2,4,1.00683469061,0,How to express doubt?, Use scissors.,5

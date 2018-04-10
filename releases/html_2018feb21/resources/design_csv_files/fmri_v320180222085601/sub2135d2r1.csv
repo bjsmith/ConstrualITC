@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2135,1,L,,,,,1.38329289127,,,,,21,1,,5,90,0,2,1,1.73723887854,43,Why drink coffee?, Consume caffeine.,1
+2135,2,R,,,,,1.25636456805,,,,,38,1,,5,90,0,2,1,1.10125146967,42,Why wear ties?, Dress formally.,1
+2135,3,L,,,,,1.25871660811,,,,,28,1,,5,90,0,2,1,1.61103175745,2,How to improve oneself?, Gain knowledge.,6
+2135,4,R,,,,,1.90094154533,,,,,20,1,,5,90,0,2,1,1.31201883952,11,How to feel productive?, Finish a job.,6
+2135,5,R,,,,,2.16271883398,,,,,34,1,,5,90,0,2,1,1.31832599649,26,How to mix a cocktail?, Stir ingredients.,4
+2135,6,L,,,,,1.46067516991,,,,,39,1,,5,90,0,2,1,1.05982865487,31,How to make breakfast?, Crack eggs.,4
+2135,7,R,,,,,1.05147340255,,,,,32,1,,5,90,0,2,1,2.55129920778,38,Why write an email?, Send a message.,3
+2135,8,L,,,,,1.17556001243,,,,,24,1,,5,90,0,2,1,4.20223587417,6,Why build muscles?, Show humility.,3
+2135,9,L,,,,,1.29169013536,,,,,27,1,,5,90,0,2,1,1.88894638974,14,Why drink wine?, Consume alcohol.,2
+2135,10,R,,,,,1.37177277006,,,,,26,1,,5,90,0,2,1,1.0706535978,53,Why participate in class?, Show intelligence.,2
+2135,11,L,,,,,2.22691075389,,,,,37,1,,5,90,0,2,1,1.00568641724,50,How to express doubt?, Use scissors.,5
+2135,12,R,,,,,3.01059831015,,,,,40,1,,5,90,0,2,1,1.34150239016,41,How to write an email?, Open a browser.,5
+2135,13,L,,,,,2.95244698481,,,,,36,1,,5,90,0,2,1,1.519087917,47,How to contact a friend?, Make a phone call.,5
+2135,14,R,,,,,1.24750557715,,,,,25,1,,5,90,0,2,1,4.29569238088,9,How to get a promotion?, Arrive on time.,5
+2135,15,L,,,,,1.41247123581,,,,,22,1,,5,90,0,2,1,2.20764989285,46,Why write a song?, Seek advice.,2
+2135,16,L,,,,,1.37703009943,,,,,33,1,,5,90,0,2,1,1.74023013511,58,Why paint a picture?, Make art.,2
+2135,17,R,,,,,3.06302734273,,,,,35,1,,5,90,0,2,1,3.26630956963,7,How to feel sociable?, Hold a party.,6
+2135,18,R,,,,,3.80736094423,,,,,29,1,,5,90,0,2,1,2.9246375015,19,How to feel connected?, Contact a friend.,6
+2135,19,L,,,,,2.35339651283,,,,,31,1,,5,90,0,2,1,3.19991974779,52,Why show intelligence?, Impress others.,3
+2135,20,R,,,,,2.09390312178,,,,,30,1,,5,90,0,2,1,1.10226598292,28,Why make art?, Show creativity.,3
+2135,21,L,,,,,1.66884761236,,,,,20,1,,5,90,0,2,1,1.21698064298,10,Why use credit cards?, Go shopping.,1
+2135,22,R,,,,,2.15929698412,,,,,37,1,,5,90,0,2,1,1.67915176511,30,Why use a brush?, Paint a picture.,1
+2135,23,R,,,,,4.4953864228,,,,,31,1,,5,90,0,2,1,2.03789620686,29,How to prepare meals?, Follow recipes.,4
+2135,24,L,,,,,1.55970327796,,,,,28,1,,5,90,0,2,1,2.72088872779,8,How to consume caffeine?, Press buttons.,4
+2135,25,R,,,,,1.16419423902,,,,,39,1,,5,90,0,2,1,1.53155086444,37,Why get a promotion?, Achieve success.,3
+2135,26,L,,,,,1.13572610433,,,,,21,1,,5,90,0,2,1,1.99812350611,44,Why give to charity?, Support a cause.,3
+2135,27,R,,,,,3.36796354435,,,,,35,1,,5,90,0,2,1,1.07677835222,56,How to avoid mistakes?, Obey laws.,6
+2135,28,R,,,,,1.42976901654,,,,,23,1,,5,90,0,2,1,1.60380537861,25,How to show intellect?, Share ideas.,6
+2135,29,L,,,,,3.52860507325,,,,,25,1,,5,90,0,2,1,1.14575795224,49,How to make a donation?, Mix a cocktail.,5
+2135,30,L,,,,,1.4299050715,,,,,26,1,,5,90,0,2,1,4.18393846895,20,How to entertain others?, Write a song.,5
+2135,31,R,,,,,1.29362240963,,,,,40,1,,5,90,0,2,1,1.73127601693,21,Why give applause?, Show appreciation.,2
+2135,32,R,,,,,2.96048544475,,,,,24,1,,5,90,0,2,1,3.52264980764,15,Why make breakfast?, Satisfy hunger.,2
+2135,33,L,,,,,1.80478389706,,,,,30,1,,5,90,0,2,1,1.17593140805,57,Why sign ones name?, Write a check.,1
+2135,34,L,,,,,3.30091409889,,,,,32,1,,5,90,0,2,1,2.08507032014,0,Why open a magazine?, Read articles.,1
+2135,35,L,,,,,2.07029657631,,,,,27,1,,5,90,0,2,1,1.22182012082,59,How to lift weights?, Fasten seatbelt.,4
+2135,36,R,,,,,1.64623514154,,,,,22,1,,5,90,0,2,1,2.28441999574,33,How to give a lecture?, Brush ones hair.,4
+2135,37,L,,,,,1.0233885041,,,,,33,1,,5,90,0,2,1,1.32988400733,32,Why use a remote?, Watch television.,1
+2135,38,R,,,,,1.46709687655,,,,,34,1,,5,90,0,2,1,2.21056733391,1,Why turn a doorknob?, Enter a classroom.,1
+2135,39,R,,,,,3.4944880578,,,,,38,1,,5,90,0,2,1,2.18355491324,36,Why give a lecture?, Teach others.,2
+2135,40,L,,,,,2.05220395333,,,,,36,1,,5,90,0,2,1,1.16764566973,13,Why lift weights?, Build muscles.,2
+2135,41,L,,,,,1.25769014893,,,,,34,1,,5,90,0,2,1,1.32936053806,24,Why hold a party?, Feel sociable.,3
+2135,42,R,,,,,2.56825803001,,,,,24,1,,5,90,0,2,1,3.99969184993,18,Why entertain others?, Express a talent.,3
+2135,43,L,,,,,2.05910417266,,,,,35,1,,5,90,0,2,1,1.19391940916,40,How to show creativity?, Make art.,6
+2135,44,L,,,,,2.01610458869,,,,,39,1,,5,90,0,2,1,1.69581845974,16,How to support a cause?, Give to charity.,6
+2135,45,R,,,,,1.0694512757,,,,,36,1,,5,90,0,2,1,3.27852864104,51,How to give applause?, Clap hands.,4
+2135,46,R,,,,,1.97702809218,,,,,26,1,,5,90,0,2,1,1.72984322704,39,How to make a phone call?, Dial numbers.,4
+2135,47,L,,,,,1.98139067256,,,,,33,1,,5,90,0,2,1,1.40838520274,22,How to attend a school?, Enter a classroom.,5
+2135,48,R,,,,,2.14772461855,,,,,27,1,,5,90,0,2,1,3.20830830392,3,How to consume alcohol?, Drink wine.,5
+2135,49,L,,,,,1.07058040869,,,,,32,1,,5,90,0,2,1,1.62877710521,27,Why make a phone call?, Contact a friend.,2
+2135,50,R,,,,,1.53333619825,,,,,40,1,,5,90,0,2,1,1.62447881834,34,Why take a picture?, Keep a memory.,2
+2135,51,R,,,,,3.29877972417,,,,,20,1,,5,90,0,2,1,1.76906232992,17,Why attend a school?, Get a degree.,3
+2135,52,R,,,,,1.22026433533,,,,,25,1,,5,90,0,2,1,1.39965618161,4,Why avoid diseases?, Live a long life.,3
+2135,53,L,,,,,3.48588668679,,,,,31,1,,5,90,0,2,1,3.13489903587,35,Why click a mouse?, Open a browser.,1
+2135,54,L,,,,,1.69173573526,,,,,37,1,,5,90,0,2,1,2.28960525009,55,Why open a bottle?, Consume medicine.,1
+2135,55,R,,,,,2.42142495213,,,,,29,1,,5,90,0,2,1,4.29898514015,5,How to spread joy?, Get a job.,6
+2135,56,R,,,,,1.23761320784,,,,,38,1,,5,90,0,2,1,1.42002545855,54,How to achieve success?, Get a promotion.,6
+2135,57,L,,,,,1.77894900205,,,,,21,1,,5,90,0,2,1,1.42514280353,12,How to write a song?, Play piano.,4
+2135,58,L,,,,,1.16151372438,,,,,30,1,,5,90,0,2,1,1.91016889911,45,How to write a poem?, Grab a pencil.,4
+2135,59,R,,,,,1.99866685871,,,,,23,1,,5,90,0,2,1,1.33659989421,23,How to gain knowledge?, Read articles.,5
+2135,60,L,,,,,3.14883275315,,,,,22,1,,5,90,0,2,1,1.18043180879,48,How to give to charity?, Use a camera.,5

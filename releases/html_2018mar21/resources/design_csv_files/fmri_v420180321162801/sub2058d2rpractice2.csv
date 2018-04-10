@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2058,1,R,,,,,0.83424260831,,,,,35,1,,5,90,0,2,4,0.764832627435,0,Why show competence?, Pass the time.,3
+2058,2,L,,,,,1.03716178343,,,,,33,1,,5,90,0,2,4,0.916308314851,3,Why satisfy hunger?, Show an ability.,3
+2058,3,L,,,,,5.47507993824,,,,,29,1,,5,90,0,2,4,2.05582938517,2,How to make a list?, Throw away trash.,4
+2058,4,R,,,,,0.608129655884,,,,,24,1,,5,90,0,2,4,1.25084076973,1,How to make a phone call?, Dial numbers.,4

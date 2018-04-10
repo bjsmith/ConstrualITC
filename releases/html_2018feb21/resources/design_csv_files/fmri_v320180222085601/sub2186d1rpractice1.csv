@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2186,1,R,,,,,0.556744876865,,,,25,30,1,,9,,1,1,3,0.873732591835,11,Why take aspirin?, Serve alcohol.,1
+2186,2,L,,,,,1.64328223002,,,,25,30,1,,3,,1,1,3,2.22651323029,10,Why follow recipes?, Prepare meals.,1
+2186,3,R,,,,,2.70178437024,,,,25,30,1,,6,,1,1,3,0.564725439848,3,How to give a lecture?, Brush ones hair.,4
+2186,4,R,,,,,4.84602824821,,,,25,30,1,,2,,1,1,3,1.01333376106,2,How to dress formally?, Wear ties. ,4
+2186,5,R,,,,,1.07377265502,,,,25,30,1,,8,,1,1,3,0.667756496776,6,How to get a promotion?, Arrive on time.,5
+2186,6,L,,,,,4.1168483347,,,,25,30,1,,5,,1,1,3,0.721693602542,9,How to provide food?, Prepare meals.,5
+2186,7,L,,,,,0.664201151544,,,,25,30,1,,1,,1,1,3,0.74778673875,1,Why show intelligence?, Impress others.,3
+2186,8,R,,,,,1.37479308919,,,,25,30,1,,4,,1,1,3,0.98632605696,0,Why avoid diseases?, Live a long life.,3
+2186,9,L,,,,,1.86367106775,,,,25,30,1,,9,,1,1,3,1.31150649912,7,How to spread joy?, Get a job.,6
+2186,10,L,,,,,1.26742493297,,,,25,30,1,,4,,1,1,3,0.628658996886,8,How to feel well?, Reduce pain.,6
+2186,11,R,,,,,2.70910244402,,,,25,30,1,,2,,1,1,3,0.605490991936,4,Why clip coupons?, Save money.,2
+2186,12,L,,,,,0.996886816629,,,,25,30,1,,7,,1,1,3,1.58159320819,5,Why consume caffeine?, Stay alert.,2

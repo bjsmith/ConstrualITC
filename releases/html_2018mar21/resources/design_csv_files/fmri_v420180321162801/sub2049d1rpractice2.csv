@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2049,1,R,,,,,0.521156578344,,,,25,30,1,,5,,1,1,4,0.773863547597,1,How to satisfy hunger?, Make breakfast.,5
+2049,2,L,,,,,4.98305834678,,,,25,30,1,,9,,1,1,4,0.665982779499,3,How to get a promotion?, Arrive on time.,5
+2049,3,R,,,,,1.58376978901,,,,25,30,1,,3,,1,1,4,1.15135110093,6,Why share ideas?, Show intellect.,3
+2049,4,R,,,,,3.18305272894,,,,25,30,1,,7,,1,1,4,0.551595315545,5,Why finish a job?, Feel productive.,3
+2049,5,R,,,,,1.31050766238,,,,25,30,1,,8,,1,1,4,2.04692919232,2,Why throw away trash?, Make a list.,1
+2049,6,R,,,,,1.0192215951,,,,25,30,1,,1,,1,1,4,0.990013032408,11,Why turn a doorknob?, Enter a classroom.,1
+2049,7,L,,,,,2.52082820434,,,,25,30,1,,6,,1,1,4,0.749159825377,4,How to express a talent?, Entertain others.,6
+2049,8,L,,,,,1.53965741622,,,,25,30,1,,4,,1,1,4,0.635130854433,8,How to reduce worry?, Plan ahead.,6
+2049,9,L,,,,,2.88838088662,,,,25,30,1,,3,,1,1,4,0.62893953662,10,How to watch television?, Use a remote.,4
+2049,10,L,,,,,2.48208776953,,,,25,30,1,,2,,1,1,4,0.669787033892,7,How to take a picture?, Point a camera.,4
+2049,11,L,,,,,1.21039549725,,,,25,30,1,,4,,1,1,4,0.915709285562,9,Why write a poem?, Express an idea.,2
+2049,12,R,,,,,1.09435457495,,,,25,30,1,,8,,1,1,4,1.85266980096,0,Why enter a classroom?, Attend a school.,2

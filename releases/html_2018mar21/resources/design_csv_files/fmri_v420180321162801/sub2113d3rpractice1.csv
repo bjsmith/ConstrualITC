@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2113,1,R,,,,,1.45099307312,,,,,36,1,,5,90,0,3,3,0.862371683629,1,How to make a list?, Throw away trash.,4
+2113,2,L,,,,,4.62990319126,,,,,39,1,,5,90,0,3,3,1.2764924334,0,How to paint a picture?, Use a brush.,4
+2113,3,L,,,,,0.740796137703,,,,,21,1,,5,90,0,3,3,1.67770112427,2,Why crack eggs?, Make breakfast.,1
+2113,4,R,,,,,1.19609995183,,,,,23,1,,5,90,0,3,3,0.902341176741,3,Why point a camera?, Take a picture.,1

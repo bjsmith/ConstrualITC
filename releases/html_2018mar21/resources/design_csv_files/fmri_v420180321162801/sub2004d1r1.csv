@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2004,1,R,,,,,1.95839245446,,,,25,30,1,,3,,1,1,1,1.97710569092,34,Why drink wine?, Consume alcohol.,2
+2004,2,R,,,,,2.41665865167,,,,25,30,1,,6,,1,1,1,1.07545301721,43,Why lift weights?, Build muscles.,2
+2004,3,R,,,,,1.65079345029,,,,25,30,1,,7,,1,1,1,3.48157772217,25,How to mix a cocktail?, Stir ingredients.,4
+2004,4,L,,,,,3.24149347288,,,,25,30,1,,9,,1,1,1,3.54120061645,59,How to drink wine?, Open a bottle. ,4
+2004,5,L,,,,,1.20492167712,,,,25,30,1,,1,,1,1,1,1.52433312123,35,Why attend a school?, Get a degree.,3
+2004,6,R,,,,,1.78117357834,,,,25,30,1,,8,,1,1,1,3.83322840912,26,Why get a promotion?, Achieve success.,3
+2004,7,L,,,,,2.19939372792,,,,25,30,1,,5,,1,1,1,1.93768984812,23,How to save money?, Clip coupons.,5
+2004,8,R,,,,,1.59099969696,,,,25,30,1,,4,,1,1,1,2.67216146721,57,How to give to charity?, Use a camera.,5
+2004,9,L,,,,,1.49870867613,,,,25,30,1,,5,,1,1,1,1.79087688562,36,Why cut paper?, Clip coupons.,1
+2004,10,L,,,,,1.81138547806,,,,25,30,1,,7,,1,1,1,1.24683013087,53,Why clap hands?, Give applause.,1
+2004,11,L,,,,,1.82936596428,,,,25,30,1,,8,,1,1,1,1.75135921238,44,How to show an ability?, Satisfy hunger.,6
+2004,12,R,,,,,2.56414790745,,,,25,30,1,,2,,1,1,1,1.50666002545,6,How to show creativity?, Make art.,6
+2004,13,L,,,,,1.03655385507,,,,25,30,1,,9,,1,1,1,1.02644482031,3,How to paint a picture?, Use a brush.,4
+2004,14,R,,,,,2.81846979704,,,,25,30,1,,1,,1,1,1,1.12391623006,50,How to kill germs?, Wash ones hands.,4
+2004,15,R,,,,,3.10491380859,,,,25,30,1,,6,,1,1,1,1.6002852805,7,Why read articles?, Gain knowledge.,2
+2004,16,R,,,,,3.20559552237,,,,25,30,1,,3,,1,1,1,3.30442962712,21,Why give applause?, Show appreciation.,2
+2004,17,L,,,,,1.04365600144,,,,25,30,1,,9,,1,1,1,2.04335616663,49,How to spread knowledge?, Teach others.,6
+2004,18,L,,,,,1.54592469234,,,,25,30,1,,4,,1,1,1,1.09317877268,1,How to show cleanliness?, Write an email.,6
+2004,19,L,,,,,1.70452444197,,,,25,30,1,,2,,1,1,1,2.62612341862,51,How to contact a friend?, Make a phone call.,5
+2004,20,R,,,,,2.60478937033,,,,25,30,1,,6,,1,1,1,1.14305073347,14,How to show intelligence?, Participate in class.,5
+2004,21,L,,,,,1.86134359561,,,,25,30,1,,5,,1,1,1,1.14304119098,4,Why keep a memory?, Feel nostalgia.,3
+2004,22,L,,,,,1.99525979599,,,,25,30,1,,1,,1,1,1,3.21369883321,28,Why build muscles?, Show humility.,3
+2004,23,R,,,,,1.20018562108,,,,25,30,1,,8,,1,1,1,1.53847213276,16,Why sign ones name?, Write a check.,1
+2004,24,R,,,,,2.04615357821,,,,25,30,1,,3,,1,1,1,2.27024541805,22,Why throw away trash?, Make a list.,1
+2004,25,L,,,,,1.00190212921,,,,25,30,1,,1,,1,1,1,1.20929458255,29,How to plan ahead?, Make a list.,5
+2004,26,L,,,,,1.71469761551,,,,25,30,1,,2,,1,1,1,1.61050714678,52,How to show appreciation?, Give applause.,5
+2004,27,R,,,,,2.32840412415,,,,25,30,1,,6,,1,1,1,2.34624186614,33,How to dress formally?, Wear ties. ,4
+2004,28,L,,,,,2.74198713481,,,,25,30,1,,9,,1,1,1,1.89532774887,55,How to open a browser?, Click a mouse.,4
+2004,29,R,,,,,3.22862849591,,,,25,30,1,,4,,1,1,1,1.77072741562,56,Why use credit cards?, Go shopping.,1
+2004,30,R,,,,,1.82176817208,,,,25,30,1,,8,,1,1,1,3.53852641738,19,Why point a camera?, Take a picture.,1
+2004,31,L,,,,,1.56577306071,,,,25,30,1,,7,,1,1,1,2.42501654911,32,How to impress others?, Show intelligence.,6
+2004,32,R,,,,,1.38573981414,,,,25,30,1,,3,,1,1,1,1.39168735773,12,How to show intellect?, Share ideas.,6
+2004,33,R,,,,,2.45895607171,,,,25,30,1,,8,,1,1,1,1.35845650894,39,Why reduce pain?, Feel well.,3
+2004,34,L,,,,,2.79970756432,,,,25,30,1,,3,,1,1,1,1.15387305903,20,Why avoid diseases?, Live a long life.,3
+2004,35,L,,,,,1.28127483301,,,,25,30,1,,2,,1,1,1,1.93112794191,42,Why make breakfast?, Satisfy hunger.,2
+2004,36,R,,,,,2.64449505534,,,,25,30,1,,6,,1,1,1,1.94613337767,10,Why write a song?, Seek advice.,2
+2004,37,L,,,,,1.05630669052,,,,25,30,1,,9,,1,1,1,1.03752379044,47,Why open a bottle?, Consume medicine.,1
+2004,38,R,,,,,2.77990597593,,,,25,30,1,,5,,1,1,1,2.77267976477,0,Why take aspirin?, Serve alcohol.,1
+2004,39,L,,,,,1.53632945046,,,,25,30,1,,4,,1,1,1,2.38891067036,30,Why show courtesy?, Make a friend.,3
+2004,40,R,,,,,2.46522767836,,,,25,30,1,,7,,1,1,1,1.05579918131,15,Why write an email?, Send a message.,3
+2004,41,R,,,,,2.51682168486,,,,25,30,1,,6,,1,1,1,2.78730995817,58,Why clip coupons?, Save money.,2
+2004,42,L,,,,,1.61132121997,,,,25,30,1,,3,,1,1,1,1.91952512351,11,Why teach a class?, Obey laws.,2
+2004,43,R,,,,,1.01899124205,,,,25,30,1,,2,,1,1,1,2.78881773422,54,How to improve oneself?, Gain knowledge.,6
+2004,44,R,,,,,4.12834391523,,,,25,30,1,,5,,1,1,1,1.10159048426,5,How to satisfy a need?, Make a purchase.,6
+2004,45,L,,,,,2.97138607503,,,,25,30,1,,1,,1,1,1,1.87312783087,37,How to go shopping?, Use credit cards.,4
+2004,46,L,,,,,1.1638041842,,,,25,30,1,,8,,1,1,1,1.6744289276,45,How to give a lecture?, Brush ones hair.,4
+2004,47,L,,,,,1.20877388799,,,,25,30,1,,4,,1,1,1,3.40260398742,31,How to entertain oneself?, Watch television.,5
+2004,48,R,,,,,1.63176881799,,,,25,30,1,,7,,1,1,1,1.31548610113,40,How to build muscles?, Lift weights.,5
+2004,49,L,,,,,2.53175547664,,,,25,30,1,,2,,1,1,1,1.97350854028,17,Why entertain others?, Express a talent.,3
+2004,50,L,,,,,1.09075858054,,,,25,30,1,,9,,1,1,1,1.03930967004,38,Why show appreciation?, Spread joy.,3
+2004,51,R,,,,,1.75093720026,,,,25,30,1,,8,,1,1,1,2.17259501174,9,Why make a phone call?, Contact a friend.,2
+2004,52,L,,,,,1.6115232704,,,,25,30,1,,6,,1,1,1,1.66875692147,8,Why consume medicine?, Reduce pain.,2
+2004,53,R,,,,,1.72155706633,,,,25,30,1,,5,,1,1,1,2.4751141721,2,How to satisfy hunger?, Make breakfast.,5
+2004,54,R,,,,,1.50011977623,,,,25,30,1,,1,,1,1,1,2.78595834162,13,How to entertain others?, Write a song.,5
+2004,55,L,,,,,1.69085109379,,,,25,30,1,,4,,1,1,1,2.02394175822,18,Why use a remote?, Watch television.,1
+2004,56,L,,,,,1.27957733156,,,,25,30,1,,7,,1,1,1,5.14137148144,48,Why use chalk?, Get fit.,1
+2004,57,R,,,,,2.67424714569,,,,25,30,1,,2,,1,1,1,1.25708512251,24,How to make breakfast?, Crack eggs.,4
+2004,58,L,,,,,1.21315160922,,,,25,30,1,,1,,1,1,1,1.8532864496,46,How to make a phone call?, Dial numbers.,4
+2004,59,R,,,,,4.31173609661,,,,25,30,1,,6,,1,1,1,1.42984714558,41,How to show humility?, Build muscles.,6
+2004,60,R,,,,,1.65344780633,,,,25,30,1,,8,,1,1,1,1.38774090528,27,How to reduce worry?, Plan ahead.,6

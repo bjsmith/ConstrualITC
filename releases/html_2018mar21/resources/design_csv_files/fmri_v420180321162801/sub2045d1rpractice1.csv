@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2045,1,L,,,,,1.51182290489,,,,,38,1,,5,90,0,1,3,0.669759746268,2,Why throw away trash?, Make a list.,1
+2045,2,L,,,,,1.05064944423,,,,,23,1,,5,90,0,1,3,0.803699309113,11,Why wear ties?, Dress formally.,1
+2045,3,L,,,,,1.18776636725,,,,,20,1,,5,90,0,1,3,1.99127581349,8,How to lift weights?, Fasten seatbelt.,4
+2045,4,R,,,,,2.41522886567,,,,,34,1,,5,90,0,1,3,0.551703072993,3,How to watch television?, Use a remote.,4
+2045,5,R,,,,,3.37720176781,,,,,27,1,,5,90,0,1,3,0.534659325831,5,Why give to charity?, Support a cause.,3
+2045,6,L,,,,,1.39299773287,,,,,26,1,,5,90,0,1,3,1.83290344443,0,Why finish a job?, Feel productive.,3
+2045,7,R,,,,,1.20819998438,,,,,31,1,,5,90,0,1,3,1.05473648454,7,Why drink wine?, Consume alcohol.,2
+2045,8,L,,,,,1.75248533454,,,,,35,1,,5,90,0,1,3,0.558316028674,4,Why teach a class?, Obey laws.,2
+2045,9,R,,,,,3.26309386575,,,,,29,1,,5,90,0,1,3,1.18324011567,9,How to make art?, Paint a picture.,5
+2045,10,L,,,,,3.15890749216,,,,,28,1,,5,90,0,1,3,0.563472577723,6,How to save money?, Clip coupons.,5
+2045,11,R,,,,,1.44462293699,,,,,32,1,,5,90,0,1,3,1.75953700991,10,How to improve oneself?, Gain knowledge.,6
+2045,12,R,,,,,3.03036087338,,,,,21,1,,5,90,0,1,3,1.06534093426,1,How to show an ability?, Satisfy hunger.,6

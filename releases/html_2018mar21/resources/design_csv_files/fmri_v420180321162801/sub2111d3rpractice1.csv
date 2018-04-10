@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2111,1,R,,,,,1.0407636081,,,,,28,1,,5,90,0,3,3,0.878632800981,3,Why raise a hand?, Participate in class.,1
+2111,2,R,,,,,1.77927411755,,,,,36,1,,5,90,0,3,3,0.730370567609,1,Why use a brush?, Paint a picture.,1
+2111,3,L,,,,,3.86349898459,,,,,24,1,,5,90,0,3,3,0.630641098555,2,Why clip coupons?, Save money.,2
+2111,4,L,,,,,1.18898878731,,,,,29,1,,5,90,0,3,3,0.914808576311,0,Why go shopping?, Make a purchase.,2

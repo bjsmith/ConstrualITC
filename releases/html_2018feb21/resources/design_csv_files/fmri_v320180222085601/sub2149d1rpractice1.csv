@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2149,1,L,,,,,0.675885739022,,,,,33,1,,5,90,0,1,3,0.708362798235,11,Why write a poem?, Express an idea.,2
+2149,2,L,,,,,3.03477516358,,,,,39,1,,5,90,0,1,3,0.633752641805,6,Why consume medicine?, Reduce pain.,2
+2149,3,L,,,,,3.0600784944,,,,,22,1,,5,90,0,1,3,1.5163382751,7,How to write an email?, Open a browser.,5
+2149,4,R,,,,,2.11895944675,,,,,29,1,,5,90,0,1,3,0.683857804792,3,How to provide food?, Prepare meals.,5
+2149,5,R,,,,,2.00565017135,,,,,38,1,,5,90,0,1,3,0.711831776437,4,How to paint a picture?, Use a brush.,4
+2149,6,R,,,,,3.23406654831,,,,,21,1,,5,90,0,1,3,0.950268370411,8,How to give applause?, Clap hands.,4
+2149,7,L,,,,,1.72758403399,,,,,24,1,,5,90,0,1,3,0.786805033477,5,Why throw away trash?, Make a list.,1
+2149,8,R,,,,,3.69759481668,,,,,36,1,,5,90,0,1,3,0.928674191645,10,Why use chalk?, Get fit.,1
+2149,9,R,,,,,0.500568915187,,,,,26,1,,5,90,0,1,3,0.553265351276,0,How to get a degree?, Attend a school.,6
+2149,10,L,,,,,1.36424922674,,,,,37,1,,5,90,0,1,3,1.58741938526,1,How to feel sociable?, Hold a party.,6
+2149,11,L,,,,,0.628341460913,,,,,32,1,,5,90,0,1,3,1.24367070159,9,Why make art?, Show creativity.,3
+2149,12,R,,,,,2.44455193002,,,,,27,1,,5,90,0,1,3,1.00721631128,2,Why contact a friend?, Feel connected.,3

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2004,1,1,,,,,1.49102134604,,,,,39,1,,5,90,0,1,4,1.29321687039,0,Why turn a doorknob?, Enter a classroom.,1
+2004,2,1,,,,,0.909019501439,,,,,22,1,,5,90,0,1,4,3.70237333706,0,Why clap hands?, Give applause.,1
+2004,3,2,,,,,2.39114493751,,,,,25,1,,5,90,0,1,4,2.2473939999,0,How to gain knowledge?, Read articles.,5
+2004,4,2,,,,,3.79724961122,,,,,33,1,,5,90,0,1,4,0.973886054361,0,How to make a purchase?, Go shopping.,5
+2004,5,1,,,,,1.45751030993,,,,,30,1,,5,90,0,1,4,2.08217765317,0,Why go shopping?, Make a purchase.,2
+2004,6,2,,,,,1.66873409511,,,,,31,1,,5,90,0,1,4,1.58007524475,0,Why enter a classroom?, Attend a school.,2
+2004,7,2,,,,,0.60679083105,,,,,26,1,,5,90,0,1,4,0.852213388007,1,Why reduce pain?, Feel well.,3
+2004,8,1,,,,,0.739019706452,,,,,35,1,,5,90,0,1,4,1.08170206142,0,Why entertain others?, Express a talent.,3
+2004,9,2,,,,,1.73452017954,,,,,37,1,,5,90,0,1,4,3.25000556696,0,How to feel productive?, Finish a job.,6
+2004,10,2,,,,,6.26797620812,,,,,20,1,,5,90,0,1,4,0.999840839034,0,How to avoid mistakes?, Obey laws.,6
+2004,11,1,,,,,1.73180950961,,,,,36,1,,5,90,0,1,4,3.47764796677,0,How to open a browser?, Click a mouse.,4
+2004,12,1,,,,,1.52130162607,,,,,21,1,,5,90,0,1,4,2.24969188642,0,How to make a phone call?, Dial numbers.,4

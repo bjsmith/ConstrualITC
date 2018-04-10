@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2058,1,R,,,,,0.781409226897,,,,,33,1,,5,90,0,3,4,1.23688936401,3,Why dial numbers?, Make a phone call.,1
+2058,2,L,,,,,0.98094160659,,,,,27,1,,5,90,0,3,4,0.664641463246,1,Why wash ones hands?, Kill germs.,1
+2058,3,R,,,,,1.65120596593,,,,,34,1,,5,90,0,3,4,0.937984623332,2,How to make a donation?, Mix a cocktail.,5
+2058,4,L,,,,,4.79586666194,,,,,25,1,,5,90,0,3,4,0.818759771682,0,How to reduce pain?, Consume medicine.,5

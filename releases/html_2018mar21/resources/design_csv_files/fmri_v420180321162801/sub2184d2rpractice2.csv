@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2184,1,L,,,,,1.84174641212,,,,,35,1,,5,90,0,2,4,2.00155235214,2,Why sign ones name?, Write a check.,1
+2184,2,L,,,,,0.72139086698,,,,,37,1,,5,90,0,2,4,0.926970377111,1,Why raise a hand?, Participate in class.,1
+2184,3,R,,,,,4.75394336042,,,,,23,1,,5,90,0,2,4,1.19191161178,0,How to make art?, Paint a picture.,5
+2184,4,R,,,,,0.83374041983,,,,,30,1,,5,90,0,2,4,0.658625821796,3,How to reduce pain?, Consume medicine.,5

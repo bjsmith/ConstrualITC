@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2022,1,1,,,,,2.96110377079,,,,25,30,1,,2,,1,3,1,1.40467359395,0,Why open a magazine?, Read articles.,1
+2022,2,2,,,,,1.23734713525,,,,25,30,1,,1,,1,3,1,3.11669309209,0,Why wear ties?, Dress formally.,1
+2022,3,2,,,,,2.37605747552,,,,25,30,1,,7,,1,3,1,1.28894356518,0,Why clip coupons?, Save money.,2
+2022,4,2,,,,,2.08945831105,,,,25,30,1,,9,,1,3,1,1.31641819042,0,Why kill germs?, Avoid diseases.,2
+2022,5,2,,,,,3.06893021543,,,,25,30,1,,8,,1,3,1,5.38128661465,0,How to feel secure?, Save money.,6
+2022,6,2,,,,,1.84399129526,,,,25,30,1,,3,,1,3,1,1.47006004454,0,How to impress others?, Show intelligence.,6
+2022,7,2,,,,,1.0962619156,,,,25,30,1,,5,,1,3,1,2.25488902851,0,How to participate in class?, Raise a hand.,4
+2022,8,1,,,,,1.80339395305,,,,25,30,1,,6,,1,3,1,1.31815085192,0,How to open a browser?, Click a mouse.,4
+2022,9,1,,,,,1.97503757376,,,,25,30,1,,9,,1,3,1,2.56343937983,0,Why save money?, Get fit.,3
+2022,10,2,,,,,1.54636723587,,,,25,30,1,,3,,1,3,1,1.04080025244,0,Why show appreciation?, Spread joy.,3
+2022,11,2,,,,,1.48692005866,,,,25,30,1,,6,,1,3,1,1.09398582784,0,How to entertain others?, Write a song.,5
+2022,12,2,,,,,1.67246554007,,,,25,30,1,,2,,1,3,1,1.84172100373,0,How to make a purchase?, Go shopping.,5
+2022,13,2,,,,,1.81723454306,,,,25,30,1,,1,,1,3,1,3.47548963983,0,How to show cleanliness?, Write an email.,6
+2022,14,2,,,,,2.00073903709,,,,25,30,1,,7,,1,3,1,1.52975655947,0,How to get a degree?, Attend a school.,6
+2022,15,2,,,,,1.00744462751,,,,25,30,1,,5,,1,3,1,1.96249746194,0,Why participate in class?, Show intelligence.,2
+2022,16,2,,,,,1.26122922307,,,,25,30,1,,8,,1,3,1,1.65115626866,0,Why give a lecture?, Teach others.,2
+2022,17,1,,,,,1.79226301212,,,,25,30,1,,9,,1,3,1,2.43265531206,0,How to reduce pain?, Consume medicine.,5
+2022,18,1,,,,,2.64283948551,,,,25,30,1,,1,,1,3,1,1.04681022349,0,How to consume alcohol?, Drink wine.,5
+2022,19,1,,,,,2.38440757733,,,,25,30,1,,3,,1,3,1,1.14060879568,0,How to go shopping?, Use credit cards.,4
+2022,20,1,,,,,1.18450066457,,,,25,30,1,,5,,1,3,1,3.75376608155,0,How to watch television?, Use a remote.,4
+2022,21,1,,,,,2.0794617402,,,,25,30,1,,4,,1,3,1,2.88103365944,0,Why use credit cards?, Go shopping.,1
+2022,22,1,,,,,3.58755484093,,,,25,30,1,,7,,1,3,1,1.29195778074,0,Why use a remote?, Watch television.,1
+2022,23,1,,,,,1.64570697234,,,,25,30,1,,6,,1,3,1,1.68688450485,0,Why hold a party?, Feel sociable.,3
+2022,24,1,,,,,1.70034632468,,,,25,30,1,,8,,1,3,1,3.44454600313,0,Why finish a job?, Feel productive.,3
+2022,25,1,,,,,1.2695727656,,,,25,30,1,,5,,1,3,1,1.07460873575,0,Why open a browser?, Write an email.,2
+2022,26,2,,,,,1.40417315776,,,,25,30,1,,8,,1,3,1,3.11412189205,0,Why write a song?, Seek advice.,2
+2022,27,1,,,,,2.2829017172,,,,25,30,1,,4,,1,3,1,1.62110272498,0,Why dial numbers?, Make a phone call.,1
+2022,28,1,,,,,1.10711075423,,,,25,30,1,,1,,1,3,1,2.91550193624,1,Why sign ones name?, Write a check.,1
+2022,29,1,,,,,1.20983941939,,,,25,30,1,,6,,1,3,1,1.06118269087,0,How to show an ability?, Satisfy hunger.,6
+2022,30,1,,,,,2.74649019147,,,,25,30,1,,2,,1,3,1,1.10552886399,0,How to feel sociable?, Hold a party.,6
+2022,31,1,,,,,2.16057403853,,,,25,30,1,,7,,1,3,1,1.28516269951,0,How to show ambition?, Serve alcohol.,5
+2022,32,2,,,,,1.24068280331,,,,25,30,1,,9,,1,3,1,1.14586593631,0,How to satisfy hunger?, Make breakfast.,5
+2022,33,2,,,,,1.46112313404,,,,25,30,1,,3,,1,3,1,2.08188065342,0,Why make art?, Show creativity.,3
+2022,34,2,,,,,1.32504162563,,,,25,30,1,,7,,1,3,1,2.70631599799,0,Why entertain others?, Express a talent.,3
+2022,35,1,,,,,3.44082285051,,,,25,30,1,,4,,1,3,1,1.46654231227,0,How to dress formally?, Wear ties. ,4
+2022,36,2,,,,,5.22186961991,,,,25,30,1,,9,,1,3,1,1.06050201986,0,How to write a check?, Sign ones name.,4

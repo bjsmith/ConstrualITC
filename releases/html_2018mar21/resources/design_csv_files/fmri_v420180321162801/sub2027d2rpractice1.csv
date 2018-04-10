@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2027,1,L,,,,,2.23756010557,,,,,22,1,,5,90,0,2,3,1.43865207618,0,Why use a camera?, Give to charity.,2
+2027,2,R,,,,,1.50771456771,,,,,35,1,,5,90,0,2,3,0.956993678247,1,Why watch television?, Show competence.,2
+2027,3,L,,,,,1.28197415903,,,,,38,1,,5,90,0,2,3,0.920933104954,3,How to avoid boredom?, Entertain oneself.,6
+2027,4,R,,,,,3.28352564246,,,,,21,1,,5,90,0,2,3,0.700961022332,2,How to achieve success?, Get a promotion.,6

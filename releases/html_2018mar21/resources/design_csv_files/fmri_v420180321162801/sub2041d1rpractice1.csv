@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2041,1,L,,,,,1.21240300706,,,,,33,1,,5,90,0,1,3,0.879682201012,1,Why plan ahead?, Reduce worry.,3
+2041,2,L,,,,,1.44090050203,,,,,20,1,,5,90,0,1,3,0.570061938339,8,Why show appreciation?, Spread joy.,3
+2041,3,R,,,,,1.11788581152,,,,,36,1,,5,90,0,1,3,0.674597466666,3,How to show ambition?, Serve alcohol.,5
+2041,4,R,,,,,1.34734576246,,,,,32,1,,5,90,0,1,3,0.567027831416,9,How to plan ahead?, Make a list.,5
+2041,5,R,,,,,4.81890761732,,,,,34,1,,5,90,0,1,3,1.50537851542,2,Why use a remote?, Watch television.,1
+2041,6,R,,,,,1.99515379618,,,,,38,1,,5,90,0,1,3,0.587971014025,4,Why cut paper?, Clip coupons.,1
+2041,7,L,,,,,2.20913412523,,,,,31,1,,5,90,0,1,3,1.26466043935,0,How to participate in class?, Raise a hand.,4
+2041,8,L,,,,,0.810380127375,,,,,39,1,,5,90,0,1,3,0.536728773476,11,How to dress formally?, Wear ties. ,4
+2041,9,L,,,,,1.09200781253,,,,,29,1,,5,90,0,1,3,1.90644867521,5,Why lift weights?, Build muscles.,2
+2041,10,R,,,,,3.14447578192,,,,,27,1,,5,90,0,1,3,0.5119363657,6,Why open a browser?, Write an email.,2
+2041,11,L,,,,,2.37707412906,,,,,28,1,,5,90,0,1,3,1.39759896769,10,How to satisfy a need?, Make a purchase.,6
+2041,12,R,,,,,1.76157110633,,,,,24,1,,5,90,0,1,3,0.621592921277,7,How to spread knowledge?, Teach others.,6

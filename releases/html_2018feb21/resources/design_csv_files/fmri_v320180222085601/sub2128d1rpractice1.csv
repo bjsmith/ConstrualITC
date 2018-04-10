@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2128,1,L,,,,,0.840218128022,,,,25,30,1,,8,,1,1,3,0.603418340278,7,Why use a brush?, Paint a picture.,1
+2128,2,L,,,,,2.08216592352,,,,25,30,1,,3,,1,1,3,0.652709194141,1,Why raise a hand?, Participate in class.,1
+2128,3,R,,,,,1.78204498514,,,,25,30,1,,9,,1,1,3,0.826206773436,2,How to consume alcohol?, Drink wine.,5
+2128,4,R,,,,,1.52256655424,,,,25,30,1,,6,,1,1,3,1.01449278798,6,How to write an email?, Open a browser.,5
+2128,5,L,,,,,1.53735787241,,,,25,30,1,,2,,1,1,3,1.21823940065,5,How to avoid boredom?, Entertain oneself.,6
+2128,6,R,,,,,1.43840110729,,,,25,30,1,,1,,1,1,3,1.63670766697,8,How to feel sociable?, Hold a party.,6
+2128,7,L,,,,,5.84054813458,,,,25,30,1,,7,,1,1,3,1.08795777298,0,Why finish a job?, Feel productive.,3
+2128,8,R,,,,,0.625759934272,,,,25,30,1,,4,,1,1,3,0.657191695917,11,Why make a purchase?, Satisfy a need.,3
+2128,9,L,,,,,2.59796734543,,,,25,30,1,,5,,1,1,3,0.767410718271,9,How to make a list?, Throw away trash.,4
+2128,10,L,,,,,2.49937817427,,,,25,30,1,,3,,1,1,3,0.982656676024,4,How to prepare meals?, Follow recipes.,4
+2128,11,R,,,,,1.95817150851,,,,25,30,1,,9,,1,1,3,1.30520739943,3,Why make a list?, Plan ahead.,2
+2128,12,R,,,,,2.02270940643,,,,25,30,1,,8,,1,1,3,1.27652471659,10,Why consume medicine?, Reduce pain.,2

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2142,1,R,,,,,6.13633851031,,,,25,30,1,,2,,1,1,3,1.73059813996,8,How to support a cause?, Give to charity.,6
+2142,2,L,,,,,1.49848748528,,,,25,30,1,,6,,1,1,3,1.08966602864,7,How to feel sociable?, Hold a party.,6
+2142,3,L,,,,,0.715638057118,,,,25,30,1,,5,,1,1,3,0.559504052712,9,Why take aspirin?, Serve alcohol.,1
+2142,4,R,,,,,5.35187238634,,,,25,30,1,,1,,1,1,3,0.736671702988,10,Why throw away trash?, Make a list.,1
+2142,5,R,,,,,0.90996091506,,,,25,30,1,,7,,1,1,3,1.81128385292,1,How to watch television?, Use a remote.,4
+2142,6,R,,,,,0.562957721363,,,,25,30,1,,8,,1,1,3,0.531495507862,3,How to write a check?, Sign ones name.,4
+2142,7,L,,,,,2.35450778361,,,,25,30,1,,9,,1,1,3,0.906342454046,0,Why show appreciation?, Spread joy.,3
+2142,8,R,,,,,1.57843609242,,,,25,30,1,,4,,1,1,3,1.75275296374,4,Why finish a job?, Feel productive.,3
+2142,9,L,,,,,1.9380794191,,,,25,30,1,,2,,1,1,3,0.66150878868,11,Why clip coupons?, Save money.,2
+2142,10,L,,,,,1.85170053995,,,,25,30,1,,3,,1,1,3,0.574252385841,6,Why dress formally?, Get a promotion.,2
+2142,11,L,,,,,0.83107690068,,,,25,30,1,,1,,1,1,3,0.73585074721,5,How to attend a school?, Enter a classroom.,5
+2142,12,R,,,,,0.953374943322,,,,25,30,1,,8,,1,1,3,0.942809781775,2,How to show appreciation?, Give applause.,5

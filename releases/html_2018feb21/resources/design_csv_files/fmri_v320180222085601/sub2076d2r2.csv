@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2076,1,L,,,,,1.97675309625,,,,,27,1,,5,90,0,2,2,1.5752070804,52,Why write an email?, Send a message.,3
+2076,2,R,,,,,1.24042936749,,,,,39,1,,5,90,0,2,2,1.84569756528,3,Why keep a memory?, Feel nostalgia.,3
+2076,3,R,,,,,5.4473159468,,,,,29,1,,5,90,0,2,2,1.22041367056,38,Why throw away trash?, Make a list.,1
+2076,4,R,,,,,1.29002375109,,,,,20,1,,5,90,0,2,2,4.35362024752,34,Why lift a glass?, Drink wine.,1
+2076,5,L,,,,,1.11002047674,,,,,33,1,,5,90,0,2,2,1.69406981949,49,How to consume alcohol?, Drink wine.,5
+2076,6,L,,,,,1.1997164789,,,,,23,1,,5,90,0,2,2,2.23429637242,46,How to make art?, Paint a picture.,5
+2076,7,L,,,,,1.12101294461,,,,,35,1,,5,90,0,2,2,1.01494929109,2,Why enter a classroom?, Attend a school.,2
+2076,8,R,,,,,3.59726123335,,,,,24,1,,5,90,0,2,2,2.36514871174,42,Why lift weights?, Build muscles.,2
+2076,9,L,,,,,4.06930276815,,,,,37,1,,5,90,0,2,2,1.60545015881,51,How to lift weights?, Fasten seatbelt.,4
+2076,10,L,,,,,1.15010197899,,,,,26,1,,5,90,0,2,2,1.37464952743,35,How to consume medicine?, Take pills. ,4
+2076,11,L,,,,,2.35670383024,,,,,30,1,,5,90,0,2,2,3.98951890952,29,How to show intellect?, Share ideas.,6
+2076,12,R,,,,,1.1208320255,,,,,21,1,,5,90,0,2,2,1.58849537741,22,How to express a talent?, Entertain others.,6
+2076,13,R,,,,,3.80347557297,,,,,22,1,,5,90,0,2,2,1.36131137974,21,How to save money?, Clip coupons.,5
+2076,14,L,,,,,2.25335791832,,,,,36,1,,5,90,0,2,2,1.18833790275,33,How to get a promotion?, Arrive on time.,5
+2076,15,L,,,,,1.35410920506,,,,,34,1,,5,90,0,2,2,1.3263671702,50,Why participate in class?, Show intelligence.,2
+2076,16,R,,,,,1.08827093815,,,,,28,1,,5,90,0,2,2,1.76150410995,9,Why write a song?, Seek advice.,2
+2076,17,L,,,,,2.30473951559,,,,,25,1,,5,90,0,2,2,3.57446829588,43,How to dress formally?, Wear ties. ,4
+2076,18,R,,,,,1.80946641431,,,,,31,1,,5,90,0,2,2,2.37682024904,39,How to read articles?, Open a magazine.,4
+2076,19,R,,,,,1.8495688301,,,,,40,1,,5,90,0,2,2,3.70446265134,1,How to feel productive?, Finish a job.,6
+2076,20,L,,,,,2.15602606726,,,,,38,1,,5,90,0,2,2,2.04327510378,54,How to support a cause?, Give to charity.,6
+2076,21,L,,,,,1.56489826068,,,,,21,1,,5,90,0,2,2,1.02847341408,16,Why contact a friend?, Feel connected.,3
+2076,22,R,,,,,1.06315036932,,,,,39,1,,5,90,0,2,2,1.57258067773,30,Why hold a party?, Feel sociable.,3
+2076,23,R,,,,,1.14715556662,,,,,28,1,,5,90,0,2,2,1.27283156211,25,Why stir ingredients?, Mix a cocktail.,1
+2076,24,R,,,,,1.58197526097,,,,,27,1,,5,90,0,2,2,2.71788307233,56,Why use credit cards?, Go shopping.,1
+2076,25,L,,,,,2.70446857394,,,,,25,1,,5,90,0,2,2,4.14677324731,28,How to spread knowledge?, Teach others.,6
+2076,26,L,,,,,1.16715299914,,,,,35,1,,5,90,0,2,2,1.96766842961,24,How to feel nostalgia?, Keep a memory.,6
+2076,27,R,,,,,2.34375515522,,,,,29,1,,5,90,0,2,2,1.87094912136,32,Why save money?, Get fit.,3
+2076,28,L,,,,,2.71975916115,,,,,34,1,,5,90,0,2,2,1.27859467143,48,Why build muscles?, Show humility.,3
+2076,29,R,,,,,2.43102317249,,,,,24,1,,5,90,0,2,2,1.06683675576,6,Why sign ones name?, Write a check.,1
+2076,30,R,,,,,1.21621469935,,,,,30,1,,5,90,0,2,2,1.22440814131,55,Why take aspirin?, Serve alcohol.,1
+2076,31,R,,,,,2.51608520002,,,,,26,1,,5,90,0,2,2,2.16314018987,0,Why dress formally?, Get a promotion.,2
+2076,32,L,,,,,2.20908719235,,,,,37,1,,5,90,0,2,2,1.02669867888,17,Why paint a picture?, Make art.,2
+2076,33,L,,,,,2.3240536992,,,,,38,1,,5,90,0,2,2,1.76886525152,59,How to make a phone call?, Dial numbers.,4
+2076,34,R,,,,,1.5094976317,,,,,36,1,,5,90,0,2,2,1.1854227457,37,How to open a browser?, Click a mouse.,4
+2076,35,R,,,,,1.24720251508,,,,,40,1,,5,90,0,2,2,1.54163076164,58,How to express doubt?, Use scissors.,5
+2076,36,L,,,,,1.04566877888,,,,,31,1,,5,90,0,2,2,3.63050361592,15,How to build muscles?, Lift weights.,5
+2076,37,R,,,,,2.00953653755,,,,,23,1,,5,90,0,2,2,4.17277778929,13,Why give to charity?, Support a cause.,3
+2076,38,R,,,,,3.12681083074,,,,,22,1,,5,90,0,2,2,1.5383949188,12,Why show courtesy?, Make a friend.,3
+2076,39,R,,,,,3.23972601334,,,,,20,1,,5,90,0,2,2,1.71736441785,4,How to consume caffeine?, Press buttons.,4
+2076,40,L,,,,,1.40178591357,,,,,33,1,,5,90,0,2,2,1.32101243591,10,How to go shopping?, Use credit cards.,4
+2076,41,L,,,,,1.72190564047,,,,,29,1,,5,90,0,2,2,1.91015854954,53,How to give to charity?, Use a camera.,5
+2076,42,L,,,,,2.15969738342,,,,,30,1,,5,90,0,2,2,2.61045500347,20,How to entertain oneself?, Watch television.,5
+2076,43,L,,,,,1.25642799758,,,,,27,1,,5,90,0,2,2,1.6135156721,45,Why make a list?, Plan ahead.,2
+2076,44,R,,,,,1.06197392977,,,,,25,1,,5,90,0,2,2,1.01226186082,31,Why consume medicine?, Reduce pain.,2
+2076,45,R,,,,,2.57026546608,,,,,32,1,,5,90,0,2,2,2.3207972329,14,How to improve oneself?, Gain knowledge.,6
+2076,46,L,,,,,2.0965893636,,,,,34,1,,5,90,0,2,2,2.17944706398,8,How to feel secure?, Save money.,6
+2076,47,R,,,,,2.03161811043,,,,,38,1,,5,90,0,2,2,1.43192572186,11,Why crack eggs?, Make breakfast.,1
+2076,48,L,,,,,1.76666959768,,,,,22,1,,5,90,0,2,2,1.56058130651,23,Why open a magazine?, Read articles.,1
+2076,49,R,,,,,1.29954542834,,,,,37,1,,5,90,0,2,2,1.04140630782,26,How to gain knowledge?, Read articles.,5
+2076,50,R,,,,,3.13883063985,,,,,20,1,,5,90,0,2,2,3.57881789307,57,How to show ambition?, Serve alcohol.,5
+2076,51,L,,,,,1.36833433355,,,,,40,1,,5,90,0,2,2,4.21687738924,5,How to show cleanliness?, Write an email.,6
+2076,52,L,,,,,2.82461730229,,,,,36,1,,5,90,0,2,2,1.39220239949,7,How to reduce worry?, Plan ahead.,6
+2076,53,L,,,,,1.90099574836,,,,,35,1,,5,90,0,2,2,1.07908541867,36,Why open a bottle?, Consume medicine.,1
+2076,54,R,,,,,1.41334579538,,,,,28,1,,5,90,0,2,2,1.97602581799,40,Why point a camera?, Take a picture.,1
+2076,55,R,,,,,1.34032176165,,,,,23,1,,5,90,0,2,2,1.79104553514,19,Why kill germs?, Avoid diseases.,2
+2076,56,R,,,,,1.37562171409,,,,,24,1,,5,90,0,2,2,1.49220046492,47,Why drink wine?, Consume alcohol.,2
+2076,57,L,,,,,2.15505953706,,,,,26,1,,5,90,0,2,2,1.3231029932,41,How to mix a cocktail?, Stir ingredients.,4
+2076,58,L,,,,,3.96909645073,,,,,39,1,,5,90,0,2,2,1.85151882829,44,How to write a check?, Sign ones name.,4
+2076,59,L,,,,,1.7652396113,,,,,33,1,,5,90,0,2,2,2.64443835586,18,Why plan ahead?, Reduce worry.,3
+2076,60,R,,,,,1.55617229973,,,,,21,1,,5,90,0,2,2,2.5308580919,27,Why finish a job?, Feel productive.,3

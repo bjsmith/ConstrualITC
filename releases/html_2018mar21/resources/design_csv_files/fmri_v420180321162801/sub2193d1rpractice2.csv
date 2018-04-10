@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2193,1,L,,,,,4.17786683735,,,,25,30,1,,7,,1,1,4,0.91139173898,6,Why write a song?, Seek advice.,2
+2193,2,R,,,,,1.7505822944,,,,25,30,1,,5,,1,1,4,0.855813594471,2,Why enter a classroom?, Attend a school.,2
+2193,3,L,,,,,1.51371791006,,,,25,30,1,,3,,1,1,4,1.30943627085,11,Why write an email?, Send a message.,3
+2193,4,R,,,,,0.673947505463,,,,25,30,1,,9,,1,1,4,0.612591294592,7,Why gain knowledge?, Improve oneself.,3
+2193,5,L,,,,,1.65241585586,,,,25,30,1,,6,,1,1,4,1.78394024111,9,How to entertain oneself?, Watch television.,5
+2193,6,L,,,,,0.736565456858,,,,25,30,1,,8,,1,1,4,1.40276729766,1,How to avoid diseases?, Kill germs.,5
+2193,7,R,,,,,1.33739193075,,,,25,30,1,,4,,1,1,4,0.521197438702,5,Why crack eggs?, Make breakfast.,1
+2193,8,L,,,,,4.2425050367,,,,25,30,1,,2,,1,1,4,1.27481401478,3,Why wear ties?, Dress formally.,1
+2193,9,R,,,,,2.35000933853,,,,25,30,1,,3,,1,1,4,1.56908074179,0,How to read articles?, Open a magazine.,4
+2193,10,R,,,,,0.752468358969,,,,25,30,1,,7,,1,1,4,0.659912080967,10,How to write a check?, Sign ones name.,4
+2193,11,L,,,,,1.26915105158,,,,25,30,1,,1,,1,1,4,1.19959035186,4,How to show cleanliness?, Write an email.,6
+2193,12,R,,,,,2.65386394529,,,,25,30,1,,8,,1,1,4,0.759446213934,8,How to feel sociable?, Hold a party.,6

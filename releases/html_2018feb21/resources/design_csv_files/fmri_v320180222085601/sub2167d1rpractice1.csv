@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2167,1,R,,,,,1.82308762372,,,,,28,1,,5,90,0,1,3,1.06116076552,0,Why make breakfast?, Satisfy hunger.,2
+2167,2,L,,,,,0.65346306553,,,,,29,1,,5,90,0,1,3,1.19037231647,8,Why participate in class?, Show intelligence.,2
+2167,3,L,,,,,0.621819361466,,,,,27,1,,5,90,0,1,3,0.726269486357,4,Why make a purchase?, Satisfy a need.,3
+2167,4,R,,,,,3.98489396021,,,,,21,1,,5,90,0,1,3,0.658072714571,5,Why plan ahead?, Reduce worry.,3
+2167,5,R,,,,,6.85121831131,,,,,24,1,,5,90,0,1,3,0.794180979128,7,How to watch television?, Use a remote.,4
+2167,6,R,,,,,1.09264646056,,,,,33,1,,5,90,0,1,3,0.647405096545,1,How to prepare meals?, Follow recipes.,4
+2167,7,L,,,,,0.979666237438,,,,,39,1,,5,90,0,1,3,1.65616514337,2,How to show an ability?, Satisfy hunger.,6
+2167,8,L,,,,,1.09426830365,,,,,36,1,,5,90,0,1,3,1.37762487795,10,How to avoid mistakes?, Obey laws.,6
+2167,9,R,,,,,1.38813670783,,,,,37,1,,5,90,0,1,3,0.752640247825,6,Why lift a glass?, Drink wine.,1
+2167,10,R,,,,,1.25014510601,,,,,35,1,,5,90,0,1,3,0.821251862675,3,Why throw away trash?, Make a list.,1
+2167,11,L,,,,,0.942521215555,,,,,31,1,,5,90,0,1,3,0.611691830473,11,How to build muscles?, Lift weights.,5
+2167,12,L,,,,,2.7598394847,,,,,26,1,,5,90,0,1,3,0.931181198824,9,How to attend a school?, Enter a classroom.,5

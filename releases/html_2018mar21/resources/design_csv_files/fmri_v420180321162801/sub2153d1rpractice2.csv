@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2153,1,L,,,,,0.996974968214,,,,25,30,1,,2,,1,1,4,1.70535918292,7,Why reduce pain?, Feel well.,3
+2153,2,R,,,,,1.62621736641,,,,25,30,1,,6,,1,1,4,1.38148185137,11,Why show intelligence?, Impress others.,3
+2153,3,R,,,,,1.87306984219,,,,25,30,1,,7,,1,1,4,0.867016365198,1,How to read articles?, Open a magazine.,4
+2153,4,R,,,,,5.41492418145,,,,25,30,1,,8,,1,1,4,1.41816160397,8,How to make breakfast?, Crack eggs.,4
+2153,5,R,,,,,2.39624694429,,,,25,30,1,,3,,1,1,4,0.551382077708,0,Why write a song?, Seek advice.,2
+2153,6,L,,,,,2.87824255926,,,,25,30,1,,5,,1,1,4,0.959193545175,2,Why enter a classroom?, Attend a school.,2
+2153,7,R,,,,,1.40847561036,,,,25,30,1,,1,,1,1,4,0.763640813073,4,How to show ambition?, Serve alcohol.,5
+2153,8,L,,,,,1.05840422861,,,,25,30,1,,4,,1,1,4,0.514258832651,5,How to consume alcohol?, Drink wine.,5
+2153,9,L,,,,,2.26877729347,,,,25,30,1,,5,,1,1,4,0.696279840412,9,How to get a degree?, Attend a school.,6
+2153,10,L,,,,,0.98216532719,,,,25,30,1,,2,,1,1,4,0.634107907918,6,How to achieve success?, Get a promotion.,6
+2153,11,R,,,,,2.21652327394,,,,25,30,1,,6,,1,1,4,0.520787199435,3,Why open a bottle?, Consume medicine.,1
+2153,12,L,,,,,0.930308354221,,,,25,30,1,,7,,1,1,4,1.10764806319,10,Why crack eggs?, Make breakfast.,1

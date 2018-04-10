@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2148,1,L,,,,,0.543314596613,,,,,21,1,,5,90,0,1,4,1.47945428142,7,Why cut paper?, Clip coupons.,1
+2148,2,L,,,,,4.51834846406,,,,,37,1,,5,90,0,1,4,0.572271187974,3,Why wash ones hands?, Kill germs.,1
+2148,3,R,,,,,0.562905635503,,,,,28,1,,5,90,0,1,4,1.17343542186,4,How to show ambition?, Serve alcohol.,5
+2148,4,R,,,,,2.37751998204,,,,,35,1,,5,90,0,1,4,1.35880127499,6,How to consume alcohol?, Drink wine.,5
+2148,5,L,,,,,0.708735862827,,,,,27,1,,5,90,0,1,4,0.529611421355,8,Why make a phone call?, Contact a friend.,2
+2148,6,L,,,,,3.12114305214,,,,,33,1,,5,90,0,1,4,0.546080501148,10,Why open a browser?, Write an email.,2
+2148,7,L,,,,,3.03534963556,,,,,20,1,,5,90,0,1,4,0.913811067357,1,How to watch television?, Use a remote.,4
+2148,8,R,,,,,2.38370844803,,,,,39,1,,5,90,0,1,4,0.61899214554,11,How to dress formally?, Wear ties. ,4
+2148,9,L,,,,,0.946099553382,,,,,24,1,,5,90,0,1,4,1.54154442101,9,Why make art?, Show creativity.,3
+2148,10,R,,,,,2.27344184073,,,,,40,1,,5,90,0,1,4,0.653662082393,2,Why build muscles?, Show humility.,3
+2148,11,R,,,,,2.78167151478,,,,,23,1,,5,90,0,1,4,1.07500534934,0,How to get a degree?, Attend a school.,6
+2148,12,R,,,,,1.43063593401,,,,,31,1,,5,90,0,1,4,0.91541879924,5,How to achieve success?, Get a promotion.,6

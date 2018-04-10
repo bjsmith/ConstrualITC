@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2107,1,L,,,,,1.60356115873,,,,,28,1,,5,90,0,2,3,1.66353361906,2,Why raise a hand?, Participate in class.,1
+2107,2,R,,,,,2.61621730339,,,,,25,1,,5,90,0,2,3,0.801605488417,3,Why stir ingredients?, Mix a cocktail.,1
+2107,3,R,,,,,2.21992035587,,,,,37,1,,5,90,0,2,3,0.637874145826,0,How to show appreciation?, Give applause.,5
+2107,4,L,,,,,1.73653377586,,,,,29,1,,5,90,0,2,3,0.882596298565,1,How to get a promotion?, Arrive on time.,5

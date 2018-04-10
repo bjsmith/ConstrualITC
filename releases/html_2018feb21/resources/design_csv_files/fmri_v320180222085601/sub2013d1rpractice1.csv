@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2013,1,R,,,,,1.77378311918,,,,,25,1,,5,90,0,1,3,0.646350759455,1,Why attend a school?, Get a degree.,3
+2013,2,R,,,,,0.68274196763,,,,,22,1,,5,90,0,1,3,1.59438723249,7,Why hold a party?, Feel sociable.,3
+2013,3,L,,,,,2.83734091659,,,,,40,1,,5,90,0,1,3,1.98059497649,5,How to show creativity?, Make art.,6
+2013,4,R,,,,,1.2911476087,,,,,38,1,,5,90,0,1,3,0.644101434012,2,How to reduce worry?, Plan ahead.,6
+2013,5,R,,,,,6.79180364854,,,,,23,1,,5,90,0,1,3,0.536545542004,9,Why read articles?, Gain knowledge.,2
+2013,6,L,,,,,0.867337274632,,,,,36,1,,5,90,0,1,3,0.706981220872,3,Why consume medicine?, Reduce pain.,2
+2013,7,L,,,,,0.762657669784,,,,,35,1,,5,90,0,1,3,1.29752730312,6,Why dial numbers?, Make a phone call.,1
+2013,8,R,,,,,3.65241767406,,,,,28,1,,5,90,0,1,3,0.643099446453,0,Why sign ones name?, Write a check.,1
+2013,9,L,,,,,1.83056308272,,,,,26,1,,5,90,0,1,3,0.861753313181,8,How to take a picture?, Point a camera.,4
+2013,10,L,,,,,1.99522387275,,,,,34,1,,5,90,0,1,3,0.941363810981,4,How to open a browser?, Click a mouse.,4
+2013,11,R,,,,,1.03456913549,,,,,27,1,,5,90,0,1,3,0.953634355681,10,How to show ambition?, Serve alcohol.,5
+2013,12,L,,,,,1.27275738237,,,,,37,1,,5,90,0,1,3,0.843588177161,11,How to attend a school?, Enter a classroom.,5

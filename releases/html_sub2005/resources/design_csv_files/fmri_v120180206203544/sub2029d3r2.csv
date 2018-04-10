@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2029,1,2,,,,,1.56213680321,,,,25,30,1,,8,,1,3,2,0.533782934565,0,Why participate in class?, Show intelligence.,2
+2029,2,2,,,,,1.24161336278,,,,25,30,1,,2,,1,3,2,0.717701989294,0,Why open a magazine?, Read articles.,1
+2029,3,1,,,,,1.38865724745,,,,25,30,1,,4,,1,3,2,0.984160256737,0,Why satisfy hunger?, Show an ability.,3
+2029,4,2,,,,,3.79156279296,,,,25,30,1,,7,,1,3,2,1.2129884434,0,How to contact a friend?, Make a phone call.,5
+2029,5,1,,,,,1.25530531601,,,,25,30,1,,3,,1,3,2,2.4011510442,0,How to show creativity?, Make art.,6
+2029,6,2,,,,,1.02119907615,,,,25,30,1,,9,,1,3,2,0.899351769801,0,How to clip coupons?, Cut paper.,4
+2029,7,1,,,,,0.730634601687,,,,25,30,1,,6,,1,3,2,1.16164779657,0,How to make a list?, Throw away trash.,4
+2029,8,1,,,,,1.0035465875,,,,25,30,1,,5,,1,3,2,0.594766720449,0,How to show cleanliness?, Write an email.,6
+2029,9,1,,,,,0.648208616148,,,,25,30,1,,5,,1,3,2,0.547467354689,0,Why wash ones hands?, Kill germs.,1
+2029,10,1,,,,,1.51284296728,,,,25,30,1,,4,,1,3,2,0.548648016172,0,Why finish a job?, Feel productive.,3
+2029,11,2,,,,,2.04795139605,,,,25,30,1,,6,,1,3,2,0.514137306938,0,Why read articles?, Gain knowledge.,2
+2029,12,1,,,,,5.30284737129,,,,25,30,1,,1,,1,3,2,0.959578226399,0,How to avoid diseases?, Kill germs.,5
+2029,13,1,,,,,5.33137585956,,,,25,30,1,,8,,1,3,2,1.02612683907,0,Why gain knowledge?, Improve oneself.,3
+2029,14,1,,,,,2.2929746613,,,,25,30,1,,3,,1,3,2,0.536024414452,0,How to mix a cocktail?, Stir ingredients.,4
+2029,15,1,,,,,5.43335638586,,,,25,30,1,,9,,1,3,2,1.56020758123,0,How to write an email?, Open a browser.,5
+2029,16,1,,,,,2.61287124975,,,,25,30,1,,7,,1,3,2,1.01059518717,0,Why cut paper?, Clip coupons.,1
+2029,17,2,,,,,2.60257401834,,,,25,30,1,,3,,1,3,2,0.513188571441,0,Why write a song?, Seek advice.,2
+2029,18,2,,,,,1.40832919559,,,,25,30,1,,1,,1,3,2,1.10100028937,0,How to improve oneself?, Gain knowledge.,6
+2029,19,2,,,,,3.50723135571,,,,25,30,1,,6,,1,3,2,1.48279672582,0,How to show intellect?, Share ideas.,6
+2029,20,2,,,,,0.573675085365,,,,25,30,1,,7,,1,3,2,0.726605975427,0,Why stir ingredients?, Mix a cocktail.,1
+2029,21,2,,,,,1.02542031091,,,,25,30,1,,5,,1,3,2,0.762924902114,0,Why make a list?, Plan ahead.,2
+2029,22,2,,,,,0.757974607987,,,,25,30,1,,9,,1,3,2,0.984529034441,1,How to build muscles?, Lift weights.,5
+2029,23,2,,,,,1.38949309176,,,,25,30,1,,2,,1,3,2,0.672042586763,0,Why show courtesy?, Make a friend.,3
+2029,24,2,,,,,0.844755503609,,,,25,30,1,,8,,1,3,2,1.36559584913,0,How to lift weights?, Fasten seatbelt.,4
+2029,25,1,,,,,1.66502504571,,,,25,30,1,,8,,1,3,2,1.02556972651,0,How to make breakfast?, Crack eggs.,4
+2029,26,1,,,,,0.759922052874,,,,25,30,1,,4,,1,3,2,1.04442308067,0,Why crack eggs?, Make breakfast.,1
+2029,27,1,,,,,1.15838698078,,,,25,30,1,,3,,1,3,2,1.60533917823,0,Why keep a memory?, Feel nostalgia.,3
+2029,28,1,,,,,2.21004267256,,,,25,30,1,,1,,1,3,2,1.00492953542,0,Why make a phone call?, Contact a friend.,2
+2029,29,2,,,,,0.969424165413,,,,25,30,1,,6,,1,3,2,1.00181349734,0,How to show an ability?, Satisfy hunger.,6
+2029,30,2,,,,,1.0799527615,,,,25,30,1,,5,,1,3,2,0.526703261897,0,How to show ambition?, Serve alcohol.,5
+2029,31,2,,,,,3.90879586528,,,,25,30,1,,9,,1,3,2,0.906960826725,0,Why clap hands?, Give applause.,1
+2029,32,2,,,,,2.35397918892,,,,25,30,1,,2,,1,3,2,1.05991685936,0,How to support a cause?, Give to charity.,6
+2029,33,1,,,,,4.10395537133,,,,25,30,1,,4,,1,3,2,1.01634240809,0,Why make breakfast?, Satisfy hunger.,2
+2029,34,2,,,,,4.46092879053,,,,25,30,1,,1,,1,3,2,0.508199724671,0,Why get a promotion?, Achieve success.,3
+2029,35,1,,,,,1.18076938319,,,,25,30,1,,5,,1,3,2,0.925270711955,0,How to give to charity?, Use a camera.,5
+2029,36,1,,,,,1.01278582556,,,,25,30,1,,8,,1,3,2,1.55354935593,0,How to drink wine?, Open a bottle. ,4
+2029,37,1,,,,,0.646489427993,,,,25,30,1,,3,,1,3,2,1.28447202777,0,How to express a talent?, Entertain others.,6
+2029,38,2,,,,,1.70913326848,,,,25,30,1,,6,,1,3,2,1.68334369847,0,Why write an email?, Send a message.,3
+2029,39,2,,,,,2.94068182142,,,,25,30,1,,9,,1,3,2,0.605104584576,0,How to reduce pain?, Consume medicine.,5
+2029,40,1,,,,,0.82733683861,,,,25,30,1,,7,,1,3,2,0.50246547024,0,How to make a phone call?, Dial numbers.,4

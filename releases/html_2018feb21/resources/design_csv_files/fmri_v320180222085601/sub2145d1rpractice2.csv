@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2145,1,L,,,,,2.39144249732,,,,25,30,1,,8,,1,1,4,0.796065260702,6,How to live a long life?, Avoid diseases.,6
+2145,2,L,,,,,1.40982760702,,,,25,30,1,,4,,1,1,4,0.771551126112,0,How to show cleanliness?, Write an email.,6
+2145,3,R,,,,,0.586461521164,,,,25,30,1,,5,,1,1,4,0.925263613461,7,How to give to charity?, Use a camera.,5
+2145,4,L,,,,,1.0854503067,,,,25,30,1,,3,,1,1,4,1.82066986397,8,How to entertain oneself?, Watch television.,5
+2145,5,L,,,,,0.973105128632,,,,25,30,1,,9,,1,1,4,1.22076719455,1,Why take a picture?, Keep a memory.,2
+2145,6,L,,,,,3.84538080403,,,,25,30,1,,1,,1,1,4,0.53160159851,5,Why open a browser?, Write an email.,2
+2145,7,R,,,,,1.70913882228,,,,25,30,1,,2,,1,1,4,0.625204228223,3,Why lift a glass?, Drink wine.,1
+2145,8,R,,,,,3.48830403714,,,,25,30,1,,7,,1,1,4,0.690183847679,4,Why follow recipes?, Prepare meals.,1
+2145,9,R,,,,,0.823756971265,,,,25,30,1,,7,,1,1,4,0.570095495441,11,How to open a browser?, Click a mouse.,4
+2145,10,R,,,,,2.12698665053,,,,25,30,1,,3,,1,1,4,2.65028024807,9,How to mix a cocktail?, Stir ingredients.,4
+2145,11,L,,,,,3.80345821853,,,,25,30,1,,1,,1,1,4,0.729710926154,2,Why make a purchase?, Satisfy a need.,3
+2145,12,R,,,,,2.2608801413,,,,25,30,1,,4,,1,1,4,0.617078630188,10,Why write an email?, Send a message.,3

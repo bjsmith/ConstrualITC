@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2005,1,R,,,,,1.9005190343,,,,,40,1,,5,90,0,3,3,0.750293507132,0,How to get a promotion?, Arrive on time.,5
+2005,2,R,,,,,4.26452459158,,,,,25,1,,5,90,0,3,3,1.61936436166,1,How to make a purchase?, Go shopping.,5
+2005,3,L,,,,,1.75864265164,,,,,26,1,,5,90,0,3,3,0.857701863469,3,How to paint a picture?, Use a brush.,4
+2005,4,L,,,,,1.01944175307,,,,,33,1,,5,90,0,3,3,1.2918693691,2,How to take a picture?, Point a camera.,4

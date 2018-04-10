@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2016,1,1,,,,,1.6662487265,,,,,22,1,,5,90,0,1,4,1.22519501531,0,How to drink wine?, Open a bottle. ,4
+2016,2,1,,,,,1.12482247813,,,,,40,1,,5,90,0,1,4,0.824332141522,0,Why make a phone call?, Contact a friend.,2
+2016,3,2,,,,,1.44174895589,,,,,39,1,,5,90,0,1,4,0.525142292766,0,Why satisfy hunger?, Show an ability.,3
+2016,4,2,,,,,3.21356586285,,,,,33,1,,5,90,0,1,4,2.04808682786,0,How to feel nostalgia?, Keep a memory.,6
+2016,5,1,,,,,1.58387749401,,,,,24,1,,5,90,0,1,4,1.56851325762,0,Why dial numbers?, Make a phone call.,1
+2016,6,2,,,,,3.09547807482,,,,,27,1,,5,90,0,1,4,0.60156102932,0,How to plan ahead?, Make a list.,5
+2016,7,1,,,,,2.00633648083,,,,,29,1,,5,90,0,1,4,0.902557257993,0,How to write a poem?, Grab a pencil.,4
+2016,8,1,,,,,1.05948290095,,,,,36,1,,5,90,0,1,4,0.80034340031,0,Why write a song?, Seek advice.,2
+2016,9,1,,,,,1.60013385897,,,,,37,1,,5,90,0,1,4,0.541365914375,0,Why entertain others?, Express a talent.,3
+2016,10,2,,,,,1.70906931724,,,,,31,1,,5,90,0,1,4,0.80699950621,1,Why open a bottle?, Consume medicine.,1
+2016,11,2,,,,,0.529131536487,,,,,23,1,,5,90,0,1,4,0.52240795931,0,How to satisfy hunger?, Make breakfast.,5
+2016,12,2,,,,,5.40868478964,,,,,30,1,,5,90,0,1,4,1.40730831776,0,How to feel well?, Reduce pain.,6

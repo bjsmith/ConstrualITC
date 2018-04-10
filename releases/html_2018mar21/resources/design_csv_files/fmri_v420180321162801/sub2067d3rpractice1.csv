@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2067,1,R,,,,,1.61069647647,,,,,25,1,,5,90,0,3,3,1.36169518991,0,Why stir ingredients?, Mix a cocktail.,1
+2067,2,L,,,,,1.1913255176,,,,,29,1,,5,90,0,3,3,1.01345570667,1,Why open a bottle?, Consume medicine.,1
+2067,3,L,,,,,2.12354518776,,,,,40,1,,5,90,0,3,3,1.28562192262,2,How to plan ahead?, Make a list.,5
+2067,4,R,,,,,2.37606191488,,,,,24,1,,5,90,0,3,3,0.63643969136,3,How to consume alcohol?, Drink wine.,5

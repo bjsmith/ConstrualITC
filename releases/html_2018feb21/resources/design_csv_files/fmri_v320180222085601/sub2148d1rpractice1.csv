@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2148,1,R,,,,,4.90546362289,,,,25,30,1,,6,,1,1,3,1.34063877184,9,Why reduce pain?, Feel well.,3
+2148,2,L,,,,,1.34079098148,,,,25,30,1,,5,,1,1,3,1.28532957117,6,Why show courtesy?, Make a friend.,3
+2148,3,L,,,,,2.66228787356,,,,25,30,1,,4,,1,1,3,0.877042506068,0,How to give to charity?, Use a camera.,5
+2148,4,L,,,,,1.52181708616,,,,25,30,1,,7,,1,1,3,0.535756579061,8,How to make art?, Paint a picture.,5
+2148,5,R,,,,,2.74627672815,,,,25,30,1,,1,,1,1,3,0.730392229856,2,Why open a bottle?, Consume medicine.,1
+2148,6,L,,,,,2.09282868345,,,,25,30,1,,3,,1,1,3,1.05728492216,3,Why wash ones hands?, Kill germs.,1
+2148,7,R,,,,,0.577422908023,,,,25,30,1,,2,,1,1,3,1.63074292765,1,Why drink wine?, Consume alcohol.,2
+2148,8,R,,,,,1.14605916832,,,,25,30,1,,8,,1,1,3,1.37552988266,10,Why give applause?, Show appreciation.,2
+2148,9,R,,,,,2.08190822337,,,,25,30,1,,4,,1,1,3,2.08038610821,4,How to improve oneself?, Gain knowledge.,6
+2148,10,L,,,,,3.20947155086,,,,25,30,1,,7,,1,1,3,0.68468091403,7,How to reduce worry?, Plan ahead.,6
+2148,11,L,,,,,0.533652620456,,,,25,30,1,,9,,1,1,3,0.643207317735,5,How to write a check?, Sign ones name.,4
+2148,12,R,,,,,0.502333587558,,,,25,30,1,,1,,1,1,3,0.50514849835,11,How to give applause?, Clap hands.,4

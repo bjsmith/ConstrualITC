@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2079,1,L,,,,,2.03702943817,,,,,39,1,,5,90,0,2,3,0.525891584089,3,How to consume alcohol?, Drink wine.,5
+2079,2,R,,,,,1.29201436,,,,,20,1,,5,90,0,2,3,0.762795732793,0,How to avoid diseases?, Kill germs.,5
+2079,3,L,,,,,3.14074278187,,,,,23,1,,5,90,0,2,3,0.914866152674,1,Why cut paper?, Clip coupons.,1
+2079,4,R,,,,,1.33834349891,,,,,33,1,,5,90,0,2,3,1.17019287623,2,Why raise a hand?, Participate in class.,1

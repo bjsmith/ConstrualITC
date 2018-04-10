@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,R,,,,,2.37748650576,,,,,30,1,,5,90,0,2,4,1.08071973673,2,How to lift weights?, Fasten seatbelt.,4
+2030,2,L,,,,,0.547110564109,,,,,26,1,,5,90,0,2,4,1.01086379932,3,How to open a browser?, Click a mouse.,4
+2030,3,R,,,,,2.77236263623,,,,,27,1,,5,90,0,2,4,0.700480860392,0,Why give to charity?, Support a cause.,3
+2030,4,L,,,,,1.32388400482,,,,,37,1,,5,90,0,2,4,0.673995311555,1,Why provide food?, Help a person.,3

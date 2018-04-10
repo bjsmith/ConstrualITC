@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2060,1,R,,,,,3.07625616874,,,,,25,1,,5,90,0,1,4,0.510472149363,5,How to take a picture?, Point a camera.,4
+2060,2,R,,,,,1.4088709005,,,,,31,1,,5,90,0,1,4,1.04347563532,1,How to write a poem?, Grab a pencil.,4
+2060,3,L,,,,,0.599952568453,,,,,30,1,,5,90,0,1,4,0.532039533665,3,Why show competence?, Pass the time.,3
+2060,4,R,,,,,1.65942329442,,,,,39,1,,5,90,0,1,4,1.48092039886,4,Why get a promotion?, Achieve success.,3
+2060,5,R,,,,,1.41042410356,,,,,29,1,,5,90,0,1,4,0.546128385395,6,How to show an ability?, Satisfy hunger.,6
+2060,6,R,,,,,1.00517181133,,,,,22,1,,5,90,0,1,4,1.3199569128,7,How to live a long life?, Avoid diseases.,6
+2060,7,R,,,,,0.705730955279,,,,,36,1,,5,90,0,1,4,0.69433547102,10,Why consume medicine?, Reduce pain.,2
+2060,8,L,,,,,3.14709723777,,,,,34,1,,5,90,0,1,4,1.08189425802,8,Why make breakfast?, Satisfy hunger.,2
+2060,9,L,,,,,6.23902412262,,,,,20,1,,5,90,0,1,4,0.923293713105,0,How to consume alcohol?, Drink wine.,5
+2060,10,L,,,,,0.781750927933,,,,,33,1,,5,90,0,1,4,1.58555791306,11,How to avoid diseases?, Kill germs.,5
+2060,11,L,,,,,1.37424174557,,,,,21,1,,5,90,0,1,4,1.48074365269,2,Why use a comb?, Write a song.,1
+2060,12,L,,,,,2.06801583661,,,,,32,1,,5,90,0,1,4,1.22173967214,9,Why dial numbers?, Make a phone call.,1

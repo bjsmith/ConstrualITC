@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2062,1,L,,,,,0.657200807065,,,,25,30,1,,6,,1,1,3,2.48822519519,10,How to show creativity?, Make art.,6
+2062,2,L,,,,,2.05553096779,,,,25,30,1,,4,,1,1,3,1.19788725502,1,How to avoid mistakes?, Obey laws.,6
+2062,3,R,,,,,2.03764989244,,,,25,30,1,,5,,1,1,3,1.0937661602,9,How to consume medicine?, Take pills. ,4
+2062,4,L,,,,,1.52772396362,,,,25,30,1,,7,,1,1,3,0.600501715462,3,How to mix a cocktail?, Stir ingredients.,4
+2062,5,R,,,,,2.37038575987,,,,25,30,1,,8,,1,1,3,0.882277293831,6,Why clap hands?, Give applause.,1
+2062,6,L,,,,,2.35056993017,,,,25,30,1,,9,,1,1,3,1.10053040165,0,Why drink coffee?, Consume caffeine.,1
+2062,7,L,,,,,1.93585421604,,,,25,30,1,,1,,1,1,3,0.619963577852,11,Why open a browser?, Write an email.,2
+2062,8,R,,,,,0.903324227383,,,,25,30,1,,3,,1,1,3,1.24336638761,4,Why give a lecture?, Teach others.,2
+2062,9,R,,,,,0.646787434107,,,,25,30,1,,3,,1,1,3,0.798366001869,7,Why hold a party?, Feel sociable.,3
+2062,10,R,,,,,3.0619921584,,,,25,30,1,,7,,1,1,3,0.507529531822,8,Why keep a memory?, Feel nostalgia.,3
+2062,11,R,,,,,1.63038016488,,,,25,30,1,,8,,1,1,3,0.82818534355,2,How to make a donation?, Mix a cocktail.,5
+2062,12,L,,,,,4.000185501,,,,25,30,1,,5,,1,1,3,0.989587623612,5,How to plan ahead?, Make a list.,5

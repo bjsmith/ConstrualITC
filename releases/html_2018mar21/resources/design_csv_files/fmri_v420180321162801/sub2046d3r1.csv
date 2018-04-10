@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2046,1,R,,,,,1.56008767943,,,,25,30,1,,1,,1,3,1,2.65652890157,7,How to get a degree?, Attend a school.,6
+2046,2,L,,,,,1.31503279556,,,,25,30,1,,9,,1,3,1,1.08453906085,15,How to avoid mistakes?, Obey laws.,6
+2046,3,L,,,,,1.00645069683,,,,25,30,1,,5,,1,3,1,1.42056177017,38,Why provide food?, Help a person.,3
+2046,4,L,,,,,1.45189588824,,,,25,30,1,,3,,1,3,1,1.87796292735,56,Why save money?, Get fit.,3
+2046,5,R,,,,,1.10307351487,,,,25,30,1,,2,,1,3,1,2.16708644435,41,How to show ambition?, Serve alcohol.,5
+2046,6,R,,,,,1.05533112563,,,,25,30,1,,4,,1,3,1,1.27338785499,37,How to consume alcohol?, Drink wine.,5
+2046,7,L,,,,,1.06012739631,,,,25,30,1,,8,,1,3,1,2.12963935272,55,Why clip coupons?, Save money.,2
+2046,8,R,,,,,5.92489500466,,,,25,30,1,,6,,1,3,1,1.03602094848,58,Why read articles?, Gain knowledge.,2
+2046,9,R,,,,,1.05629653587,,,,25,30,1,,8,,1,3,1,5.42675104878,14,How to make a list?, Throw away trash.,4
+2046,10,L,,,,,3.34167966248,,,,25,30,1,,9,,1,3,1,1.07210333819,5,How to clip coupons?, Cut paper.,4
+2046,11,R,,,,,2.31598563885,,,,25,30,1,,2,,1,3,1,1.79107323472,29,Why lift a glass?, Drink wine.,1
+2046,12,R,,,,,6.87345346354,,,,25,30,1,,7,,1,3,1,1.99173726019,54,Why open a bottle?, Consume medicine.,1
+2046,13,R,,,,,3.00357208638,,,,25,30,1,,5,,1,3,1,1.19282509517,32,Why use a remote?, Watch television.,1
+2046,14,R,,,,,1.54370256344,,,,25,30,1,,4,,1,3,1,1.83753178933,27,Why raise a hand?, Participate in class.,1
+2046,15,R,,,,,1.20442505092,,,,25,30,1,,1,,1,3,1,1.01193820284,4,How to plan ahead?, Make a list.,5
+2046,16,L,,,,,1.67661335544,,,,25,30,1,,3,,1,3,1,1.09031893678,52,How to provide food?, Prepare meals.,5
+2046,17,L,,,,,1.1631380337,,,,25,30,1,,3,,1,3,1,1.12988089516,16,Why enter a classroom?, Attend a school.,2
+2046,18,L,,,,,1.21347148382,,,,25,30,1,,2,,1,3,1,1.32682910986,18,Why dress formally?, Get a promotion.,2
+2046,19,L,,,,,2.10024761867,,,,25,30,1,,9,,1,3,1,1.05625888153,12,How to feel well?, Reduce pain.,6
+2046,20,L,,,,,1.62359279629,,,,25,30,1,,1,,1,3,1,4.95593007513,39,How to avoid boredom?, Entertain oneself.,6
+2046,21,L,,,,,1.88051229547,,,,25,30,1,,4,,1,3,1,1.94739042331,53,Why show competence?, Pass the time.,3
+2046,22,R,,,,,1.25116758143,,,,25,30,1,,8,,1,3,1,1.30064830483,6,Why make a purchase?, Satisfy a need.,3
+2046,23,R,,,,,1.2113517422,,,,25,30,1,,7,,1,3,1,3.92219780478,1,How to write a poem?, Grab a pencil.,4
+2046,24,L,,,,,2.9304672906,,,,25,30,1,,5,,1,3,1,2.980885642,35,How to go shopping?, Use credit cards.,4
+2046,25,L,,,,,1.2122021467,,,,25,30,1,,1,,1,3,1,1.14911542935,0,How to prepare meals?, Follow recipes.,4
+2046,26,L,,,,,1.20613898281,,,,25,30,1,,4,,1,3,1,4.00830410344,11,How to drink wine?, Open a bottle. ,4
+2046,27,R,,,,,3.03911100201,,,,25,30,1,,8,,1,3,1,2.08305596241,25,Why make a list?, Plan ahead.,2
+2046,28,R,,,,,2.50597441355,,,,25,30,1,,6,,1,3,1,2.02880430483,43,Why consume medicine?, Reduce pain.,2
+2046,29,L,,,,,1.45536035091,,,,25,30,1,,7,,1,3,1,1.87920196264,13,How to show cleanliness?, Write an email.,6
+2046,30,R,,,,,1.7872540139,,,,25,30,1,,9,,1,3,1,1.23757943094,28,How to express a talent?, Entertain others.,6
+2046,31,R,,,,,1.79432874023,,,,25,30,1,,3,,1,3,1,3.18033832454,21,Why stir ingredients?, Mix a cocktail.,1
+2046,32,L,,,,,1.42673846307,,,,25,30,1,,2,,1,3,1,1.85574027691,44,Why drink coffee?, Consume caffeine.,1
+2046,33,L,,,,,2.32323041069,,,,25,30,1,,6,,1,3,1,1.48029888031,47,How to reduce pain?, Consume medicine.,5
+2046,34,L,,,,,1.0137012169,,,,25,30,1,,2,,1,3,1,1.71922956093,24,How to entertain others?, Write a song.,5
+2046,35,R,,,,,2.32151977021,,,,25,30,1,,4,,1,3,1,1.73046003322,3,Why reduce pain?, Feel well.,3
+2046,36,R,,,,,2.08467297925,,,,25,30,1,,5,,1,3,1,1.008179076,17,Why finish a job?, Feel productive.,3
+2046,37,R,,,,,2.03024740356,,,,25,30,1,,8,,1,3,1,1.41358765633,33,How to read articles?, Open a magazine.,4
+2046,38,R,,,,,3.91994029237,,,,25,30,1,,9,,1,3,1,1.72021499668,46,How to consume caffeine?, Press buttons.,4
+2046,39,R,,,,,2.43049277294,,,,25,30,1,,1,,1,3,1,1.99224234061,42,Why gain knowledge?, Improve oneself.,3
+2046,40,L,,,,,1.0888885065,,,,25,30,1,,7,,1,3,1,2.23168910392,20,Why keep a memory?, Feel nostalgia.,3
+2046,41,L,,,,,3.25356378063,,,,25,30,1,,6,,1,3,1,2.09419231928,8,How to feel secure?, Save money.,6
+2046,42,L,,,,,1.1593578256,,,,25,30,1,,9,,1,3,1,2.78390037644,45,How to feel nostalgia?, Keep a memory.,6
+2046,43,R,,,,,1.65942565232,,,,25,30,1,,4,,1,3,1,1.46084804012,23,Why wash ones hands?, Kill germs.,1
+2046,44,L,,,,,2.14053677186,,,,25,30,1,,5,,1,3,1,3.61750620227,30,Why sign ones name?, Write a check.,1
+2046,45,R,,,,,1.10184455956,,,,25,30,1,,1,,1,3,1,3.11107241856,19,Why watch television?, Show competence.,2
+2046,46,L,,,,,1.4759924758,,,,25,30,1,,3,,1,3,1,1.25566537356,57,Why write a poem?, Express an idea.,2
+2046,47,R,,,,,2.690686321,,,,25,30,1,,7,,1,3,1,1.05532662599,31,How to contact a friend?, Make a phone call.,5
+2046,48,L,,,,,1.73577463258,,,,25,30,1,,8,,1,3,1,1.30745690323,48,How to save money?, Clip coupons.,5
+2046,49,R,,,,,2.18623984517,,,,25,30,1,,3,,1,3,1,1.25189084443,40,Why open a browser?, Write an email.,2
+2046,50,R,,,,,2.62403843878,,,,25,30,1,,1,,1,3,1,1.23533994844,34,Why lift weights?, Build muscles.,2
+2046,51,L,,,,,3.06143853598,,,,25,30,1,,9,,1,3,1,2.10648705171,50,How to write a check?, Sign ones name.,4
+2046,52,R,,,,,1.65661676486,,,,25,30,1,,6,,1,3,1,1.06398722432,26,How to lift weights?, Fasten seatbelt.,4
+2046,53,L,,,,,1.42682709759,,,,25,30,1,,7,,1,3,1,5.51358170559,9,How to satisfy a need?, Make a purchase.,6
+2046,54,L,,,,,1.07124673145,,,,25,30,1,,8,,1,3,1,2.29509701128,36,How to feel productive?, Finish a job.,6
+2046,55,L,,,,,1.08934691399,,,,25,30,1,,4,,1,3,1,3.23486412569,22,How to avoid diseases?, Kill germs.,5
+2046,56,R,,,,,3.42613057121,,,,25,30,1,,2,,1,3,1,1.02873925921,49,How to make a purchase?, Go shopping.,5
+2046,57,L,,,,,2.64879270992,,,,25,30,1,,9,,1,3,1,1.07568451376,59,Why open a magazine?, Read articles.,1
+2046,58,R,,,,,1.5406423972,,,,25,30,1,,1,,1,3,1,1.19301968969,51,Why take aspirin?, Serve alcohol.,1
+2046,59,R,,,,,2.50847330983,,,,25,30,1,,3,,1,3,1,4.29273966411,10,Why plan ahead?, Reduce worry.,3
+2046,60,L,,,,,1.08096970267,,,,25,30,1,,4,,1,3,1,1.26539594496,2,Why contact a friend?, Feel connected.,3

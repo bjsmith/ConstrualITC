@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2003,1,R,,,,,0.818222708283,,,,25,30,1,,9,,1,1,4,0.799389894494,8,Why make art?, Show creativity.,3
+2003,2,R,,,,,3.18048947868,,,,25,30,1,,2,,1,1,4,0.755718915929,11,Why make a purchase?, Satisfy a need.,3
+2003,3,L,,,,,3.31034017414,,,,25,30,1,,7,,1,1,4,0.574306793139,10,How to show intellect?, Share ideas.,6
+2003,4,R,,,,,0.595146633189,,,,25,30,1,,1,,1,1,4,0.93380919606,6,How to express a talent?, Entertain others.,6
+2003,5,R,,,,,0.612927150641,,,,25,30,1,,6,,1,1,4,0.690063641836,3,Why make a phone call?, Contact a friend.,2
+2003,6,L,,,,,0.599683451482,,,,25,30,1,,5,,1,1,4,1.41215007102,2,Why teach a class?, Obey laws.,2
+2003,7,L,,,,,1.45868737937,,,,25,30,1,,4,,1,1,4,0.653495167125,4,How to express doubt?, Use scissors.,5
+2003,8,R,,,,,3.0321614367,,,,25,30,1,,3,,1,1,4,3.45022753784,7,How to plan ahead?, Make a list.,5
+2003,9,L,,,,,6.84553951305,,,,25,30,1,,7,,1,1,4,0.522074045913,0,Why lift a glass?, Drink wine.,1
+2003,10,L,,,,,1.36610380776,,,,25,30,1,,9,,1,1,4,0.663959051339,9,Why point a camera?, Take a picture.,1
+2003,11,L,,,,,0.720070803937,,,,25,30,1,,4,,1,1,4,1.11941254873,1,How to lift weights?, Fasten seatbelt.,4
+2003,12,R,,,,,1.99684210076,,,,25,30,1,,2,,1,1,4,1.1852250438,5,How to paint a picture?, Use a brush.,4

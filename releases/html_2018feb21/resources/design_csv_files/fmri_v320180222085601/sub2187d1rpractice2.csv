@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2187,1,R,,,,,3.31966418833,,,,25,30,1,,2,,1,1,4,0.825326277192,11,Why keep a memory?, Feel nostalgia.,3
+2187,2,R,,,,,2.00990687374,,,,25,30,1,,7,,1,1,4,0.78874164059,9,Why provide food?, Help a person.,3
+2187,3,L,,,,,0.530704227372,,,,25,30,1,,6,,1,1,4,0.789649298689,5,Why clip coupons?, Save money.,2
+2187,4,L,,,,,0.75683999441,,,,25,30,1,,9,,1,1,4,1.08766659216,8,Why make a phone call?, Contact a friend.,2
+2187,5,R,,,,,1.43789416912,,,,25,30,1,,3,,1,1,4,1.17783427555,7,How to read articles?, Open a magazine.,4
+2187,6,R,,,,,0.907955874152,,,,25,30,1,,4,,1,1,4,0.787260843148,1,How to open a browser?, Click a mouse.,4
+2187,7,R,,,,,2.64075764582,,,,25,30,1,,8,,1,1,4,1.07766932766,4,How to provide food?, Prepare meals.,5
+2187,8,R,,,,,1.46942828911,,,,25,30,1,,5,,1,1,4,1.5603374357,3,How to reduce pain?, Consume medicine.,5
+2187,9,L,,,,,4.47051132119,,,,25,30,1,,7,,1,1,4,0.648592757938,0,How to feel sociable?, Hold a party.,6
+2187,10,L,,,,,1.53859976506,,,,25,30,1,,6,,1,1,4,0.9594470396,6,How to feel well?, Reduce pain.,6
+2187,11,L,,,,,2.78625152165,,,,25,30,1,,2,,1,1,4,0.757645910772,2,Why wear ties?, Dress formally.,1
+2187,12,L,,,,,1.44954509168,,,,25,30,1,,9,,1,1,4,0.940554610667,10,Why point a camera?, Take a picture.,1

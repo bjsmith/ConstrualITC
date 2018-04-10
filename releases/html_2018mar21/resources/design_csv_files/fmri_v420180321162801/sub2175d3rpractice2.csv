@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2175,1,L,,,,,3.52440013642,,,,25,30,1,,3,,1,3,4,0.507774816247,1,Why use credit cards?, Go shopping.,1
+2175,2,L,,,,,2.01400738665,,,,25,30,1,,2,,1,3,4,0.57693094233,2,Why use a brush?, Paint a picture.,1
+2175,3,R,,,,,1.65481976643,,,,25,30,1,,9,,1,3,4,0.781668207208,0,How to take a picture?, Point a camera.,4
+2175,4,R,,,,,1.22099231888,,,,25,30,1,,4,,1,3,4,1.32051837838,3,How to go shopping?, Use credit cards.,4

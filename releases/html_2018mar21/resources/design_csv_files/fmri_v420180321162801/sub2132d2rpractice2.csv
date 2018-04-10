@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2132,1,L,,,,,2.36652760186,,,,,32,1,,5,90,0,2,4,1.22498526911,1,How to reduce pain?, Consume medicine.,5
+2132,2,R,,,,,2.08619905081,,,,,29,1,,5,90,0,2,4,1.50774815719,2,How to attend a school?, Enter a classroom.,5
+2132,3,R,,,,,1.93970340791,,,,,31,1,,5,90,0,2,4,1.00933172675,3,How to clip coupons?, Cut paper.,4
+2132,4,L,,,,,1.10016922265,,,,,25,1,,5,90,0,2,4,1.17082820757,0,How to write a song?, Play piano.,4

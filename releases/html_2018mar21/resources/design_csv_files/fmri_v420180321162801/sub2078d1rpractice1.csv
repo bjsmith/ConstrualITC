@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2078,1,L,,,,,0.976694478329,,,,25,30,1,,3,,1,1,3,1.89822485593,6,How to entertain oneself?, Watch television.,5
+2078,2,L,,,,,0.67979557257,,,,25,30,1,,4,,1,1,3,1.17924592956,5,How to contact a friend?, Make a phone call.,5
+2078,3,L,,,,,1.73164687473,,,,25,30,1,,8,,1,1,3,0.601926698632,4,Why make a list?, Plan ahead.,2
+2078,4,L,,,,,1.32720384971,,,,25,30,1,,2,,1,1,3,0.697382178733,9,Why write a song?, Seek advice.,2
+2078,5,L,,,,,0.567828726582,,,,25,30,1,,5,,1,1,3,0.740418067813,1,Why throw away trash?, Make a list.,1
+2078,6,R,,,,,0.866164849107,,,,25,30,1,,9,,1,1,3,0.6221535068,3,Why clap hands?, Give applause.,1
+2078,7,R,,,,,3.86427885467,,,,25,30,1,,1,,1,1,3,0.657045677693,2,How to feel productive?, Finish a job.,6
+2078,8,R,,,,,2.17592430725,,,,25,30,1,,6,,1,1,3,0.704629053079,0,How to show an ability?, Satisfy hunger.,6
+2078,9,R,,,,,0.81637317709,,,,25,30,1,,4,,1,1,3,1.19921501585,10,Why build muscles?, Show humility.,3
+2078,10,R,,,,,2.44515869918,,,,25,30,1,,3,,1,1,3,0.633002713887,11,Why show intelligence?, Impress others.,3
+2078,11,L,,,,,4.083413645,,,,25,30,1,,2,,1,1,3,1.46411301451,8,How to write a song?, Play piano.,4
+2078,12,R,,,,,4.42314549897,,,,25,30,1,,9,,1,1,3,2.35217207799,7,How to mix a cocktail?, Stir ingredients.,4

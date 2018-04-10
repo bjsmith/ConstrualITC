@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,R,,,,,0.720709273465,,,,,37,1,,5,90,0,2,4,0.550979530769,2,How to prepare meals?, Follow recipes.,4
+2018,2,R,,,,,2.20352049347,,,,,34,1,,5,90,0,2,4,0.608618771592,3,How to consume caffeine?, Press buttons.,4
+2018,3,L,,,,,3.57685981091,,,,,29,1,,5,90,0,2,4,1.14339885096,1,How to gain knowledge?, Read articles.,5
+2018,4,L,,,,,1.38401012348,,,,,20,1,,5,90,0,2,4,1.0739566483,0,How to build muscles?, Lift weights.,5

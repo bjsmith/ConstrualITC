@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2093,1,L,,,,,1.62958876258,,,,,37,1,,5,90,0,1,3,1.2433806076,10,Why write a poem?, Express an idea.,2
+2093,2,L,,,,,0.874699719768,,,,,33,1,,5,90,0,1,3,0.628241180676,1,Why kill germs?, Avoid diseases.,2
+2093,3,R,,,,,2.42741701121,,,,,36,1,,5,90,0,1,3,1.33259137571,9,Why make art?, Show creativity.,3
+2093,4,L,,,,,3.02435148724,,,,,26,1,,5,90,0,1,3,0.553846698527,0,Why finish a job?, Feel productive.,3
+2093,5,L,,,,,1.50795526786,,,,,31,1,,5,90,0,1,3,1.54925746457,4,How to mix a cocktail?, Stir ingredients.,4
+2093,6,L,,,,,1.74469431331,,,,,27,1,,5,90,0,1,3,0.572758572145,7,How to participate in class?, Raise a hand.,4
+2093,7,L,,,,,0.716974264714,,,,,28,1,,5,90,0,1,3,0.89344557037,8,Why take aspirin?, Serve alcohol.,1
+2093,8,R,,,,,2.46950752969,,,,,40,1,,5,90,0,1,3,1.7088548799,3,Why use a brush?, Paint a picture.,1
+2093,9,R,,,,,2.2062575674,,,,,35,1,,5,90,0,1,3,0.636254361184,11,How to feel secure?, Save money.,6
+2093,10,R,,,,,2.08734153711,,,,,29,1,,5,90,0,1,3,0.925602375781,6,How to show cleanliness?, Write an email.,6
+2093,11,R,,,,,3.1081701671,,,,,25,1,,5,90,0,1,3,1.0324703479,2,How to make a purchase?, Go shopping.,5
+2093,12,R,,,,,1.69202977817,,,,,21,1,,5,90,0,1,3,0.669540178905,5,How to show intelligence?, Participate in class.,5

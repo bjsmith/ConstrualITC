@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2188,1,R,,,,,2.82635162029,,,,,29,1,,5,90,0,1,4,1.30389880827,11,Why make a purchase?, Satisfy a need.,3
+2188,2,R,,,,,0.803794312206,,,,,27,1,,5,90,0,1,4,1.10613199956,2,Why attend a school?, Get a degree.,3
+2188,3,R,,,,,3.03506486113,,,,,34,1,,5,90,0,1,4,0.856011736,6,How to read articles?, Open a magazine.,4
+2188,4,L,,,,,0.93721464508,,,,,40,1,,5,90,0,1,4,1.03760221112,8,How to make a phone call?, Dial numbers.,4
+2188,5,L,,,,,2.19093462479,,,,,32,1,,5,90,0,1,4,0.592313347721,7,Why use a remote?, Watch television.,1
+2188,6,L,,,,,4.27287503576,,,,,38,1,,5,90,0,1,4,0.69091698727,4,Why point a camera?, Take a picture.,1
+2188,7,R,,,,,2.31920173675,,,,,35,1,,5,90,0,1,4,0.51658171382,3,Why consume caffeine?, Stay alert.,2
+2188,8,L,,,,,0.850565430773,,,,,20,1,,5,90,0,1,4,0.749179756679,5,Why read articles?, Gain knowledge.,2
+2188,9,L,,,,,1.56231219983,,,,,25,1,,5,90,0,1,4,0.774709499906,9,How to impress others?, Show intelligence.,6
+2188,10,R,,,,,0.934203189736,,,,,30,1,,5,90,0,1,4,0.742047758422,0,How to feel connected?, Contact a friend.,6
+2188,11,R,,,,,1.5378243546,,,,,28,1,,5,90,0,1,4,1.30055967306,10,How to consume alcohol?, Drink wine.,5
+2188,12,L,,,,,3.08233629883,,,,,36,1,,5,90,0,1,4,1.63046420698,1,How to make a purchase?, Go shopping.,5

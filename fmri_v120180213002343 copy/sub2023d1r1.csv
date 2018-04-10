@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,1,,,,,1.40239826615,,,,,28,1,,5,90,0,1,1,2.65422514246,0,Why avoid diseases?, Live a long life.,3
+2023,2,2,,,,,1.93470990788,,,,,22,1,,5,90,0,1,1,2.82690658937,0,Why save money?, Get fit.,3
+2023,3,1,,,,,1.31266018762,,,,,40,1,,5,90,0,1,1,1.38863440824,0,Why give a lecture?, Teach others.,2
+2023,4,1,,,,,1.24574818443,,,,,30,1,,5,90,0,1,1,1.09856241696,0,Why take a picture?, Keep a memory.,2
+2023,5,1,,,,,1.44624496107,,,,,25,1,,5,90,0,1,1,1.12578996657,0,Why cut paper?, Clip coupons.,1
+2023,6,2,,,,,2.91821147365,,,,,38,1,,5,90,0,1,1,1.21309783474,0,Why throw away trash?, Make a list.,1
+2023,7,2,,,,,1.10186838703,,,,,39,1,,5,90,0,1,1,2.23476669684,0,How to express a talent?, Entertain others.,6
+2023,8,2,,,,,3.26200770515,,,,,37,1,,5,90,0,1,1,5.71295363978,0,How to feel nostalgia?, Keep a memory.,6
+2023,9,2,,,,,1.26765866125,,,,,33,1,,5,90,0,1,1,2.20942011112,0,How to satisfy hunger?, Make breakfast.,5
+2023,10,1,,,,,3.35724731728,,,,,29,1,,5,90,0,1,1,3.95418271301,0,How to plan ahead?, Make a list.,5
+2023,11,1,,,,,2.17085036121,,,,,35,1,,5,90,0,1,1,1.22581439383,0,How to clip coupons?, Cut paper.,4
+2023,12,2,,,,,2.11257504743,,,,,34,1,,5,90,0,1,1,1.15177147985,0,How to take a picture?, Point a camera.,4
+2023,13,1,,,,,1.0147720637,,,,,20,1,,5,90,0,1,1,1.98716104859,0,How to avoid mistakes?, Obey laws.,6
+2023,14,2,,,,,1.95516063041,,,,,24,1,,5,90,0,1,1,1.28742770474,0,How to reduce worry?, Plan ahead.,6
+2023,15,2,,,,,2.49335173117,,,,,36,1,,5,90,0,1,1,1.31207138251,0,Why participate in class?, Show intelligence.,2
+2023,16,1,,,,,1.04337974025,,,,,27,1,,5,90,0,1,1,1.01424967159,0,Why drink wine?, Consume alcohol.,2
+2023,17,1,,,,,1.09309410187,,,,,31,1,,5,90,0,1,1,1.17058521651,0,How to paint a picture?, Use a brush.,4
+2023,18,1,,,,,1.51201098075,,,,,26,1,,5,90,0,1,1,1.88229500113,0,How to lift weights?, Fasten seatbelt.,4
+2023,19,1,,,,,1.64818954026,,,,,21,1,,5,90,0,1,1,1.48693413077,0,Why hold a party?, Feel sociable.,3
+2023,20,2,,,,,1.58900788162,,,,,32,1,,5,90,0,1,1,2.59258852637,0,Why build muscles?, Show humility.,3
+2023,21,2,,,,,1.36520429608,,,,,35,1,,5,90,0,1,1,2.9251839417,0,Why point a camera?, Take a picture.,1
+2023,22,2,,,,,6.82521419254,,,,,22,1,,5,90,0,1,1,4.43972858193,0,Why clap hands?, Give applause.,1
+2023,23,2,,,,,2.38512640079,,,,,34,1,,5,90,0,1,1,2.13863521276,1,How to show appreciation?, Give applause.,5
+2023,24,1,,,,,1.17341654766,,,,,21,1,,5,90,0,1,1,1.29112567566,0,How to express doubt?, Use scissors.,5
+2023,25,1,,,,,2.18992517084,,,,,29,1,,5,90,0,1,1,1.42131466249,0,How to show intellect?, Share ideas.,6
+2023,26,2,,,,,1.15592092953,,,,,26,1,,5,90,0,1,1,1.24908491811,0,How to show humility?, Build muscles.,6
+2023,27,1,,,,,1.57008067489,,,,,27,1,,5,90,0,1,1,1.04253928408,0,Why wear ties?, Dress formally.,1
+2023,28,2,,,,,1.08254962115,,,,,39,1,,5,90,0,1,1,2.73695003189,0,Why click a mouse?, Open a browser.,1
+2023,29,1,,,,,2.45372646362,,,,,24,1,,5,90,0,1,1,1.25557624409,0,Why give to charity?, Support a cause.,3
+2023,30,2,,,,,1.22628398699,,,,,31,1,,5,90,0,1,1,3.28575809914,0,Why make art?, Show creativity.,3
+2023,31,2,,,,,1.20185274116,,,,,36,1,,5,90,0,1,1,1.22291860459,0,How to make a phone call?, Dial numbers.,4
+2023,32,1,,,,,2.27629869,,,,,28,1,,5,90,0,1,1,1.65145438747,0,How to prepare meals?, Follow recipes.,4
+2023,33,2,,,,,1.075540718,,,,,23,1,,5,90,0,1,1,2.48933102671,0,Why open a browser?, Write an email.,2
+2023,34,2,,,,,2.48188347635,,,,,37,1,,5,90,0,1,1,2.04907620838,0,Why make a list?, Plan ahead.,2
+2023,35,1,,,,,3.6590692212,,,,,25,1,,5,90,0,1,1,1.87268999216,0,How to consume alcohol?, Drink wine.,5
+2023,36,1,,,,,4.31772605358,,,,,40,1,,5,90,0,1,1,2.25588092813,0,How to entertain others?, Write a song.,5

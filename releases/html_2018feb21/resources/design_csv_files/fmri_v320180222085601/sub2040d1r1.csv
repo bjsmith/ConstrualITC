@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2040,1,L,,,,,2.29471782386,,,,25,30,1,,3,,1,1,1,3.58678952264,24,Why save money?, Get fit.,3
+2040,2,R,,,,,1.05704608788,,,,25,30,1,,7,,1,1,1,1.00474186113,3,Why contact a friend?, Feel connected.,3
+2040,3,R,,,,,2.45002653963,,,,25,30,1,,2,,1,1,1,1.39900186501,46,How to spread knowledge?, Teach others.,6
+2040,4,R,,,,,2.27057532527,,,,25,30,1,,8,,1,1,1,2.95664495638,23,How to feel nostalgia?, Keep a memory.,6
+2040,5,R,,,,,4.60028260483,,,,25,30,1,,1,,1,1,1,1.0157035666,2,How to contact a friend?, Make a phone call.,5
+2040,6,L,,,,,1.45454318347,,,,25,30,1,,6,,1,1,1,5.72390413656,39,How to plan ahead?, Make a list.,5
+2040,7,R,,,,,2.92088082976,,,,25,30,1,,9,,1,1,1,1.57280457992,44,How to mix a cocktail?, Stir ingredients.,4
+2040,8,L,,,,,1.49904634267,,,,25,30,1,,5,,1,1,1,2.0903869147,4,How to give applause?, Clap hands.,4
+2040,9,L,,,,,1.71812736884,,,,25,30,1,,7,,1,1,1,2.04531048724,31,Why dial numbers?, Make a phone call.,1
+2040,10,R,,,,,1.6662040049,,,,25,30,1,,8,,1,1,1,1.05415796153,45,Why turn a doorknob?, Enter a classroom.,1
+2040,11,L,,,,,1.9294877247,,,,25,30,1,,6,,1,1,1,1.49262631228,17,Why consume medicine?, Reduce pain.,2
+2040,12,L,,,,,2.10526441736,,,,25,30,1,,2,,1,1,1,3.55957729296,37,Why consume caffeine?, Stay alert.,2
+2040,13,L,,,,,2.64992702409,,,,25,30,1,,1,,1,1,1,1.65952046687,5,Why reduce pain?, Feel well.,3
+2040,14,L,,,,,2.72022042067,,,,25,30,1,,3,,1,1,1,2.3479571909,14,Why show competence?, Pass the time.,3
+2040,15,R,,,,,2.55538110979,,,,25,30,1,,9,,1,1,1,1.6260837506,25,How to take a picture?, Point a camera.,4
+2040,16,R,,,,,1.14758874072,,,,25,30,1,,5,,1,1,1,1.62448315867,36,How to go shopping?, Use credit cards.,4
+2040,17,L,,,,,1.14715479202,,,,25,30,1,,5,,1,1,1,1.53733544917,18,Why teach a class?, Obey laws.,2
+2040,18,R,,,,,1.37581168762,,,,25,30,1,,3,,1,1,1,2.63382862698,19,Why open a browser?, Write an email.,2
+2040,19,R,,,,,1.03598078293,,,,25,30,1,,2,,1,1,1,1.00156039033,51,Why use a comb?, Write a song.,1
+2040,20,R,,,,,1.80029831577,,,,25,30,1,,6,,1,1,1,2.25981838354,8,Why use a brush?, Paint a picture.,1
+2040,21,L,,,,,2.85450905939,,,,25,30,1,,8,,1,1,1,1.55696055087,52,How to write an email?, Open a browser.,5
+2040,22,R,,,,,1.51781261359,,,,25,30,1,,1,,1,1,1,1.11824184398,27,How to show appreciation?, Give applause.,5
+2040,23,L,,,,,1.50771586377,,,,25,30,1,,9,,1,1,1,1.38211257417,49,How to show intellect?, Share ideas.,6
+2040,24,L,,,,,1.05667742479,,,,25,30,1,,4,,1,1,1,2.02120083506,11,How to live a long life?, Avoid diseases.,6
+2040,25,L,,,,,1.56688037803,,,,25,30,1,,7,,1,1,1,2.64139442516,58,Why watch television?, Show competence.,2
+2040,26,R,,,,,2.19932633774,,,,25,30,1,,6,,1,1,1,3.90256738693,47,Why write a poem?, Express an idea.,2
+2040,27,R,,,,,2.83237426769,,,,25,30,1,,2,,1,1,1,1.28185674812,1,How to express a talent?, Entertain others.,6
+2040,28,R,,,,,3.74169559068,,,,25,30,1,,3,,1,1,1,1.31435066415,9,How to reduce worry?, Plan ahead.,6
+2040,29,L,,,,,1.55799084535,,,,25,30,1,,5,,1,1,1,1.05570498759,59,How to open a browser?, Click a mouse.,4
+2040,30,L,,,,,1.49176129374,,,,25,30,1,,4,,1,1,1,2.14440699523,30,How to consume medicine?, Take pills. ,4
+2040,31,R,,,,,1.0848952957,,,,25,30,1,,9,,1,1,1,1.56809247298,32,Why avoid diseases?, Live a long life.,3
+2040,32,R,,,,,1.0391837335,,,,25,30,1,,1,,1,1,1,1.90520502951,34,Why share ideas?, Show intellect.,3
+2040,33,L,,,,,3.75503125486,,,,25,30,1,,1,,1,1,1,2.57306512708,12,How to avoid diseases?, Kill germs.,5
+2040,34,L,,,,,1.6463953788,,,,25,30,1,,3,,1,1,1,2.13184514969,0,How to give to charity?, Use a camera.,5
+2040,35,L,,,,,2.29339758586,,,,25,30,1,,5,,1,1,1,1.27455844601,33,Why raise a hand?, Participate in class.,1
+2040,36,R,,,,,2.25551259443,,,,25,30,1,,6,,1,1,1,1.11561906968,28,Why stir ingredients?, Mix a cocktail.,1
+2040,37,L,,,,,1.0550529691,,,,25,30,1,,8,,1,1,1,1.31835200434,48,Why enter a classroom?, Attend a school.,2
+2040,38,R,,,,,1.19913808892,,,,25,30,1,,2,,1,1,1,1.98940997805,13,Why lift weights?, Build muscles.,2
+2040,39,R,,,,,1.36859987756,,,,25,30,1,,4,,1,1,1,2.82785081504,10,How to support a cause?, Give to charity.,6
+2040,40,R,,,,,3.45603448722,,,,25,30,1,,7,,1,1,1,3.58983279776,7,How to get a degree?, Attend a school.,6
+2040,41,L,,,,,2.41802197596,,,,25,30,1,,1,,1,1,1,1.19045600178,55,Why provide food?, Help a person.,3
+2040,42,L,,,,,2.60832676706,,,,25,30,1,,6,,1,1,1,1.77390987589,41,Why hold a party?, Feel sociable.,3
+2040,43,R,,,,,1.2619653695,,,,25,30,1,,7,,1,1,1,1.63577009448,22,Why lift a glass?, Drink wine.,1
+2040,44,L,,,,,1.37460068264,,,,25,30,1,,4,,1,1,1,1.68994921858,40,Why crack eggs?, Make breakfast.,1
+2040,45,L,,,,,2.0874543245,,,,25,30,1,,8,,1,1,1,2.57412510272,38,How to make breakfast?, Crack eggs.,4
+2040,46,R,,,,,2.35302597892,,,,25,30,1,,9,,1,1,1,2.65663024644,16,How to watch television?, Use a remote.,4
+2040,47,L,,,,,2.12098115271,,,,25,30,1,,5,,1,1,1,2.21835379444,6,How to show ambition?, Serve alcohol.,5
+2040,48,R,,,,,1.13531507026,,,,25,30,1,,3,,1,1,1,2.05877478798,26,How to get a promotion?, Arrive on time.,5
+2040,49,L,,,,,1.72520638725,,,,25,30,1,,8,,1,1,1,1.4117482457,20,How to make a phone call?, Dial numbers.,4
+2040,50,R,,,,,1.80573756873,,,,25,30,1,,7,,1,1,1,2.93610087869,29,How to make a list?, Throw away trash.,4
+2040,51,R,,,,,2.36368735263,,,,25,30,1,,5,,1,1,1,1.15379006636,53,Why click a mouse?, Open a browser.,1
+2040,52,R,,,,,2.38214027611,,,,25,30,1,,9,,1,1,1,1.17626536001,56,Why follow recipes?, Prepare meals.,1
+2040,53,L,,,,,1.01437969496,,,,25,30,1,,4,,1,1,1,1.9694688445,35,Why make a purchase?, Satisfy a need.,3
+2040,54,L,,,,,3.66015479848,,,,25,30,1,,6,,1,1,1,2.12751926555,21,Why gain knowledge?, Improve oneself.,3
+2040,55,R,,,,,2.99279170367,,,,25,30,1,,2,,1,1,1,2.51976184977,43,Why go shopping?, Make a purchase.,2
+2040,56,R,,,,,1.17927897334,,,,25,30,1,,1,,1,1,1,1.43254950639,42,Why make a phone call?, Contact a friend.,2
+2040,57,L,,,,,1.87372446142,,,,25,30,1,,4,,1,1,1,1.12926727574,50,How to teach others?, Give a lecture.,5
+2040,58,R,,,,,1.32793069103,,,,25,30,1,,2,,1,1,1,1.52015327502,57,How to attend a school?, Enter a classroom.,5
+2040,59,L,,,,,1.40329941463,,,,25,30,1,,9,,1,1,1,3.51682133646,15,How to show humility?, Build muscles.,6
+2040,60,L,,,,,2.60432984618,,,,25,30,1,,8,,1,1,1,1.5894957478,54,How to feel secure?, Save money.,6

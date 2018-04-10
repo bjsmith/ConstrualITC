@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,L,,,,,1.81115511165,,,,,28,1,,5,90,0,1,4,0.724096537632,1,Why wear ties?, Dress formally.,1
+2020,2,L,,,,,1.04214124637,,,,,22,1,,5,90,0,1,4,1.25401987144,11,Why cut paper?, Clip coupons.,1
+2020,3,L,,,,,2.97597315803,,,,,40,1,,5,90,0,1,4,0.911595149941,7,Why watch television?, Show competence.,2
+2020,4,R,,,,,0.900780761247,,,,,27,1,,5,90,0,1,4,0.67217404157,5,Why open a browser?, Write an email.,2
+2020,5,R,,,,,0.704422161278,,,,,31,1,,5,90,0,1,4,1.96054844168,4,How to support a cause?, Give to charity.,6
+2020,6,L,,,,,1.34535386679,,,,,30,1,,5,90,0,1,4,0.551322575337,0,How to show creativity?, Make art.,6
+2020,7,R,,,,,0.500322414595,,,,,24,1,,5,90,0,1,4,1.25212984596,6,How to prepare meals?, Follow recipes.,4
+2020,8,L,,,,,0.783667212189,,,,,38,1,,5,90,0,1,4,0.949621876851,9,How to make breakfast?, Crack eggs.,4
+2020,9,R,,,,,5.28528083963,,,,,25,1,,5,90,0,1,4,0.907189066006,2,How to give to charity?, Use a camera.,5
+2020,10,R,,,,,4.29612441856,,,,,32,1,,5,90,0,1,4,0.530116180464,10,How to get a promotion?, Arrive on time.,5
+2020,11,R,,,,,2.17839086157,,,,,21,1,,5,90,0,1,4,0.844101376903,8,Why build muscles?, Show humility.,3
+2020,12,L,,,,,1.99686475139,,,,,37,1,,5,90,0,1,4,0.618204635446,3,Why show competence?, Pass the time.,3

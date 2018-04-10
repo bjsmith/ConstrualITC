@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2011,1,R,,,,,1.18437815586,,,,25,30,1,,2,,1,2,2,1.30836333228,52,How to consume caffeine?, Press buttons.,4
+2011,2,L,,,,,1.99660474243,,,,25,30,1,,3,,1,2,2,1.73001643177,41,How to write a poem?, Grab a pencil.,4
+2011,3,L,,,,,1.12603288035,,,,25,30,1,,7,,1,2,2,1.31408326846,26,Why teach a class?, Obey laws.,2
+2011,4,R,,,,,2.4240510468,,,,25,30,1,,4,,1,2,2,1.04155763722,47,Why consume medicine?, Reduce pain.,2
+2011,5,R,,,,,2.39781527831,,,,25,30,1,,6,,1,2,2,2.86710979786,24,How to avoid boredom?, Entertain oneself.,6
+2011,6,R,,,,,3.40672798784,,,,25,30,1,,1,,1,2,2,2.94286123192,32,How to improve oneself?, Gain knowledge.,6
+2011,7,L,,,,,2.58041227814,,,,25,30,1,,9,,1,2,2,1.34557506657,18,Why use a brush?, Paint a picture.,1
+2011,8,R,,,,,1.36206982682,,,,25,30,1,,8,,1,2,2,2.53295998149,38,Why dial numbers?, Make a phone call.,1
+2011,9,L,,,,,1.400653951,,,,25,30,1,,5,,1,2,2,1.91801683292,53,Why write an email?, Send a message.,3
+2011,10,L,,,,,1.51426713858,,,,25,30,1,,9,,1,2,2,1.02876715202,59,Why finish a job?, Feel productive.,3
+2011,11,L,,,,,1.10428772238,,,,25,30,1,,8,,1,2,2,1.97086579234,46,How to save money?, Clip coupons.,5
+2011,12,L,,,,,1.5362325099,,,,25,30,1,,4,,1,2,2,4.44726291159,2,How to contact a friend?, Make a phone call.,5
+2011,13,R,,,,,2.09966077768,,,,25,30,1,,3,,1,2,2,1.2506077003,43,Why hold a party?, Feel sociable.,3
+2011,14,L,,,,,2.93676277803,,,,25,30,1,,6,,1,2,2,1.96699022845,44,Why show intelligence?, Impress others.,3
+2011,15,L,,,,,2.6047490257,,,,25,30,1,,1,,1,2,2,1.05509635035,49,How to feel well?, Reduce pain.,6
+2011,16,R,,,,,1.52268256879,,,,25,30,1,,2,,1,2,2,1.38434908555,57,How to impress others?, Show intelligence.,6
+2011,17,L,,,,,1.4283771282,,,,25,30,1,,7,,1,2,2,1.15790828644,39,How to paint a picture?, Use a brush.,4
+2011,18,L,,,,,2.1241299294,,,,25,30,1,,1,,1,2,2,1.85067228715,34,How to consume medicine?, Take pills. ,4
+2011,19,L,,,,,1.24169062417,,,,25,30,1,,8,,1,2,2,2.71152816528,25,How to express doubt?, Use scissors.,5
+2011,20,R,,,,,5.17845919823,,,,25,30,1,,9,,1,2,2,2.66454685318,56,How to make a purchase?, Go shopping.,5
+2011,21,R,,,,,1.46893267266,,,,25,30,1,,5,,1,2,2,1.04591857411,3,Why clap hands?, Give applause.,1
+2011,22,R,,,,,1.05410111466,,,,25,30,1,,4,,1,2,2,1.41205226489,37,Why use chalk?, Get fit.,1
+2011,23,R,,,,,1.15099056393,,,,25,30,1,,6,,1,2,2,3.58930314768,54,Why watch television?, Show competence.,2
+2011,24,R,,,,,2.5030030677,,,,25,30,1,,2,,1,2,2,3.69961218025,31,Why take a picture?, Keep a memory.,2
+2011,25,R,,,,,2.84202210549,,,,25,30,1,,9,,1,2,2,2.99627959281,28,Why paint a picture?, Make art.,2
+2011,26,R,,,,,3.45058778646,,,,25,30,1,,5,,1,2,2,1.43030611708,5,Why make breakfast?, Satisfy hunger.,2
+2011,27,L,,,,,1.9531407649,,,,25,30,1,,2,,1,2,2,2.57765431937,17,Why point a camera?, Take a picture.,1
+2011,28,R,,,,,2.11067115412,,,,25,30,1,,4,,1,2,2,1.41016376876,23,Why cut paper?, Clip coupons.,1
+2011,29,L,,,,,1.74643850544,,,,25,30,1,,1,,1,2,2,1.79410628401,29,How to give to charity?, Use a camera.,5
+2011,30,L,,,,,1.41315732493,,,,25,30,1,,6,,1,2,2,2.09163370353,58,How to write an email?, Open a browser.,5
+2011,31,R,,,,,1.29528138728,,,,25,30,1,,3,,1,2,2,1.0619412339,7,Why reduce pain?, Feel well.,3
+2011,32,L,,,,,2.144108276,,,,25,30,1,,8,,1,2,2,1.01534232484,51,Why build muscles?, Show humility.,3
+2011,33,L,,,,,1.00881137322,,,,25,30,1,,7,,1,2,2,1.43544492234,1,How to participate in class?, Raise a hand.,4
+2011,34,R,,,,,3.22642413157,,,,25,30,1,,5,,1,2,2,1.34827817014,10,How to read articles?, Open a magazine.,4
+2011,35,R,,,,,1.62232807701,,,,25,30,1,,6,,1,2,2,4.96868767276,50,How to live a long life?, Avoid diseases.,6
+2011,36,L,,,,,1.89463681709,,,,25,30,1,,2,,1,2,2,1.48539989433,45,How to feel productive?, Finish a job.,6
+2011,37,R,,,,,2.37920449119,,,,25,30,1,,8,,1,2,2,2.83670507423,11,How to support a cause?, Give to charity.,6
+2011,38,L,,,,,1.22097939424,,,,25,30,1,,4,,1,2,2,1.31250467894,16,How to show creativity?, Make art.,6
+2011,39,R,,,,,2.89583983578,,,,25,30,1,,3,,1,2,2,1.20841465722,8,Why gain knowledge?, Improve oneself.,3
+2011,40,L,,,,,1.8787785081,,,,25,30,1,,9,,1,2,2,1.56630407993,36,Why attend a school?, Get a degree.,3
+2011,41,R,,,,,1.39211887114,,,,25,30,1,,8,,1,2,2,1.77810990868,13,How to make a donation?, Mix a cocktail.,5
+2011,42,L,,,,,2.08543137595,,,,25,30,1,,6,,1,2,2,3.43850364855,35,How to consume alcohol?, Drink wine.,5
+2011,43,R,,,,,1.33049705046,,,,25,30,1,,1,,1,2,2,4.05153451263,0,Why crack eggs?, Make breakfast.,1
+2011,44,R,,,,,4.55921058419,,,,25,30,1,,9,,1,2,2,1.72030169287,22,Why open a bottle?, Consume medicine.,1
+2011,45,L,,,,,1.16689633054,,,,25,30,1,,4,,1,2,2,1.00802118548,21,Why use a camera?, Give to charity.,2
+2011,46,R,,,,,1.40132002897,,,,25,30,1,,5,,1,2,2,1.91270357667,19,Why make a phone call?, Contact a friend.,2
+2011,47,L,,,,,1.71874904843,,,,25,30,1,,2,,1,2,2,1.03413768745,9,How to prepare meals?, Follow recipes.,4
+2011,48,L,,,,,1.98098665268,,,,25,30,1,,7,,1,2,2,1.3631476473,27,How to give applause?, Clap hands.,4
+2011,49,R,,,,,2.93035643838,,,,25,30,1,,2,,1,2,2,1.28436300982,14,How to entertain oneself?, Watch television.,5
+2011,50,L,,,,,1.36564506871,,,,25,30,1,,9,,1,2,2,1.82998023294,6,How to teach others?, Give a lecture.,5
+2011,51,L,,,,,2.10559646948,,,,25,30,1,,1,,1,2,2,2.04912769219,42,Why read articles?, Gain knowledge.,2
+2011,52,R,,,,,1.61645524894,,,,25,30,1,,6,,1,2,2,4.49555074462,20,Why open a browser?, Write an email.,2
+2011,53,R,,,,,2.37250953193,,,,25,30,1,,4,,1,2,2,1.41936958998,33,Why drink coffee?, Consume caffeine.,1
+2011,54,L,,,,,1.08601676567,,,,25,30,1,,3,,1,2,2,2.56469946001,55,Why wear ties?, Dress formally.,1
+2011,55,L,,,,,3.4148848356,,,,25,30,1,,8,,1,2,2,1.45438681243,48,How to show humility?, Build muscles.,6
+2011,56,R,,,,,1.07328318319,,,,25,30,1,,5,,1,2,2,1.62630573849,30,How to satisfy a need?, Make a purchase.,6
+2011,57,L,,,,,1.52771948368,,,,25,30,1,,5,,1,2,2,2.43276188484,15,Why make a purchase?, Satisfy a need.,3
+2011,58,R,,,,,1.52789474874,,,,25,30,1,,7,,1,2,2,1.00707258535,4,Why keep a memory?, Feel nostalgia.,3
+2011,59,L,,,,,2.11337728076,,,,25,30,1,,6,,1,2,2,3.17687804692,12,How to kill germs?, Wash ones hands.,4
+2011,60,R,,,,,1.89128160587,,,,25,30,1,,9,,1,2,2,1.02068746825,40,How to mix a cocktail?, Stir ingredients.,4

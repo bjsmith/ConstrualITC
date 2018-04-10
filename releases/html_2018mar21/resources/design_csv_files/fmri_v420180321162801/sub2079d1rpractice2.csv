@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2079,1,R,,,,,4.82098296077,,,,25,30,1,,1,,1,1,4,0.931995434309,8,Why make a list?, Plan ahead.,2
+2079,2,L,,,,,3.09053327363,,,,25,30,1,,5,,1,1,4,0.687446653795,7,Why kill germs?, Avoid diseases.,2
+2079,3,L,,,,,2.90319216183,,,,25,30,1,,7,,1,1,4,0.874180656389,5,How to entertain others?, Write a song.,5
+2079,4,L,,,,,1.6776404272,,,,25,30,1,,6,,1,1,4,1.15704295582,6,How to make a donation?, Mix a cocktail.,5
+2079,5,R,,,,,0.907980256436,,,,25,30,1,,9,,1,1,4,0.63305379695,4,Why sign ones name?, Write a check.,1
+2079,6,L,,,,,0.927842390565,,,,25,30,1,,2,,1,1,4,2.01443611934,1,Why cut paper?, Clip coupons.,1
+2079,7,L,,,,,0.985731638768,,,,25,30,1,,4,,1,1,4,0.88835278089,2,Why entertain others?, Express a talent.,3
+2079,8,L,,,,,0.806067935657,,,,25,30,1,,8,,1,1,4,1.37874240497,10,Why plan ahead?, Reduce worry.,3
+2079,9,R,,,,,2.64713902475,,,,25,30,1,,9,,1,1,4,0.969205266375,3,How to lift weights?, Fasten seatbelt.,4
+2079,10,R,,,,,0.72175945588,,,,25,30,1,,2,,1,1,4,0.556861824725,0,How to consume medicine?, Take pills. ,4
+2079,11,R,,,,,2.8773949565,,,,25,30,1,,5,,1,1,4,0.892227750002,11,How to spread joy?, Get a job.,6
+2079,12,R,,,,,0.658790691663,,,,25,30,1,,8,,1,1,4,0.924451926208,9,How to show intellect?, Share ideas.,6

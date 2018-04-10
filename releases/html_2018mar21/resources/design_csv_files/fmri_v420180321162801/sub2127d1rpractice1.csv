@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2127,1,L,,,,,0.574325585768,,,,,22,1,,5,90,0,1,3,0.520889962412,7,Why clap hands?, Give applause.,1
+2127,2,R,,,,,1.51210204038,,,,,26,1,,5,90,0,1,3,1.2175797998,0,Why take aspirin?, Serve alcohol.,1
+2127,3,R,,,,,2.21936381657,,,,,31,1,,5,90,0,1,3,0.557261229116,1,How to contact a friend?, Make a phone call.,5
+2127,4,R,,,,,4.96222768537,,,,,39,1,,5,90,0,1,3,1.02894801608,8,How to provide food?, Prepare meals.,5
+2127,5,L,,,,,1.17626051665,,,,,30,1,,5,90,0,1,3,0.533154912022,10,Why satisfy hunger?, Show an ability.,3
+2127,6,R,,,,,0.871556520936,,,,,32,1,,5,90,0,1,3,0.510855837477,11,Why show competence?, Pass the time.,3
+2127,7,L,,,,,4.00509660895,,,,,28,1,,5,90,0,1,3,1.88912554043,9,How to read articles?, Open a magazine.,4
+2127,8,R,,,,,1.94023365999,,,,,36,1,,5,90,0,1,3,0.822350654201,6,How to write a song?, Play piano.,4
+2127,9,L,,,,,2.32527026038,,,,,29,1,,5,90,0,1,3,1.62057739683,4,Why enter a classroom?, Attend a school.,2
+2127,10,L,,,,,1.67560510116,,,,,40,1,,5,90,0,1,3,0.561457414948,3,Why write a poem?, Express an idea.,2
+2127,11,L,,,,,0.535329035122,,,,,35,1,,5,90,0,1,3,0.823826663017,5,How to show an ability?, Satisfy hunger.,6
+2127,12,R,,,,,1.98076625172,,,,,20,1,,5,90,0,1,3,1.68237735475,2,How to feel sociable?, Hold a party.,6

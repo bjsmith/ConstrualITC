@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2113,1,R,,,,,1.22901067662,,,,25,30,1,,4,,1,1,4,1.16276552445,9,How to consume alcohol?, Drink wine.,5
+2113,2,R,,,,,5.17521963277,,,,25,30,1,,1,,1,1,4,0.590995269159,5,How to provide food?, Prepare meals.,5
+2113,3,L,,,,,1.20298709449,,,,25,30,1,,5,,1,1,4,1.25940190126,8,Why use a remote?, Watch television.,1
+2113,4,L,,,,,0.539213417969,,,,25,30,1,,8,,1,1,4,0.870809457212,1,Why open a magazine?, Read articles.,1
+2113,5,R,,,,,1.71452472712,,,,25,30,1,,3,,1,1,4,0.795861609929,7,How to make breakfast?, Crack eggs.,4
+2113,6,R,,,,,1.88599997108,,,,25,30,1,,7,,1,1,4,0.591621457983,0,How to dress formally?, Wear ties. ,4
+2113,7,R,,,,,4.01867786345,,,,25,30,1,,6,,1,1,4,1.72557653843,4,Why watch television?, Show competence.,2
+2113,8,L,,,,,0.829109799654,,,,25,30,1,,9,,1,1,4,1.11519809276,6,Why dress formally?, Get a promotion.,2
+2113,9,L,,,,,2.9693736958,,,,25,30,1,,3,,1,1,4,0.685666694454,10,Why make art?, Show creativity.,3
+2113,10,L,,,,,0.927574692161,,,,25,30,1,,6,,1,1,4,0.907166409263,2,Why show appreciation?, Spread joy.,3
+2113,11,L,,,,,2.47470676318,,,,25,30,1,,2,,1,1,4,1.67808520176,11,How to show cleanliness?, Write an email.,6
+2113,12,R,,,,,1.08584965082,,,,25,30,1,,7,,1,1,4,1.27509356178,3,How to feel nostalgia?, Keep a memory.,6

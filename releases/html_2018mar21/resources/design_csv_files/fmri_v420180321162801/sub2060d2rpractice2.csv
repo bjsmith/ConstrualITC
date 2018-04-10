@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2060,1,L,,,,,1.13972487784,,,,,40,1,,5,90,0,2,4,0.733936653466,3,How to write an email?, Open a browser.,5
+2060,2,R,,,,,1.99737932515,,,,,26,1,,5,90,0,2,4,0.636596650765,2,How to make a donation?, Mix a cocktail.,5
+2060,3,R,,,,,3.5024270133,,,,,31,1,,5,90,0,2,4,1.23810545054,1,Why raise a hand?, Participate in class.,1
+2060,4,L,,,,,1.66758974895,,,,,27,1,,5,90,0,2,4,0.657804830431,0,Why click a mouse?, Open a browser.,1

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2181,1,R,,,,,1.51231651998,,,,25,30,1,,1,,1,1,4,1.1257341086,9,How to feel secure?, Save money.,6
+2181,2,L,,,,,2.12056041189,,,,25,30,1,,8,,1,1,4,0.691573744763,8,How to feel well?, Reduce pain.,6
+2181,3,L,,,,,4.19029274542,,,,25,30,1,,6,,1,1,4,1.7908869548,10,Why take aspirin?, Serve alcohol.,1
+2181,4,R,,,,,1.96394091665,,,,25,30,1,,7,,1,1,4,0.906893730626,2,Why use credit cards?, Go shopping.,1
+2181,5,R,,,,,4.13365269436,,,,25,30,1,,2,,1,1,4,0.508728293944,3,Why lift weights?, Build muscles.,2
+2181,6,L,,,,,0.770451180118,,,,25,30,1,,4,,1,1,4,1.10802255182,11,Why dress formally?, Get a promotion.,2
+2181,7,R,,,,,0.787269687428,,,,25,30,1,,3,,1,1,4,1.06565687387,0,How to make a list?, Throw away trash.,4
+2181,8,L,,,,,0.881157467105,,,,25,30,1,,9,,1,1,4,0.920980580577,6,How to mix a cocktail?, Stir ingredients.,4
+2181,9,L,,,,,2.12516162724,,,,25,30,1,,2,,1,1,4,0.694690402755,5,Why avoid diseases?, Live a long life.,3
+2181,10,L,,,,,0.685769449198,,,,25,30,1,,8,,1,1,4,0.673818530155,4,Why gain knowledge?, Improve oneself.,3
+2181,11,R,,,,,2.31894002611,,,,25,30,1,,4,,1,1,4,0.936693848321,7,How to plan ahead?, Make a list.,5
+2181,12,R,,,,,2.13141849115,,,,25,30,1,,9,,1,1,4,0.923694341699,1,How to provide food?, Prepare meals.,5

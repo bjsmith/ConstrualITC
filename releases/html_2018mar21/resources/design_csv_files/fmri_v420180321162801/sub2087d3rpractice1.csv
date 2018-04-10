@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2087,1,R,,,,,0.850468118699,,,,,29,1,,5,90,0,3,3,1.02376251452,3,How to make breakfast?, Crack eggs.,4
+2087,2,R,,,,,2.43239621388,,,,,38,1,,5,90,0,3,3,0.66006694109,1,How to drink wine?, Open a bottle. ,4
+2087,3,L,,,,,1.69640974484,,,,,28,1,,5,90,0,3,3,1.0431428105,2,How to feel connected?, Contact a friend.,6
+2087,4,L,,,,,3.43210133489,,,,,23,1,,5,90,0,3,3,1.08542589034,0,How to feel well?, Reduce pain.,6

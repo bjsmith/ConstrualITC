@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2184,1,L,,,,,3.25849157801,,,,,23,1,,5,90,0,3,4,0.578643449484,2,Why share ideas?, Show intellect.,3
+2184,2,R,,,,,1.14211158876,,,,,24,1,,5,90,0,3,4,0.848289318637,0,Why hold a party?, Feel sociable.,3
+2184,3,R,,,,,1.67797693117,,,,,35,1,,5,90,0,3,4,2.56512773652,1,How to participate in class?, Raise a hand.,4
+2184,4,L,,,,,2.36527729189,,,,,37,1,,5,90,0,3,4,0.564391224409,3,How to consume caffeine?, Press buttons.,4

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2038,1,L,,,,,0.697504186764,,,,25,30,1,,5,,1,1,3,1.18764787789,10,How to open a browser?, Click a mouse.,4
+2038,2,L,,,,,1.90868152887,,,,25,30,1,,6,,1,1,3,0.549852233646,4,How to prepare meals?, Follow recipes.,4
+2038,3,R,,,,,3.67424445191,,,,25,30,1,,7,,1,1,3,1.42268451425,8,Why sign ones name?, Write a check.,1
+2038,4,L,,,,,3.2176033379,,,,25,30,1,,2,,1,1,3,0.980966730237,3,Why open a magazine?, Read articles.,1
+2038,5,R,,,,,2.012257275,,,,25,30,1,,1,,1,1,3,0.85606948642,1,How to achieve success?, Get a promotion.,6
+2038,6,R,,,,,3.1686121068,,,,25,30,1,,8,,1,1,3,0.694526043188,11,How to improve oneself?, Gain knowledge.,6
+2038,7,R,,,,,0.861911448991,,,,25,30,1,,9,,1,1,3,1.55636895545,7,Why teach a class?, Obey laws.,2
+2038,8,L,,,,,1.92029162054,,,,25,30,1,,4,,1,1,3,1.73140868953,2,Why open a browser?, Write an email.,2
+2038,9,L,,,,,1.70488319121,,,,25,30,1,,2,,1,1,3,0.991092856602,0,How to avoid diseases?, Kill germs.,5
+2038,10,R,,,,,0.927630147138,,,,25,30,1,,8,,1,1,3,0.527162943636,6,How to gain knowledge?, Read articles.,5
+2038,11,R,,,,,2.35472842969,,,,25,30,1,,7,,1,1,3,1.62190353374,9,Why build muscles?, Show humility.,3
+2038,12,L,,,,,2.34899047956,,,,25,30,1,,4,,1,1,3,0.667093152837,5,Why share ideas?, Show intellect.,3

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2105,1,R,,,,,1.42574321645,,,,25,30,1,,1,,1,1,4,1.98039627533,6,How to give a lecture?, Brush ones hair.,4
+2105,2,L,,,,,1.94985126708,,,,25,30,1,,7,,1,1,4,0.865235477069,4,How to make a phone call?, Dial numbers.,4
+2105,3,L,,,,,0.653389766442,,,,25,30,1,,5,,1,1,4,1.21898132413,10,Why plan ahead?, Reduce worry.,3
+2105,4,L,,,,,0.790300380437,,,,25,30,1,,4,,1,1,4,0.534673558186,0,Why contact a friend?, Feel connected.,3
+2105,5,R,,,,,3.70438561411,,,,25,30,1,,8,,1,1,4,0.529268008727,11,How to spread joy?, Get a job.,6
+2105,6,L,,,,,1.61792575245,,,,25,30,1,,6,,1,1,4,0.580146505418,2,How to achieve success?, Get a promotion.,6
+2105,7,R,,,,,0.870864205925,,,,25,30,1,,9,,1,1,4,1.02365988469,7,How to entertain others?, Write a song.,5
+2105,8,R,,,,,0.781597148164,,,,25,30,1,,2,,1,1,4,0.669989199056,8,How to provide food?, Prepare meals.,5
+2105,9,R,,,,,1.95161604751,,,,25,30,1,,6,,1,1,4,0.594139537278,9,Why wash ones hands?, Kill germs.,1
+2105,10,L,,,,,6.26941578949,,,,25,30,1,,4,,1,1,4,1.82342616859,3,Why open a bottle?, Consume medicine.,1
+2105,11,L,,,,,1.57521212252,,,,25,30,1,,8,,1,1,4,1.47523558549,1,Why write a poem?, Express an idea.,2
+2105,12,R,,,,,1.46807844071,,,,25,30,1,,5,,1,1,4,0.698943732918,5,Why enter a classroom?, Attend a school.,2

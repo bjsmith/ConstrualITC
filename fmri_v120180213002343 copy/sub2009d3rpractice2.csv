@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2009,1,1,,,,,4.08447433474,,,,25,30,1,,1,,1,3,4,1.47261458814,0,How to show an ability?, Satisfy hunger.,6
+2009,2,2,,,,,0.750700454539,,,,25,30,1,,8,,1,3,4,1.32422315567,0,How to avoid mistakes?, Obey laws.,6
+2009,3,2,,,,,1.93143869355,,,,25,30,1,,5,,1,3,4,2.20776584405,1,Why provide food?, Help a person.,3
+2009,4,1,,,,,1.38826040779,,,,25,30,1,,7,,1,3,4,3.41737895991,0,Why make a purchase?, Satisfy a need.,3

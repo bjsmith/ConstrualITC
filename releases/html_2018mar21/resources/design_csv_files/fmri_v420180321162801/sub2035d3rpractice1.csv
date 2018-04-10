@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2035,1,L,,,,,1.28553479149,,,,,21,1,,5,90,0,3,3,0.534514242095,3,How to show ambition?, Serve alcohol.,5
+2035,2,L,,,,,1.13247967746,,,,,36,1,,5,90,0,3,3,0.648235355613,1,How to make a purchase?, Go shopping.,5
+2035,3,R,,,,,1.29635867294,,,,,25,1,,5,90,0,3,3,1.06465859216,0,How to read articles?, Open a magazine.,4
+2035,4,R,,,,,3.49863455293,,,,,40,1,,5,90,0,3,3,1.05989909443,2,How to open a browser?, Click a mouse.,4

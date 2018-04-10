@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2002,1,2,,,,,0.844130022972,,,,,40,1,,5,90,0,1,4,1.12886624441,0,How to make a phone call?, Dial numbers.,4
+2002,2,1,,,,,0.656248453234,,,,,23,1,,5,90,0,1,4,1.25445967353,0,Why give a lecture?, Teach others.,2
+2002,3,2,,,,,4.49005229069,,,,,25,1,,5,90,0,1,4,0.867866315588,0,How to teach others?, Give a lecture.,5
+2002,4,1,,,,,2.55120931762,,,,,32,1,,5,90,0,1,4,0.969940205647,0,Why turn a doorknob?, Enter a classroom.,1
+2002,5,2,,,,,1.26482914441,,,,,22,1,,5,90,0,1,4,0.637080182192,0,How to show an ability?, Satisfy hunger.,6
+2002,6,2,,,,,0.817598436192,,,,,20,1,,5,90,0,1,4,2.39667025265,0,Why build muscles?, Show humility.,3
+2002,7,1,,,,,2.32853493905,,,,,29,1,,5,90,0,1,4,1.05460556528,0,Why take aspirin?, Serve alcohol.,1
+2002,8,2,,,,,3.75031541715,,,,,36,1,,5,90,0,1,4,0.632628970209,0,How to write a poem?, Grab a pencil.,4
+2002,9,2,,,,,0.521069572376,,,,,37,1,,5,90,0,1,4,0.511204105163,1,How to feel secure?, Save money.,6
+2002,10,1,,,,,0.776730119483,,,,,35,1,,5,90,0,1,4,1.16923835529,0,Why hold a party?, Feel sociable.,3
+2002,11,1,,,,,4.5691782762,,,,,34,1,,5,90,0,1,4,0.596855443996,0,How to show appreciation?, Give applause.,5
+2002,12,1,,,,,1.4493833831,,,,,26,1,,5,90,0,1,4,1.32912178094,0,Why paint a picture?, Make art.,2

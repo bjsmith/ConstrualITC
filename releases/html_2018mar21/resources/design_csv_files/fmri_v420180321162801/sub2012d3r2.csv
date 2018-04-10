@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,L,,,,,3.17485402032,,,,,27,1,,5,90,0,3,2,1.45362297077,10,How to feel productive?, Finish a job.,6
+2012,2,R,,,,,1.74936335757,,,,,29,1,,5,90,0,3,2,1.97919719423,56,How to achieve success?, Get a promotion.,6
+2012,3,R,,,,,2.50354324605,,,,,25,1,,5,90,0,3,2,4.11681695223,1,How to reduce pain?, Consume medicine.,5
+2012,4,L,,,,,1.22777555816,,,,,32,1,,5,90,0,3,2,3.58193470417,12,How to provide food?, Prepare meals.,5
+2012,5,L,,,,,1.19733466706,,,,,35,1,,5,90,0,3,2,1.29397997905,6,How to go shopping?, Use credit cards.,4
+2012,6,L,,,,,1.32614065448,,,,,37,1,,5,90,0,3,2,2.24239263805,48,How to take a picture?, Point a camera.,4
+2012,7,L,,,,,1.45002678594,,,,,20,1,,5,90,0,3,2,2.74255323651,16,Why consume caffeine?, Stay alert.,2
+2012,8,R,,,,,1.31708986587,,,,,34,1,,5,90,0,3,2,1.66019451174,57,Why clip coupons?, Save money.,2
+2012,9,R,,,,,1.39709848058,,,,,23,1,,5,90,0,3,2,1.04755201121,32,Why dial numbers?, Make a phone call.,1
+2012,10,L,,,,,2.27450817166,,,,,33,1,,5,90,0,3,2,1.9516520675,14,Why raise a hand?, Participate in class.,1
+2012,11,R,,,,,1.14425261446,,,,,36,1,,5,90,0,3,2,1.74282067027,53,Why build muscles?, Show humility.,3
+2012,12,R,,,,,1.31944755673,,,,,31,1,,5,90,0,3,2,3.25590038969,59,Why show courtesy?, Make a friend.,3
+2012,13,L,,,,,2.82197038223,,,,,38,1,,5,90,0,3,2,1.53420423398,45,Why drink coffee?, Consume caffeine.,1
+2012,14,R,,,,,1.04240481018,,,,,39,1,,5,90,0,3,2,1.14806661041,51,Why crack eggs?, Make breakfast.,1
+2012,15,L,,,,,3.00950470456,,,,,24,1,,5,90,0,3,2,2.64356151157,36,How to make a list?, Throw away trash.,4
+2012,16,R,,,,,3.67060097627,,,,,28,1,,5,90,0,3,2,1.40864141852,35,How to open a browser?, Click a mouse.,4
+2012,17,L,,,,,1.73785955834,,,,,21,1,,5,90,0,3,2,2.75514443848,58,Why give applause?, Show appreciation.,2
+2012,18,L,,,,,1.17256821535,,,,,40,1,,5,90,0,3,2,1.29686929675,13,Why enter a classroom?, Attend a school.,2
+2012,19,R,,,,,1.93416871409,,,,,30,1,,5,90,0,3,2,1.18070773568,19,How to spread joy?, Get a job.,6
+2012,20,L,,,,,2.72583254245,,,,,22,1,,5,90,0,3,2,1.69106752868,15,How to spread knowledge?, Teach others.,6
+2012,21,R,,,,,1.65556464006,,,,,36,1,,5,90,0,3,2,1.55744576992,7,Why avoid diseases?, Live a long life.,3
+2012,22,L,,,,,1.99852188727,,,,,29,1,,5,90,0,3,2,1.20356836677,17,Why make art?, Show creativity.,3
+2012,23,R,,,,,3.81470249619,,,,,33,1,,5,90,0,3,2,2.13600497132,55,How to consume alcohol?, Drink wine.,5
+2012,24,R,,,,,1.43944755861,,,,,35,1,,5,90,0,3,2,1.40089578083,50,How to show intelligence?, Participate in class.,5
+2012,25,R,,,,,1.06807588178,,,,,25,1,,5,90,0,3,2,1.80579159748,4,Why give to charity?, Support a cause.,3
+2012,26,L,,,,,1.129040723,,,,,34,1,,5,90,0,3,2,1.91772593231,23,Why show competence?, Pass the time.,3
+2012,27,L,,,,,3.61429788077,,,,,22,1,,5,90,0,3,2,1.27978296185,27,Why open a browser?, Write an email.,2
+2012,28,R,,,,,1.10018876804,,,,,31,1,,5,90,0,3,2,1.81754588538,2,Why go shopping?, Make a purchase.,2
+2012,29,L,,,,,4.27949905143,,,,,28,1,,5,90,0,3,2,1.55701304937,9,How to support a cause?, Give to charity.,6
+2012,30,R,,,,,1.22886685185,,,,,23,1,,5,90,0,3,2,3.93200892101,33,How to impress others?, Show intelligence.,6
+2012,31,R,,,,,1.10742697315,,,,,30,1,,5,90,0,3,2,2.15879948403,29,Why use credit cards?, Go shopping.,1
+2012,32,R,,,,,1.52009123156,,,,,27,1,,5,90,0,3,2,4.84704702375,28,Why open a bottle?, Consume medicine.,1
+2012,33,L,,,,,1.70882523025,,,,,21,1,,5,90,0,3,2,1.24060007551,39,How to lift weights?, Fasten seatbelt.,4
+2012,34,L,,,,,1.09947626859,,,,,24,1,,5,90,0,3,2,1.1167647269,54,How to write a poem?, Grab a pencil.,4
+2012,35,L,,,,,1.23838150919,,,,,26,1,,5,90,0,3,2,1.36115259894,34,How to avoid diseases?, Kill germs.,5
+2012,36,R,,,,,5.26503350643,,,,,32,1,,5,90,0,3,2,1.57304445189,25,How to give to charity?, Use a camera.,5
+2012,37,R,,,,,2.9711790429,,,,,39,1,,5,90,0,3,2,1.87971889882,46,How to gain knowledge?, Read articles.,5
+2012,38,L,,,,,4.5303960499,,,,,20,1,,5,90,0,3,2,1.42974059019,38,How to make art?, Paint a picture.,5
+2012,39,L,,,,,1.39928745351,,,,,40,1,,5,90,0,3,2,4.10210188707,26,Why write a song?, Seek advice.,2
+2012,40,R,,,,,1.11101259078,,,,,37,1,,5,90,0,3,2,1.34885096718,0,Why read articles?, Gain knowledge.,2
+2012,41,L,,,,,1.13543053446,,,,,38,1,,5,90,0,3,2,1.27102380829,31,Why take aspirin?, Serve alcohol.,1
+2012,42,R,,,,,1.26623794065,,,,,40,1,,5,90,0,3,2,1.41915872819,37,Why wear ties?, Dress formally.,1
+2012,43,L,,,,,3.83084405428,,,,,29,1,,5,90,0,3,2,1.33313636519,24,Why get a promotion?, Achieve success.,3
+2012,44,L,,,,,1.65674728899,,,,,24,1,,5,90,0,3,2,2.05407567495,21,Why reduce pain?, Feel well.,3
+2012,45,R,,,,,1.60763732048,,,,,34,1,,5,90,0,3,2,2.96878114065,43,How to feel nostalgia?, Keep a memory.,6
+2012,46,L,,,,,2.809768442,,,,,39,1,,5,90,0,3,2,3.91008824233,3,How to avoid boredom?, Entertain oneself.,6
+2012,47,R,,,,,1.91824069854,,,,,32,1,,5,90,0,3,2,1.03023439997,20,How to write a check?, Sign ones name.,4
+2012,48,R,,,,,1.03235756572,,,,,31,1,,5,90,0,3,2,1.10361807547,42,How to consume medicine?, Take pills. ,4
+2012,49,L,,,,,1.18710113735,,,,,22,1,,5,90,0,3,2,1.09927635895,11,How to save money?, Clip coupons.,5
+2012,50,L,,,,,1.59910233563,,,,,25,1,,5,90,0,3,2,1.75897980519,8,How to teach others?, Give a lecture.,5
+2012,51,R,,,,,1.42471322645,,,,,27,1,,5,90,0,3,2,1.1635525039,47,Why attend a school?, Get a degree.,3
+2012,52,R,,,,,1.68102740929,,,,,23,1,,5,90,0,3,2,2.00034845251,5,Why plan ahead?, Reduce worry.,3
+2012,53,R,,,,,1.7750075466,,,,,26,1,,5,90,0,3,2,4.43664100554,44,Why paint a picture?, Make art.,2
+2012,54,L,,,,,3.17281216801,,,,,36,1,,5,90,0,3,2,2.34997567262,41,Why drink wine?, Consume alcohol.,2
+2012,55,R,,,,,2.11356783327,,,,,20,1,,5,90,0,3,2,1.46719065486,52,How to watch television?, Use a remote.,4
+2012,56,R,,,,,3.3893683754,,,,,33,1,,5,90,0,3,2,1.0972205057,49,How to clip coupons?, Cut paper.,4
+2012,57,L,,,,,1.95304470224,,,,,37,1,,5,90,0,3,2,1.14591303982,22,Why cut paper?, Clip coupons.,1
+2012,58,L,,,,,1.14842623135,,,,,35,1,,5,90,0,3,2,1.85121979446,18,Why throw away trash?, Make a list.,1
+2012,59,L,,,,,1.50221848215,,,,,28,1,,5,90,0,3,2,3.07681639692,30,How to satisfy a need?, Make a purchase.,6
+2012,60,R,,,,,1.97575534412,,,,,21,1,,5,90,0,3,2,2.14493241575,40,How to show intellect?, Share ideas.,6

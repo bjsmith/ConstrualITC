@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2002,1,R,,,,,0.844130022972,,,,,40,1,,5,90,0,1,4,1.12886624441,8,How to write a song?, Play piano.,4
+2002,2,L,,,,,0.656248453234,,,,,23,1,,5,90,0,1,4,1.25445967353,3,How to kill germs?, Wash ones hands.,4
+2002,3,R,,,,,4.49005229069,,,,,25,1,,5,90,0,1,4,0.867866315588,5,How to entertain others?, Write a song.,5
+2002,4,L,,,,,2.55120931762,,,,,32,1,,5,90,0,1,4,0.969940205647,11,How to plan ahead?, Make a list.,5
+2002,5,R,,,,,1.26482914441,,,,,22,1,,5,90,0,1,4,0.637080182192,2,How to avoid mistakes?, Obey laws.,6
+2002,6,R,,,,,0.817598436192,,,,,20,1,,5,90,0,1,4,2.39667025265,1,How to express a talent?, Entertain others.,6
+2002,7,L,,,,,2.32853493905,,,,,29,1,,5,90,0,1,4,1.05460556528,6,Why point a camera?, Take a picture.,1
+2002,8,R,,,,,3.75031541715,,,,,36,1,,5,90,0,1,4,0.632628970209,4,Why take aspirin?, Serve alcohol.,1
+2002,9,R,,,,,0.521069572376,,,,,37,1,,5,90,0,1,4,0.511204105163,10,Why satisfy hunger?, Show an ability.,3
+2002,10,L,,,,,0.776730119483,,,,,35,1,,5,90,0,1,4,1.16923835529,7,Why save money?, Get fit.,3
+2002,11,L,,,,,4.5691782762,,,,,34,1,,5,90,0,1,4,0.596855443996,0,Why dress formally?, Get a promotion.,2
+2002,12,L,,,,,1.4493833831,,,,,26,1,,5,90,0,1,4,1.32912178094,9,Why lift weights?, Build muscles.,2

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2168,1,L,,,,,3.26146513817,,,,,23,1,,5,90,0,1,4,0.501823771844,10,Why keep a memory?, Feel nostalgia.,3
+2168,2,L,,,,,0.676600410896,,,,,37,1,,5,90,0,1,4,1.31881372568,0,Why show intelligence?, Impress others.,3
+2168,3,R,,,,,3.25412275494,,,,,27,1,,5,90,0,1,4,0.81725494275,11,How to write an email?, Open a browser.,5
+2168,4,R,,,,,2.51114835736,,,,,26,1,,5,90,0,1,4,1.41261325685,3,How to make a donation?, Mix a cocktail.,5
+2168,5,R,,,,,1.86629602582,,,,,33,1,,5,90,0,1,4,0.693367486855,9,How to live a long life?, Avoid diseases.,6
+2168,6,L,,,,,2.89001766646,,,,,30,1,,5,90,0,1,4,0.910917079664,6,How to express a talent?, Entertain others.,6
+2168,7,L,,,,,1.03354102954,,,,,36,1,,5,90,0,1,4,0.763087519841,2,Why raise a hand?, Participate in class.,1
+2168,8,L,,,,,2.18286028199,,,,,35,1,,5,90,0,1,4,0.936917306706,4,Why use credit cards?, Go shopping.,1
+2168,9,R,,,,,2.19891783781,,,,,40,1,,5,90,0,1,4,1.24206421403,5,Why lift weights?, Build muscles.,2
+2168,10,R,,,,,1.21167874134,,,,,25,1,,5,90,0,1,4,0.977757088447,7,Why take a picture?, Keep a memory.,2
+2168,11,R,,,,,1.37926095511,,,,,28,1,,5,90,0,1,4,0.651541178694,8,How to open a browser?, Click a mouse.,4
+2168,12,L,,,,,1.15862801921,,,,,24,1,,5,90,0,1,4,1.01160307285,1,How to write a check?, Sign ones name.,4

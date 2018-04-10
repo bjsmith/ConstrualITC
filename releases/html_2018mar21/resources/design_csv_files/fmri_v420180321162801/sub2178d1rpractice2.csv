@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2178,1,L,,,,,0.568320113368,,,,,40,1,,5,90,0,1,4,0.56044998552,1,Why clap hands?, Give applause.,1
+2178,2,R,,,,,6.82547022342,,,,,35,1,,5,90,0,1,4,1.06279467207,0,Why stir ingredients?, Mix a cocktail.,1
+2178,3,R,,,,,2.13249297436,,,,,25,1,,5,90,0,1,4,0.684330020096,2,Why plan ahead?, Reduce worry.,3
+2178,4,L,,,,,0.565524951239,,,,,29,1,,5,90,0,1,4,0.591171641485,3,Why make a purchase?, Satisfy a need.,3
+2178,5,L,,,,,3.34875922543,,,,,32,1,,5,90,0,1,4,0.522906331338,9,How to spread joy?, Get a job.,6
+2178,6,L,,,,,1.80477311024,,,,,22,1,,5,90,0,1,4,0.835540205612,11,How to satisfy a need?, Make a purchase.,6
+2178,7,R,,,,,2.01625125457,,,,,24,1,,5,90,0,1,4,0.649109709982,6,Why lift weights?, Build muscles.,2
+2178,8,L,,,,,1.61970500459,,,,,20,1,,5,90,0,1,4,1.59045660235,8,Why use a camera?, Give to charity.,2
+2178,9,R,,,,,0.672563300196,,,,,34,1,,5,90,0,1,4,1.25901982636,10,How to write a poem?, Grab a pencil.,4
+2178,10,R,,,,,0.726875076117,,,,,39,1,,5,90,0,1,4,1.82395394435,4,How to clip coupons?, Cut paper.,4
+2178,11,L,,,,,1.97048597154,,,,,27,1,,5,90,0,1,4,0.799847442628,7,How to provide food?, Prepare meals.,5
+2178,12,R,,,,,2.42019683196,,,,,38,1,,5,90,0,1,4,1.20336905843,5,How to gain knowledge?, Read articles.,5

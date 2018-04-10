@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2136,1,L,,,,,1.7898545803,,,,,31,1,,5,90,0,1,4,1.2842795227,0,Why entertain others?, Express a talent.,3
+2136,2,L,,,,,1.97305303839,,,,,23,1,,5,90,0,1,4,0.797861548497,2,Why reduce pain?, Feel well.,3
+2136,3,R,,,,,3.72453889312,,,,,38,1,,5,90,0,1,4,1.88314678461,6,How to satisfy a need?, Make a purchase.,6
+2136,4,R,,,,,1.00479719982,,,,,24,1,,5,90,0,1,4,0.76382677493,7,How to avoid boredom?, Entertain oneself.,6
+2136,5,L,,,,,1.44353941655,,,,,26,1,,5,90,0,1,4,0.735582535228,8,Why use credit cards?, Go shopping.,1
+2136,6,L,,,,,1.81480821325,,,,,32,1,,5,90,0,1,4,0.600243024894,5,Why throw away trash?, Make a list.,1
+2136,7,R,,,,,0.650922331354,,,,,39,1,,5,90,0,1,4,0.697789436975,4,Why consume medicine?, Reduce pain.,2
+2136,8,R,,,,,4.61605169378,,,,,27,1,,5,90,0,1,4,1.02669495047,1,Why read articles?, Gain knowledge.,2
+2136,9,L,,,,,3.22230042602,,,,,21,1,,5,90,0,1,4,1.9022739264,11,How to express doubt?, Use scissors.,5
+2136,10,L,,,,,0.626422549239,,,,,20,1,,5,90,0,1,4,1.29976814016,3,How to gain knowledge?, Read articles.,5
+2136,11,R,,,,,1.06448776356,,,,,29,1,,5,90,0,1,4,0.568955399627,10,How to read articles?, Open a magazine.,4
+2136,12,R,,,,,1.50039281755,,,,,33,1,,5,90,0,1,4,0.538133137487,9,How to take a picture?, Point a camera.,4

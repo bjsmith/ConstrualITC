@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,L,,,,,4.96999504453,,,,25,30,1,,8,,1,1,3,1.53917208918,2,How to feel secure?, Save money.,6
+2028,2,R,,,,,0.620637156257,,,,25,30,1,,2,,1,1,3,0.620659840202,8,How to reduce worry?, Plan ahead.,6
+2028,3,L,,,,,1.06636394547,,,,25,30,1,,1,,1,1,3,0.605643232311,3,Why make a purchase?, Satisfy a need.,3
+2028,4,R,,,,,0.541084860456,,,,25,30,1,,9,,1,1,3,1.19459982818,1,Why show appreciation?, Spread joy.,3
+2028,5,R,,,,,1.35773398981,,,,25,30,1,,6,,1,1,3,0.521922373097,4,Why take aspirin?, Serve alcohol.,1
+2028,6,L,,,,,0.860869426561,,,,25,30,1,,5,,1,1,3,1.09490010183,0,Why use credit cards?, Go shopping.,1
+2028,7,R,,,,,1.24799895005,,,,25,30,1,,7,,1,1,3,1.06577490024,5,How to make a phone call?, Dial numbers.,4
+2028,8,R,,,,,6.96299939351,,,,25,30,1,,3,,1,1,3,1.11339950648,9,How to watch television?, Use a remote.,4
+2028,9,R,,,,,1.23103279627,,,,25,30,1,,8,,1,1,3,0.838991946805,10,How to build muscles?, Lift weights.,5
+2028,10,L,,,,,2.62995419223,,,,25,30,1,,7,,1,1,3,2.60564315534,11,How to make a donation?, Mix a cocktail.,5
+2028,11,L,,,,,0.860678814888,,,,25,30,1,,4,,1,1,3,0.583778609849,6,Why write a song?, Seek advice.,2
+2028,12,L,,,,,1.38892690078,,,,25,30,1,,2,,1,1,3,0.519689409542,7,Why drink wine?, Consume alcohol.,2

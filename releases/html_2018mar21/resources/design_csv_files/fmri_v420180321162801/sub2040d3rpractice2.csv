@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2040,1,L,,,,,0.623889982942,,,,,26,1,,5,90,0,3,4,1.08888376674,1,Why entertain others?, Express a talent.,3
+2040,2,L,,,,,5.17957400989,,,,,33,1,,5,90,0,3,4,0.704656042973,0,Why finish a job?, Feel productive.,3
+2040,3,R,,,,,0.790647543785,,,,,39,1,,5,90,0,3,4,0.550065809797,2,Why turn a doorknob?, Enter a classroom.,1
+2040,4,R,,,,,2.21724128828,,,,,20,1,,5,90,0,3,4,1.26004091838,3,Why throw away trash?, Make a list.,1

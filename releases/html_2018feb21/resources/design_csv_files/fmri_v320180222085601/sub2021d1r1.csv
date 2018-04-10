@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,R,,,,,1.83256437222,,,,,26,1,,5,90,0,1,1,1.741746658,43,Why watch television?, Show competence.,2
+2021,2,L,,,,,1.24240972979,,,,,35,1,,5,90,0,1,1,1.02126569539,52,Why clip coupons?, Save money.,2
+2021,3,R,,,,,2.62144096107,,,,,25,1,,5,90,0,1,1,2.02173275801,15,How to gain knowledge?, Read articles.,5
+2021,4,R,,,,,2.04790458912,,,,,38,1,,5,90,0,1,1,1.0258642618,26,How to build muscles?, Lift weights.,5
+2021,5,L,,,,,2.29654375618,,,,,37,1,,5,90,0,1,1,2.16917481714,37,Why show courtesy?, Make a friend.,3
+2021,6,L,,,,,1.15684597434,,,,,39,1,,5,90,0,1,1,1.32306501261,12,Why hold a party?, Feel sociable.,3
+2021,7,L,,,,,2.35787488547,,,,,36,1,,5,90,0,1,1,3.00170766451,10,How to show creativity?, Make art.,6
+2021,8,L,,,,,1.34907385109,,,,,31,1,,5,90,0,1,1,1.70377935992,30,How to feel productive?, Finish a job.,6
+2021,9,R,,,,,1.86391379375,,,,,28,1,,5,90,0,1,1,1.18437893085,32,How to watch television?, Use a remote.,4
+2021,10,L,,,,,1.74642301385,,,,,24,1,,5,90,0,1,1,2.99299595218,57,How to consume medicine?, Take pills. ,4
+2021,11,R,,,,,1.43358650427,,,,,23,1,,5,90,0,1,1,1.93437297981,48,Why click a mouse?, Open a browser.,1
+2021,12,L,,,,,2.44131574245,,,,,27,1,,5,90,0,1,1,2.39212183264,49,Why point a camera?, Take a picture.,1
+2021,13,L,,,,,1.78438009243,,,,,29,1,,5,90,0,1,1,2.05471925096,19,How to show appreciation?, Give applause.,5
+2021,14,R,,,,,1.8459279796,,,,,32,1,,5,90,0,1,1,1.18535084875,5,How to plan ahead?, Make a list.,5
+2021,15,R,,,,,1.04852379607,,,,,34,1,,5,90,0,1,1,2.47079598226,13,Why throw away trash?, Make a list.,1
+2021,16,L,,,,,1.80848756647,,,,,33,1,,5,90,0,1,1,2.7583245676,45,Why wash ones hands?, Kill germs.,1
+2021,17,L,,,,,1.25441777931,,,,,20,1,,5,90,0,1,1,1.92184304694,17,How to consume caffeine?, Press buttons.,4
+2021,18,R,,,,,3.91000064383,,,,,22,1,,5,90,0,1,1,1.52500506851,51,How to clip coupons?, Cut paper.,4
+2021,19,R,,,,,1.2446329671,,,,,40,1,,5,90,0,1,1,2.37747564917,58,Why dress formally?, Get a promotion.,2
+2021,20,R,,,,,1.12736549496,,,,,21,1,,5,90,0,1,1,1.78614073515,54,Why open a browser?, Write an email.,2
+2021,21,L,,,,,2.68046605845,,,,,23,1,,5,90,0,1,1,1.18366681695,24,How to improve oneself?, Gain knowledge.,6
+2021,22,R,,,,,2.92257674466,,,,,25,1,,5,90,0,1,1,4.4089737739,8,How to show cleanliness?, Write an email.,6
+2021,23,L,,,,,5.43767419797,,,,,21,1,,5,90,0,1,1,1.85828990979,4,Why write an email?, Send a message.,3
+2021,24,R,,,,,1.13554743914,,,,,29,1,,5,90,0,1,1,1.66650795237,0,Why share ideas?, Show intellect.,3
+2021,25,L,,,,,1.53098415377,,,,,38,1,,5,90,0,1,1,1.72975592591,44,How to write a check?, Sign ones name.,4
+2021,26,R,,,,,1.39855063568,,,,,20,1,,5,90,0,1,1,3.41319393376,33,How to lift weights?, Fasten seatbelt.,4
+2021,27,R,,,,,1.64849784645,,,,,37,1,,5,90,0,1,1,1.80737075328,14,Why paint a picture?, Make art.,2
+2021,28,L,,,,,1.09276422425,,,,,36,1,,5,90,0,1,1,2.97366573178,1,Why consume caffeine?, Stay alert.,2
+2021,29,L,,,,,4.63156886614,,,,,34,1,,5,90,0,1,1,1.64875079173,20,How to feel sociable?, Hold a party.,6
+2021,30,R,,,,,1.1118897938,,,,,39,1,,5,90,0,1,1,1.20839705474,25,How to satisfy a need?, Make a purchase.,6
+2021,31,L,,,,,2.92562904383,,,,,40,1,,5,90,0,1,1,1.17769743034,34,How to satisfy hunger?, Make breakfast.,5
+2021,32,L,,,,,2.16044419265,,,,,28,1,,5,90,0,1,1,1.20605626358,38,How to consume alcohol?, Drink wine.,5
+2021,33,R,,,,,1.1062506123,,,,,24,1,,5,90,0,1,1,2.24648463351,11,Why use a remote?, Watch television.,1
+2021,34,R,,,,,1.48698365428,,,,,26,1,,5,90,0,1,1,2.114194413,27,Why open a bottle?, Consume medicine.,1
+2021,35,L,,,,,1.62905577546,,,,,30,1,,5,90,0,1,1,2.00929069806,2,Why avoid diseases?, Live a long life.,3
+2021,36,R,,,,,2.23134943622,,,,,31,1,,5,90,0,1,1,3.13605291092,7,Why save money?, Get fit.,3
+2021,37,R,,,,,1.542998279,,,,,22,1,,5,90,0,1,1,2.76483029394,21,Why sign ones name?, Write a check.,1
+2021,38,L,,,,,1.98227911356,,,,,33,1,,5,90,0,1,1,1.07051616169,41,Why follow recipes?, Prepare meals.,1
+2021,39,R,,,,,1.40756667125,,,,,35,1,,5,90,0,1,1,1.92017178646,47,How to make a phone call?, Dial numbers.,4
+2021,40,L,,,,,2.79467710205,,,,,32,1,,5,90,0,1,1,2.23863817833,40,How to make breakfast?, Crack eggs.,4
+2021,41,L,,,,,2.26676868813,,,,,20,1,,5,90,0,1,1,1.30355733076,42,Why make a purchase?, Satisfy a need.,3
+2021,42,R,,,,,2.43177426786,,,,,34,1,,5,90,0,1,1,1.98883190015,39,Why make art?, Show creativity.,3
+2021,43,L,,,,,1.42953503511,,,,,33,1,,5,90,0,1,1,1.33376482276,9,How to save money?, Clip coupons.,5
+2021,44,L,,,,,1.23112248775,,,,,28,1,,5,90,0,1,1,2.82744598463,29,How to attend a school?, Enter a classroom.,5
+2021,45,R,,,,,1.03050352906,,,,,40,1,,5,90,0,1,1,1.3665831416,56,Why teach a class?, Obey laws.,2
+2021,46,R,,,,,5.15384764631,,,,,35,1,,5,90,0,1,1,4.41663072726,35,Why participate in class?, Show intelligence.,2
+2021,47,R,,,,,1.10611569657,,,,,23,1,,5,90,0,1,1,1.50496558963,16,How to feel well?, Reduce pain.,6
+2021,48,L,,,,,1.8872540767,,,,,27,1,,5,90,0,1,1,1.13011693066,6,How to achieve success?, Get a promotion.,6
+2021,49,L,,,,,4.46873746785,,,,,21,1,,5,90,0,1,1,3.27267337428,55,How to go shopping?, Use credit cards.,4
+2021,50,R,,,,,1.47996782121,,,,,31,1,,5,90,0,1,1,1.17697243948,36,How to write a song?, Play piano.,4
+2021,51,L,,,,,1.1763627038,,,,,38,1,,5,90,0,1,1,1.48423282115,50,Why provide food?, Help a person.,3
+2021,52,L,,,,,2.04188329491,,,,,39,1,,5,90,0,1,1,3.54132741581,18,Why satisfy hunger?, Show an ability.,3
+2021,53,R,,,,,1.85172998691,,,,,30,1,,5,90,0,1,1,1.6591329044,31,Why kill germs?, Avoid diseases.,2
+2021,54,R,,,,,1.08134676166,,,,,32,1,,5,90,0,1,1,1.05610559123,28,Why make a phone call?, Contact a friend.,2
+2021,55,R,,,,,1.23106545517,,,,,26,1,,5,90,0,1,1,1.03645592667,23,How to show an ability?, Satisfy hunger.,6
+2021,56,R,,,,,2.58014653417,,,,,36,1,,5,90,0,1,1,2.04755956594,22,How to avoid boredom?, Entertain oneself.,6
+2021,57,L,,,,,2.64859297926,,,,,22,1,,5,90,0,1,1,5.1264371156,3,How to entertain others?, Write a song.,5
+2021,58,L,,,,,1.58258224647,,,,,24,1,,5,90,0,1,1,1.41324147253,46,How to avoid diseases?, Kill germs.,5
+2021,59,L,,,,,3.28831042253,,,,,29,1,,5,90,0,1,1,1.46132023197,59,Why cut paper?, Clip coupons.,1
+2021,60,R,,,,,1.41654927602,,,,,37,1,,5,90,0,1,1,1.0480219716,53,Why lift a glass?, Drink wine.,1

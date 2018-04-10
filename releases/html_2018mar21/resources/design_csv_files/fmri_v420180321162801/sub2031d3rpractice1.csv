@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2031,1,R,,,,,3.04815309499,,,,,23,1,,5,90,0,3,3,0.644646475945,1,How to write an email?, Open a browser.,5
+2031,2,L,,,,,0.524221247617,,,,,32,1,,5,90,0,3,3,1.12850141269,0,How to consume alcohol?, Drink wine.,5
+2031,3,R,,,,,3.16801632931,,,,,26,1,,5,90,0,3,3,0.852842221147,2,Why drink wine?, Consume alcohol.,2
+2031,4,L,,,,,0.501289953902,,,,,35,1,,5,90,0,3,3,0.577172112974,3,Why give applause?, Show appreciation.,2

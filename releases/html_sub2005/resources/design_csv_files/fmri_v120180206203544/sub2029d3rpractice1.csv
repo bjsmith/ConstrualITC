@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2029,1,1,,,,,1.92364049482,,,,,35,1,,5,90,0,3,3,1.18512641329,0,How to consume medicine?, Take pills. ,4
+2029,2,1,,,,,0.851684506513,,,,,38,1,,5,90,0,3,3,0.516039180551,0,Why throw away trash?, Make a list.,1
+2029,3,2,,,,,3.75724271906,,,,,21,1,,5,90,0,3,3,0.508184709415,1,Why entertain others?, Express a talent.,3
+2029,4,2,,,,,2.30459949232,,,,,24,1,,5,90,0,3,3,1.10984978033,0,Why give applause?, Show appreciation.,2

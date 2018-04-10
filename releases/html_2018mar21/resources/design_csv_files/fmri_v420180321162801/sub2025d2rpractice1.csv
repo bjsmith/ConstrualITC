@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2025,1,L,,,,,1.52983948947,,,,,28,1,,5,90,0,2,3,0.618721662732,2,Why make a phone call?, Contact a friend.,2
+2025,2,L,,,,,3.92996439595,,,,,37,1,,5,90,0,2,3,0.804974781345,3,Why dress formally?, Get a promotion.,2
+2025,3,R,,,,,1.8979672604,,,,,26,1,,5,90,0,2,3,0.684256248963,0,How to make a list?, Throw away trash.,4
+2025,4,R,,,,,1.23797450859,,,,,30,1,,5,90,0,2,3,1.28443434077,1,How to make breakfast?, Crack eggs.,4

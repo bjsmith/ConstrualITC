@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2161,1,L,,,,,0.805273510326,,,,,33,1,,5,90,0,1,3,0.657179334116,5,Why use chalk?, Get fit.,1
+2161,2,L,,,,,0.952608524491,,,,,37,1,,5,90,0,1,3,0.754962618367,11,Why dial numbers?, Make a phone call.,1
+2161,3,L,,,,,1.34047361178,,,,,40,1,,5,90,0,1,3,1.13371675184,4,Why go shopping?, Make a purchase.,2
+2161,4,R,,,,,1.64382897423,,,,,31,1,,5,90,0,1,3,0.609256731381,7,Why drink wine?, Consume alcohol.,2
+2161,5,L,,,,,2.6667862764,,,,,24,1,,5,90,0,1,3,0.665512653326,2,How to attend a school?, Enter a classroom.,5
+2161,6,L,,,,,1.21956810082,,,,,36,1,,5,90,0,1,3,1.37816609041,6,How to entertain others?, Write a song.,5
+2161,7,R,,,,,0.839525562111,,,,,20,1,,5,90,0,1,3,0.583969784949,1,How to live a long life?, Avoid diseases.,6
+2161,8,R,,,,,1.33832230743,,,,,32,1,,5,90,0,1,3,1.58494336101,9,How to avoid mistakes?, Obey laws.,6
+2161,9,R,,,,,3.40875969752,,,,,29,1,,5,90,0,1,3,0.56521352424,0,Why build muscles?, Show humility.,3
+2161,10,R,,,,,1.03754143692,,,,,39,1,,5,90,0,1,3,0.5762317112,8,Why avoid diseases?, Live a long life.,3
+2161,11,R,,,,,6.25312376488,,,,,26,1,,5,90,0,1,3,1.84096118583,3,How to write a poem?, Grab a pencil.,4
+2161,12,L,,,,,2.38552148994,,,,,25,1,,5,90,0,1,3,0.871906996839,10,How to take a picture?, Point a camera.,4

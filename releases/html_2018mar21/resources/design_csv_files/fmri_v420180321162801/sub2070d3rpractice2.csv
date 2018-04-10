@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2070,1,R,,,,,0.652280720696,,,,,24,1,,5,90,0,3,4,1.2864338354,1,Why go shopping?, Make a purchase.,2
+2070,2,L,,,,,2.45734265768,,,,,26,1,,5,90,0,3,4,0.550817514415,3,Why open a browser?, Write an email.,2
+2070,3,R,,,,,2.15571617591,,,,,36,1,,5,90,0,3,4,0.710838593602,0,How to consume medicine?, Take pills. ,4
+2070,4,L,,,,,2.0326421074,,,,,35,1,,5,90,0,3,4,0.71610767952,2,How to give applause?, Clap hands.,4

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,L,,,,,0.59518795722,,,,25,30,1,,7,,1,2,3,0.73927672016,1,How to reduce worry?, Plan ahead.,6
+2030,2,R,,,,,0.778989391051,,,,25,30,1,,9,,1,2,3,1.18954430311,0,How to impress others?, Show intelligence.,6
+2030,3,R,,,,,3.85436974875,,,,25,30,1,,4,,1,2,3,1.07494450934,2,Why drink coffee?, Consume caffeine.,1
+2030,4,L,,,,,2.67754994899,,,,25,30,1,,2,,1,2,3,0.618654778924,3,Why lift a glass?, Drink wine.,1

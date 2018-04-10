@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2120,1,R,,,,,1.33211951896,,,,25,30,1,,7,,1,1,3,0.863072727822,11,How to show cleanliness?, Write an email.,6
+2120,2,R,,,,,1.64309191223,,,,25,30,1,,1,,1,1,3,0.615091087957,6,How to show intellect?, Share ideas.,6
+2120,3,L,,,,,1.05125963005,,,,25,30,1,,2,,1,1,3,1.44515545177,1,Why dress formally?, Get a promotion.,2
+2120,4,R,,,,,1.66563091238,,,,25,30,1,,6,,1,1,3,1.25285752907,5,Why use a camera?, Give to charity.,2
+2120,5,R,,,,,0.848552483913,,,,25,30,1,,5,,1,1,3,0.553740896484,4,Why show intelligence?, Impress others.,3
+2120,6,L,,,,,1.36403557106,,,,25,30,1,,8,,1,1,3,2.1039424122,7,Why contact a friend?, Feel connected.,3
+2120,7,L,,,,,3.91598727787,,,,25,30,1,,4,,1,1,3,0.831854445786,0,How to provide food?, Prepare meals.,5
+2120,8,L,,,,,2.74942653775,,,,25,30,1,,3,,1,1,3,1.05571556424,8,How to contact a friend?, Make a phone call.,5
+2120,9,R,,,,,0.932155792521,,,,25,30,1,,7,,1,1,3,0.650136837797,10,Why use a remote?, Watch television.,1
+2120,10,R,,,,,1.35025468661,,,,25,30,1,,1,,1,1,3,0.587244530279,3,Why clap hands?, Give applause.,1
+2120,11,L,,,,,3.15242329929,,,,25,30,1,,5,,1,1,3,1.04608562545,2,How to drink wine?, Open a bottle. ,4
+2120,12,L,,,,,3.18130093181,,,,25,30,1,,6,,1,1,3,1.23926715624,9,How to make a phone call?, Dial numbers.,4

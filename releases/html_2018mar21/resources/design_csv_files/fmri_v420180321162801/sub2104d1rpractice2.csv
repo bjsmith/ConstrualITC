@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2104,1,R,,,,,0.61777758902,,,,,37,1,,5,90,0,1,4,0.817999849339,7,How to impress others?, Show intelligence.,6
+2104,2,L,,,,,1.91682896764,,,,,27,1,,5,90,0,1,4,0.93943575825,10,How to show an ability?, Satisfy hunger.,6
+2104,3,R,,,,,1.70203420115,,,,,22,1,,5,90,0,1,4,0.512128057406,11,How to write an email?, Open a browser.,5
+2104,4,R,,,,,3.02277180643,,,,,30,1,,5,90,0,1,4,0.694772383789,4,How to show appreciation?, Give applause.,5
+2104,5,L,,,,,2.44554025001,,,,,25,1,,5,90,0,1,4,1.46380456608,0,How to write a poem?, Grab a pencil.,4
+2104,6,R,,,,,3.3026736858,,,,,21,1,,5,90,0,1,4,0.746944665659,8,How to consume caffeine?, Press buttons.,4
+2104,7,R,,,,,2.20396887396,,,,,31,1,,5,90,0,1,4,2.29591049514,1,Why lift weights?, Build muscles.,2
+2104,8,L,,,,,1.7257839587,,,,,33,1,,5,90,0,1,4,0.502836001157,9,Why dress formally?, Get a promotion.,2
+2104,9,R,,,,,1.55449097673,,,,,39,1,,5,90,0,1,4,0.981133551274,3,Why dial numbers?, Make a phone call.,1
+2104,10,L,,,,,1.90625582757,,,,,20,1,,5,90,0,1,4,0.615158192926,5,Why use a remote?, Watch television.,1
+2104,11,L,,,,,2.60442120945,,,,,40,1,,5,90,0,1,4,1.52918979984,2,Why contact a friend?, Feel connected.,3
+2104,12,L,,,,,1.2124323787,,,,,24,1,,5,90,0,1,4,0.514389717238,6,Why make a purchase?, Satisfy a need.,3

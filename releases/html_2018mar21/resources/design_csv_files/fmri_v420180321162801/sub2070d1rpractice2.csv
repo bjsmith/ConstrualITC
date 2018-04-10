@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2070,1,L,,,,,1.45830370367,,,,,31,1,,5,90,0,1,4,0.757896994812,3,How to satisfy hunger?, Make breakfast.,5
+2070,2,R,,,,,1.29372906777,,,,,27,1,,5,90,0,1,4,1.52736383735,2,How to teach others?, Give a lecture.,5
+2070,3,L,,,,,3.3383871916,,,,,32,1,,5,90,0,1,4,1.44354264808,6,Why lift a glass?, Drink wine.,1
+2070,4,R,,,,,1.67319757916,,,,,36,1,,5,90,0,1,4,0.698557755208,0,Why raise a hand?, Participate in class.,1
+2070,5,L,,,,,1.37006588832,,,,,26,1,,5,90,0,1,4,0.508221937391,1,Why enter a classroom?, Attend a school.,2
+2070,6,R,,,,,1.29742336175,,,,,21,1,,5,90,0,1,4,0.571613040907,11,Why teach a class?, Obey laws.,2
+2070,7,R,,,,,0.76045707303,,,,,35,1,,5,90,0,1,4,0.82464974759,8,Why avoid diseases?, Live a long life.,3
+2070,8,L,,,,,2.28126181289,,,,,28,1,,5,90,0,1,4,2.50937843853,10,Why show competence?, Pass the time.,3
+2070,9,L,,,,,2.28911949047,,,,,33,1,,5,90,0,1,4,0.558145259633,7,How to participate in class?, Raise a hand.,4
+2070,10,R,,,,,1.04686674647,,,,,38,1,,5,90,0,1,4,1.00753630424,4,How to mix a cocktail?, Stir ingredients.,4
+2070,11,L,,,,,4.88119524222,,,,,24,1,,5,90,0,1,4,1.19607665196,5,How to live a long life?, Avoid diseases.,6
+2070,12,R,,,,,3.12171105656,,,,,29,1,,5,90,0,1,4,0.65529966678,9,How to feel nostalgia?, Keep a memory.,6

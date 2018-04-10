@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2154,1,R,,,,,1.603892266,,,,,34,1,,5,90,0,1,4,0.701799330092,11,Why consume medicine?, Reduce pain.,2
+2154,2,L,,,,,0.672359713379,,,,,39,1,,5,90,0,1,4,1.15803631157,6,Why kill germs?, Avoid diseases.,2
+2154,3,R,,,,,2.59008730374,,,,,37,1,,5,90,0,1,4,1.86174044395,8,How to build muscles?, Lift weights.,5
+2154,4,L,,,,,2.1777881521,,,,,21,1,,5,90,0,1,4,2.31725037775,9,How to make art?, Paint a picture.,5
+2154,5,L,,,,,0.730231537293,,,,,36,1,,5,90,0,1,4,0.700025210164,2,How to express a talent?, Entertain others.,6
+2154,6,R,,,,,2.09828451614,,,,,24,1,,5,90,0,1,4,0.723025118172,7,How to live a long life?, Avoid diseases.,6
+2154,7,R,,,,,0.550941933096,,,,,27,1,,5,90,0,1,4,1.3900392621,1,Why turn a doorknob?, Enter a classroom.,1
+2154,8,L,,,,,1.46952584641,,,,,32,1,,5,90,0,1,4,0.609320950419,5,Why open a magazine?, Read articles.,1
+2154,9,L,,,,,2.12433679867,,,,,25,1,,5,90,0,1,4,0.713435574961,3,How to prepare meals?, Follow recipes.,4
+2154,10,R,,,,,5.94051889212,,,,,35,1,,5,90,0,1,4,1.15573564713,4,How to watch television?, Use a remote.,4
+2154,11,R,,,,,0.579540085881,,,,,33,1,,5,90,0,1,4,0.531976273014,10,Why avoid diseases?, Live a long life.,3
+2154,12,L,,,,,3.2254645816,,,,,31,1,,5,90,0,1,4,1.08785072715,0,Why attend a school?, Get a degree.,3

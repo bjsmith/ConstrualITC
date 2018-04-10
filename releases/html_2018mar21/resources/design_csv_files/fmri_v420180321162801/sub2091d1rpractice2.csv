@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2091,1,L,,,,,0.865880138513,,,,25,30,1,,8,,1,1,4,2.09682775092,7,Why drink wine?, Consume alcohol.,2
+2091,2,L,,,,,1.28681446153,,,,25,30,1,,4,,1,1,4,0.612855311548,8,Why make breakfast?, Satisfy hunger.,2
+2091,3,L,,,,,3.07918342995,,,,25,30,1,,2,,1,1,4,1.16072276443,10,How to feel connected?, Contact a friend.,6
+2091,4,R,,,,,0.506910590575,,,,25,30,1,,3,,1,1,4,0.773024299432,6,How to show cleanliness?, Write an email.,6
+2091,5,L,,,,,1.94202719652,,,,25,30,1,,1,,1,1,4,0.568318932853,9,Why give to charity?, Support a cause.,3
+2091,6,R,,,,,0.710860078451,,,,25,30,1,,6,,1,1,4,2.03701593344,2,Why show appreciation?, Spread joy.,3
+2091,7,L,,,,,2.53438690175,,,,25,30,1,,9,,1,1,4,0.903419659237,11,How to read articles?, Open a magazine.,4
+2091,8,R,,,,,1.16087720853,,,,25,30,1,,7,,1,1,4,0.770252306163,3,How to make breakfast?, Crack eggs.,4
+2091,9,R,,,,,2.4260151847,,,,25,30,1,,9,,1,1,4,0.740857307318,0,How to show appreciation?, Give applause.,5
+2091,10,L,,,,,5.62093482333,,,,25,30,1,,2,,1,1,4,0.891482833822,4,How to save money?, Clip coupons.,5
+2091,11,R,,,,,2.12474756421,,,,25,30,1,,8,,1,1,4,0.578008787296,1,Why lift a glass?, Drink wine.,1
+2091,12,R,,,,,0.838344532953,,,,25,30,1,,4,,1,1,4,1.44241781752,5,Why throw away trash?, Make a list.,1

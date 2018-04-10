@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2026,1,R,,,,,2.53657265582,,,,,30,1,,5,90,0,3,4,0.619759043344,0,How to get a promotion?, Arrive on time.,5
+2026,2,R,,,,,2.20015673994,,,,,29,1,,5,90,0,3,4,1.16361511815,1,How to build muscles?, Lift weights.,5
+2026,3,L,,,,,2.91870672228,,,,,26,1,,5,90,0,3,4,0.721703411126,3,How to open a browser?, Click a mouse.,4
+2026,4,L,,,,,0.756285605988,,,,,34,1,,5,90,0,3,4,0.67288971753,2,How to consume caffeine?, Press buttons.,4

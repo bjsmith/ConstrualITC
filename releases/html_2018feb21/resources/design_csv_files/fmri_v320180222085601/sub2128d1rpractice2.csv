@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2128,1,L,,,,,0.748477259461,,,,,26,1,,5,90,0,1,4,0.73825927491,0,Why sign ones name?, Write a check.,1
+2128,2,R,,,,,1.27711846318,,,,,31,1,,5,90,0,1,4,0.833226023399,1,Why stir ingredients?, Mix a cocktail.,1
+2128,3,R,,,,,3.67327131939,,,,,35,1,,5,90,0,1,4,0.765444721852,9,Why show intelligence?, Impress others.,3
+2128,4,R,,,,,0.85543832331,,,,,25,1,,5,90,0,1,4,0.557275331332,5,Why share ideas?, Show intellect.,3
+2128,5,L,,,,,1.56872548486,,,,,29,1,,5,90,0,1,4,1.96930669065,3,How to write a check?, Sign ones name.,4
+2128,6,L,,,,,1.14072366546,,,,,39,1,,5,90,0,1,4,1.18367491373,2,How to go shopping?, Use credit cards.,4
+2128,7,L,,,,,1.53949415231,,,,,20,1,,5,90,0,1,4,2.02392333346,7,How to satisfy a need?, Make a purchase.,6
+2128,8,R,,,,,0.587349719276,,,,,21,1,,5,90,0,1,4,0.542804018229,6,How to feel nostalgia?, Keep a memory.,6
+2128,9,R,,,,,3.15088763676,,,,,37,1,,5,90,0,1,4,0.639277172017,11,Why kill germs?, Avoid diseases.,2
+2128,10,L,,,,,3.1956851149,,,,,34,1,,5,90,0,1,4,0.892713865152,4,Why use a camera?, Give to charity.,2
+2128,11,L,,,,,1.15905920639,,,,,30,1,,5,90,0,1,4,1.9330350866,10,How to reduce pain?, Consume medicine.,5
+2128,12,R,,,,,5.84751672664,,,,,33,1,,5,90,0,1,4,0.614217282422,8,How to entertain oneself?, Watch television.,5

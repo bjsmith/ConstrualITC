@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,L,,,,,0.650483395848,,,,,34,1,,5,90,0,3,3,1.24752432904,3,Why give to charity?, Support a cause.,3
+2023,2,L,,,,,4.28650926852,,,,,32,1,,5,90,0,3,3,0.801012796461,0,Why avoid diseases?, Live a long life.,3
+2023,3,R,,,,,1.49041850131,,,,,29,1,,5,90,0,3,3,0.92126494254,1,How to spread joy?, Get a job.,6
+2023,4,R,,,,,1.00234531207,,,,,22,1,,5,90,0,3,3,1.05653922824,2,How to feel well?, Reduce pain.,6

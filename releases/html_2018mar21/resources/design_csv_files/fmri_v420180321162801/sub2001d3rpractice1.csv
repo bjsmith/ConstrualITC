@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,L,,,,,5.15034111397,,,,,23,1,,5,90,0,3,3,0.5385246349,2,How to reduce pain?, Consume medicine.,5
+2001,2,L,,,,,1.86453314137,,,,,37,1,,5,90,0,3,3,2.41687755533,0,How to give to charity?, Use a camera.,5
+2001,3,R,,,,,0.972608861634,,,,,35,1,,5,90,0,3,3,0.544075443719,3,How to feel nostalgia?, Keep a memory.,6
+2001,4,R,,,,,0.640698865219,,,,,21,1,,5,90,0,3,3,0.614638389509,1,How to show an ability?, Satisfy hunger.,6

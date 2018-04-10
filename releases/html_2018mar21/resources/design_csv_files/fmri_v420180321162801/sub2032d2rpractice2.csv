@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2032,1,R,,,,,1.05712600466,,,,,31,1,,5,90,0,2,4,0.577941914323,1,How to get a promotion?, Arrive on time.,5
+2032,2,L,,,,,3.11974980445,,,,,26,1,,5,90,0,2,4,0.683943809641,0,How to reduce pain?, Consume medicine.,5
+2032,3,L,,,,,3.01572744287,,,,,29,1,,5,90,0,2,4,1.00233340064,3,How to prepare meals?, Follow recipes.,4
+2032,4,R,,,,,0.585464122803,,,,,30,1,,5,90,0,2,4,0.752108818124,2,How to make breakfast?, Crack eggs.,4

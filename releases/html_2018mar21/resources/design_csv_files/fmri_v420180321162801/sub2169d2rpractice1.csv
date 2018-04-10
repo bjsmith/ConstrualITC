@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2169,1,R,,,,,2.62142144734,,,,,33,1,,5,90,0,2,3,0.740040666541,2,How to save money?, Clip coupons.,5
+2169,2,L,,,,,1.47226083772,,,,,35,1,,5,90,0,2,3,1.64815769057,3,How to contact a friend?, Make a phone call.,5
+2169,3,R,,,,,2.03444940297,,,,,26,1,,5,90,0,2,3,0.60102416848,1,Why give to charity?, Support a cause.,3
+2169,4,L,,,,,2.2910036792,,,,,23,1,,5,90,0,2,3,0.762178408738,0,Why write an email?, Send a message.,3

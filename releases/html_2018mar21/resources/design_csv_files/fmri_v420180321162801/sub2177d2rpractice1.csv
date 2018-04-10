@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2177,1,R,,,,,1.14584630022,,,,,25,1,,5,90,0,2,3,1.10506460101,2,How to clip coupons?, Cut paper.,4
+2177,2,L,,,,,2.23260135269,,,,,31,1,,5,90,0,2,3,0.791056697885,3,How to write a poem?, Grab a pencil.,4
+2177,3,R,,,,,0.956895890366,,,,,29,1,,5,90,0,2,3,0.576976736675,0,Why clap hands?, Give applause.,1
+2177,4,L,,,,,4.21260174328,,,,,40,1,,5,90,0,2,3,1.00849706029,1,Why use a brush?, Paint a picture.,1

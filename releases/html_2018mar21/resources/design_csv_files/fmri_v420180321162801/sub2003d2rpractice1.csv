@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2003,1,R,,,,,3.30332199397,,,,,31,1,,5,90,0,2,3,0.945727201156,0,Why open a magazine?, Read articles.,1
+2003,2,L,,,,,2.33976682566,,,,,24,1,,5,90,0,2,3,0.727627880882,1,Why use a remote?, Watch television.,1
+2003,3,R,,,,,1.77129803213,,,,,27,1,,5,90,0,2,3,0.92419995203,2,Why enter a classroom?, Attend a school.,2
+2003,4,L,,,,,0.826237087148,,,,,35,1,,5,90,0,2,3,2.27597045309,3,Why paint a picture?, Make art.,2

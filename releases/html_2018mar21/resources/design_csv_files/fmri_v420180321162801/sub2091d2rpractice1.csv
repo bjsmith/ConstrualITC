@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2091,1,L,,,,,4.5927805064,,,,,21,1,,5,90,0,2,3,0.864934726742,2,Why participate in class?, Show intelligence.,2
+2091,2,L,,,,,0.948120138064,,,,,29,1,,5,90,0,2,3,0.662144376869,1,Why take a picture?, Keep a memory.,2
+2091,3,R,,,,,1.2635983226,,,,,34,1,,5,90,0,2,3,0.860647293592,0,Why provide food?, Help a person.,3
+2091,4,R,,,,,0.979770636844,,,,,35,1,,5,90,0,2,3,1.53657369089,3,Why keep a memory?, Feel nostalgia.,3

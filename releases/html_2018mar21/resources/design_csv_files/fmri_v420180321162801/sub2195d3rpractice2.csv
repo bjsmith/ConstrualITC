@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2195,1,L,,,,,1.4128591573,,,,25,30,1,,1,,1,3,4,1.54887830792,3,Why point a camera?, Take a picture.,1
+2195,2,L,,,,,2.56215546909,,,,25,30,1,,7,,1,3,4,0.808187105731,2,Why throw away trash?, Make a list.,1
+2195,3,R,,,,,0.644948089211,,,,25,30,1,,8,,1,3,4,0.645574827088,0,Why consume medicine?, Reduce pain.,2
+2195,4,R,,,,,3.3972256131,,,,25,30,1,,3,,1,3,4,0.549034463851,1,Why make a list?, Plan ahead.,2

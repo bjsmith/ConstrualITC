@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2141,1,R,,,,,1.39729441188,,,,25,30,1,,7,,1,3,4,1.16776848112,0,Why hold a party?, Feel sociable.,3
+2141,2,L,,,,,1.39497893324,,,,25,30,1,,8,,1,3,4,0.708170778242,2,Why share ideas?, Show intellect.,3
+2141,3,R,,,,,3.50627337424,,,,25,30,1,,4,,1,3,4,0.859806378934,1,Why consume medicine?, Reduce pain.,2
+2141,4,L,,,,,1.92527756008,,,,25,30,1,,2,,1,3,4,1.29867670194,3,Why watch television?, Show competence.,2

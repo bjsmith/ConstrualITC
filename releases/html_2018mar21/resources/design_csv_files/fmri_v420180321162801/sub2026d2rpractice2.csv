@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2026,1,R,,,,,4.0877711303,,,,,27,1,,5,90,0,2,4,1.53925918456,2,Why paint a picture?, Make art.,2
+2026,2,L,,,,,0.870523789695,,,,,35,1,,5,90,0,2,4,0.945246567888,1,Why lift weights?, Build muscles.,2
+2026,3,L,,,,,2.87758983571,,,,,26,1,,5,90,0,2,4,0.539000491196,0,How to support a cause?, Give to charity.,6
+2026,4,R,,,,,1.01180822247,,,,,34,1,,5,90,0,2,4,0.762458333672,3,How to spread joy?, Get a job.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2197,1,R,,,,,0.801892103591,,,,25,30,1,,8,,1,1,4,0.877957553917,0,Why use chalk?, Get fit.,1
+2197,2,R,,,,,5.9388144998,,,,25,30,1,,5,,1,1,4,0.698955529652,2,Why wash ones hands?, Kill germs.,1
+2197,3,L,,,,,2.32244288079,,,,25,30,1,,7,,1,1,4,0.647531973357,5,How to feel productive?, Finish a job.,6
+2197,4,L,,,,,3.03821648277,,,,25,30,1,,9,,1,1,4,0.612594574839,8,How to show cleanliness?, Write an email.,6
+2197,5,R,,,,,1.93130188275,,,,25,30,1,,2,,1,1,4,1.31158713823,1,Why save money?, Get fit.,3
+2197,6,L,,,,,1.50819122806,,,,25,30,1,,3,,1,1,4,1.30294141668,6,Why contact a friend?, Feel connected.,3
+2197,7,R,,,,,3.11428465426,,,,25,30,1,,1,,1,1,4,0.791917542353,10,How to clip coupons?, Cut paper.,4
+2197,8,R,,,,,1.08857866172,,,,25,30,1,,6,,1,1,4,1.1818570037,9,How to dress formally?, Wear ties. ,4
+2197,9,L,,,,,0.58662823206,,,,25,30,1,,8,,1,1,4,1.4743785534,3,How to make a donation?, Mix a cocktail.,5
+2197,10,L,,,,,1.62524800889,,,,25,30,1,,1,,1,1,4,0.651088574715,11,How to provide food?, Prepare meals.,5
+2197,11,R,,,,,0.584235516092,,,,25,30,1,,9,,1,1,4,1.15445617868,4,Why watch television?, Show competence.,2
+2197,12,L,,,,,1.05801986976,,,,25,30,1,,2,,1,1,4,1.00132116049,7,Why teach a class?, Obey laws.,2

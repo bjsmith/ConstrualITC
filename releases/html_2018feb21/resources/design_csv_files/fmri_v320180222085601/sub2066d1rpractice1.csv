@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2066,1,L,,,,,0.902122702162,,,,25,30,1,,9,,1,1,3,0.651342314376,10,How to prepare meals?, Follow recipes.,4
+2066,2,R,,,,,2.83888050132,,,,25,30,1,,6,,1,1,3,1.61370270742,2,How to read articles?, Open a magazine.,4
+2066,3,R,,,,,5.38946839079,,,,25,30,1,,8,,1,1,3,0.993768572311,6,Why cut paper?, Clip coupons.,1
+2066,4,L,,,,,2.72257774944,,,,25,30,1,,4,,1,1,3,0.616270206893,9,Why drink coffee?, Consume caffeine.,1
+2066,5,L,,,,,1.16787833838,,,,25,30,1,,5,,1,1,3,0.922853998069,4,How to give to charity?, Use a camera.,5
+2066,6,R,,,,,1.36841685069,,,,25,30,1,,7,,1,1,3,0.723807575902,8,How to consume alcohol?, Drink wine.,5
+2066,7,L,,,,,1.45512431201,,,,25,30,1,,1,,1,1,3,0.926763651153,5,Why give to charity?, Support a cause.,3
+2066,8,L,,,,,2.7227653144,,,,25,30,1,,3,,1,1,3,0.506715354069,0,Why finish a job?, Feel productive.,3
+2066,9,R,,,,,1.60561918763,,,,25,30,1,,6,,1,1,3,1.63143233326,11,How to feel productive?, Finish a job.,6
+2066,10,R,,,,,2.18648172057,,,,25,30,1,,3,,1,1,3,0.754804779666,7,How to feel secure?, Save money.,6
+2066,11,R,,,,,0.961355912666,,,,25,30,1,,2,,1,1,3,0.67078247685,3,Why watch television?, Show competence.,2
+2066,12,L,,,,,0.650274771628,,,,25,30,1,,8,,1,1,3,1.07215426082,1,Why take a picture?, Keep a memory.,2

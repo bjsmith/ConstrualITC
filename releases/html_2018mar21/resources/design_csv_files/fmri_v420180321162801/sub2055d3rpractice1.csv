@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2055,1,L,,,,,0.540334634224,,,,,23,1,,5,90,0,3,3,0.538403049267,2,Why take a picture?, Keep a memory.,2
+2055,2,R,,,,,4.73280826971,,,,,35,1,,5,90,0,3,3,1.09335029241,3,Why drink wine?, Consume alcohol.,2
+2055,3,R,,,,,1.78602843903,,,,,36,1,,5,90,0,3,3,0.590518970175,1,How to make a purchase?, Go shopping.,5
+2055,4,L,,,,,1.33017650678,,,,,22,1,,5,90,0,3,3,0.832792025744,0,How to teach others?, Give a lecture.,5

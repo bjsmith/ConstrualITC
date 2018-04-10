@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2083,1,L,,,,,4.77985127301,,,,,25,1,,5,90,0,2,3,0.524798152598,1,How to improve oneself?, Gain knowledge.,6
+2083,2,R,,,,,1.78637417887,,,,,40,1,,5,90,0,2,3,0.843167746377,3,How to reduce worry?, Plan ahead.,6
+2083,3,R,,,,,0.960500973837,,,,,28,1,,5,90,0,2,3,0.95766008574,0,How to give applause?, Clap hands.,4
+2083,4,L,,,,,0.869015440212,,,,,29,1,,5,90,0,2,3,1.67604311325,2,How to write a song?, Play piano.,4

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2116,1,R,,,,,0.668220035797,,,,,20,1,,5,90,0,2,4,0.985870315483,0,Why attend a school?, Get a degree.,3
+2116,2,R,,,,,2.60626478712,,,,,26,1,,5,90,0,2,4,1.3304275334,3,Why write an email?, Send a message.,3
+2116,3,L,,,,,1.24187509975,,,,,35,1,,5,90,0,2,4,1.03050514823,2,Why paint a picture?, Make art.,2
+2116,4,L,,,,,2.6742326249,,,,,38,1,,5,90,0,2,4,0.993514001259,1,Why kill germs?, Avoid diseases.,2

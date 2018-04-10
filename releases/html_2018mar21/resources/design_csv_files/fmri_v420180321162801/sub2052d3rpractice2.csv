@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2052,1,L,,,,,0.579741500502,,,,,38,1,,5,90,0,3,4,0.519657915394,2,Why consume medicine?, Reduce pain.,2
+2052,2,R,,,,,5.36614809219,,,,,24,1,,5,90,0,3,4,2.42794344844,3,Why write a poem?, Express an idea.,2
+2052,3,L,,,,,1.31109363091,,,,,34,1,,5,90,0,3,4,0.523378660745,1,Why hold a party?, Feel sociable.,3
+2052,4,R,,,,,0.520152149117,,,,,23,1,,5,90,0,3,4,0.823868376655,0,Why gain knowledge?, Improve oneself.,3

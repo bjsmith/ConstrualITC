@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,L,,,,,2.80232030149,,,,,20,1,,5,90,0,1,3,1.05563971192,6,How to teach others?, Give a lecture.,5
+2021,2,R,,,,,1.65714523999,,,,,32,1,,5,90,0,1,3,0.634781960561,8,How to make art?, Paint a picture.,5
+2021,3,L,,,,,0.679612618226,,,,,37,1,,5,90,0,1,3,0.58768840283,7,Why dial numbers?, Make a phone call.,1
+2021,4,R,,,,,1.05671221095,,,,,22,1,,5,90,0,1,3,2.14025753738,9,Why cut paper?, Clip coupons.,1
+2021,5,R,,,,,0.983345867682,,,,,40,1,,5,90,0,1,3,1.1986973046,10,Why contact a friend?, Feel connected.,3
+2021,6,R,,,,,1.67928471672,,,,,36,1,,5,90,0,1,3,1.7173675178,5,Why write an email?, Send a message.,3
+2021,7,R,,,,,2.66822642058,,,,,27,1,,5,90,0,1,3,0.685358978554,0,How to reduce worry?, Plan ahead.,6
+2021,8,L,,,,,1.64912295483,,,,,23,1,,5,90,0,1,3,0.570814652095,1,How to improve oneself?, Gain knowledge.,6
+2021,9,L,,,,,1.00007490596,,,,,33,1,,5,90,0,1,3,1.24156659365,2,Why make breakfast?, Satisfy hunger.,2
+2021,10,L,,,,,1.46397384049,,,,,39,1,,5,90,0,1,3,0.901677758508,4,Why lift weights?, Build muscles.,2
+2021,11,R,,,,,5.56145937546,,,,,31,1,,5,90,0,1,3,0.96518639515,3,How to go shopping?, Use credit cards.,4
+2021,12,L,,,,,3.63664599119,,,,,21,1,,5,90,0,1,3,0.620505696796,11,How to prepare meals?, Follow recipes.,4

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2076,1,R,,,,,0.69226511847,,,,,27,1,,5,90,0,1,4,0.80933893982,4,Why dial numbers?, Make a phone call.,1
+2076,2,R,,,,,1.79380124729,,,,,32,1,,5,90,0,1,4,0.653560993793,9,Why lift a glass?, Drink wine.,1
+2076,3,R,,,,,0.55108557924,,,,,40,1,,5,90,0,1,4,0.822129202703,0,How to spread knowledge?, Teach others.,6
+2076,4,L,,,,,0.708700887093,,,,,35,1,,5,90,0,1,4,0.69913455957,7,How to avoid boredom?, Entertain oneself.,6
+2076,5,R,,,,,3.87648876992,,,,,36,1,,5,90,0,1,4,0.783941423323,5,Why write a poem?, Express an idea.,2
+2076,6,L,,,,,2.20305437598,,,,,20,1,,5,90,0,1,4,0.612576474562,10,Why watch television?, Show competence.,2
+2076,7,L,,,,,1.20602689301,,,,,33,1,,5,90,0,1,4,1.25661323728,2,How to lift weights?, Fasten seatbelt.,4
+2076,8,L,,,,,1.50990602248,,,,,38,1,,5,90,0,1,4,0.733737715126,6,How to mix a cocktail?, Stir ingredients.,4
+2076,9,R,,,,,0.978840912377,,,,,28,1,,5,90,0,1,4,0.525327997606,11,Why save money?, Get fit.,3
+2076,10,L,,,,,2.96540181624,,,,,24,1,,5,90,0,1,4,1.34023127511,1,Why show intelligence?, Impress others.,3
+2076,11,L,,,,,4.55302746487,,,,,29,1,,5,90,0,1,4,2.19949282162,8,How to consume alcohol?, Drink wine.,5
+2076,12,R,,,,,2.8685380226,,,,,25,1,,5,90,0,1,4,0.691754335617,3,How to entertain others?, Write a song.,5

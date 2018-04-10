@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2135,1,L,,,,,0.867818530489,,,,25,30,1,,6,,1,2,4,1.21159301028,3,How to avoid diseases?, Kill germs.,5
+2135,2,L,,,,,3.17041434793,,,,25,30,1,,7,,1,2,4,0.876209040718,1,How to express doubt?, Use scissors.,5
+2135,3,R,,,,,0.851996527676,,,,25,30,1,,5,,1,2,4,0.561873277723,2,Why make breakfast?, Satisfy hunger.,2
+2135,4,R,,,,,2.74410673246,,,,25,30,1,,2,,1,2,4,0.718115794136,0,Why open a browser?, Write an email.,2

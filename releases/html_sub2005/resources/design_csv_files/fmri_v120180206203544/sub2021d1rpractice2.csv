@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,1,,,,,2.33167568589,,,,25,30,1,,6,,1,1,4,2.15553969289,0,How to get a degree?, Attend a school.,6
+2021,2,1,,,,,1.1184561887,,,,25,30,1,,5,,1,1,4,0.622596005673,0,Why give to charity?, Support a cause.,3
+2021,3,2,,,,,3.58143549193,,,,25,30,1,,8,,1,1,4,1.05699972992,0,Why throw away trash?, Make a list.,1
+2021,4,1,,,,,0.734821394812,,,,25,30,1,,4,,1,1,4,1.12453815375,0,How to reduce pain?, Consume medicine.,5
+2021,5,2,,,,,0.649326849187,,,,25,30,1,,9,,1,1,4,0.712978467396,0,Why read articles?, Gain knowledge.,2
+2021,6,2,,,,,1.2759919396,,,,25,30,1,,3,,1,1,4,0.540185428716,0,How to clip coupons?, Cut paper.,4
+2021,7,1,,,,,2.15860379309,,,,25,30,1,,7,,1,1,4,0.779870563533,0,How to feel nostalgia?, Keep a memory.,6
+2021,8,1,,,,,1.51234995755,,,,25,30,1,,2,,1,1,4,0.711399190179,0,How to get a promotion?, Arrive on time.,5
+2021,9,2,,,,,0.796803397367,,,,25,30,1,,7,,1,1,4,0.530581305506,0,How to take a picture?, Point a camera.,4
+2021,10,1,,,,,2.36888989214,,,,25,30,1,,5,,1,1,4,1.39930507698,0,Why make breakfast?, Satisfy hunger.,2
+2021,11,2,,,,,4.54144266969,,,,25,30,1,,3,,1,1,4,0.962744458053,1,Why show intelligence?, Impress others.,3
+2021,12,2,,,,,3.43948507656,,,,25,30,1,,2,,1,1,4,1.20365651894,0,Why point a camera?, Take a picture.,1

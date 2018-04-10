@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2039,1,R,,,,,0.799139069595,,,,,30,1,,5,90,0,1,3,0.866271692833,4,Why throw away trash?, Make a list.,1
+2039,2,R,,,,,0.556986476879,,,,,24,1,,5,90,0,1,3,1.29336543863,2,Why use chalk?, Get fit.,1
+2039,3,R,,,,,1.40791168607,,,,,23,1,,5,90,0,1,3,0.611342131184,8,How to feel secure?, Save money.,6
+2039,4,R,,,,,0.879595952098,,,,,20,1,,5,90,0,1,3,0.934272397801,0,How to spread joy?, Get a job.,6
+2039,5,L,,,,,2.99719746174,,,,,40,1,,5,90,0,1,3,1.12614827386,7,How to build muscles?, Lift weights.,5
+2039,6,L,,,,,1.23718311886,,,,,34,1,,5,90,0,1,3,0.84463644252,6,How to satisfy hunger?, Make breakfast.,5
+2039,7,R,,,,,3.66392536666,,,,,21,1,,5,90,0,1,3,0.566201819307,3,Why build muscles?, Show humility.,3
+2039,8,R,,,,,2.02228642414,,,,,32,1,,5,90,0,1,3,0.892932581288,1,Why make a purchase?, Satisfy a need.,3
+2039,9,L,,,,,2.96509893818,,,,,33,1,,5,90,0,1,3,0.946424499526,11,How to clip coupons?, Cut paper.,4
+2039,10,L,,,,,3.45803569138,,,,,36,1,,5,90,0,1,3,0.854623428323,5,How to write a poem?, Grab a pencil.,4
+2039,11,L,,,,,1.34881911005,,,,,28,1,,5,90,0,1,3,0.664680295608,9,Why make a phone call?, Contact a friend.,2
+2039,12,L,,,,,2.33056426206,,,,,26,1,,5,90,0,1,3,1.94868650257,10,Why participate in class?, Show intelligence.,2

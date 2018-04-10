@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2127,1,R,,,,,0.818669662362,,,,,37,1,,5,90,0,3,3,1.2095769928,2,Why finish a job?, Feel productive.,3
+2127,2,L,,,,,4.63565294523,,,,,23,1,,5,90,0,3,3,0.551744598618,3,Why plan ahead?, Reduce worry.,3
+2127,3,R,,,,,1.31360308716,,,,,34,1,,5,90,0,3,3,0.655753594078,1,Why clip coupons?, Save money.,2
+2127,4,L,,,,,1.2687957181,,,,,28,1,,5,90,0,3,3,0.995633445867,0,Why write a poem?, Express an idea.,2

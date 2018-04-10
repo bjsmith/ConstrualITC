@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2059,1,L,,,,,0.728085095995,,,,,28,1,,5,90,0,1,3,0.794796682046,7,Why clip coupons?, Save money.,2
+2059,2,R,,,,,4.56570346305,,,,,24,1,,5,90,0,1,3,0.586914333655,10,Why teach a class?, Obey laws.,2
+2059,3,L,,,,,0.932425591,,,,,20,1,,5,90,0,1,3,0.698796197299,1,How to write a check?, Sign ones name.,4
+2059,4,L,,,,,3.86273902013,,,,,39,1,,5,90,0,1,3,1.346841424,8,How to dress formally?, Wear ties. ,4
+2059,5,L,,,,,1.24030464224,,,,,23,1,,5,90,0,1,3,0.986659322202,3,How to entertain oneself?, Watch television.,5
+2059,6,L,,,,,1.09576909244,,,,,33,1,,5,90,0,1,3,0.657251772737,5,How to teach others?, Give a lecture.,5
+2059,7,L,,,,,0.971328684212,,,,,35,1,,5,90,0,1,3,0.801578345566,4,Why throw away trash?, Make a list.,1
+2059,8,R,,,,,4.56896950541,,,,,26,1,,5,90,0,1,3,0.828878239854,2,Why wash ones hands?, Kill germs.,1
+2059,9,R,,,,,0.683161523115,,,,,31,1,,5,90,0,1,3,0.591789774917,9,How to support a cause?, Give to charity.,6
+2059,10,R,,,,,0.712476180454,,,,,34,1,,5,90,0,1,3,0.626225036828,11,How to feel nostalgia?, Keep a memory.,6
+2059,11,R,,,,,2.7436025304,,,,,21,1,,5,90,0,1,3,2.39365335541,0,Why save money?, Get fit.,3
+2059,12,R,,,,,2.60050041688,,,,,29,1,,5,90,0,1,3,1.71973656319,6,Why keep a memory?, Feel nostalgia.,3

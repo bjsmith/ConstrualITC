@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2104,1,R,,,,,1.43832209058,,,,,27,1,,5,90,0,2,4,0.501596382247,3,Why open a browser?, Write an email.,2
+2104,2,R,,,,,1.25707233977,,,,,36,1,,5,90,0,2,4,1.54174378266,0,Why give applause?, Show appreciation.,2
+2104,3,L,,,,,0.820725937468,,,,,22,1,,5,90,0,2,4,0.926554950365,2,Why attend a school?, Get a degree.,3
+2104,4,L,,,,,4.68893385229,,,,,37,1,,5,90,0,2,4,0.513595695435,1,Why give to charity?, Support a cause.,3

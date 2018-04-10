@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2047,1,R,,,,,0.836025969121,,,,,28,1,,5,90,0,3,3,1.03113884022,3,Why throw away trash?, Make a list.,1
+2047,2,R,,,,,0.598376614471,,,,,26,1,,5,90,0,3,3,0.563508284092,2,Why open a bottle?, Consume medicine.,1
+2047,3,L,,,,,5.05921937436,,,,,30,1,,5,90,0,3,3,0.991158294994,0,Why give to charity?, Support a cause.,3
+2047,4,L,,,,,0.557742758389,,,,,40,1,,5,90,0,3,3,0.925953828123,1,Why plan ahead?, Reduce worry.,3

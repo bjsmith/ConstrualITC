@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2032,1,R,,,,,1.14250061276,,,,25,30,1,,1,,1,1,1,1.67415596951,24,How to feel connected?, Contact a friend.,6
+2032,2,R,,,,,2.65149213479,,,,25,30,1,,2,,1,1,1,1.13463438559,44,How to feel well?, Reduce pain.,6
+2032,3,L,,,,,2.78930829897,,,,25,30,1,,5,,1,1,1,1.2980807095,16,Why kill germs?, Avoid diseases.,2
+2032,4,R,,,,,1.19142459119,,,,25,30,1,,9,,1,1,1,1.18630889055,42,Why open a browser?, Write an email.,2
+2032,5,R,,,,,2.65902593323,,,,25,30,1,,8,,1,1,1,2.13159027228,10,Why wash ones hands?, Kill germs.,1
+2032,6,R,,,,,1.26714017716,,,,25,30,1,,6,,1,1,1,1.12161920857,51,Why wear ties?, Dress formally.,1
+2032,7,L,,,,,1.31390897546,,,,25,30,1,,3,,1,1,1,1.8767531889,57,How to make a donation?, Mix a cocktail.,5
+2032,8,R,,,,,3.05280025505,,,,25,30,1,,4,,1,1,1,2.36077177606,54,How to satisfy hunger?, Make breakfast.,5
+2032,9,R,,,,,3.43975762413,,,,25,30,1,,4,,1,1,1,3.30757353127,55,Why show appreciation?, Spread joy.,3
+2032,10,L,,,,,1.30118780886,,,,25,30,1,,2,,1,1,1,1.99782783559,50,Why finish a job?, Feel productive.,3
+2032,11,L,,,,,1.5485942827,,,,25,30,1,,9,,1,1,1,1.99944884247,9,How to participate in class?, Raise a hand.,4
+2032,12,L,,,,,1.26697076202,,,,25,30,1,,8,,1,1,1,2.3161091467,45,How to make breakfast?, Crack eggs.,4
+2032,13,R,,,,,2.30518246827,,,,25,30,1,,5,,1,1,1,1.20715912857,20,How to build muscles?, Lift weights.,5
+2032,14,L,,,,,2.23641611877,,,,25,30,1,,7,,1,1,1,1.31319107696,19,How to plan ahead?, Make a list.,5
+2032,15,R,,,,,1.11511902734,,,,25,30,1,,1,,1,1,1,5.31849884841,33,How to read articles?, Open a magazine.,4
+2032,16,L,,,,,1.52533741726,,,,25,30,1,,6,,1,1,1,1.87670719944,58,How to lift weights?, Fasten seatbelt.,4
+2032,17,L,,,,,1.06533127662,,,,25,30,1,,5,,1,1,1,2.4136991894,0,Why open a bottle?, Consume medicine.,1
+2032,18,R,,,,,2.1142396291,,,,25,30,1,,1,,1,1,1,2.19616868429,30,Why use chalk?, Get fit.,1
+2032,19,R,,,,,1.73325967867,,,,25,30,1,,9,,1,1,1,1.16267439105,5,How to live a long life?, Avoid diseases.,6
+2032,20,L,,,,,6.68058328707,,,,25,30,1,,2,,1,1,1,1.02003419428,36,How to feel nostalgia?, Keep a memory.,6
+2032,21,R,,,,,1.11169363954,,,,25,30,1,,7,,1,1,1,1.19535475499,40,Why share ideas?, Show intellect.,3
+2032,22,L,,,,,1.13223593213,,,,25,30,1,,3,,1,1,1,1.13957400333,4,Why write an email?, Send a message.,3
+2032,23,L,,,,,1.93735371672,,,,25,30,1,,6,,1,1,1,1.90742533733,27,Why drink wine?, Consume alcohol.,2
+2032,24,L,,,,,1.08271824108,,,,25,30,1,,8,,1,1,1,4.42013086804,39,Why paint a picture?, Make art.,2
+2032,25,R,,,,,1.07657768858,,,,25,30,1,,5,,1,1,1,1.08312674647,59,How to give to charity?, Use a camera.,5
+2032,26,R,,,,,1.87935655311,,,,25,30,1,,3,,1,1,1,1.94466793681,15,How to avoid diseases?, Kill germs.,5
+2032,27,L,,,,,3.39548629936,,,,25,30,1,,4,,1,1,1,1.84625395573,17,Why use a remote?, Watch television.,1
+2032,28,L,,,,,2.32445421464,,,,25,30,1,,8,,1,1,1,1.48054773298,14,Why take aspirin?, Serve alcohol.,1
+2032,29,L,,,,,1.23084218857,,,,25,30,1,,7,,1,1,1,2.49310841155,6,How to write a poem?, Grab a pencil.,4
+2032,30,R,,,,,3.17053378747,,,,25,30,1,,9,,1,1,1,3.02357362257,34,How to open a browser?, Click a mouse.,4
+2032,31,L,,,,,3.57771352882,,,,25,30,1,,1,,1,1,1,4.58718281248,49,Why attend a school?, Get a degree.,3
+2032,32,L,,,,,2.56556897891,,,,25,30,1,,6,,1,1,1,1.39910327173,18,Why give to charity?, Support a cause.,3
+2032,33,R,,,,,1.3110211577,,,,25,30,1,,6,,1,1,1,1.84146726991,12,Why dress formally?, Get a promotion.,2
+2032,34,R,,,,,1.37884482064,,,,25,30,1,,3,,1,1,1,1.93968901838,32,Why teach a class?, Obey laws.,2
+2032,35,R,,,,,2.00302311335,,,,25,30,1,,5,,1,1,1,1.05204854813,37,How to feel productive?, Finish a job.,6
+2032,36,L,,,,,1.22024652236,,,,25,30,1,,4,,1,1,1,2.26437172648,56,How to avoid boredom?, Entertain oneself.,6
+2032,37,R,,,,,2.42776742586,,,,25,30,1,,1,,1,1,1,1.56021253026,21,Why avoid diseases?, Live a long life.,3
+2032,38,L,,,,,1.74569673485,,,,25,30,1,,2,,1,1,1,1.74576497365,31,Why make a purchase?, Satisfy a need.,3
+2032,39,L,,,,,1.87538023986,,,,25,30,1,,7,,1,1,1,1.23620627947,53,Why crack eggs?, Make breakfast.,1
+2032,40,R,,,,,1.94245960858,,,,25,30,1,,8,,1,1,1,2.62500332566,41,Why open a magazine?, Read articles.,1
+2032,41,L,,,,,1.31171919934,,,,25,30,1,,4,,1,1,1,4.06830979792,25,How to make a purchase?, Go shopping.,5
+2032,42,R,,,,,1.19778184773,,,,25,30,1,,8,,1,1,1,1.01785375841,1,How to consume alcohol?, Drink wine.,5
+2032,43,R,,,,,2.39592460013,,,,25,30,1,,5,,1,1,1,1.26087295158,47,Why go shopping?, Make a purchase.,2
+2032,44,L,,,,,1.91778384477,,,,25,30,1,,2,,1,1,1,1.12352767045,48,Why consume medicine?, Reduce pain.,2
+2032,45,L,,,,,2.10343062339,,,,25,30,1,,9,,1,1,1,1.52054533545,3,How to improve oneself?, Gain knowledge.,6
+2032,46,R,,,,,1.32134001129,,,,25,30,1,,3,,1,1,1,1.4550516934,13,How to satisfy a need?, Make a purchase.,6
+2032,47,L,,,,,3.93717137949,,,,25,30,1,,6,,1,1,1,4.41473013926,46,How to take a picture?, Point a camera.,4
+2032,48,R,,,,,1.99997892036,,,,25,30,1,,7,,1,1,1,1.34237613772,2,How to go shopping?, Use credit cards.,4
+2032,49,L,,,,,2.92573880613,,,,25,30,1,,9,,1,1,1,1.1407338745,23,How to show intelligence?, Participate in class.,5
+2032,50,L,,,,,1.3279928779,,,,25,30,1,,4,,1,1,1,2.19978794366,28,How to express doubt?, Use scissors.,5
+2032,51,R,,,,,1.33388202075,,,,25,30,1,,7,,1,1,1,3.14387789018,7,Why make breakfast?, Satisfy hunger.,2
+2032,52,R,,,,,1.42462574253,,,,25,30,1,,2,,1,1,1,1.97432485093,38,Why read articles?, Gain knowledge.,2
+2032,53,R,,,,,1.02181726979,,,,25,30,1,,1,,1,1,1,2.09111499867,11,How to make a phone call?, Dial numbers.,4
+2032,54,L,,,,,3.93545886326,,,,25,30,1,,3,,1,1,1,1.01087383148,35,How to give a lecture?, Brush ones hair.,4
+2032,55,L,,,,,1.14139263775,,,,25,30,1,,5,,1,1,1,1.88783086799,43,Why save money?, Get fit.,3
+2032,56,L,,,,,1.2991757566,,,,25,30,1,,8,,1,1,1,2.74113466893,26,Why gain knowledge?, Improve oneself.,3
+2032,57,L,,,,,1.01454331094,,,,25,30,1,,7,,1,1,1,2.096527919,8,Why stir ingredients?, Mix a cocktail.,1
+2032,58,R,,,,,3.41543334725,,,,25,30,1,,6,,1,1,1,2.01132665644,29,Why follow recipes?, Prepare meals.,1
+2032,59,R,,,,,2.67632684107,,,,25,30,1,,8,,1,1,1,3.05816956135,22,How to show an ability?, Satisfy hunger.,6
+2032,60,R,,,,,2.20347083772,,,,25,30,1,,5,,1,1,1,1.40147445283,52,How to show creativity?, Make art.,6

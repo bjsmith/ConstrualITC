@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2035,1,R,,,,,3.70951679974,,,,25,30,1,,7,,1,1,4,0.925321796574,8,How to entertain oneself?, Watch television.,5
+2035,2,R,,,,,2.88795821332,,,,25,30,1,,1,,1,1,4,0.529900174362,4,How to entertain others?, Write a song.,5
+2035,3,R,,,,,2.10355483947,,,,25,30,1,,8,,1,1,4,0.550918586096,9,Why drink wine?, Consume alcohol.,2
+2035,4,R,,,,,0.78402599295,,,,25,30,1,,5,,1,1,4,0.564733790468,6,Why kill germs?, Avoid diseases.,2
+2035,5,L,,,,,0.604534882393,,,,25,30,1,,2,,1,1,4,1.69103203074,0,Why open a magazine?, Read articles.,1
+2035,6,R,,,,,1.5829507067,,,,25,30,1,,3,,1,1,4,0.770762341889,5,Why wash ones hands?, Kill germs.,1
+2035,7,L,,,,,2.5157260219,,,,25,30,1,,9,,1,1,4,2.06310257741,11,Why show intelligence?, Impress others.,3
+2035,8,R,,,,,1.01455505847,,,,25,30,1,,4,,1,1,4,1.19905336363,10,Why show competence?, Pass the time.,3
+2035,9,L,,,,,3.03090296057,,,,25,30,1,,2,,1,1,4,1.69447193241,1,How to improve oneself?, Gain knowledge.,6
+2035,10,L,,,,,2.624628584,,,,25,30,1,,3,,1,1,4,1.39927193349,2,How to satisfy a need?, Make a purchase.,6
+2035,11,L,,,,,1.13830761854,,,,25,30,1,,5,,1,1,4,0.535364360047,7,How to open a browser?, Click a mouse.,4
+2035,12,L,,,,,2.52300485462,,,,25,30,1,,1,,1,1,4,0.667953166209,3,How to take a picture?, Point a camera.,4

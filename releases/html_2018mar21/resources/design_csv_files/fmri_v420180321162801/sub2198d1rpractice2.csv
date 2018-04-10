@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2198,1,L,,,,,1.05026155065,,,,,24,1,,5,90,0,1,4,2.46288431815,0,Why finish a job?, Feel productive.,3
+2198,2,L,,,,,1.61764623972,,,,,38,1,,5,90,0,1,4,0.673106862707,8,Why get a promotion?, Achieve success.,3
+2198,3,R,,,,,0.663254216957,,,,,40,1,,5,90,0,1,4,1.18727369987,9,Why consume caffeine?, Stay alert.,2
+2198,4,R,,,,,4.31126955121,,,,,27,1,,5,90,0,1,4,1.35353767259,7,Why make a list?, Plan ahead.,2
+2198,5,L,,,,,1.34967491417,,,,,20,1,,5,90,0,1,4,0.912431454793,10,How to spread joy?, Get a job.,6
+2198,6,L,,,,,2.60370837003,,,,,37,1,,5,90,0,1,4,0.808763182387,11,How to avoid mistakes?, Obey laws.,6
+2198,7,R,,,,,3.37710341531,,,,,34,1,,5,90,0,1,4,1.26511813832,1,Why throw away trash?, Make a list.,1
+2198,8,L,,,,,5.0124471434,,,,,23,1,,5,90,0,1,4,0.723654757717,4,Why raise a hand?, Participate in class.,1
+2198,9,R,,,,,0.649461098178,,,,,32,1,,5,90,0,1,4,0.567342331735,6,How to make a donation?, Mix a cocktail.,5
+2198,10,R,,,,,0.993123154017,,,,,36,1,,5,90,0,1,4,0.738304370472,5,How to satisfy hunger?, Make breakfast.,5
+2198,11,L,,,,,1.1209083612,,,,,28,1,,5,90,0,1,4,1.04699521136,3,How to give a lecture?, Brush ones hair.,4
+2198,12,R,,,,,1.97346349712,,,,,33,1,,5,90,0,1,4,0.690783101721,2,How to open a browser?, Click a mouse.,4

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2086,1,L,,,,,0.584946396333,,,,,27,1,,5,90,0,3,4,0.660273815912,0,How to feel secure?, Save money.,6
+2086,2,R,,,,,0.571106822049,,,,,36,1,,5,90,0,3,4,1.29454147791,1,How to reduce worry?, Plan ahead.,6
+2086,3,R,,,,,0.759427778163,,,,,29,1,,5,90,0,3,4,0.546370418876,3,Why read articles?, Gain knowledge.,2
+2086,4,L,,,,,6.50563493748,,,,,25,1,,5,90,0,3,4,0.790150200798,2,Why open a browser?, Write an email.,2

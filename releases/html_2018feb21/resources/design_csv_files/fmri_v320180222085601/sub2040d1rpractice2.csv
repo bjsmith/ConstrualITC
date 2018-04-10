@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2040,1,R,,,,,0.625257052493,,,,,28,1,,5,90,0,1,4,1.48777959448,1,How to entertain oneself?, Watch television.,5
+2040,2,L,,,,,4.60889232929,,,,,25,1,,5,90,0,1,4,0.868128245278,6,How to entertain others?, Write a song.,5
+2040,3,R,,,,,1.37825001105,,,,,21,1,,5,90,0,1,4,0.9125192755,0,Why make breakfast?, Satisfy hunger.,2
+2040,4,R,,,,,2.01284661088,,,,,32,1,,5,90,0,1,4,0.620219185277,7,Why participate in class?, Show intelligence.,2
+2040,5,R,,,,,2.10570436065,,,,,31,1,,5,90,0,1,4,0.546109875695,5,Why use credit cards?, Go shopping.,1
+2040,6,R,,,,,2.02679133765,,,,,38,1,,5,90,0,1,4,0.628752007422,10,Why use chalk?, Get fit.,1
+2040,7,L,,,,,1.69234171156,,,,,24,1,,5,90,0,1,4,1.84901625557,4,Why write an email?, Send a message.,3
+2040,8,L,,,,,0.867222007155,,,,,34,1,,5,90,0,1,4,1.55108412828,3,Why plan ahead?, Reduce worry.,3
+2040,9,R,,,,,1.317819935,,,,,23,1,,5,90,0,1,4,0.810196036578,11,How to prepare meals?, Follow recipes.,4
+2040,10,L,,,,,2.86451734825,,,,,37,1,,5,90,0,1,4,0.815393449719,9,How to consume caffeine?, Press buttons.,4
+2040,11,L,,,,,2.26812722435,,,,,27,1,,5,90,0,1,4,0.599365178958,2,How to impress others?, Show intelligence.,6
+2040,12,L,,,,,2.0141989691,,,,,29,1,,5,90,0,1,4,1.0825315215,8,How to avoid mistakes?, Obey laws.,6

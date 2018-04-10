@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2070,1,L,,,,,1.68598335789,,,,25,30,1,,3,,1,1,1,1.08641288831,20,How to build muscles?, Lift weights.,5
+2070,2,R,,,,,2.04272741655,,,,25,30,1,,1,,1,1,1,3.92302197247,57,How to avoid diseases?, Kill germs.,5
+2070,3,R,,,,,1.27898472081,,,,25,30,1,,8,,1,1,1,1.08921756043,44,Why open a magazine?, Read articles.,1
+2070,4,R,,,,,1.08722732672,,,,25,30,1,,5,,1,1,1,1.65774745741,29,Why lift a glass?, Drink wine.,1
+2070,5,R,,,,,3.62215420171,,,,25,30,1,,9,,1,1,1,1.45687612884,27,How to satisfy a need?, Make a purchase.,6
+2070,6,L,,,,,1.15442840659,,,,25,30,1,,6,,1,1,1,1.67710346912,43,How to show an ability?, Satisfy hunger.,6
+2070,7,L,,,,,1.87660282228,,,,25,30,1,,2,,1,1,1,1.35771103978,6,How to give a lecture?, Brush ones hair.,4
+2070,8,R,,,,,1.71976840051,,,,25,30,1,,4,,1,1,1,1.4587120801,23,How to prepare meals?, Follow recipes.,4
+2070,9,R,,,,,1.44524144793,,,,25,30,1,,2,,1,1,1,1.23338543497,19,Why entertain others?, Express a talent.,3
+2070,10,L,,,,,2.15425106786,,,,25,30,1,,7,,1,1,1,2.02167179751,59,Why make a purchase?, Satisfy a need.,3
+2070,11,R,,,,,2.7336645355,,,,25,30,1,,5,,1,1,1,1.94655671022,31,Why watch television?, Show competence.,2
+2070,12,L,,,,,1.01143681334,,,,25,30,1,,1,,1,1,1,1.99818915022,22,Why go shopping?, Make a purchase.,2
+2070,13,L,,,,,1.63692802437,,,,25,30,1,,9,,1,1,1,1.40677643533,3,How to express a talent?, Entertain others.,6
+2070,14,L,,,,,2.47997021384,,,,25,30,1,,8,,1,1,1,3.42525778433,5,How to show humility?, Build muscles.,6
+2070,15,R,,,,,1.61360316634,,,,25,30,1,,6,,1,1,1,5.09486771063,47,Why attend a school?, Get a degree.,3
+2070,16,L,,,,,1.59543527297,,,,25,30,1,,3,,1,1,1,1.3621562815,36,Why show courtesy?, Make a friend.,3
+2070,17,L,,,,,3.31782439087,,,,25,30,1,,9,,1,1,1,1.68640503037,25,Why raise a hand?, Participate in class.,1
+2070,18,L,,,,,2.73673298104,,,,25,30,1,,8,,1,1,1,1.38633184428,9,Why wear ties?, Dress formally.,1
+2070,19,R,,,,,2.96944286402,,,,25,30,1,,2,,1,1,1,1.58238153951,45,How to read articles?, Open a magazine.,4
+2070,20,R,,,,,1.03262033617,,,,25,30,1,,6,,1,1,1,1.38585798442,54,How to mix a cocktail?, Stir ingredients.,4
+2070,21,L,,,,,1.04726089515,,,,25,30,1,,4,,1,1,1,1.42194931977,21,Why take a picture?, Keep a memory.,2
+2070,22,R,,,,,1.28082416638,,,,25,30,1,,3,,1,1,1,5.72761565491,41,Why write a song?, Seek advice.,2
+2070,23,L,,,,,1.17397903489,,,,25,30,1,,5,,1,1,1,1.09189307948,16,How to entertain oneself?, Watch television.,5
+2070,24,R,,,,,5.33114898837,,,,25,30,1,,7,,1,1,1,1.64771660422,12,How to consume alcohol?, Drink wine.,5
+2070,25,L,,,,,2.65600308171,,,,25,30,1,,4,,1,1,1,1.45991320843,56,How to show ambition?, Serve alcohol.,5
+2070,26,R,,,,,1.70744226954,,,,25,30,1,,5,,1,1,1,1.5020445998,34,How to contact a friend?, Make a phone call.,5
+2070,27,R,,,,,1.78996067005,,,,25,30,1,,8,,1,1,1,1.1578287463,2,Why use a brush?, Paint a picture.,1
+2070,28,R,,,,,1.93429625542,,,,25,30,1,,3,,1,1,1,3.74383987157,58,Why dial numbers?, Make a phone call.,1
+2070,29,L,,,,,2.19305755361,,,,25,30,1,,1,,1,1,1,2.79636175486,32,How to live a long life?, Avoid diseases.,6
+2070,30,L,,,,,1.14223642113,,,,25,30,1,,2,,1,1,1,1.06007143806,7,How to avoid mistakes?, Obey laws.,6
+2070,31,R,,,,,3.84463596005,,,,25,30,1,,6,,1,1,1,1.9325689187,4,Why write a poem?, Express an idea.,2
+2070,32,R,,,,,1.42086297691,,,,25,30,1,,7,,1,1,1,1.46542845832,52,Why make breakfast?, Satisfy hunger.,2
+2070,33,L,,,,,1.2762301678,,,,25,30,1,,9,,1,1,1,1.60273511576,49,How to write a song?, Play piano.,4
+2070,34,L,,,,,2.46545469514,,,,25,30,1,,8,,1,1,1,1.16071262822,38,How to consume caffeine?, Press buttons.,4
+2070,35,L,,,,,1.02285243059,,,,25,30,1,,2,,1,1,1,1.63751397728,15,Why gain knowledge?, Improve oneself.,3
+2070,36,R,,,,,1.99638790664,,,,25,30,1,,4,,1,1,1,4.05812795394,18,Why hold a party?, Feel sociable.,3
+2070,37,R,,,,,1.37600238344,,,,25,30,1,,6,,1,1,1,4.22139024652,1,Why turn a doorknob?, Enter a classroom.,1
+2070,38,L,,,,,2.95892939243,,,,25,30,1,,1,,1,1,1,1.24480032773,51,Why click a mouse?, Open a browser.,1
+2070,39,R,,,,,1.45611269838,,,,25,30,1,,3,,1,1,1,1.08477735405,53,Why plan ahead?, Reduce worry.,3
+2070,40,L,,,,,2.77105392168,,,,25,30,1,,7,,1,1,1,1.6558037986,40,Why build muscles?, Show humility.,3
+2070,41,L,,,,,1.4115573738,,,,25,30,1,,3,,1,1,1,1.43375309885,33,How to entertain others?, Write a song.,5
+2070,42,R,,,,,1.84022708994,,,,25,30,1,,9,,1,1,1,2.63268812086,30,How to write an email?, Open a browser.,5
+2070,43,L,,,,,2.24238493205,,,,25,30,1,,2,,1,1,1,3.29424721927,42,How to spread joy?, Get a job.,6
+2070,44,R,,,,,1.69611021952,,,,25,30,1,,5,,1,1,1,1.6960446849,26,How to show creativity?, Make art.,6
+2070,45,R,,,,,2.58095705813,,,,25,30,1,,6,,1,1,1,1.10225480118,55,Why teach a class?, Obey laws.,2
+2070,46,L,,,,,1.13256840187,,,,25,30,1,,8,,1,1,1,3.61745577797,37,Why kill germs?, Avoid diseases.,2
+2070,47,L,,,,,1.91585380571,,,,25,30,1,,7,,1,1,1,1.08884986572,8,How to write a check?, Sign ones name.,4
+2070,48,R,,,,,2.4469573421,,,,25,30,1,,1,,1,1,1,1.01714466324,35,How to paint a picture?, Use a brush.,4
+2070,49,L,,,,,2.61047060374,,,,25,30,1,,5,,1,1,1,2.56206957842,10,Why use credit cards?, Go shopping.,1
+2070,50,R,,,,,5.34269328767,,,,25,30,1,,9,,1,1,1,1.02628680129,50,Why crack eggs?, Make breakfast.,1
+2070,51,R,,,,,1.3148171526,,,,25,30,1,,7,,1,1,1,1.67746817796,14,Why consume caffeine?, Stay alert.,2
+2070,52,L,,,,,1.10011118818,,,,25,30,1,,2,,1,1,1,3.05213902174,48,Why dress formally?, Get a promotion.,2
+2070,53,L,,,,,1.18493429433,,,,25,30,1,,1,,1,1,1,1.75966024981,46,How to make breakfast?, Crack eggs.,4
+2070,54,R,,,,,1.80352953525,,,,25,30,1,,6,,1,1,1,1.24941183102,39,How to kill germs?, Wash ones hands.,4
+2070,55,L,,,,,2.65961837306,,,,25,30,1,,3,,1,1,1,1.20283135361,24,Why share ideas?, Show intellect.,3
+2070,56,R,,,,,1.49319607181,,,,25,30,1,,8,,1,1,1,3.282447348,13,Why contact a friend?, Feel connected.,3
+2070,57,R,,,,,2.30316310484,,,,25,30,1,,1,,1,1,1,2.34141655673,17,How to plan ahead?, Make a list.,5
+2070,58,L,,,,,2.19548881472,,,,25,30,1,,4,,1,1,1,1.36477577307,11,How to make art?, Paint a picture.,5
+2070,59,L,,,,,1.85758546866,,,,25,30,1,,7,,1,1,1,1.34711350378,28,How to avoid boredom?, Entertain oneself.,6
+2070,60,R,,,,,1.72175622139,,,,25,30,1,,2,,1,1,1,3.2787361157,0,How to show intellect?, Share ideas.,6

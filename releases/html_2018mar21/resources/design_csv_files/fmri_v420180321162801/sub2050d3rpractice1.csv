@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2050,1,R,,,,,2.25617472857,,,,25,30,1,,8,,1,3,3,1.55238174419,3,Why use a comb?, Write a song.,1
+2050,2,R,,,,,1.02720972392,,,,25,30,1,,1,,1,3,3,0.676933078346,1,Why wear ties?, Dress formally.,1
+2050,3,L,,,,,3.84697710015,,,,25,30,1,,6,,1,3,3,0.802508703073,2,Why participate in class?, Show intelligence.,2
+2050,4,L,,,,,0.955014754935,,,,25,30,1,,2,,1,3,3,0.953243159854,0,Why dress formally?, Get a promotion.,2

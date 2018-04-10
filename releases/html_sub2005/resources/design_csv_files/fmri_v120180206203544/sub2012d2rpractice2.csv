@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,2,,,,,2.21648489013,,,,,39,1,,5,90,0,2,4,0.91932853876,0,How to get a degree?, Attend a school.,6
+2012,2,2,,,,,1.68941815577,,,,,27,1,,5,90,0,2,4,1.13109499226,1,How to give to charity?, Use a camera.,5
+2012,3,1,,,,,2.45316128104,,,,,20,1,,5,90,0,2,4,0.746035452073,0,Why open a browser?, Write an email.,2
+2012,4,1,,,,,0.99970412786,,,,,36,1,,5,90,0,2,4,0.727845332987,0,Why contact a friend?, Feel connected.,3

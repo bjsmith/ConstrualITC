@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2009,1,1,,,,,1.63014062988,,,,25,30,1,,2,,1,1,4,1.76585994446,0,Why stir ingredients?, Mix a cocktail.,1
+2009,2,1,,,,,0.947119763764,,,,25,30,1,,6,,1,1,4,0.889163700516,0,Why drink coffee?, Consume caffeine.,1
+2009,3,1,,,,,3.38421464063,,,,25,30,1,,4,,1,1,4,2.38503784595,0,How to express a talent?, Entertain others.,6
+2009,4,2,,,,,4.49951398512,,,,25,30,1,,1,,1,1,4,3.95396650321,0,How to feel well?, Reduce pain.,6
+2009,5,1,,,,,0.743346997284,,,,25,30,1,,7,,1,1,4,1.80697104716,0,How to gain knowledge?, Read articles.,5
+2009,6,2,,,,,0.517838795754,,,,25,30,1,,3,,1,1,4,1.9322841998,0,How to show appreciation?, Give applause.,5
+2009,7,2,,,,,5.03581590891,,,,25,30,1,,9,,1,1,4,1.56342859713,0,Why make a list?, Plan ahead.,2
+2009,8,2,,,,,0.603138313296,,,,25,30,1,,8,,1,1,4,4.19551450213,0,Why give applause?, Show appreciation.,2
+2009,9,2,,,,,1.32102344391,,,,25,30,1,,9,,1,1,4,0.616769883326,0,How to make a phone call?, Dial numbers.,4
+2009,10,2,,,,,0.897910570757,,,,25,30,1,,2,,1,1,4,2.69019227847,0,How to take a picture?, Point a camera.,4
+2009,11,1,,,,,2.82400241416,,,,25,30,1,,8,,1,1,4,1.12751833268,0,Why hold a party?, Feel sociable.,3
+2009,12,1,,,,,1.99972270694,,,,25,30,1,,5,,1,1,4,0.877454589199,1,Why entertain others?, Express a talent.,3

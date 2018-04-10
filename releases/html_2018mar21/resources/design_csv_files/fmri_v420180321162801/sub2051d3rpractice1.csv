@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2051,1,L,,,,,1.18876589223,,,,,40,1,,5,90,0,3,3,0.59168130336,0,Why make a phone call?, Contact a friend.,2
+2051,2,L,,,,,2.41012801585,,,,,21,1,,5,90,0,3,3,1.15495914788,2,Why consume medicine?, Reduce pain.,2
+2051,3,R,,,,,1.68876482362,,,,,39,1,,5,90,0,3,3,0.550351946756,3,Why hold a party?, Feel sociable.,3
+2051,4,R,,,,,3.00676442352,,,,,20,1,,5,90,0,3,3,0.839544337061,1,Why get a promotion?, Achieve success.,3

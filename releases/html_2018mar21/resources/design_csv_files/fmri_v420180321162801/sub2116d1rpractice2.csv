@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2116,1,L,,,,,2.07661221031,,,,,25,1,,5,90,0,1,4,1.31418846005,8,Why raise a hand?, Participate in class.,1
+2116,2,R,,,,,2.22221278484,,,,,31,1,,5,90,0,1,4,0.682670492724,3,Why clap hands?, Give applause.,1
+2116,3,L,,,,,1.00799454655,,,,,20,1,,5,90,0,1,4,1.05258280059,6,Why save money?, Get fit.,3
+2116,4,R,,,,,0.825607956611,,,,,40,1,,5,90,0,1,4,1.59096800739,1,Why build muscles?, Show humility.,3
+2116,5,L,,,,,3.47600486106,,,,,22,1,,5,90,0,1,4,0.82502145493,7,How to watch television?, Use a remote.,4
+2116,6,L,,,,,1.6709190851,,,,,30,1,,5,90,0,1,4,0.936674499996,2,How to read articles?, Open a magazine.,4
+2116,7,R,,,,,1.21291139328,,,,,34,1,,5,90,0,1,4,2.66706191746,10,How to gain knowledge?, Read articles.,5
+2116,8,L,,,,,1.37310921829,,,,,37,1,,5,90,0,1,4,0.680109390087,4,How to consume alcohol?, Drink wine.,5
+2116,9,L,,,,,0.576707386278,,,,,21,1,,5,90,0,1,4,0.514199349556,0,How to feel connected?, Contact a friend.,6
+2116,10,R,,,,,1.71491034745,,,,,28,1,,5,90,0,1,4,1.19027019759,9,How to feel sociable?, Hold a party.,6
+2116,11,R,,,,,4.24384943342,,,,,23,1,,5,90,0,1,4,0.512714093184,5,Why watch television?, Show competence.,2
+2116,12,R,,,,,3.14062176072,,,,,38,1,,5,90,0,1,4,0.525859667493,11,Why give a lecture?, Teach others.,2

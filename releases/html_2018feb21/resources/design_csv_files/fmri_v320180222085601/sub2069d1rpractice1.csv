@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2069,1,R,,,,,0.938046309516,,,,,29,1,,5,90,0,1,3,0.500343109826,3,Why teach a class?, Obey laws.,2
+2069,2,L,,,,,1.13026488968,,,,,38,1,,5,90,0,1,3,0.897180883802,0,Why clip coupons?, Save money.,2
+2069,3,L,,,,,1.5234665099,,,,,25,1,,5,90,0,1,3,0.598899291094,10,How to open a browser?, Click a mouse.,4
+2069,4,L,,,,,3.64675008295,,,,,28,1,,5,90,0,1,3,1.4096465956,4,How to give applause?, Clap hands.,4
+2069,5,L,,,,,1.95242012999,,,,,27,1,,5,90,0,1,3,0.693272341861,5,Why entertain others?, Express a talent.,3
+2069,6,R,,,,,2.83195960025,,,,,33,1,,5,90,0,1,3,1.99238948947,7,Why share ideas?, Show intellect.,3
+2069,7,R,,,,,1.9269349918,,,,,30,1,,5,90,0,1,3,0.533598750305,9,How to get a promotion?, Arrive on time.,5
+2069,8,R,,,,,1.15588275805,,,,,31,1,,5,90,0,1,3,0.748818670536,2,How to show appreciation?, Give applause.,5
+2069,9,L,,,,,1.5100721694,,,,,36,1,,5,90,0,1,3,1.22133063334,1,Why clap hands?, Give applause.,1
+2069,10,R,,,,,3.45056742465,,,,,23,1,,5,90,0,1,3,0.552844348787,11,Why turn a doorknob?, Enter a classroom.,1
+2069,11,L,,,,,2.60381500729,,,,,20,1,,5,90,0,1,3,0.995646481176,8,How to spread joy?, Get a job.,6
+2069,12,R,,,,,1.13138741173,,,,,40,1,,5,90,0,1,3,1.09145245206,6,How to express a talent?, Entertain others.,6

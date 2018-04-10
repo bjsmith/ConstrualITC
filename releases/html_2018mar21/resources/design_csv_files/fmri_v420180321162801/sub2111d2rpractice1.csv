@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2111,1,L,,,,,2.79726489574,,,,,34,1,,5,90,0,2,3,0.615251930914,1,Why take aspirin?, Serve alcohol.,1
+2111,2,L,,,,,1.93529574982,,,,,27,1,,5,90,0,2,3,1.46273443524,0,Why use a comb?, Write a song.,1
+2111,3,R,,,,,0.600476341076,,,,,37,1,,5,90,0,2,3,0.539753695198,3,How to feel nostalgia?, Keep a memory.,6
+2111,4,R,,,,,3.32395025877,,,,,20,1,,5,90,0,2,3,0.591594680897,2,How to support a cause?, Give to charity.,6

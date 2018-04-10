@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2168,1,R,,,,,1.0615005911,,,,,32,1,,5,90,0,2,4,0.667562860628,3,Why clip coupons?, Save money.,2
+2168,2,L,,,,,0.524988274274,,,,,37,1,,5,90,0,2,4,0.535732054147,2,Why drink wine?, Consume alcohol.,2
+2168,3,R,,,,,2.81592147963,,,,,26,1,,5,90,0,2,4,1.22997236618,1,Why use a comb?, Write a song.,1
+2168,4,L,,,,,3.29598838969,,,,,24,1,,5,90,0,2,4,1.26627527877,0,Why open a magazine?, Read articles.,1

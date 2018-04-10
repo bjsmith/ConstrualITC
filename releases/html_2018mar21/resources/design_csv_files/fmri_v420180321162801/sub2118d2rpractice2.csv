@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2118,1,L,,,,,0.72093871824,,,,,25,1,,5,90,0,2,4,0.705260514628,3,Why use a brush?, Paint a picture.,1
+2118,2,R,,,,,0.515373206804,,,,,30,1,,5,90,0,2,4,1.21767702001,0,Why sign ones name?, Write a check.,1
+2118,3,L,,,,,6.05444907711,,,,,37,1,,5,90,0,2,4,0.977076891135,2,How to consume caffeine?, Press buttons.,4
+2118,4,R,,,,,0.995855544287,,,,,33,1,,5,90,0,2,4,0.846329282834,1,How to clip coupons?, Cut paper.,4

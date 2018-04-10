@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2141,1,L,,,,,4.70480442097,,,,,22,1,,5,90,0,3,3,0.711534824136,0,How to avoid boredom?, Entertain oneself.,6
+2141,2,L,,,,,1.26962087584,,,,,35,1,,5,90,0,3,3,1.348571724,1,How to show creativity?, Make art.,6
+2141,3,R,,,,,0.796509681139,,,,,39,1,,5,90,0,3,3,0.503755849595,2,Why crack eggs?, Make breakfast.,1
+2141,4,R,,,,,1.36782711627,,,,,25,1,,5,90,0,3,3,1.8342325351,3,Why use chalk?, Get fit.,1

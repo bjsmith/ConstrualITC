@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2144,1,R,,,,,3.54590051306,,,,,26,1,,5,90,0,1,4,0.621918095125,0,Why show courtesy?, Make a friend.,3
+2144,2,L,,,,,1.04973491294,,,,,34,1,,5,90,0,1,4,2.55135072231,9,Why show appreciation?, Spread joy.,3
+2144,3,L,,,,,1.1363649363,,,,,32,1,,5,90,0,1,4,0.691187990772,2,Why click a mouse?, Open a browser.,1
+2144,4,R,,,,,3.74379918552,,,,,35,1,,5,90,0,1,4,2.13689938165,10,Why follow recipes?, Prepare meals.,1
+2144,5,R,,,,,3.0123292411,,,,,24,1,,5,90,0,1,4,0.675597564977,6,How to give applause?, Clap hands.,4
+2144,6,L,,,,,0.704506381226,,,,,29,1,,5,90,0,1,4,1.17356528253,11,How to drink wine?, Open a bottle. ,4
+2144,7,L,,,,,3.48340649102,,,,,37,1,,5,90,0,1,4,0.646956936408,3,How to satisfy a need?, Make a purchase.,6
+2144,8,L,,,,,0.637602950109,,,,,36,1,,5,90,0,1,4,0.770791444278,5,How to feel connected?, Contact a friend.,6
+2144,9,R,,,,,0.534598559358,,,,,22,1,,5,90,0,1,4,0.777845222905,7,Why write a song?, Seek advice.,2
+2144,10,R,,,,,0.644139708752,,,,,25,1,,5,90,0,1,4,0.806000205448,4,Why watch television?, Show competence.,2
+2144,11,R,,,,,4.05237891007,,,,,39,1,,5,90,0,1,4,0.59182269937,1,How to avoid diseases?, Kill germs.,5
+2144,12,L,,,,,1.64590827157,,,,,28,1,,5,90,0,1,4,1.47446254251,8,How to make art?, Paint a picture.,5

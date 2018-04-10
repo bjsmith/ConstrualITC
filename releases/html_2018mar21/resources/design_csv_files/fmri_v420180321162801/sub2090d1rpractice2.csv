@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2090,1,R,,,,,1.45420134459,,,,,32,1,,5,90,0,1,4,0.95164790359,9,How to gain knowledge?, Read articles.,5
+2090,2,R,,,,,1.96069027409,,,,,20,1,,5,90,0,1,4,0.969805990506,0,How to provide food?, Prepare meals.,5
+2090,3,L,,,,,0.902148018072,,,,,26,1,,5,90,0,1,4,0.595530544239,1,Why make art?, Show creativity.,3
+2090,4,R,,,,,3.53501109013,,,,,34,1,,5,90,0,1,4,0.758127437263,3,Why show intelligence?, Impress others.,3
+2090,5,L,,,,,2.16209200389,,,,,28,1,,5,90,0,1,4,1.47115347978,8,How to take a picture?, Point a camera.,4
+2090,6,L,,,,,1.95764914329,,,,,33,1,,5,90,0,1,4,1.27352769236,10,How to clip coupons?, Cut paper.,4
+2090,7,L,,,,,3.1493966193,,,,,38,1,,5,90,0,1,4,0.547483903129,7,Why give applause?, Show appreciation.,2
+2090,8,R,,,,,1.10548699531,,,,,21,1,,5,90,0,1,4,1.21418821464,2,Why go shopping?, Make a purchase.,2
+2090,9,L,,,,,1.59202148382,,,,,40,1,,5,90,0,1,4,1.12536241074,4,How to show creativity?, Make art.,6
+2090,10,R,,,,,1.3144275531,,,,,36,1,,5,90,0,1,4,1.18159985394,6,How to get a degree?, Attend a school.,6
+2090,11,R,,,,,0.555221061034,,,,,30,1,,5,90,0,1,4,0.716444903667,5,Why cut paper?, Clip coupons.,1
+2090,12,L,,,,,3.84278522899,,,,,39,1,,5,90,0,1,4,0.722694064612,11,Why raise a hand?, Participate in class.,1

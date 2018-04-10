@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,1,,,,,2.22332418467,,,,,37,1,,5,90,0,3,1,3.11249403763,0,Why wash ones hands?, Kill germs.,1
+2021,2,2,,,,,1.22397799897,,,,,24,1,,5,90,0,3,1,2.46843020029,0,Why wear ties?, Dress formally.,1
+2021,3,2,,,,,3.24964227722,,,,,30,1,,5,90,0,3,1,1.07587199837,0,Why open a browser?, Write an email.,2
+2021,4,2,,,,,1.76109310966,,,,,35,1,,5,90,0,3,1,2.70141583202,0,Why take a picture?, Keep a memory.,2
+2021,5,1,,,,,2.02561844923,,,,,22,1,,5,90,0,3,1,2.11495741629,0,How to show creativity?, Make art.,6
+2021,6,1,,,,,4.06288033641,,,,,34,1,,5,90,0,3,1,2.12155858757,0,How to spread joy?, Get a job.,6
+2021,7,1,,,,,1.61625300825,,,,,38,1,,5,90,0,3,1,2.05115106933,0,How to make a list?, Throw away trash.,4
+2021,8,2,,,,,2.3291345415,,,,,27,1,,5,90,0,3,1,2.19233080226,0,How to make breakfast?, Crack eggs.,4
+2021,9,1,,,,,2.3645218665,,,,,26,1,,5,90,0,3,1,1.86115584468,0,Why show intelligence?, Impress others.,3
+2021,10,1,,,,,1.45030369207,,,,,40,1,,5,90,0,3,1,2.46209505722,0,Why keep a memory?, Feel nostalgia.,3
+2021,11,1,,,,,1.37753866597,,,,,39,1,,5,90,0,3,1,4.66933749351,0,How to make a donation?, Mix a cocktail.,5
+2021,12,2,,,,,2.20948105911,,,,,33,1,,5,90,0,3,1,1.11165729146,0,How to get a promotion?, Arrive on time.,5
+2021,13,2,,,,,2.77150620358,,,,,23,1,,5,90,0,3,1,1.41927194893,0,Why write a song?, Seek advice.,2
+2021,14,2,,,,,2.71632140647,,,,,20,1,,5,90,0,3,1,2.93659411721,0,Why clip coupons?, Save money.,2
+2021,15,2,,,,,1.19507628542,,,,,29,1,,5,90,0,3,1,1.29426327327,1,Why finish a job?, Feel productive.,3
+2021,16,2,,,,,2.15879726168,,,,,31,1,,5,90,0,3,1,1.4315376476,0,Why avoid diseases?, Live a long life.,3
+2021,17,2,,,,,2.00306194493,,,,,32,1,,5,90,0,3,1,1.94073476281,0,How to mix a cocktail?, Stir ingredients.,4
+2021,18,1,,,,,1.8758462132,,,,,25,1,,5,90,0,3,1,2.530593936,0,How to write a poem?, Grab a pencil.,4
+2021,19,1,,,,,1.50661600441,,,,,21,1,,5,90,0,3,1,2.1779681737,0,How to impress others?, Show intelligence.,6
+2021,20,2,,,,,1.63125902457,,,,,28,1,,5,90,0,3,1,1.01130403984,0,How to satisfy a need?, Make a purchase.,6
+2021,21,2,,,,,1.20802132498,,,,,29,1,,5,90,0,3,1,1.15389158897,0,Why throw away trash?, Make a list.,1
+2021,22,1,,,,,1.13490678861,,,,,34,1,,5,90,0,3,1,1.44766710106,0,Why use credit cards?, Go shopping.,1
+2021,23,2,,,,,2.602098678,,,,,38,1,,5,90,0,3,1,2.15191680575,0,How to entertain others?, Write a song.,5
+2021,24,1,,,,,1.06151113241,,,,,23,1,,5,90,0,3,1,1.5737537912,0,How to gain knowledge?, Read articles.,5
+2021,25,1,,,,,3.3190527369,,,,,27,1,,5,90,0,3,1,1.7825981949,0,How to get a degree?, Attend a school.,6
+2021,26,1,,,,,2.26808480538,,,,,26,1,,5,90,0,3,1,1.89474346152,0,How to show an ability?, Satisfy hunger.,6
+2021,27,2,,,,,1.43578270677,,,,,30,1,,5,90,0,3,1,2.3764521909,0,How to lift weights?, Fasten seatbelt.,4
+2021,28,1,,,,,2.44621037195,,,,,39,1,,5,90,0,3,1,1.62324673064,0,How to go shopping?, Use credit cards.,4
+2021,29,1,,,,,1.68904665011,,,,,22,1,,5,90,0,3,1,3.07685980671,0,Why make art?, Show creativity.,3
+2021,30,1,,,,,1.14146871633,,,,,31,1,,5,90,0,3,1,2.45668381665,0,Why entertain others?, Express a talent.,3
+2021,31,1,,,,,1.3696840155,,,,,37,1,,5,90,0,3,1,1.45929496519,0,Why paint a picture?, Make art.,2
+2021,32,2,,,,,1.88003377112,,,,,40,1,,5,90,0,3,1,1.31500523161,0,Why kill germs?, Avoid diseases.,2
+2021,33,2,,,,,2.03031019853,,,,,24,1,,5,90,0,3,1,1.88420481912,0,Why open a bottle?, Consume medicine.,1
+2021,34,1,,,,,2.17169496166,,,,,35,1,,5,90,0,3,1,2.43251291894,0,Why drink coffee?, Consume caffeine.,1
+2021,35,2,,,,,2.52974747178,,,,,25,1,,5,90,0,3,1,1.3872924665,0,How to contact a friend?, Make a phone call.,5
+2021,36,2,,,,,1.43116580079,,,,,36,1,,5,90,0,3,1,1.54795151811,0,How to teach others?, Give a lecture.,5

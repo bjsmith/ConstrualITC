@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2032,1,R,,,,,0.684581083363,,,,,34,1,,5,90,0,1,4,0.511507072799,10,Why attend a school?, Get a degree.,3
+2032,2,L,,,,,1.25719437593,,,,,35,1,,5,90,0,1,4,0.966791791418,9,Why make art?, Show creativity.,3
+2032,3,L,,,,,1.75722400588,,,,,21,1,,5,90,0,1,4,0.944373273724,5,Why give a lecture?, Teach others.,2
+2032,4,R,,,,,2.12790386712,,,,,28,1,,5,90,0,1,4,1.00626364378,2,Why kill germs?, Avoid diseases.,2
+2032,5,L,,,,,0.964844653433,,,,,37,1,,5,90,0,1,4,0.64696897721,3,How to watch television?, Use a remote.,4
+2032,6,L,,,,,2.59165370008,,,,,23,1,,5,90,0,1,4,0.821457854012,11,How to go shopping?, Use credit cards.,4
+2032,7,R,,,,,1.73079293206,,,,,24,1,,5,90,0,1,4,0.946874472171,0,How to improve oneself?, Gain knowledge.,6
+2032,8,R,,,,,0.628633931861,,,,,36,1,,5,90,0,1,4,2.4255092658,8,How to get a degree?, Attend a school.,6
+2032,9,L,,,,,0.803933696921,,,,,33,1,,5,90,0,1,4,0.560925477954,7,Why wash ones hands?, Kill germs.,1
+2032,10,R,,,,,2.74797388836,,,,,38,1,,5,90,0,1,4,0.861820669233,6,Why sign ones name?, Write a check.,1
+2032,11,R,,,,,6.26542067589,,,,,27,1,,5,90,0,1,4,1.40873191735,1,How to make a donation?, Mix a cocktail.,5
+2032,12,L,,,,,2.22404533534,,,,,25,1,,5,90,0,1,4,1.44895644653,4,How to gain knowledge?, Read articles.,5

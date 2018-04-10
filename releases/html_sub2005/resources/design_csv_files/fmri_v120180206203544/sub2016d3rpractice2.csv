@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2016,1,1,,,,,0.882810586684,,,,,33,1,,5,90,0,3,4,1.15845498732,1,Why open a bottle?, Consume medicine.,1
+2016,2,2,,,,,2.19514122239,,,,,21,1,,5,90,0,3,4,0.575607566237,0,Why entertain others?, Express a talent.,3
+2016,3,2,,,,,1.79248302212,,,,,23,1,,5,90,0,3,4,0.990435480374,0,How to consume caffeine?, Press buttons.,4
+2016,4,1,,,,,2.76342205191,,,,,38,1,,5,90,0,3,4,1.98335602586,0,How to avoid mistakes?, Obey laws.,6

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,1,,,,,5.15034111397,,,,,23,1,,5,90,0,3,3,1.92794683673,0,How to provide food?, Prepare meals.,5
+2001,2,1,,,,,1.86453314137,,,,,37,1,,5,90,0,3,3,1.6013245909,0,How to consume alcohol?, Drink wine.,5
+2001,3,2,,,,,0.972608861634,,,,,35,1,,5,90,0,3,3,1.58249583561,0,Why make a list?, Plan ahead.,2
+2001,4,2,,,,,0.640698865219,,,,,21,1,,5,90,0,3,3,2.29632259753,1,Why kill germs?, Avoid diseases.,2

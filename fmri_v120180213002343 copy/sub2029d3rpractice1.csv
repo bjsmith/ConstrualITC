@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2029,1,1,,,,,1.92364049482,,,,,35,1,,5,90,0,3,3,2.04950051719,0,Why clap hands?, Give applause.,1
+2029,2,1,,,,,0.851684506513,,,,,38,1,,5,90,0,3,3,1.80403877602,0,Why drink coffee?, Consume caffeine.,1
+2029,3,2,,,,,3.75724271906,,,,,21,1,,5,90,0,3,3,3.08033850223,1,How to spread knowledge?, Teach others.,6
+2029,4,2,,,,,2.30459949232,,,,,24,1,,5,90,0,3,3,1.03749827747,0,How to spread joy?, Get a job.,6

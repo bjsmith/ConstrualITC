@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2005,1,2,,,,,1.9005190343,,,,,40,1,,5,90,0,3,3,1.95196508527,0,Why give a lecture?, Teach others.,2
+2005,2,2,,,,,4.26452459158,,,,,25,1,,5,90,0,3,3,1.11827014995,1,Why open a browser?, Write an email.,2
+2005,3,1,,,,,1.75864265164,,,,,26,1,,5,90,0,3,3,2.61635598633,0,How to take a picture?, Point a camera.,4
+2005,4,1,,,,,1.01944175307,,,,,33,1,,5,90,0,3,3,2.3807913265,0,How to mix a cocktail?, Stir ingredients.,4

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2197,1,L,,,,,0.856245558869,,,,25,30,1,,3,,1,2,4,0.615997269566,2,How to feel well?, Reduce pain.,6
+2197,2,R,,,,,2.56928382057,,,,25,30,1,,1,,1,2,4,1.19850913954,0,How to achieve success?, Get a promotion.,6
+2197,3,R,,,,,3.13802391792,,,,25,30,1,,6,,1,2,4,1.08680136295,3,Why keep a memory?, Feel nostalgia.,3
+2197,4,L,,,,,1.38304727827,,,,25,30,1,,7,,1,2,4,1.34531754408,1,Why entertain others?, Express a talent.,3

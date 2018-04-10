@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,2,,,,,4.56927129036,,,,25,30,1,,8,,1,2,4,0.658097800371,0,Why avoid diseases?, Live a long life.,3
+2001,2,1,,,,,1.28464789983,,,,25,30,1,,6,,1,2,4,1.49210612189,0,How to consume alcohol?, Drink wine.,5
+2001,3,2,,,,,1.44810030705,,,,25,30,1,,7,,1,2,4,0.863034503507,0,How to show creativity?, Make art.,6
+2001,4,1,,,,,1.43575256402,,,,25,30,1,,2,,1,2,4,0.641264138978,1,How to make breakfast?, Crack eggs.,4

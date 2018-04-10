@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2138,1,L,,,,,2.21814875597,,,,,32,1,,5,90,0,1,4,0.637190565592,0,How to reduce worry?, Plan ahead.,6
+2138,2,R,,,,,4.28156804068,,,,,26,1,,5,90,0,1,4,1.87037794299,5,How to show cleanliness?, Write an email.,6
+2138,3,R,,,,,0.772571721458,,,,,36,1,,5,90,0,1,4,0.732671631091,8,Why show competence?, Pass the time.,3
+2138,4,L,,,,,0.631779719655,,,,,37,1,,5,90,0,1,4,1.28290372059,4,Why provide food?, Help a person.,3
+2138,5,R,,,,,3.37716599181,,,,,38,1,,5,90,0,1,4,0.961937190584,9,Why watch television?, Show competence.,2
+2138,6,L,,,,,0.615940393822,,,,,24,1,,5,90,0,1,4,0.665247693451,10,Why read articles?, Gain knowledge.,2
+2138,7,R,,,,,2.57473493296,,,,,25,1,,5,90,0,1,4,1.66244845086,11,Why raise a hand?, Participate in class.,1
+2138,8,R,,,,,0.985848311316,,,,,20,1,,5,90,0,1,4,0.634733643015,7,Why cut paper?, Clip coupons.,1
+2138,9,L,,,,,1.87714029256,,,,,23,1,,5,90,0,1,4,1.077060015,6,How to read articles?, Open a magazine.,4
+2138,10,L,,,,,6.02603843889,,,,,35,1,,5,90,0,1,4,0.682720552269,3,How to paint a picture?, Use a brush.,4
+2138,11,R,,,,,0.893106085162,,,,,34,1,,5,90,0,1,4,1.02211896989,1,How to contact a friend?, Make a phone call.,5
+2138,12,L,,,,,0.595277940696,,,,,28,1,,5,90,0,1,4,0.878017915494,2,How to build muscles?, Lift weights.,5

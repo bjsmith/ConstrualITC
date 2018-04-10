@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2019,1,1,,,,,1.11791570307,,,,,30,1,,5,90,0,2,3,1.47406646972,0,How to read articles?, Open a magazine.,4
+2019,2,1,,,,,5.12029629119,,,,,37,1,,5,90,0,2,3,3.77589457823,1,How to go shopping?, Use credit cards.,4
+2019,3,2,,,,,1.27068475903,,,,,28,1,,5,90,0,2,3,1.51710480248,0,Why point a camera?, Take a picture.,1
+2019,4,2,,,,,1.02046811456,,,,,20,1,,5,90,0,2,3,0.688702364099,0,Why click a mouse?, Open a browser.,1

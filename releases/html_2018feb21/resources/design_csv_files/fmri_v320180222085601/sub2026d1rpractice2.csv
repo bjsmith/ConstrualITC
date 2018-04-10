@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2026,1,L,,,,,1.44649415209,,,,,34,1,,5,90,0,1,4,0.526076144187,4,Why dress formally?, Get a promotion.,2
+2026,2,R,,,,,1.51200280344,,,,,40,1,,5,90,0,1,4,1.09178523306,0,Why consume caffeine?, Stay alert.,2
+2026,3,R,,,,,1.53550113447,,,,,32,1,,5,90,0,1,4,1.17568609293,11,How to satisfy hunger?, Make breakfast.,5
+2026,4,R,,,,,0.819667729286,,,,,39,1,,5,90,0,1,4,0.549991035772,10,How to entertain others?, Write a song.,5
+2026,5,L,,,,,0.710235728818,,,,,22,1,,5,90,0,1,4,1.21610324718,3,Why attend a school?, Get a degree.,3
+2026,6,L,,,,,5.0228914752,,,,,21,1,,5,90,0,1,4,0.977486839422,2,Why avoid diseases?, Live a long life.,3
+2026,7,R,,,,,0.852459813306,,,,,20,1,,5,90,0,1,4,1.06580645871,1,Why stir ingredients?, Mix a cocktail.,1
+2026,8,L,,,,,0.745212134117,,,,,35,1,,5,90,0,1,4,1.42307299393,8,Why follow recipes?, Prepare meals.,1
+2026,9,L,,,,,2.90557169623,,,,,28,1,,5,90,0,1,4,1.55035230605,5,How to participate in class?, Raise a hand.,4
+2026,10,L,,,,,0.708129443409,,,,,24,1,,5,90,0,1,4,0.581734199719,7,How to dress formally?, Wear ties. ,4
+2026,11,R,,,,,0.668303441658,,,,,37,1,,5,90,0,1,4,0.633665208833,9,How to spread knowledge?, Teach others.,6
+2026,12,R,,,,,6.08517475664,,,,,27,1,,5,90,0,1,4,0.827205433641,6,How to show creativity?, Make art.,6

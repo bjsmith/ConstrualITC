@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2024,1,1,,,,,0.830392712135,,,,,22,1,,5,90,0,1,4,2.47749178806,0,How to lift weights?, Fasten seatbelt.,4
+2024,2,2,,,,,1.66386475917,,,,,36,1,,5,90,0,1,4,0.601270299035,0,Why get a promotion?, Achieve success.,3
+2024,3,1,,,,,3.96325673917,,,,,34,1,,5,90,0,1,4,1.00716020708,1,Why use a brush?, Paint a picture.,1
+2024,4,1,,,,,2.8525472795,,,,,40,1,,5,90,0,1,4,1.44946148719,0,How to make art?, Paint a picture.,5
+2024,5,2,,,,,1.24727748563,,,,,38,1,,5,90,0,1,4,0.756436833093,0,How to feel well?, Reduce pain.,6
+2024,6,2,,,,,2.97624031991,,,,,26,1,,5,90,0,1,4,0.758268136493,0,Why write a poem?, Express an idea.,2
+2024,7,2,,,,,1.76906880098,,,,,23,1,,5,90,0,1,4,0.673675513133,0,How to show creativity?, Make art.,6
+2024,8,1,,,,,1.90614610632,,,,,35,1,,5,90,0,1,4,1.86409818373,0,Why show intelligence?, Impress others.,3
+2024,9,2,,,,,1.19654741417,,,,,37,1,,5,90,0,1,4,0.756931525563,0,How to consume alcohol?, Drink wine.,5
+2024,10,2,,,,,2.50887928215,,,,,33,1,,5,90,0,1,4,0.627597279648,0,Why turn a doorknob?, Enter a classroom.,1
+2024,11,1,,,,,2.17124729329,,,,,27,1,,5,90,0,1,4,0.614393463133,0,Why write a song?, Seek advice.,2
+2024,12,1,,,,,0.568703976474,,,,,24,1,,5,90,0,1,4,0.550561197014,0,How to take a picture?, Point a camera.,4

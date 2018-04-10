@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2042,1,L,,,,,1.36399048302,,,,25,30,1,,9,,1,1,3,0.815937832263,6,How to make a donation?, Mix a cocktail.,5
+2042,2,L,,,,,0.655944282095,,,,25,30,1,,4,,1,1,3,0.708920463976,9,How to write an email?, Open a browser.,5
+2042,3,R,,,,,2.1900363796,,,,25,30,1,,2,,1,1,3,1.0458339483,8,Why read articles?, Gain knowledge.,2
+2042,4,L,,,,,0.596500357883,,,,25,30,1,,3,,1,1,3,0.709398418567,4,Why write a poem?, Express an idea.,2
+2042,5,L,,,,,4.42816960196,,,,25,30,1,,5,,1,1,3,0.960200219936,3,Why entertain others?, Express a talent.,3
+2042,6,R,,,,,4.00322331582,,,,25,30,1,,8,,1,1,3,1.0602504541,7,Why satisfy hunger?, Show an ability.,3
+2042,7,L,,,,,0.592223798432,,,,25,30,1,,7,,1,1,3,1.04470171499,0,How to make breakfast?, Crack eggs.,4
+2042,8,L,,,,,3.62172271238,,,,25,30,1,,1,,1,1,3,1.82878372699,10,How to consume medicine?, Take pills. ,4
+2042,9,R,,,,,3.43278592901,,,,25,30,1,,9,,1,1,3,0.71877948075,1,Why cut paper?, Clip coupons.,1
+2042,10,R,,,,,1.44939993873,,,,25,30,1,,1,,1,1,3,0.899259052429,11,Why use a remote?, Watch television.,1
+2042,11,R,,,,,0.822858584942,,,,25,30,1,,8,,1,1,3,1.1076763091,2,How to show an ability?, Satisfy hunger.,6
+2042,12,R,,,,,1.44343750101,,,,25,30,1,,3,,1,1,3,1.15796674652,5,How to spread joy?, Get a job.,6

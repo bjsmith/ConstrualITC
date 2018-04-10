@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2036,1,R,,,,,0.52132229753,,,,25,30,1,,1,,1,3,3,2.18827677761,0,Why contact a friend?, Feel connected.,3
+2036,2,L,,,,,1.38552366514,,,,25,30,1,,5,,1,3,3,1.0519848265,3,Why reduce pain?, Feel well.,3
+2036,3,L,,,,,3.63102138416,,,,25,30,1,,9,,1,3,3,0.562317503679,1,How to make a phone call?, Dial numbers.,4
+2036,4,R,,,,,2.13367050867,,,,25,30,1,,6,,1,3,3,0.643555456596,2,How to go shopping?, Use credit cards.,4

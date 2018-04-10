@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2094,1,R,,,,,1.79038677597,,,,,22,1,,5,90,0,2,4,1.28208474144,1,How to write a check?, Sign ones name.,4
+2094,2,L,,,,,1.26128806188,,,,,40,1,,5,90,0,2,4,0.514571322524,0,How to make breakfast?, Crack eggs.,4
+2094,3,R,,,,,1.75759481677,,,,,34,1,,5,90,0,2,4,1.00618861172,3,How to improve oneself?, Gain knowledge.,6
+2094,4,L,,,,,2.53969312962,,,,,23,1,,5,90,0,2,4,0.676950749581,2,How to feel productive?, Finish a job.,6

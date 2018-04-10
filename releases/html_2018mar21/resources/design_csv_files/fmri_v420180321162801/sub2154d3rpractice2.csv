@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2154,1,L,,,,,2.26660736662,,,,,32,1,,5,90,0,3,4,0.615066265723,1,How to dress formally?, Wear ties. ,4
+2154,2,L,,,,,3.89297545582,,,,,22,1,,5,90,0,3,4,0.530302561445,3,How to participate in class?, Raise a hand.,4
+2154,3,R,,,,,0.540327728405,,,,,39,1,,5,90,0,3,4,2.37841564705,2,How to satisfy a need?, Make a purchase.,6
+2154,4,R,,,,,1.31337507441,,,,,28,1,,5,90,0,3,4,0.889557078808,0,How to show humility?, Build muscles.,6

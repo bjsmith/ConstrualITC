@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2154,1,R,,,,,1.603892266,,,,,34,1,,5,90,0,1,4,0.701799330092,11,Why sign ones name?, Write a check.,1
+2154,2,L,,,,,0.672359713379,,,,,39,1,,5,90,0,1,4,1.15803631157,6,Why stir ingredients?, Mix a cocktail.,1
+2154,3,R,,,,,2.59008730374,,,,,37,1,,5,90,0,1,4,1.86174044395,8,Why show courtesy?, Make a friend.,3
+2154,4,L,,,,,2.1777881521,,,,,21,1,,5,90,0,1,4,2.31725037775,9,Why get a promotion?, Achieve success.,3
+2154,5,L,,,,,0.730231537293,,,,,36,1,,5,90,0,1,4,0.700025210164,2,How to attend a school?, Enter a classroom.,5
+2154,6,R,,,,,2.09828451614,,,,,24,1,,5,90,0,1,4,0.723025118172,7,How to make a purchase?, Go shopping.,5
+2154,7,R,,,,,0.550941933096,,,,,27,1,,5,90,0,1,4,1.3900392621,1,How to show cleanliness?, Write an email.,6
+2154,8,L,,,,,1.46952584641,,,,,32,1,,5,90,0,1,4,0.609320950419,5,How to express a talent?, Entertain others.,6
+2154,9,L,,,,,2.12433679867,,,,,25,1,,5,90,0,1,4,0.713435574961,3,Why enter a classroom?, Attend a school.,2
+2154,10,R,,,,,5.94051889212,,,,,35,1,,5,90,0,1,4,1.15573564713,4,Why consume medicine?, Reduce pain.,2
+2154,11,R,,,,,0.579540085881,,,,,33,1,,5,90,0,1,4,0.531976273014,10,How to go shopping?, Use credit cards.,4
+2154,12,L,,,,,3.2254645816,,,,,31,1,,5,90,0,1,4,1.08785072715,0,How to write a poem?, Grab a pencil.,4

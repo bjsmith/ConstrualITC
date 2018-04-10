@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2072,1,L,,,,,1.57272923129,,,,,29,1,,5,90,0,3,4,0.573011555375,3,How to avoid diseases?, Kill germs.,5
+2072,2,L,,,,,2.44349901727,,,,,33,1,,5,90,0,3,4,1.06931411342,2,How to make a donation?, Mix a cocktail.,5
+2072,3,R,,,,,1.53153358773,,,,,32,1,,5,90,0,3,4,0.647822147857,0,Why contact a friend?, Feel connected.,3
+2072,4,R,,,,,2.53634915407,,,,,22,1,,5,90,0,3,4,1.07070774931,1,Why show competence?, Pass the time.,3

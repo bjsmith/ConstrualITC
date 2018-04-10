@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2072,1,L,,,,,0.776784770621,,,,,32,1,,5,90,0,1,4,1.21895981626,4,How to make a phone call?, Dial numbers.,4
+2072,2,R,,,,,1.1906998912,,,,,40,1,,5,90,0,1,4,0.928701510064,2,How to prepare meals?, Follow recipes.,4
+2072,3,R,,,,,1.68024058531,,,,,26,1,,5,90,0,1,4,1.17888428277,0,How to plan ahead?, Make a list.,5
+2072,4,R,,,,,3.06002837474,,,,,29,1,,5,90,0,1,4,0.60050859483,8,How to gain knowledge?, Read articles.,5
+2072,5,L,,,,,3.6295517057,,,,,22,1,,5,90,0,1,4,0.518257049955,1,Why write an email?, Send a message.,3
+2072,6,L,,,,,1.52015995246,,,,,37,1,,5,90,0,1,4,0.931321409295,5,Why build muscles?, Show humility.,3
+2072,7,R,,,,,1.5256357904,,,,,28,1,,5,90,0,1,4,1.67517989285,7,Why watch television?, Show competence.,2
+2072,8,L,,,,,0.85871242971,,,,,38,1,,5,90,0,1,4,0.896429918289,3,Why give a lecture?, Teach others.,2
+2072,9,L,,,,,2.36050782447,,,,,21,1,,5,90,0,1,4,0.642891937286,11,How to live a long life?, Avoid diseases.,6
+2072,10,R,,,,,1.86801563264,,,,,39,1,,5,90,0,1,4,0.839066108509,9,How to show an ability?, Satisfy hunger.,6
+2072,11,L,,,,,1.30570169066,,,,,30,1,,5,90,0,1,4,1.25833802534,6,Why raise a hand?, Participate in class.,1
+2072,12,R,,,,,3.82930264516,,,,,34,1,,5,90,0,1,4,1.17184363302,10,Why open a magazine?, Read articles.,1

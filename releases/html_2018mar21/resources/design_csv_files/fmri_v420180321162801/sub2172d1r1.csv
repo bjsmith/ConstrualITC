@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2172,1,R,,,,,1.66617205056,,,,25,30,1,,9,,1,1,1,2.39467314693,5,Why provide food?, Help a person.,3
+2172,2,L,,,,,2.7593048913,,,,25,30,1,,1,,1,1,1,1.81520854134,53,Why write an email?, Send a message.,3
+2172,3,R,,,,,2.59087040536,,,,25,30,1,,4,,1,1,1,4.70955240898,11,Why use chalk?, Get fit.,1
+2172,4,R,,,,,2.20373045848,,,,25,30,1,,8,,1,1,1,1.09836626111,59,Why use credit cards?, Go shopping.,1
+2172,5,L,,,,,1.10458268644,,,,25,30,1,,6,,1,1,1,2.23346328322,36,How to take a picture?, Point a camera.,4
+2172,6,R,,,,,1.08317771018,,,,25,30,1,,7,,1,1,1,2.2412348154,58,How to kill germs?, Wash ones hands.,4
+2172,7,L,,,,,4.47410614927,,,,25,30,1,,5,,1,1,1,1.49337326361,47,How to save money?, Clip coupons.,5
+2172,8,L,,,,,1.27418093846,,,,25,30,1,,3,,1,1,1,1.25336359645,2,How to make a purchase?, Go shopping.,5
+2172,9,R,,,,,3.18690814364,,,,25,30,1,,1,,1,1,1,3.45088318498,28,How to feel sociable?, Hold a party.,6
+2172,10,R,,,,,1.48926431071,,,,25,30,1,,4,,1,1,1,1.35523854167,34,How to show cleanliness?, Write an email.,6
+2172,11,R,,,,,1.24634856111,,,,25,30,1,,6,,1,1,1,1.0321716982,55,Why use a camera?, Give to charity.,2
+2172,12,R,,,,,1.8646462594,,,,25,30,1,,2,,1,1,1,2.70343608819,0,Why read articles?, Gain knowledge.,2
+2172,13,R,,,,,1.65097170563,,,,25,30,1,,8,,1,1,1,2.79904503887,48,Why use a remote?, Watch television.,1
+2172,14,R,,,,,1.31489539739,,,,25,30,1,,3,,1,1,1,1.07350961498,12,Why crack eggs?, Make breakfast.,1
+2172,15,L,,,,,1.85636226897,,,,25,30,1,,5,,1,1,1,1.28611664179,38,Why make a purchase?, Satisfy a need.,3
+2172,16,L,,,,,1.22673711508,,,,25,30,1,,7,,1,1,1,2.05831104313,21,Why keep a memory?, Feel nostalgia.,3
+2172,17,L,,,,,1.26954727965,,,,25,30,1,,9,,1,1,1,2.17035203276,52,How to open a browser?, Click a mouse.,4
+2172,18,R,,,,,1.64965293144,,,,25,30,1,,1,,1,1,1,1.78508786192,49,How to paint a picture?, Use a brush.,4
+2172,19,L,,,,,2.95895843738,,,,25,30,1,,8,,1,1,1,2.25174629513,23,How to give to charity?, Use a camera.,5
+2172,20,L,,,,,1.57169734752,,,,25,30,1,,4,,1,1,1,1.78256516406,46,How to show ambition?, Serve alcohol.,5
+2172,21,R,,,,,1.46345519091,,,,25,30,1,,3,,1,1,1,1.6352825171,1,Why take a picture?, Keep a memory.,2
+2172,22,L,,,,,4.22650953472,,,,25,30,1,,6,,1,1,1,1.23387954142,22,Why consume medicine?, Reduce pain.,2
+2172,23,L,,,,,3.06689232093,,,,25,30,1,,2,,1,1,1,1.95564497395,7,How to show intellect?, Share ideas.,6
+2172,24,L,,,,,1.26426785242,,,,25,30,1,,5,,1,1,1,1.67803728999,17,How to express a talent?, Entertain others.,6
+2172,25,L,,,,,1.34087218726,,,,25,30,1,,6,,1,1,1,1.91844448152,41,How to feel connected?, Contact a friend.,6
+2172,26,R,,,,,2.48643858038,,,,25,30,1,,4,,1,1,1,1.4844586859,51,How to improve oneself?, Gain knowledge.,6
+2172,27,L,,,,,1.3227142983,,,,25,30,1,,8,,1,1,1,2.52515947795,54,How to gain knowledge?, Read articles.,5
+2172,28,R,,,,,2.26577500983,,,,25,30,1,,7,,1,1,1,1.98057027948,3,How to teach others?, Give a lecture.,5
+2172,29,R,,,,,2.16252249665,,,,25,30,1,,5,,1,1,1,2.59417944711,25,Why cut paper?, Clip coupons.,1
+2172,30,L,,,,,1.48537567151,,,,25,30,1,,2,,1,1,1,2.05757463939,56,Why use a brush?, Paint a picture.,1
+2172,31,R,,,,,4.02263194382,,,,25,30,1,,3,,1,1,1,1.20223231391,42,Why save money?, Get fit.,3
+2172,32,L,,,,,1.18509179959,,,,25,30,1,,9,,1,1,1,2.02353409698,6,Why share ideas?, Show intellect.,3
+2172,33,L,,,,,1.56236388896,,,,25,30,1,,5,,1,1,1,3.26898649817,14,Why make a phone call?, Contact a friend.,2
+2172,34,R,,,,,2.72587330989,,,,25,30,1,,6,,1,1,1,1.54078866754,32,Why give applause?, Show appreciation.,2
+2172,35,L,,,,,2.10000448481,,,,25,30,1,,3,,1,1,1,1.96078961123,43,How to write a song?, Play piano.,4
+2172,36,R,,,,,1.10757133527,,,,25,30,1,,7,,1,1,1,1.13319614432,19,How to dress formally?, Wear ties. ,4
+2172,37,R,,,,,1.44282577822,,,,25,30,1,,1,,1,1,1,3.64920788401,16,Why follow recipes?, Prepare meals.,1
+2172,38,R,,,,,2.42289642669,,,,25,30,1,,2,,1,1,1,1.97433739274,39,Why point a camera?, Take a picture.,1
+2172,39,L,,,,,2.07939194967,,,,25,30,1,,4,,1,1,1,1.59824459833,33,How to consume medicine?, Take pills. ,4
+2172,40,L,,,,,1.04813797747,,,,25,30,1,,9,,1,1,1,1.60106621956,8,How to clip coupons?, Cut paper.,4
+2172,41,R,,,,,1.86074981528,,,,25,30,1,,7,,1,1,1,1.82050361104,20,Why get a promotion?, Achieve success.,3
+2172,42,L,,,,,2.25978767172,,,,25,30,1,,8,,1,1,1,1.25492933749,44,Why contact a friend?, Feel connected.,3
+2172,43,L,,,,,1.97000397751,,,,25,30,1,,9,,1,1,1,1.73843002842,10,How to satisfy hunger?, Make breakfast.,5
+2172,44,L,,,,,2.05690958551,,,,25,30,1,,4,,1,1,1,2.23553636117,37,How to plan ahead?, Make a list.,5
+2172,45,R,,,,,1.81126446152,,,,25,30,1,,3,,1,1,1,1.4664318885,40,How to feel secure?, Save money.,6
+2172,46,L,,,,,2.15135285942,,,,25,30,1,,2,,1,1,1,2.26967774855,15,How to spread joy?, Get a job.,6
+2172,47,R,,,,,2.26110610399,,,,25,30,1,,6,,1,1,1,2.07245623399,57,Why kill germs?, Avoid diseases.,2
+2172,48,R,,,,,1.43253739803,,,,25,30,1,,1,,1,1,1,3.69785597193,9,Why give a lecture?, Teach others.,2
+2172,49,L,,,,,4.61374567823,,,,25,30,1,,2,,1,1,1,2.61038429226,31,How to feel productive?, Finish a job.,6
+2172,50,L,,,,,1.06421850117,,,,25,30,1,,9,,1,1,1,2.03375068142,24,How to support a cause?, Give to charity.,6
+2172,51,R,,,,,1.36578157899,,,,25,30,1,,4,,1,1,1,1.86453879821,35,How to show intelligence?, Participate in class.,5
+2172,52,R,,,,,2.31592712608,,,,25,30,1,,5,,1,1,1,1.33299666361,13,How to express doubt?, Use scissors.,5
+2172,53,L,,,,,1.23883819911,,,,25,30,1,,7,,1,1,1,1.89002069428,27,How to mix a cocktail?, Stir ingredients.,4
+2172,54,R,,,,,1.94528491914,,,,25,30,1,,3,,1,1,1,1.46349851066,45,How to go shopping?, Use credit cards.,4
+2172,55,R,,,,,1.83836432875,,,,25,30,1,,1,,1,1,1,1.57447488912,26,Why sign ones name?, Write a check.,1
+2172,56,R,,,,,2.35371898796,,,,25,30,1,,8,,1,1,1,1.60122152973,4,Why turn a doorknob?, Enter a classroom.,1
+2172,57,R,,,,,1.86650038005,,,,25,30,1,,4,,1,1,1,2.61475682735,18,Why attend a school?, Get a degree.,3
+2172,58,L,,,,,1.9092725733,,,,25,30,1,,8,,1,1,1,2.40342342518,29,Why build muscles?, Show humility.,3
+2172,59,L,,,,,1.04413264732,,,,25,30,1,,1,,1,1,1,1.88305747187,50,Why make a list?, Plan ahead.,2
+2172,60,L,,,,,2.58476184495,,,,25,30,1,,5,,1,1,1,1.28552310439,30,Why paint a picture?, Make art.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2173,1,L,,,,,5.4516494862,,,,25,30,1,,6,,1,2,4,2.12436704687,1,How to consume medicine?, Take pills. ,4
+2173,2,R,,,,,0.879658587317,,,,25,30,1,,9,,1,2,4,0.791719977398,0,How to mix a cocktail?, Stir ingredients.,4
+2173,3,L,,,,,1.19319158326,,,,25,30,1,,1,,1,2,4,0.617287778642,2,How to improve oneself?, Gain knowledge.,6
+2173,4,R,,,,,0.707018489321,,,,25,30,1,,7,,1,2,4,0.512927667115,3,How to spread knowledge?, Teach others.,6

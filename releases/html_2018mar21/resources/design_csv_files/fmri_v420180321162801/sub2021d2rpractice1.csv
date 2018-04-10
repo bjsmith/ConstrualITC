@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,R,,,,,0.719721123323,,,,,23,1,,5,90,0,2,3,0.538929089835,0,Why keep a memory?, Feel nostalgia.,3
+2021,2,R,,,,,0.518464711622,,,,,38,1,,5,90,0,2,3,1.23618957031,1,Why make art?, Show creativity.,3
+2021,3,L,,,,,6.25599248566,,,,,28,1,,5,90,0,2,3,0.720386734652,2,Why use a camera?, Give to charity.,2
+2021,4,L,,,,,0.996355870289,,,,,32,1,,5,90,0,2,3,1.28783673034,3,Why make breakfast?, Satisfy hunger.,2

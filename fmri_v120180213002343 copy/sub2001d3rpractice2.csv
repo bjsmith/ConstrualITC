@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,2,,,,,3.05379215641,,,,25,30,1,,3,,1,3,4,1.05731904036,0,Why stir ingredients?, Mix a cocktail.,1
+2001,2,2,,,,,1.23262958993,,,,25,30,1,,7,,1,3,4,1.05395876382,0,Why wash ones hands?, Kill germs.,1
+2001,3,1,,,,,1.84412426325,,,,25,30,1,,4,,1,3,4,5.44256673383,0,How to save money?, Clip coupons.,5
+2001,4,1,,,,,2.7161131338,,,,25,30,1,,6,,1,3,4,1.35618700526,1,How to satisfy hunger?, Make breakfast.,5

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,L,,,,,0.719941350298,,,,25,30,1,,6,,1,1,3,0.785039529866,10,How to avoid boredom?, Entertain oneself.,6
+2020,2,L,,,,,0.641749393425,,,,25,30,1,,9,,1,1,3,1.07376600316,3,How to show intellect?, Share ideas.,6
+2020,3,R,,,,,1.94078021044,,,,25,30,1,,5,,1,1,3,1.27425487617,11,Why drink wine?, Consume alcohol.,2
+2020,4,R,,,,,2.01211796028,,,,25,30,1,,1,,1,1,3,0.586305074407,7,Why clip coupons?, Save money.,2
+2020,5,L,,,,,1.32356339128,,,,25,30,1,,4,,1,1,3,1.98469542443,9,Why contact a friend?, Feel connected.,3
+2020,6,R,,,,,0.802768214618,,,,25,30,1,,7,,1,1,3,1.0210426642,5,Why write an email?, Send a message.,3
+2020,7,R,,,,,2.64753478781,,,,25,30,1,,2,,1,1,3,1.38615310147,2,Why stir ingredients?, Mix a cocktail.,1
+2020,8,R,,,,,1.21123623552,,,,25,30,1,,3,,1,1,3,0.591327203733,4,Why clap hands?, Give applause.,1
+2020,9,L,,,,,2.45305400686,,,,25,30,1,,5,,1,1,3,1.48698902309,1,How to attend a school?, Enter a classroom.,5
+2020,10,L,,,,,5.38459040637,,,,25,30,1,,7,,1,1,3,0.509549436847,6,How to save money?, Clip coupons.,5
+2020,11,L,,,,,1.79574489875,,,,25,30,1,,3,,1,1,3,0.848339264243,0,How to watch television?, Use a remote.,4
+2020,12,R,,,,,3.62786767386,,,,25,30,1,,1,,1,1,3,1.0145772302,8,How to write a check?, Sign ones name.,4

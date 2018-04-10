@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2145,1,R,,,,,1.33475182109,,,,,28,1,,5,90,0,2,3,0.992758262441,0,How to give a lecture?, Brush ones hair.,4
+2145,2,R,,,,,0.531436603321,,,,,39,1,,5,90,0,2,3,0.737637042857,3,How to give applause?, Clap hands.,4
+2145,3,L,,,,,2.03767083917,,,,,24,1,,5,90,0,2,3,0.692855755925,1,Why use a remote?, Watch television.,1
+2145,4,L,,,,,3.5787763893,,,,,26,1,,5,90,0,2,3,1.08462279374,2,Why clap hands?, Give applause.,1

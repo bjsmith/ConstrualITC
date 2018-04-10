@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2136,1,L,,,,,0.638829426624,,,,25,30,1,,8,,1,2,3,0.805514784334,2,How to open a browser?, Click a mouse.,4
+2136,2,R,,,,,3.15914215726,,,,25,30,1,,3,,1,2,3,1.22838740354,1,How to read articles?, Open a magazine.,4
+2136,3,R,,,,,1.48814106336,,,,25,30,1,,9,,1,2,3,0.541896984067,0,Why share ideas?, Show intellect.,3
+2136,4,L,,,,,2.06036511858,,,,25,30,1,,2,,1,2,3,1.55596039242,3,Why save money?, Get fit.,3

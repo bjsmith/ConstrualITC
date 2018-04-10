@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2173,1,R,,,,,1.91697579575,,,,,31,1,,5,90,0,1,3,0.731324092396,4,Why kill germs?, Avoid diseases.,2
+2173,2,R,,,,,3.28406699255,,,,,28,1,,5,90,0,1,3,0.882185896971,9,Why read articles?, Gain knowledge.,2
+2173,3,L,,,,,2.30370167174,,,,,24,1,,5,90,0,1,3,0.58251501601,11,How to lift weights?, Fasten seatbelt.,4
+2173,4,L,,,,,6.81675835227,,,,,30,1,,5,90,0,1,3,1.04646370215,6,How to drink wine?, Open a bottle. ,4
+2173,5,R,,,,,0.583029974453,,,,,35,1,,5,90,0,1,3,1.30564377481,5,How to spread joy?, Get a job.,6
+2173,6,R,,,,,1.31287068776,,,,,38,1,,5,90,0,1,3,0.53112413803,10,How to feel sociable?, Hold a party.,6
+2173,7,L,,,,,0.961577548793,,,,,37,1,,5,90,0,1,3,1.11181496468,7,Why follow recipes?, Prepare meals.,1
+2173,8,R,,,,,0.520293287713,,,,,29,1,,5,90,0,1,3,0.877478180171,2,Why wash ones hands?, Kill germs.,1
+2173,9,L,,,,,2.85419374688,,,,,36,1,,5,90,0,1,3,0.741194022541,1,How to plan ahead?, Make a list.,5
+2173,10,L,,,,,2.34372553563,,,,,22,1,,5,90,0,1,3,1.20685289516,8,How to entertain others?, Write a song.,5
+2173,11,R,,,,,0.66191387045,,,,,34,1,,5,90,0,1,3,1.04904004564,3,Why save money?, Get fit.,3
+2173,12,L,,,,,1.26837215865,,,,,20,1,,5,90,0,1,3,1.36247858464,0,Why give to charity?, Support a cause.,3

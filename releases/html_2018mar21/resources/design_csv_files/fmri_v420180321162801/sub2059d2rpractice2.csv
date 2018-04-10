@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2059,1,R,,,,,0.751202427408,,,,25,30,1,,6,,1,2,4,1.3188598138,1,Why use a comb?, Write a song.,1
+2059,2,L,,,,,3.18972620121,,,,25,30,1,,7,,1,2,4,1.73539823692,3,Why follow recipes?, Prepare meals.,1
+2059,3,R,,,,,0.697309877627,,,,25,30,1,,3,,1,2,4,0.635510496765,2,Why write a song?, Seek advice.,2
+2059,4,L,,,,,3.34483036886,,,,25,30,1,,2,,1,2,4,1.22119475808,0,Why clip coupons?, Save money.,2

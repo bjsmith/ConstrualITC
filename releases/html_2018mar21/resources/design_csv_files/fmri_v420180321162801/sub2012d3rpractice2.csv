@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,L,,,,,2.84704949062,,,,,20,1,,5,90,0,3,4,0.754530200156,2,Why open a magazine?, Read articles.,1
+2012,2,R,,,,,2.34426364969,,,,,40,1,,5,90,0,3,4,1.66204602358,3,Why follow recipes?, Prepare meals.,1
+2012,3,L,,,,,2.21368833312,,,,,31,1,,5,90,0,3,4,0.898001938925,0,Why contact a friend?, Feel connected.,3
+2012,4,R,,,,,1.54177493473,,,,,29,1,,5,90,0,3,4,1.53352339208,1,Why save money?, Get fit.,3

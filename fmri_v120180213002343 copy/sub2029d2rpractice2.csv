@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2029,1,1,,,,,1.03756655127,,,,25,30,1,,5,,1,2,4,4.66197953881,1,Why open a bottle?, Consume medicine.,1
+2029,2,1,,,,,2.37780713154,,,,25,30,1,,9,,1,2,4,1.36480719042,0,Why point a camera?, Take a picture.,1
+2029,3,2,,,,,0.500039691877,,,,25,30,1,,1,,1,2,4,0.520595885444,0,How to drink wine?, Open a bottle. ,4
+2029,4,2,,,,,4.0903636831,,,,25,30,1,,4,,1,2,4,0.93999990009,0,How to give a lecture?, Brush ones hair.,4

@@ -348,9 +348,9 @@ def create_practice_csv(set_label):
 def create_conditions_in_separate_folders(set_label,variableamount_interval,fixedamount_values):
     run_ts=datetime.now().strftime("%Y%m%d%H%M%S")
     #copy the HTML folder
-    html_template_folder ='/Users/benjaminsmith/GDrive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-template'
+    html_template_folder ='/Users/benjaminsmith/Google Drive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-template'
 
-    html_create_folder = '/Users/benjaminsmith/GDrive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-gen/html' + run_ts
+    html_create_folder = '/Users/benjaminsmith/Google Drive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-gen/html' + run_ts
 
     if not os.path.exists(html_create_folder):
         os.makedirs(html_create_folder)
@@ -387,9 +387,9 @@ def create_conditions_in_separate_folders(set_label,variableamount_interval,fixe
 def create_conditions_in_separate_folders_varyrewards(set_label):
     run_ts=datetime.now().strftime("%Y%m%d%H%M%S")
     #copy the HTML folder
-    html_template_folder ='/Users/benjaminsmith/GDrive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-template'
+    html_template_folder ='/Users/benjaminsmith/Google Drive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-template'
 
-    html_create_folder = '/Users/benjaminsmith/GDrive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-gen/html' + run_ts
+    html_create_folder = '/Users/benjaminsmith/Google Drive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html-gen/html' + run_ts
 
     if not os.path.exists(html_create_folder):
         os.makedirs(html_create_folder)
@@ -492,7 +492,7 @@ def create_arbitrary_run_in_custom_folder_varyrewards(project_resource_path,rel_
 
             #citc_task.iti_fixedamount_values = [25, 30]
             #citc_task.iti_variableamount_interval = [20, 40]
-            citc_task.iti_fixeddelay_values = [5, 50]
+            citc_task.iti_fixeddelay_values = [5, 60]
 
             if condition_reward_schedule==RewardSchedule.LargeHypothetical:
                 citc_task.iti_variableamount_interval = hypothetical_variableamount_interval#[0.40, 0.80]
@@ -504,7 +504,7 @@ def create_arbitrary_run_in_custom_folder_varyrewards(project_resource_path,rel_
                 constant_condition_amount = real_constant_condition_amount
                 #need to change
                 replace_text_in_file(
-                    script_to_fix_filepath=project_base_path+"/customjs/construal_itc_logic.js",
+                    script_to_fix_filepath=project_base_path+"/customjs/hypotheticality.js",
                     find_text="var reward_condition=REWARD_CONDITION_LARGE_HYPOTHETICAL;",
                     replace_text="var reward_condition=REWARD_CONDITION_SMALL_REAL;"
                                      )

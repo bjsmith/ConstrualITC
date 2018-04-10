@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2010,1,1,,,,,2.00981220626,,,,25,30,1,,2,,1,2,3,4.44399735607,0,Why finish a job?, Feel productive.,3
+2010,2,1,,,,,2.6380796648,,,,25,30,1,,4,,1,2,3,0.806857002787,0,Why save money?, Get fit.,3
+2010,3,2,,,,,0.567439079951,,,,25,30,1,,7,,1,2,3,1.48231129087,0,How to satisfy a need?, Make a purchase.,6
+2010,4,2,,,,,2.92934339378,,,,25,30,1,,5,,1,2,3,2.01072203489,1,How to spread joy?, Get a job.,6

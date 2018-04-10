@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2027,1,1,,,,,1.06797001472,,,,25,30,1,,1,,1,2,4,4.02788949079,1,Why open a magazine?, Read articles.,1
+2027,2,1,,,,,1.35058264865,,,,25,30,1,,3,,1,2,4,1.16107995832,0,Why dial numbers?, Make a phone call.,1
+2027,3,2,,,,,3.23227672941,,,,25,30,1,,9,,1,2,4,0.677085382705,0,How to feel sociable?, Hold a party.,6
+2027,4,2,,,,,1.63065253984,,,,25,30,1,,7,,1,2,4,2.43190460788,0,How to get a degree?, Attend a school.,6

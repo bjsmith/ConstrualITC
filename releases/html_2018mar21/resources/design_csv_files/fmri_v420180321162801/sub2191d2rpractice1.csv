@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2191,1,L,,,,,1.59332605943,,,,,33,1,,5,90,0,2,3,0.907853481575,3,How to participate in class?, Raise a hand.,4
+2191,2,R,,,,,2.81309331216,,,,,35,1,,5,90,0,2,3,0.935508139575,2,How to take a picture?, Point a camera.,4
+2191,3,R,,,,,1.5247055185,,,,,30,1,,5,90,0,2,3,0.681654440994,0,Why entertain others?, Express a talent.,3
+2191,4,L,,,,,1.42159915987,,,,,26,1,,5,90,0,2,3,0.788373143524,1,Why save money?, Get fit.,3

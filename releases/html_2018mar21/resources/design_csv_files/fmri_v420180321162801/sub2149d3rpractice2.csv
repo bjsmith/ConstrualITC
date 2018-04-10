@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2149,1,L,,,,,0.621617331233,,,,25,30,1,,4,,1,3,4,0.790480852774,1,Why consume caffeine?, Stay alert.,2
+2149,2,L,,,,,0.933646800759,,,,25,30,1,,6,,1,3,4,1.21128051806,0,Why participate in class?, Show intelligence.,2
+2149,3,R,,,,,4.43941872617,,,,25,30,1,,7,,1,3,4,1.30096664837,2,How to feel nostalgia?, Keep a memory.,6
+2149,4,R,,,,,1.5689298611,,,,25,30,1,,5,,1,3,4,1.3549651316,3,How to spread joy?, Get a job.,6

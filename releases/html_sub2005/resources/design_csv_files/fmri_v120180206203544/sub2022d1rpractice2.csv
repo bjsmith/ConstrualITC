@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2022,1,2,,,,,0.776324007163,,,,,30,1,,5,90,0,1,4,0.712120741234,0,Why teach a class?, Obey laws.,2
+2022,2,1,,,,,1.97783743274,,,,,23,1,,5,90,0,1,4,1.1771688339,0,Why clap hands?, Give applause.,1
+2022,3,2,,,,,1.79991676685,,,,,37,1,,5,90,0,1,4,0.847090897087,0,How to build muscles?, Lift weights.,5
+2022,4,1,,,,,3.4636298508,,,,,21,1,,5,90,0,1,4,1.29921289189,0,Why provide food?, Help a person.,3
+2022,5,2,,,,,1.74340424923,,,,,25,1,,5,90,0,1,4,0.931368164308,0,How to feel nostalgia?, Keep a memory.,6
+2022,6,1,,,,,0.687128571867,,,,,40,1,,5,90,0,1,4,0.617990544273,0,How to read articles?, Open a magazine.,4
+2022,7,1,,,,,4.1794613729,,,,,26,1,,5,90,0,1,4,1.16650525771,0,How to support a cause?, Give to charity.,6
+2022,8,2,,,,,3.57314275081,,,,,27,1,,5,90,0,1,4,1.41564024428,0,How to avoid diseases?, Kill germs.,5
+2022,9,1,,,,,2.8990237124,,,,,32,1,,5,90,0,1,4,1.08326183185,1,Why turn a doorknob?, Enter a classroom.,1
+2022,10,2,,,,,1.2405318712,,,,,39,1,,5,90,0,1,4,0.971383200351,0,Why consume caffeine?, Stay alert.,2
+2022,11,2,,,,,0.512680521917,,,,,29,1,,5,90,0,1,4,0.653972747458,0,Why show competence?, Pass the time.,3
+2022,12,1,,,,,1.2862517393,,,,,28,1,,5,90,0,1,4,0.84177641668,0,How to consume medicine?, Take pills. ,4

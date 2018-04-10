@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,R,,,,,1.34058110668,,,,,22,1,,5,90,0,2,2,3.04185498748,59,How to show an ability?, Satisfy hunger.,6
+2018,2,L,,,,,1.01193108681,,,,,29,1,,5,90,0,2,2,1.17309712178,56,How to feel productive?, Finish a job.,6
+2018,3,R,,,,,1.03692645116,,,,,27,1,,5,90,0,2,2,3.18661639572,0,Why show intelligence?, Impress others.,3
+2018,4,L,,,,,1.21172919658,,,,,37,1,,5,90,0,2,2,1.47183102285,52,Why attend a school?, Get a degree.,3
+2018,5,L,,,,,1.01003985073,,,,,32,1,,5,90,0,2,2,3.33648136661,33,Why drink coffee?, Consume caffeine.,1
+2018,6,L,,,,,6.73054245245,,,,,39,1,,5,90,0,2,2,1.89069383979,18,Why dial numbers?, Make a phone call.,1
+2018,7,R,,,,,1.05848753855,,,,,28,1,,5,90,0,2,2,1.2781173594,38,How to go shopping?, Use credit cards.,4
+2018,8,R,,,,,1.59481307587,,,,,38,1,,5,90,0,2,2,1.4744334939,21,How to read articles?, Open a magazine.,4
+2018,9,L,,,,,1.19309762208,,,,,30,1,,5,90,0,2,2,1.8013863195,15,How to entertain others?, Write a song.,5
+2018,10,R,,,,,2.22987806756,,,,,35,1,,5,90,0,2,2,1.20096597116,2,How to avoid diseases?, Kill germs.,5
+2018,11,L,,,,,1.28176857053,,,,,36,1,,5,90,0,2,2,2.09608243213,43,Why clip coupons?, Save money.,2
+2018,12,L,,,,,1.90028523543,,,,,21,1,,5,90,0,2,2,2.93595799306,48,Why open a browser?, Write an email.,2
+2018,13,R,,,,,2.49869635722,,,,,23,1,,5,90,0,2,2,2.29342399631,49,How to teach others?, Give a lecture.,5
+2018,14,L,,,,,2.68885316272,,,,,40,1,,5,90,0,2,2,1.27129158483,39,How to make a purchase?, Go shopping.,5
+2018,15,R,,,,,1.23884009954,,,,,34,1,,5,90,0,2,2,2.80072782749,3,Why use a comb?, Write a song.,1
+2018,16,L,,,,,2.31051634721,,,,,25,1,,5,90,0,2,2,1.17757874586,13,Why take aspirin?, Serve alcohol.,1
+2018,17,L,,,,,1.12937000252,,,,,31,1,,5,90,0,2,2,1.09952447533,34,Why get a promotion?, Achieve success.,3
+2018,18,L,,,,,2.85834827899,,,,,26,1,,5,90,0,2,2,1.10312099178,26,Why share ideas?, Show intellect.,3
+2018,19,R,,,,,1.9185170831,,,,,20,1,,5,90,0,2,2,1.08383530943,12,How to show cleanliness?, Write an email.,6
+2018,20,R,,,,,2.22806919839,,,,,24,1,,5,90,0,2,2,2.94073524186,53,How to impress others?, Show intelligence.,6
+2018,21,R,,,,,4.29983559207,,,,,22,1,,5,90,0,2,2,2.60106003883,5,How to make breakfast?, Crack eggs.,4
+2018,22,R,,,,,1.58360563906,,,,,36,1,,5,90,0,2,2,1.79202036803,40,How to write a song?, Play piano.,4
+2018,23,R,,,,,1.75670229691,,,,,33,1,,5,90,0,2,2,2.44276109444,45,Why make a list?, Plan ahead.,2
+2018,24,L,,,,,2.47871857632,,,,,34,1,,5,90,0,2,2,2.57285558433,10,Why consume medicine?, Reduce pain.,2
+2018,25,R,,,,,2.32682189103,,,,,21,1,,5,90,0,2,2,2.7144655827,44,How to feel well?, Reduce pain.,6
+2018,26,L,,,,,3.12310718949,,,,,37,1,,5,90,0,2,2,1.81293472238,46,How to feel nostalgia?, Keep a memory.,6
+2018,27,L,,,,,1.32516217818,,,,,32,1,,5,90,0,2,2,1.04548228851,47,How to build muscles?, Lift weights.,5
+2018,28,L,,,,,1.03836036551,,,,,26,1,,5,90,0,2,2,2.14284202236,27,How to get a promotion?, Arrive on time.,5
+2018,29,R,,,,,1.10157654749,,,,,28,1,,5,90,0,2,2,3.24658893074,1,How to kill germs?, Wash ones hands.,4
+2018,30,R,,,,,1.80748815837,,,,,31,1,,5,90,0,2,2,1.46268880015,17,How to write a check?, Sign ones name.,4
+2018,31,L,,,,,1.4509837778,,,,,39,1,,5,90,0,2,2,2.04868837084,9,Why satisfy hunger?, Show an ability.,3
+2018,32,R,,,,,1.20714415316,,,,,27,1,,5,90,0,2,2,2.32912768047,30,Why gain knowledge?, Improve oneself.,3
+2018,33,L,,,,,3.79238912663,,,,,20,1,,5,90,0,2,2,1.25822392383,22,Why point a camera?, Take a picture.,1
+2018,34,L,,,,,1.42099152702,,,,,38,1,,5,90,0,2,2,1.3307367788,11,Why wash ones hands?, Kill germs.,1
+2018,35,R,,,,,2.49210346206,,,,,40,1,,5,90,0,2,2,2.89414109657,36,Why teach a class?, Obey laws.,2
+2018,36,R,,,,,1.58566740011,,,,,30,1,,5,90,0,2,2,2.07290581085,24,Why read articles?, Gain knowledge.,2
+2018,37,R,,,,,1.04001685286,,,,,24,1,,5,90,0,2,2,1.33375058772,4,How to get a degree?, Attend a school.,6
+2018,38,R,,,,,2.20667804038,,,,,25,1,,5,90,0,2,2,3.37188755546,57,How to spread joy?, Get a job.,6
+2018,39,L,,,,,2.88176041123,,,,,35,1,,5,90,0,2,2,2.00936464509,25,Why contact a friend?, Feel connected.,3
+2018,40,L,,,,,1.13563256352,,,,,23,1,,5,90,0,2,2,1.02577591375,7,Why save money?, Get fit.,3
+2018,41,L,,,,,1.4321773152,,,,,20,1,,5,90,0,2,2,1.73177975122,54,How to give applause?, Clap hands.,4
+2018,42,R,,,,,3.533308946,,,,,38,1,,5,90,0,2,2,2.9069261753,28,How to prepare meals?, Follow recipes.,4
+2018,43,R,,,,,2.14602561522,,,,,35,1,,5,90,0,2,2,2.25520445518,23,Why participate in class?, Show intelligence.,2
+2018,44,L,,,,,2.69590084816,,,,,37,1,,5,90,0,2,2,1.59803117331,50,Why paint a picture?, Make art.,2
+2018,45,L,,,,,1.57665254786,,,,,39,1,,5,90,0,2,2,1.53663731791,37,Why throw away trash?, Make a list.,1
+2018,46,R,,,,,2.99766722738,,,,,34,1,,5,90,0,2,2,1.60282191721,58,Why lift a glass?, Drink wine.,1
+2018,47,R,,,,,1.57469504062,,,,,25,1,,5,90,0,2,2,2.11704395697,35,How to make a donation?, Mix a cocktail.,5
+2018,48,L,,,,,1.24400153545,,,,,26,1,,5,90,0,2,2,1.14323425248,8,How to show appreciation?, Give applause.,5
+2018,49,R,,,,,1.44677795566,,,,,28,1,,5,90,0,2,2,2.27238105225,16,How to mix a cocktail?, Stir ingredients.,4
+2018,50,L,,,,,1.06036579364,,,,,40,1,,5,90,0,2,2,1.05173615238,31,How to consume medicine?, Take pills. ,4
+2018,51,L,,,,,3.07094601357,,,,,36,1,,5,90,0,2,2,1.89654943558,55,Why plan ahead?, Reduce worry.,3
+2018,52,R,,,,,1.56789102032,,,,,29,1,,5,90,0,2,2,2.10716112005,29,Why keep a memory?, Feel nostalgia.,3
+2018,53,L,,,,,2.53260291378,,,,,23,1,,5,90,0,2,2,4.04923098173,42,Why enter a classroom?, Attend a school.,2
+2018,54,R,,,,,2.22324703233,,,,,22,1,,5,90,0,2,2,2.24406937747,32,Why write a song?, Seek advice.,2
+2018,55,L,,,,,1.14901872108,,,,,21,1,,5,90,0,2,2,1.06767845741,20,How to spread knowledge?, Teach others.,6
+2018,56,L,,,,,2.49639774751,,,,,27,1,,5,90,0,2,2,3.02818392991,6,How to show creativity?, Make art.,6
+2018,57,R,,,,,1.0242494601,,,,,31,1,,5,90,0,2,2,1.39079586723,41,Why open a magazine?, Read articles.,1
+2018,58,L,,,,,4.10231892041,,,,,30,1,,5,90,0,2,2,2.8848370392,14,Why use a brush?, Paint a picture.,1
+2018,59,R,,,,,2.79163195292,,,,,33,1,,5,90,0,2,2,1.03019506268,19,How to make art?, Paint a picture.,5
+2018,60,R,,,,,1.51835332313,,,,,24,1,,5,90,0,2,2,1.72107714657,51,How to consume alcohol?, Drink wine.,5

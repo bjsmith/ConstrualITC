@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2133,1,L,,,,,1.13676304225,,,,,38,1,,5,90,0,1,3,1.41107542775,4,Why finish a job?, Feel productive.,3
+2133,2,R,,,,,0.853753242803,,,,,35,1,,5,90,0,1,3,0.595861362734,7,Why provide food?, Help a person.,3
+2133,3,R,,,,,0.731910916033,,,,,30,1,,5,90,0,1,3,0.738128852899,11,How to feel well?, Reduce pain.,6
+2133,4,L,,,,,1.40795588811,,,,,25,1,,5,90,0,1,3,2.39437768579,5,How to spread knowledge?, Teach others.,6
+2133,5,L,,,,,6.12330608472,,,,,37,1,,5,90,0,1,3,0.627045731772,1,Why click a mouse?, Open a browser.,1
+2133,6,L,,,,,2.44560469171,,,,,27,1,,5,90,0,1,3,0.636262161308,10,Why dial numbers?, Make a phone call.,1
+2133,7,R,,,,,1.04492976354,,,,,33,1,,5,90,0,1,3,0.814666653593,3,How to save money?, Clip coupons.,5
+2133,8,R,,,,,3.46373005187,,,,,36,1,,5,90,0,1,3,1.44675024142,0,How to entertain others?, Write a song.,5
+2133,9,L,,,,,1.10557294288,,,,,21,1,,5,90,0,1,3,0.69534973251,8,How to consume caffeine?, Press buttons.,4
+2133,10,R,,,,,1.86881266161,,,,,28,1,,5,90,0,1,3,2.00892892413,2,How to take a picture?, Point a camera.,4
+2133,11,L,,,,,2.74867712674,,,,,22,1,,5,90,0,1,3,0.77959932207,6,Why consume caffeine?, Stay alert.,2
+2133,12,R,,,,,1.08633038488,,,,,40,1,,5,90,0,1,3,0.534836035819,9,Why use a camera?, Give to charity.,2

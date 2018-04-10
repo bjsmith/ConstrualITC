@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2022,1,R,,,,,1.80306835986,,,,25,30,1,,2,,1,1,3,1.33266305894,5,Why entertain others?, Express a talent.,3
+2022,2,L,,,,,2.08154799607,,,,25,30,1,,9,,1,1,3,0.611240755349,1,Why show competence?, Pass the time.,3
+2022,3,R,,,,,1.78903106362,,,,25,30,1,,3,,1,1,3,0.71520623174,6,How to avoid diseases?, Kill germs.,5
+2022,4,R,,,,,6.79790392499,,,,25,30,1,,5,,1,1,3,0.791976097609,8,How to entertain others?, Write a song.,5
+2022,5,L,,,,,1.21568055333,,,,25,30,1,,8,,1,1,3,0.835981384598,11,How to improve oneself?, Gain knowledge.,6
+2022,6,R,,,,,0.841885110696,,,,25,30,1,,4,,1,1,3,1.04221747527,9,How to feel nostalgia?, Keep a memory.,6
+2022,7,L,,,,,1.7272951818,,,,25,30,1,,7,,1,1,3,1.33724705531,2,Why wear ties?, Dress formally.,1
+2022,8,L,,,,,3.6750801242,,,,25,30,1,,6,,1,1,3,0.964975877827,7,Why open a magazine?, Read articles.,1
+2022,9,R,,,,,1.02472445724,,,,25,30,1,,5,,1,1,3,0.678646598753,10,How to mix a cocktail?, Stir ingredients.,4
+2022,10,L,,,,,0.659898112745,,,,25,30,1,,2,,1,1,3,1.08258030758,3,How to consume caffeine?, Press buttons.,4
+2022,11,R,,,,,1.23269682451,,,,25,30,1,,6,,1,1,3,0.823702938882,0,Why consume medicine?, Reduce pain.,2
+2022,12,L,,,,,0.729071089474,,,,25,30,1,,7,,1,1,3,1.31703293727,4,Why open a browser?, Write an email.,2

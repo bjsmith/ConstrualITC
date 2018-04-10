@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2164,1,R,,,,,3.20287552095,,,,25,30,1,,7,,1,1,3,2.40837178571,0,How to consume caffeine?, Press buttons.,4
+2164,2,L,,,,,0.577089972109,,,,25,30,1,,8,,1,1,3,1.49661138029,2,How to give a lecture?, Brush ones hair.,4
+2164,3,L,,,,,0.92487666934,,,,25,30,1,,3,,1,1,3,0.687565592814,9,Why keep a memory?, Feel nostalgia.,3
+2164,4,L,,,,,1.57296725003,,,,25,30,1,,6,,1,1,3,0.869804899944,1,Why make art?, Show creativity.,3
+2164,5,R,,,,,4.84098898355,,,,25,30,1,,1,,1,1,3,0.525955039704,6,How to reduce worry?, Plan ahead.,6
+2164,6,L,,,,,1.526569355,,,,25,30,1,,9,,1,1,3,1.07739024796,3,How to feel connected?, Contact a friend.,6
+2164,7,L,,,,,1.45195410931,,,,25,30,1,,2,,1,1,3,1.0350917233,5,How to avoid diseases?, Kill germs.,5
+2164,8,R,,,,,0.906997537211,,,,25,30,1,,4,,1,1,3,0.665412428948,11,How to plan ahead?, Make a list.,5
+2164,9,L,,,,,4.04903916206,,,,25,30,1,,2,,1,1,3,0.53928274772,7,Why use credit cards?, Go shopping.,1
+2164,10,R,,,,,1.18907547146,,,,25,30,1,,1,,1,1,3,0.56027739442,4,Why cut paper?, Clip coupons.,1
+2164,11,R,,,,,2.07456136506,,,,25,30,1,,9,,1,1,3,0.531020614374,8,Why write a poem?, Express an idea.,2
+2164,12,R,,,,,0.751690692295,,,,25,30,1,,7,,1,1,3,0.838443028916,10,Why participate in class?, Show intelligence.,2

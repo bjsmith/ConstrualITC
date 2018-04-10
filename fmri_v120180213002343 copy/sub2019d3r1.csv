@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2019,1,2,,,,,1.68515605949,,,,,26,1,,5,90,0,3,1,4.12361634283,0,Why use a comb?, Write a song.,1
+2019,2,2,,,,,1.98835164972,,,,,25,1,,5,90,0,3,1,1.20776501097,0,Why use chalk?, Get fit.,1
+2019,3,1,,,,,1.02369974033,,,,,28,1,,5,90,0,3,1,2.31293025888,0,Why paint a picture?, Make art.,2
+2019,4,2,,,,,1.85467135274,,,,,22,1,,5,90,0,3,1,1.12856936608,0,Why read articles?, Gain knowledge.,2
+2019,5,2,,,,,1.22757461686,,,,,23,1,,5,90,0,3,1,2.64961057478,0,How to spread joy?, Get a job.,6
+2019,6,1,,,,,3.11262820301,,,,,39,1,,5,90,0,3,1,3.29098181116,0,How to show intellect?, Share ideas.,6
+2019,7,1,,,,,2.16459393734,,,,,27,1,,5,90,0,3,1,1.00370256351,0,How to lift weights?, Fasten seatbelt.,4
+2019,8,2,,,,,5.30758581981,,,,,32,1,,5,90,0,3,1,1.89415070739,0,How to read articles?, Open a magazine.,4
+2019,9,2,,,,,1.92489985452,,,,,35,1,,5,90,0,3,1,1.28181183506,0,How to plan ahead?, Make a list.,5
+2019,10,2,,,,,1.04211313527,,,,,29,1,,5,90,0,3,1,2.35963948392,0,How to make a donation?, Mix a cocktail.,5
+2019,11,1,,,,,1.4819619419,,,,,40,1,,5,90,0,3,1,2.67212495419,0,Why show appreciation?, Spread joy.,3
+2019,12,2,,,,,1.65403512343,,,,,34,1,,5,90,0,3,1,1.27355912842,0,Why write an email?, Send a message.,3
+2019,13,1,,,,,2.1314126545,,,,,38,1,,5,90,0,3,1,1.06425989519,0,Why go shopping?, Make a purchase.,2
+2019,14,1,,,,,1.00332101307,,,,,36,1,,5,90,0,3,1,1.59177346366,0,Why participate in class?, Show intelligence.,2
+2019,15,1,,,,,1.24848107059,,,,,31,1,,5,90,0,3,1,1.41653986991,0,How to make a list?, Throw away trash.,4
+2019,16,2,,,,,1.58249160545,,,,,30,1,,5,90,0,3,1,1.75542527173,0,How to consume medicine?, Take pills. ,4
+2019,17,1,,,,,1.10481913819,,,,,33,1,,5,90,0,3,1,2.77126029809,0,How to show appreciation?, Give applause.,5
+2019,18,2,,,,,1.16657136061,,,,,37,1,,5,90,0,3,1,1.08592681512,0,How to write an email?, Open a browser.,5
+2019,19,2,,,,,1.16579352497,,,,,20,1,,5,90,0,3,1,1.9681615955,0,How to avoid boredom?, Entertain oneself.,6
+2019,20,1,,,,,1.74101116513,,,,,24,1,,5,90,0,3,1,1.39140850444,0,How to show an ability?, Satisfy hunger.,6
+2019,21,1,,,,,3.42739442064,,,,,21,1,,5,90,0,3,1,1.22649888926,0,Why turn a doorknob?, Enter a classroom.,1
+2019,22,2,,,,,2.35257045241,,,,,39,1,,5,90,0,3,1,1.23509453152,0,Why click a mouse?, Open a browser.,1
+2019,23,1,,,,,2.4444202772,,,,,27,1,,5,90,0,3,1,1.13816057706,0,Why give to charity?, Support a cause.,3
+2019,24,1,,,,,2.71323715557,,,,,35,1,,5,90,0,3,1,3.11841349092,0,Why show competence?, Pass the time.,3
+2019,25,2,,,,,1.01000391367,,,,,33,1,,5,90,0,3,1,1.0273587504,1,How to avoid diseases?, Kill germs.,5
+2019,26,1,,,,,2.72215348343,,,,,25,1,,5,90,0,3,1,3.44640504137,0,How to gain knowledge?, Read articles.,5
+2019,27,1,,,,,1.01983474713,,,,,22,1,,5,90,0,3,1,1.05076189585,0,How to feel connected?, Contact a friend.,6
+2019,28,2,,,,,3.84183470992,,,,,29,1,,5,90,0,3,1,2.16078745327,0,How to spread knowledge?, Teach others.,6
+2019,29,2,,,,,5.24097884009,,,,,37,1,,5,90,0,3,1,1.31949553843,0,Why drink wine?, Consume alcohol.,2
+2019,30,1,,,,,1.28741604881,,,,,24,1,,5,90,0,3,1,4.17546777058,0,Why use a camera?, Give to charity.,2
+2019,31,2,,,,,1.28800849252,,,,,20,1,,5,90,0,3,1,2.2948873924,0,How to watch television?, Use a remote.,4
+2019,32,2,,,,,1.80776808762,,,,,31,1,,5,90,0,3,1,2.28371187877,0,How to mix a cocktail?, Stir ingredients.,4
+2019,33,1,,,,,3.61177622429,,,,,34,1,,5,90,0,3,1,1.89199611304,0,Why wash ones hands?, Kill germs.,1
+2019,34,1,,,,,1.48205937657,,,,,26,1,,5,90,0,3,1,1.12803246558,0,Why clap hands?, Give applause.,1
+2019,35,1,,,,,1.27849791375,,,,,32,1,,5,90,0,3,1,5.06196436559,0,Why finish a job?, Feel productive.,3
+2019,36,2,,,,,1.32198054886,,,,,30,1,,5,90,0,3,1,2.05961240067,0,Why share ideas?, Show intellect.,3

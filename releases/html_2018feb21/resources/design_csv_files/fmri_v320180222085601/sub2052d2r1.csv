@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2052,1,L,,,,,1.74504911675,,,,25,30,1,,1,,1,2,1,1.54066784719,39,How to consume medicine?, Take pills. ,4
+2052,2,R,,,,,2.26726422391,,,,25,30,1,,7,,1,2,1,3.59950987806,15,How to give applause?, Clap hands.,4
+2052,3,L,,,,,2.03523537336,,,,25,30,1,,3,,1,2,1,2.72253717066,54,How to satisfy hunger?, Make breakfast.,5
+2052,4,R,,,,,1.26168437881,,,,25,30,1,,9,,1,2,1,1.40486605282,3,How to entertain others?, Write a song.,5
+2052,5,R,,,,,1.07526761988,,,,25,30,1,,8,,1,2,1,1.28076760214,0,Why read articles?, Gain knowledge.,2
+2052,6,R,,,,,4.18346890811,,,,25,30,1,,5,,1,2,1,1.13313730118,19,Why dress formally?, Get a promotion.,2
+2052,7,L,,,,,1.1821414192,,,,25,30,1,,6,,1,2,1,1.3958503975,12,Why sign ones name?, Write a check.,1
+2052,8,R,,,,,1.73323540158,,,,25,30,1,,2,,1,2,1,2.55913779463,10,Why wash ones hands?, Kill germs.,1
+2052,9,L,,,,,2.59087798184,,,,25,30,1,,9,,1,2,1,1.7301599441,27,How to show intellect?, Share ideas.,6
+2052,10,L,,,,,2.7091847268,,,,25,30,1,,4,,1,2,1,1.09581338383,45,How to support a cause?, Give to charity.,6
+2052,11,R,,,,,1.55013667763,,,,25,30,1,,3,,1,2,1,3.79990047033,9,Why make a purchase?, Satisfy a need.,3
+2052,12,L,,,,,1.22768049636,,,,25,30,1,,6,,1,2,1,3.6562664807,44,Why provide food?, Help a person.,3
+2052,13,R,,,,,1.92645092677,,,,25,30,1,,8,,1,2,1,1.59583325017,16,Why write a song?, Seek advice.,2
+2052,14,L,,,,,1.10794283364,,,,25,30,1,,1,,1,2,1,1.45360137426,57,Why use a camera?, Give to charity.,2
+2052,15,L,,,,,1.97521457232,,,,25,30,1,,5,,1,2,1,1.74843910945,20,Why click a mouse?, Open a browser.,1
+2052,16,L,,,,,1.06322850651,,,,25,30,1,,7,,1,2,1,2.97306642652,6,Why use credit cards?, Go shopping.,1
+2052,17,L,,,,,3.78670317952,,,,25,30,1,,3,,1,2,1,1.68103832703,34,How to entertain oneself?, Watch television.,5
+2052,18,L,,,,,1.11376376805,,,,25,30,1,,1,,1,2,1,2.60310119663,38,How to get a promotion?, Arrive on time.,5
+2052,19,R,,,,,3.55310745729,,,,25,30,1,,2,,1,2,1,1.41375664907,25,Why avoid diseases?, Live a long life.,3
+2052,20,R,,,,,1.49729067465,,,,25,30,1,,5,,1,2,1,1.26422119192,40,Why plan ahead?, Reduce worry.,3
+2052,21,L,,,,,1.88162486273,,,,25,30,1,,7,,1,2,1,1.72639925684,18,How to feel productive?, Finish a job.,6
+2052,22,R,,,,,1.87260315048,,,,25,30,1,,9,,1,2,1,2.57510351352,41,How to show cleanliness?, Write an email.,6
+2052,23,R,,,,,2.97814099342,,,,25,30,1,,6,,1,2,1,1.5769084696,47,How to prepare meals?, Follow recipes.,4
+2052,24,R,,,,,2.34138344757,,,,25,30,1,,4,,1,2,1,1.31294724167,11,How to consume caffeine?, Press buttons.,4
+2052,25,L,,,,,2.85154245097,,,,25,30,1,,5,,1,2,1,2.49726197652,23,Why show courtesy?, Make a friend.,3
+2052,26,R,,,,,1.46917992878,,,,25,30,1,,4,,1,2,1,2.81245487362,52,Why hold a party?, Feel sociable.,3
+2052,27,R,,,,,1.46323223873,,,,25,30,1,,7,,1,2,1,1.78892390758,29,How to write an email?, Open a browser.,5
+2052,28,R,,,,,1.85179615753,,,,25,30,1,,6,,1,2,1,2.15557575666,43,How to show appreciation?, Give applause.,5
+2052,29,L,,,,,1.47251056828,,,,25,30,1,,1,,1,2,1,1.08972957603,22,Why throw away trash?, Make a list.,1
+2052,30,L,,,,,2.55329937584,,,,25,30,1,,8,,1,2,1,1.09465303394,8,Why point a camera?, Take a picture.,1
+2052,31,L,,,,,2.23946790243,,,,25,30,1,,9,,1,2,1,1.0408650279,51,How to live a long life?, Avoid diseases.,6
+2052,32,R,,,,,2.28813051439,,,,25,30,1,,3,,1,2,1,2.27070933496,53,How to improve oneself?, Gain knowledge.,6
+2052,33,R,,,,,2.57979496145,,,,25,30,1,,2,,1,2,1,3.63700534548,1,Why go shopping?, Make a purchase.,2
+2052,34,L,,,,,1.37474920898,,,,25,30,1,,8,,1,2,1,1.39458819612,13,Why open a browser?, Write an email.,2
+2052,35,R,,,,,2.29680664697,,,,25,30,1,,5,,1,2,1,1.7413784936,36,How to participate in class?, Raise a hand.,4
+2052,36,L,,,,,1.82315839647,,,,25,30,1,,1,,1,2,1,2.0745927844,50,How to take a picture?, Point a camera.,4
+2052,37,L,,,,,1.22783928755,,,,25,30,1,,3,,1,2,1,2.94814080641,58,Why get a promotion?, Achieve success.,3
+2052,38,R,,,,,1.55677802947,,,,25,30,1,,9,,1,2,1,1.81776738415,49,Why entertain others?, Express a talent.,3
+2052,39,R,,,,,2.02881742389,,,,25,30,1,,6,,1,2,1,1.19321692966,48,Why participate in class?, Show intelligence.,2
+2052,40,R,,,,,1.63340319181,,,,25,30,1,,7,,1,2,1,1.31646671185,26,Why make a phone call?, Contact a friend.,2
+2052,41,L,,,,,2.42097216848,,,,25,30,1,,5,,1,2,1,1.09314144878,28,Why clap hands?, Give applause.,1
+2052,42,L,,,,,1.70693411916,,,,25,30,1,,4,,1,2,1,4.0357079641,59,Why drink coffee?, Consume caffeine.,1
+2052,43,R,,,,,2.33113950728,,,,25,30,1,,7,,1,2,1,1.19362363688,21,How to provide food?, Prepare meals.,5
+2052,44,R,,,,,1.83465632107,,,,25,30,1,,1,,1,2,1,1.94331768906,30,How to give to charity?, Use a camera.,5
+2052,45,L,,,,,1.55923206183,,,,25,30,1,,8,,1,2,1,2.01093997199,31,How to mix a cocktail?, Stir ingredients.,4
+2052,46,R,,,,,1.23629899278,,,,25,30,1,,9,,1,2,1,3.27171648768,55,How to drink wine?, Open a bottle. ,4
+2052,47,L,,,,,1.35843641077,,,,25,30,1,,3,,1,2,1,1.85720057474,17,How to show an ability?, Satisfy hunger.,6
+2052,48,L,,,,,4.25169652355,,,,25,30,1,,6,,1,2,1,1.23652231978,4,How to show humility?, Build muscles.,6
+2052,49,R,,,,,1.24720391781,,,,25,30,1,,5,,1,2,1,1.81505990339,37,Why attend a school?, Get a degree.,3
+2052,50,R,,,,,1.98974309199,,,,25,30,1,,9,,1,2,1,2.43929096082,7,Why show intelligence?, Impress others.,3
+2052,51,L,,,,,3.80564803452,,,,25,30,1,,7,,1,2,1,1.91149620529,35,Why open a bottle?, Consume medicine.,1
+2052,52,L,,,,,1.37907144168,,,,25,30,1,,1,,1,2,1,2.1776508773,46,Why follow recipes?, Prepare meals.,1
+2052,53,L,,,,,2.08764131992,,,,25,30,1,,2,,1,2,1,2.05586692742,5,How to contact a friend?, Make a phone call.,5
+2052,54,R,,,,,1.04393905611,,,,25,30,1,,4,,1,2,1,2.22545232569,24,How to consume alcohol?, Drink wine.,5
+2052,55,R,,,,,3.32586619598,,,,25,30,1,,3,,1,2,1,1.17791123193,42,How to go shopping?, Use credit cards.,4
+2052,56,L,,,,,2.10836824605,,,,25,30,1,,8,,1,2,1,2.00427146264,2,How to make a list?, Throw away trash.,4
+2052,57,R,,,,,1.87166878595,,,,25,30,1,,7,,1,2,1,1.83464828537,32,Why take a picture?, Keep a memory.,2
+2052,58,R,,,,,1.2083541536,,,,25,30,1,,6,,1,2,1,1.05566616087,33,Why watch television?, Show competence.,2
+2052,59,L,,,,,2.16619474025,,,,25,30,1,,1,,1,2,1,2.57098600411,56,How to spread joy?, Get a job.,6
+2052,60,L,,,,,1.41711103467,,,,25,30,1,,8,,1,2,1,2.60852163491,14,How to avoid boredom?, Entertain oneself.,6

@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2017,1,L,,,,,2.63448926752,,,,,32,1,,5,90,0,1,1,1.83574067073,53,How to prepare meals?, Follow recipes.,4
+2017,2,R,,,,,2.63573495688,,,,,36,1,,5,90,0,1,1,1.25949952234,50,How to open a browser?, Click a mouse.,4
+2017,3,R,,,,,1.38702953604,,,,,40,1,,5,90,0,1,1,3.30033487279,8,Why wash ones hands?, Kill germs.,1
+2017,4,L,,,,,2.15166465248,,,,,35,1,,5,90,0,1,1,1.18954498516,6,Why lift a glass?, Drink wine.,1
+2017,5,R,,,,,1.12344973071,,,,,37,1,,5,90,0,1,1,1.57952672061,12,How to feel productive?, Finish a job.,6
+2017,6,R,,,,,1.08055971355,,,,,25,1,,5,90,0,1,1,1.58952396681,27,How to show an ability?, Satisfy hunger.,6
+2017,7,R,,,,,1.14471750736,,,,,28,1,,5,90,0,1,1,1.61752277316,33,Why get a promotion?, Achieve success.,3
+2017,8,R,,,,,1.92061169904,,,,,20,1,,5,90,0,1,1,2.15473863359,30,Why contact a friend?, Feel connected.,3
+2017,9,L,,,,,3.83333732428,,,,,30,1,,5,90,0,1,1,1.62669286856,24,How to express doubt?, Use scissors.,5
+2017,10,L,,,,,1.44423344301,,,,,22,1,,5,90,0,1,1,1.57924167691,23,How to attend a school?, Enter a classroom.,5
+2017,11,R,,,,,2.01420569815,,,,,39,1,,5,90,0,1,1,2.78649097722,41,Why give applause?, Show appreciation.,2
+2017,12,R,,,,,1.22506397386,,,,,21,1,,5,90,0,1,1,1.65673492282,40,Why give a lecture?, Teach others.,2
+2017,13,L,,,,,2.08204869477,,,,,33,1,,5,90,0,1,1,1.37322418663,1,How to spread joy?, Get a job.,6
+2017,14,L,,,,,1.53662736164,,,,,27,1,,5,90,0,1,1,1.13824514004,55,How to feel nostalgia?, Keep a memory.,6
+2017,15,L,,,,,2.03447661828,,,,,24,1,,5,90,0,1,1,2.1295734061,18,How to go shopping?, Use credit cards.,4
+2017,16,R,,,,,1.92463393738,,,,,31,1,,5,90,0,1,1,4.51274882709,21,How to mix a cocktail?, Stir ingredients.,4
+2017,17,L,,,,,1.08230291325,,,,,38,1,,5,90,0,1,1,1.96576106404,0,How to give to charity?, Use a camera.,5
+2017,18,R,,,,,5.95718348994,,,,,34,1,,5,90,0,1,1,4.26267976688,10,How to consume alcohol?, Drink wine.,5
+2017,19,L,,,,,1.08595370995,,,,,26,1,,5,90,0,1,1,3.17093961473,51,Why show intelligence?, Impress others.,3
+2017,20,L,,,,,3.48797720396,,,,,29,1,,5,90,0,1,1,1.19869216338,56,Why reduce pain?, Feel well.,3
+2017,21,R,,,,,1.09904087914,,,,,24,1,,5,90,0,1,1,1.44178723931,59,Why make breakfast?, Satisfy hunger.,2
+2017,22,R,,,,,2.12238790966,,,,,21,1,,5,90,0,1,1,2.87177215059,17,Why paint a picture?, Make art.,2
+2017,23,L,,,,,1.11947699159,,,,,33,1,,5,90,0,1,1,1.18342734725,13,Why open a magazine?, Read articles.,1
+2017,24,L,,,,,2.34945885007,,,,,28,1,,5,90,0,1,1,1.26258081681,37,Why wear ties?, Dress formally.,1
+2017,25,L,,,,,1.63696378321,,,,,22,1,,5,90,0,1,1,1.62110474283,25,Why take aspirin?, Serve alcohol.,1
+2017,26,R,,,,,1.38759879972,,,,,26,1,,5,90,0,1,1,1.14204695214,20,Why clap hands?, Give applause.,1
+2017,27,R,,,,,2.38314158293,,,,,32,1,,5,90,0,1,1,1.72837649504,32,How to reduce worry?, Plan ahead.,6
+2017,28,L,,,,,1.23445605413,,,,,25,1,,5,90,0,1,1,4.82041367564,36,How to feel secure?, Save money.,6
+2017,29,R,,,,,1.19248762598,,,,,35,1,,5,90,0,1,1,1.58830699425,34,Why entertain others?, Express a talent.,3
+2017,30,L,,,,,2.80748732431,,,,,29,1,,5,90,0,1,1,1.28121676288,2,Why keep a memory?, Feel nostalgia.,3
+2017,31,L,,,,,3.51126487371,,,,,27,1,,5,90,0,1,1,2.27042586939,46,Why drink wine?, Consume alcohol.,2
+2017,32,R,,,,,1.38548132445,,,,,20,1,,5,90,0,1,1,1.58270768065,29,Why open a browser?, Write an email.,2
+2017,33,R,,,,,1.2752895358,,,,,30,1,,5,90,0,1,1,1.11547948787,47,How to participate in class?, Raise a hand.,4
+2017,34,L,,,,,1.70063872147,,,,,31,1,,5,90,0,1,1,1.29611729183,22,How to drink wine?, Open a bottle. ,4
+2017,35,L,,,,,3.46420299716,,,,,23,1,,5,90,0,1,1,2.27789579155,19,How to build muscles?, Lift weights.,5
+2017,36,R,,,,,2.01273568507,,,,,37,1,,5,90,0,1,1,1.88355366602,28,How to entertain oneself?, Watch television.,5
+2017,37,L,,,,,2.03383145137,,,,,39,1,,5,90,0,1,1,1.07440053755,7,Why show competence?, Pass the time.,3
+2017,38,R,,,,,2.71333195765,,,,,38,1,,5,90,0,1,1,2.60005990238,35,Why make a purchase?, Satisfy a need.,3
+2017,39,L,,,,,1.39974445174,,,,,40,1,,5,90,0,1,1,4.13720790961,4,How to show creativity?, Make art.,6
+2017,40,L,,,,,1.93904780184,,,,,36,1,,5,90,0,1,1,1.8703882355,58,How to spread knowledge?, Teach others.,6
+2017,41,R,,,,,2.35191315176,,,,,25,1,,5,90,0,1,1,1.3615664391,16,Why follow recipes?, Prepare meals.,1
+2017,42,R,,,,,1.96794689186,,,,,39,1,,5,90,0,1,1,1.93382347024,57,Why use a comb?, Write a song.,1
+2017,43,L,,,,,1.35661844472,,,,,20,1,,5,90,0,1,1,3.66635178855,44,How to read articles?, Open a magazine.,4
+2017,44,R,,,,,1.34064339526,,,,,26,1,,5,90,0,1,1,1.62222962002,31,How to paint a picture?, Use a brush.,4
+2017,45,R,,,,,2.32584456062,,,,,34,1,,5,90,0,1,1,2.33187018127,9,Why lift weights?, Build muscles.,2
+2017,46,L,,,,,1.76110884341,,,,,23,1,,5,90,0,1,1,1.49760817043,5,Why consume medicine?, Reduce pain.,2
+2017,47,R,,,,,1.2837063694,,,,,33,1,,5,90,0,1,1,1.38199400103,52,How to reduce pain?, Consume medicine.,5
+2017,48,L,,,,,2.49278767686,,,,,38,1,,5,90,0,1,1,1.29221408572,14,How to provide food?, Prepare meals.,5
+2017,49,L,,,,,1.54724583235,,,,,35,1,,5,90,0,1,1,1.55811454878,3,How to plan ahead?, Make a list.,5
+2017,50,R,,,,,2.8114535823,,,,,29,1,,5,90,0,1,1,3.65611754372,43,How to write an email?, Open a browser.,5
+2017,51,R,,,,,2.43557385802,,,,,27,1,,5,90,0,1,1,1.55011623611,48,How to feel well?, Reduce pain.,6
+2017,52,R,,,,,1.55153434161,,,,,40,1,,5,90,0,1,1,1.1198484313,54,How to feel connected?, Contact a friend.,6
+2017,53,L,,,,,1.53701147899,,,,,36,1,,5,90,0,1,1,1.65111291139,26,Why gain knowledge?, Improve oneself.,3
+2017,54,L,,,,,1.84489306904,,,,,28,1,,5,90,0,1,1,2.05025855556,15,Why finish a job?, Feel productive.,3
+2017,55,L,,,,,1.54001990115,,,,,31,1,,5,90,0,1,1,1.55717828977,38,Why write a song?, Seek advice.,2
+2017,56,L,,,,,3.36291655639,,,,,24,1,,5,90,0,1,1,2.25298958796,11,Why watch television?, Show competence.,2
+2017,57,R,,,,,1.60328318701,,,,,37,1,,5,90,0,1,1,1.02075237063,45,Why use chalk?, Get fit.,1
+2017,58,R,,,,,2.07244404819,,,,,32,1,,5,90,0,1,1,4.64922883717,49,Why dial numbers?, Make a phone call.,1
+2017,59,L,,,,,2.54743251346,,,,,21,1,,5,90,0,1,1,2.42674601018,42,How to make a phone call?, Dial numbers.,4
+2017,60,R,,,,,1.14742421899,,,,,30,1,,5,90,0,1,1,1.31250558945,39,How to give applause?, Clap hands.,4

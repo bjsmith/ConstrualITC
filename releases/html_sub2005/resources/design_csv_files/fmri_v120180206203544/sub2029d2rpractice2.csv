@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2029,1,1,,,,,1.03756655127,,,,25,30,1,,5,,1,2,4,0.589888567923,1,How to make a phone call?, Dial numbers.,4
+2029,2,1,,,,,2.37780713154,,,,25,30,1,,9,,1,2,4,0.872373693723,0,How to plan ahead?, Make a list.,5
+2029,3,2,,,,,0.500039691877,,,,25,30,1,,1,,1,2,4,0.952177214895,0,Why follow recipes?, Prepare meals.,1
+2029,4,2,,,,,4.0903636831,,,,25,30,1,,4,,1,2,4,0.853406400003,0,Why entertain others?, Express a talent.,3

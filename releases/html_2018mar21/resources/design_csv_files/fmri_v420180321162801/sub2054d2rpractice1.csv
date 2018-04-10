@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2054,1,L,,,,,1.86063355518,,,,25,30,1,,9,,1,2,3,0.505470861153,2,How to write a check?, Sign ones name.,4
+2054,2,L,,,,,2.2863519186,,,,25,30,1,,3,,1,2,3,0.770867653346,3,How to take a picture?, Point a camera.,4
+2054,3,R,,,,,0.670926557464,,,,25,30,1,,6,,1,2,3,0.665056895633,0,Why consume caffeine?, Stay alert.,2
+2054,4,R,,,,,2.31728752928,,,,25,30,1,,2,,1,2,3,1.62247224841,1,Why give applause?, Show appreciation.,2

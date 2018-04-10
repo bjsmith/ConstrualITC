@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2035,1,L,,,,,1.10719111909,,,,,37,1,,5,90,0,1,3,0.665143519521,3,Why plan ahead?, Reduce worry.,3
+2035,2,L,,,,,1.58428900191,,,,,38,1,,5,90,0,1,3,0.547079898217,5,Why hold a party?, Feel sociable.,3
+2035,3,R,,,,,3.82571978297,,,,,27,1,,5,90,0,1,3,0.501608725558,8,How to provide food?, Prepare meals.,5
+2035,4,L,,,,,2.434713339,,,,,25,1,,5,90,0,1,3,2.08237206389,1,How to reduce pain?, Consume medicine.,5
+2035,5,R,,,,,0.677841844695,,,,,40,1,,5,90,0,1,3,2.15135540205,6,Why use a comb?, Write a song.,1
+2035,6,R,,,,,4.29579065474,,,,,33,1,,5,90,0,1,3,0.588378988014,0,Why take aspirin?, Serve alcohol.,1
+2035,7,R,,,,,0.751584082023,,,,,26,1,,5,90,0,1,3,0.580322270925,2,How to write a check?, Sign ones name.,4
+2035,8,L,,,,,1.724384954,,,,,29,1,,5,90,0,1,3,0.900315777017,11,How to make a list?, Throw away trash.,4
+2035,9,L,,,,,1.41072007841,,,,,22,1,,5,90,0,1,3,1.33397765122,7,How to feel productive?, Finish a job.,6
+2035,10,L,,,,,4.95529559189,,,,,28,1,,5,90,0,1,3,0.523753343743,10,How to feel connected?, Contact a friend.,6
+2035,11,R,,,,,0.799233117825,,,,,21,1,,5,90,0,1,3,1.05554868053,4,Why make a phone call?, Contact a friend.,2
+2035,12,R,,,,,0.798010412226,,,,,20,1,,5,90,0,1,3,0.530089625675,9,Why consume caffeine?, Stay alert.,2

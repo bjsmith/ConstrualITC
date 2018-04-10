@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2140,1,L,,,,,2.72235845423,,,,,28,1,,5,90,0,3,4,1.57034978445,3,Why reduce pain?, Feel well.,3
+2140,2,R,,,,,0.63467302054,,,,,26,1,,5,90,0,3,4,0.516837416128,1,Why write an email?, Send a message.,3
+2140,3,R,,,,,3.92285340134,,,,,36,1,,5,90,0,3,4,0.530129266606,2,How to give applause?, Clap hands.,4
+2140,4,L,,,,,0.622081566339,,,,,32,1,,5,90,0,3,4,0.628930558464,0,How to take a picture?, Point a camera.,4

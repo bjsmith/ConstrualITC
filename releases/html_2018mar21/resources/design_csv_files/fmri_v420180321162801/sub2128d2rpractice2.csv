@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2128,1,L,,,,,1.99422302775,,,,,37,1,,5,90,0,2,4,0.600887860227,0,How to make a purchase?, Go shopping.,5
+2128,2,L,,,,,1.45709050868,,,,,22,1,,5,90,0,2,4,1.13207832017,1,How to teach others?, Give a lecture.,5
+2128,3,R,,,,,2.71672299588,,,,,33,1,,5,90,0,2,4,1.3012647784,3,How to write a check?, Sign ones name.,4
+2128,4,R,,,,,1.67607898952,,,,,24,1,,5,90,0,2,4,0.777367631401,2,How to consume caffeine?, Press buttons.,4

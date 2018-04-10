@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2189,1,L,,,,,0.619809124526,,,,,28,1,,5,90,0,1,3,0.521302730825,3,Why stir ingredients?, Mix a cocktail.,1
+2189,2,L,,,,,2.00702485896,,,,,27,1,,5,90,0,1,3,0.552787967762,7,Why throw away trash?, Make a list.,1
+2189,3,R,,,,,5.03275681247,,,,,36,1,,5,90,0,1,3,0.64335825119,0,Why give a lecture?, Teach others.,2
+2189,4,L,,,,,1.27555735339,,,,,31,1,,5,90,0,1,3,1.41920764817,9,Why consume caffeine?, Stay alert.,2
+2189,5,R,,,,,0.587743792459,,,,,21,1,,5,90,0,1,3,1.68642858826,10,How to entertain others?, Write a song.,5
+2189,6,R,,,,,3.06708071264,,,,,34,1,,5,90,0,1,3,0.511128982293,1,How to make a donation?, Mix a cocktail.,5
+2189,7,L,,,,,1.19308290096,,,,,37,1,,5,90,0,1,3,1.14069327583,8,How to paint a picture?, Use a brush.,4
+2189,8,R,,,,,2.23684178929,,,,,35,1,,5,90,0,1,3,0.711985392227,5,How to participate in class?, Raise a hand.,4
+2189,9,L,,,,,2.34085450549,,,,,30,1,,5,90,0,1,3,1.35997690906,6,How to show intellect?, Share ideas.,6
+2189,10,R,,,,,2.01984983787,,,,,20,1,,5,90,0,1,3,0.937956919206,2,How to improve oneself?, Gain knowledge.,6
+2189,11,R,,,,,0.99173341488,,,,,25,1,,5,90,0,1,3,1.51534737,4,Why share ideas?, Show intellect.,3
+2189,12,L,,,,,2.77184967793,,,,,38,1,,5,90,0,1,3,0.538597946169,11,Why give to charity?, Support a cause.,3

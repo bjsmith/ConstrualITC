@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2173,1,R,,,,,4.14549515602,,,,25,30,1,,6,,1,1,4,0.983858252286,7,How to get a degree?, Attend a school.,6
+2173,2,R,,,,,1.27171360721,,,,25,30,1,,8,,1,1,4,0.959683454392,4,How to show cleanliness?, Write an email.,6
+2173,3,R,,,,,1.10577389419,,,,25,30,1,,3,,1,1,4,0.913150519926,11,How to show intelligence?, Participate in class.,5
+2173,4,R,,,,,1.05345242773,,,,25,30,1,,5,,1,1,4,0.562137786112,0,How to gain knowledge?, Read articles.,5
+2173,5,L,,,,,1.60453239436,,,,25,30,1,,4,,1,1,4,0.719895614188,3,How to consume medicine?, Take pills. ,4
+2173,6,L,,,,,1.49885693813,,,,25,30,1,,1,,1,1,4,1.18986954235,5,How to give a lecture?, Brush ones hair.,4
+2173,7,L,,,,,2.10811749733,,,,25,30,1,,2,,1,1,4,1.96842196383,6,Why gain knowledge?, Improve oneself.,3
+2173,8,L,,,,,4.67538104392,,,,25,30,1,,7,,1,1,4,0.980801207462,1,Why build muscles?, Show humility.,3
+2173,9,R,,,,,2.14101692535,,,,25,30,1,,7,,1,1,4,0.58390490937,8,Why sign ones name?, Write a check.,1
+2173,10,R,,,,,2.12815371875,,,,25,30,1,,6,,1,1,4,0.554518520667,10,Why wear ties?, Dress formally.,1
+2173,11,L,,,,,1.05016356229,,,,25,30,1,,9,,1,1,4,2.15370371958,2,Why make breakfast?, Satisfy hunger.,2
+2173,12,L,,,,,2.19299953775,,,,25,30,1,,8,,1,1,4,0.91010841764,9,Why participate in class?, Show intelligence.,2

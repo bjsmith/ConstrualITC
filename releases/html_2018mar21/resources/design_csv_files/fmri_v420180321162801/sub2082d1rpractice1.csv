@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2082,1,R,,,,,1.2474191105,,,,25,30,1,,2,,1,1,3,0.535378182431,0,Why turn a doorknob?, Enter a classroom.,1
+2082,2,L,,,,,1.4084007216,,,,25,30,1,,1,,1,1,3,1.43231656742,9,Why sign ones name?, Write a check.,1
+2082,3,L,,,,,3.46620755711,,,,25,30,1,,4,,1,1,3,0.917394185323,3,How to make art?, Paint a picture.,5
+2082,4,L,,,,,0.582228710117,,,,25,30,1,,3,,1,1,3,0.687283361591,10,How to make a purchase?, Go shopping.,5
+2082,5,L,,,,,2.1057587836,,,,25,30,1,,8,,1,1,3,0.556577737656,5,How to feel secure?, Save money.,6
+2082,6,R,,,,,2.24343683415,,,,25,30,1,,5,,1,1,3,0.597223398511,2,How to get a degree?, Attend a school.,6
+2082,7,R,,,,,1.97064127923,,,,25,30,1,,7,,1,1,3,2.47374853306,7,How to write a check?, Sign ones name.,4
+2082,8,R,,,,,2.72064942208,,,,25,30,1,,9,,1,1,3,1.20392054134,1,How to make a list?, Throw away trash.,4
+2082,9,L,,,,,2.19698966804,,,,25,30,1,,5,,1,1,3,0.530206910557,4,Why lift weights?, Build muscles.,2
+2082,10,L,,,,,4.53638026382,,,,25,30,1,,6,,1,1,3,1.17495151407,6,Why take a picture?, Keep a memory.,2
+2082,11,R,,,,,0.882617126273,,,,25,30,1,,3,,1,1,3,0.67104904798,11,Why plan ahead?, Reduce worry.,3
+2082,12,R,,,,,1.54143172928,,,,25,30,1,,4,,1,1,3,0.851420594384,8,Why give to charity?, Support a cause.,3

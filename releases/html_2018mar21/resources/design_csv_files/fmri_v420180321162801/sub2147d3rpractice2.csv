@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2147,1,L,,,,,2.96044685996,,,,25,30,1,,2,,1,3,4,0.538430390327,2,How to give to charity?, Use a camera.,5
+2147,2,R,,,,,1.38048389277,,,,25,30,1,,5,,1,3,4,0.727667120826,3,How to plan ahead?, Make a list.,5
+2147,3,R,,,,,2.46302509327,,,,25,30,1,,4,,1,3,4,1.01375560651,1,How to take a picture?, Point a camera.,4
+2147,4,L,,,,,1.64999793523,,,,25,30,1,,8,,1,3,4,1.40278359978,0,How to make a phone call?, Dial numbers.,4

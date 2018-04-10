@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2010,1,1,,,,,1.48304373408,,,,,20,1,,5,90,0,1,4,0.880732258041,0,Why paint a picture?, Make art.,2
+2010,2,2,,,,,4.57142696259,,,,,26,1,,5,90,0,1,4,1.20967612964,0,How to provide food?, Prepare meals.,5
+2010,3,1,,,,,3.16842075448,,,,,24,1,,5,90,0,1,4,0.719116164929,0,Why provide food?, Help a person.,3
+2010,4,1,,,,,0.970924147906,,,,,33,1,,5,90,0,1,4,1.40101496849,1,How to impress others?, Show intelligence.,6
+2010,5,2,,,,,1.08442539523,,,,,30,1,,5,90,0,1,4,0.743647830358,0,Why wash ones hands?, Kill germs.,1
+2010,6,2,,,,,1.71732126828,,,,,22,1,,5,90,0,1,4,0.914709111719,0,How to read articles?, Open a magazine.,4
+2010,7,1,,,,,2.36031235559,,,,,36,1,,5,90,0,1,4,1.44303605242,0,Why point a camera?, Take a picture.,1
+2010,8,2,,,,,0.882939157377,,,,,40,1,,5,90,0,1,4,2.83764441118,0,How to give a lecture?, Brush ones hair.,4
+2010,9,2,,,,,1.45541526585,,,,,28,1,,5,90,0,1,4,0.57217725797,0,Why consume medicine?, Reduce pain.,2
+2010,10,1,,,,,3.58447985649,,,,,29,1,,5,90,0,1,4,1.01717961845,0,Why share ideas?, Show intellect.,3
+2010,11,1,,,,,1.7220755124,,,,,23,1,,5,90,0,1,4,0.522086859863,0,How to reduce pain?, Consume medicine.,5
+2010,12,2,,,,,1.40729664354,,,,,38,1,,5,90,0,1,4,0.629346617775,0,How to show an ability?, Satisfy hunger.,6

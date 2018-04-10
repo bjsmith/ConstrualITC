@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2032,1,L,,,,,2.98777161185,,,,25,30,1,,1,,1,3,3,0.704970809642,3,Why show courtesy?, Make a friend.,3
+2032,2,R,,,,,1.83207074875,,,,25,30,1,,6,,1,3,3,1.14202691391,0,Why make a purchase?, Satisfy a need.,3
+2032,3,R,,,,,1.16623050334,,,,25,30,1,,7,,1,3,3,1.54179150439,1,Why use a brush?, Paint a picture.,1
+2032,4,L,,,,,1.79367512015,,,,25,30,1,,5,,1,3,3,1.11328106453,2,Why cut paper?, Clip coupons.,1

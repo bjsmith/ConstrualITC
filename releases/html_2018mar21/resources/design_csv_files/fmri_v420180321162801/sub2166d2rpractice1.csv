@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2166,1,R,,,,,1.11850619095,,,,25,30,1,,5,,1,2,3,0.615553548681,2,How to teach others?, Give a lecture.,5
+2166,2,R,,,,,2.43671466322,,,,25,30,1,,2,,1,2,3,0.650314532471,1,How to make a purchase?, Go shopping.,5
+2166,3,L,,,,,4.76348813143,,,,25,30,1,,1,,1,2,3,2.52432916417,3,Why finish a job?, Feel productive.,3
+2166,4,L,,,,,0.613865142133,,,,25,30,1,,9,,1,2,3,0.860208093675,0,Why avoid diseases?, Live a long life.,3

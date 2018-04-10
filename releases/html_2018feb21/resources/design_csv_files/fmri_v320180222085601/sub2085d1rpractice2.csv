@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2085,1,L,,,,,1.6760268691,,,,25,30,1,,2,,1,1,4,0.639058274483,3,How to paint a picture?, Use a brush.,4
+2085,2,R,,,,,1.89149035541,,,,25,30,1,,5,,1,1,4,0.902828935403,0,How to give a lecture?, Brush ones hair.,4
+2085,3,L,,,,,1.10310127984,,,,25,30,1,,4,,1,1,4,0.852833730383,4,Why open a bottle?, Consume medicine.,1
+2085,4,R,,,,,5.2714153025,,,,25,30,1,,8,,1,1,4,1.61776717019,5,Why follow recipes?, Prepare meals.,1
+2085,5,R,,,,,5.37934396643,,,,25,30,1,,7,,1,1,4,0.662927735478,2,Why make a phone call?, Contact a friend.,2
+2085,6,L,,,,,0.611942813052,,,,25,30,1,,6,,1,1,4,0.587852125603,9,Why read articles?, Gain knowledge.,2
+2085,7,R,,,,,0.87500356506,,,,25,30,1,,3,,1,1,4,1.36181285463,10,How to show creativity?, Make art.,6
+2085,8,L,,,,,1.28068936588,,,,25,30,1,,9,,1,1,4,0.860208552526,1,How to feel well?, Reduce pain.,6
+2085,9,R,,,,,0.850770083752,,,,25,30,1,,3,,1,1,4,0.608954146492,6,How to write an email?, Open a browser.,5
+2085,10,R,,,,,1.18170180282,,,,25,30,1,,1,,1,1,4,0.833761563654,7,How to show ambition?, Serve alcohol.,5
+2085,11,L,,,,,0.912773855634,,,,25,30,1,,5,,1,1,4,2.92519212227,8,Why contact a friend?, Feel connected.,3
+2085,12,L,,,,,2.41768898428,,,,25,30,1,,6,,1,1,4,0.875302576279,11,Why finish a job?, Feel productive.,3

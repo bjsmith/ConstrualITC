@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2091,1,R,,,,,0.55020087623,,,,,30,1,,5,90,0,1,3,2.12738260592,0,Why drink coffee?, Consume caffeine.,1
+2091,2,R,,,,,2.01081833277,,,,,38,1,,5,90,0,1,3,0.734792800341,3,Why use a brush?, Paint a picture.,1
+2091,3,R,,,,,1.06038959914,,,,,26,1,,5,90,0,1,3,0.743121482547,4,How to show intelligence?, Participate in class.,5
+2091,4,L,,,,,2.28646998795,,,,,21,1,,5,90,0,1,3,0.541366918178,8,How to show ambition?, Serve alcohol.,5
+2091,5,L,,,,,1.81594981601,,,,,22,1,,5,90,0,1,3,0.988718882268,10,Why get a promotion?, Achieve success.,3
+2091,6,R,,,,,2.66360565292,,,,,23,1,,5,90,0,1,3,1.58205530681,6,Why entertain others?, Express a talent.,3
+2091,7,L,,,,,0.912855221113,,,,,32,1,,5,90,0,1,3,0.701281035862,5,How to open a browser?, Click a mouse.,4
+2091,8,L,,,,,1.22534743135,,,,,33,1,,5,90,0,1,3,0.627524497005,1,How to write a poem?, Grab a pencil.,4
+2091,9,R,,,,,3.36803173515,,,,,34,1,,5,90,0,1,3,0.627488453938,11,Why use a camera?, Give to charity.,2
+2091,10,L,,,,,4.13015506691,,,,,39,1,,5,90,0,1,3,1.08057105189,7,Why give applause?, Show appreciation.,2
+2091,11,R,,,,,3.21632154004,,,,,25,1,,5,90,0,1,3,0.86125463367,2,How to reduce worry?, Plan ahead.,6
+2091,12,L,,,,,1.12259562469,,,,,27,1,,5,90,0,1,3,0.607790246538,9,How to express a talent?, Entertain others.,6

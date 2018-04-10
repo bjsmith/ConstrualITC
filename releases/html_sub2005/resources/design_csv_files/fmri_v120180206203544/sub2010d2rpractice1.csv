@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2010,1,1,,,,,2.00981220626,,,,25,30,1,,2,,1,2,3,0.87404920213,0,How to make a list?, Throw away trash.,4
+2010,2,1,,,,,2.6380796648,,,,25,30,1,,4,,1,2,3,0.582843433721,0,Why throw away trash?, Make a list.,1
+2010,3,2,,,,,0.567439079951,,,,25,30,1,,7,,1,2,3,0.963519120628,0,How to show cleanliness?, Write an email.,6
+2010,4,2,,,,,2.92934339378,,,,25,30,1,,5,,1,2,3,0.764830570314,1,Why make a list?, Plan ahead.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2103,1,L,,,,,1.14415104056,,,,,25,1,,5,90,0,2,3,0.656739523948,0,Why make a phone call?, Contact a friend.,2
+2103,2,R,,,,,1.52486345069,,,,,35,1,,5,90,0,2,3,1.36414268798,1,Why read articles?, Gain knowledge.,2
+2103,3,L,,,,,2.45696054829,,,,,22,1,,5,90,0,2,3,0.655796779757,2,Why save money?, Get fit.,3
+2103,4,R,,,,,2.0356228597,,,,,39,1,,5,90,0,2,3,1.49129494882,3,Why gain knowledge?, Improve oneself.,3

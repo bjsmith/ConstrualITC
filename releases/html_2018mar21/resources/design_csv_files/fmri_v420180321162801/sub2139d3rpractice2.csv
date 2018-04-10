@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2139,1,L,,,,,2.09486530511,,,,25,30,1,,6,,1,3,4,1.8778206517,3,Why use a brush?, Paint a picture.,1
+2139,2,L,,,,,3.6984841028,,,,25,30,1,,4,,1,3,4,0.849943413724,2,Why crack eggs?, Make breakfast.,1
+2139,3,R,,,,,0.722854110517,,,,25,30,1,,2,,1,3,4,0.938115854648,0,How to support a cause?, Give to charity.,6
+2139,4,R,,,,,0.682456329462,,,,25,30,1,,9,,1,3,4,0.841775701866,1,How to avoid boredom?, Entertain oneself.,6

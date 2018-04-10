@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2154,1,L,,,,,1.3837991736,,,,25,30,1,,3,,1,1,3,0.765085457059,11,How to open a browser?, Click a mouse.,4
+2154,2,R,,,,,1.18882108863,,,,25,30,1,,1,,1,1,3,0.94678079864,9,How to make a phone call?, Dial numbers.,4
+2154,3,R,,,,,1.86333744769,,,,25,30,1,,4,,1,1,3,0.949760425359,7,Why make a purchase?, Satisfy a need.,3
+2154,4,L,,,,,2.86927354718,,,,25,30,1,,5,,1,1,3,2.00546828384,0,Why show intelligence?, Impress others.,3
+2154,5,R,,,,,0.552954595929,,,,25,30,1,,2,,1,1,3,0.506614188937,6,Why turn a doorknob?, Enter a classroom.,1
+2154,6,R,,,,,4.91869316028,,,,25,30,1,,7,,1,1,3,0.921500422666,3,Why use a remote?, Watch television.,1
+2154,7,R,,,,,0.933229466301,,,,25,30,1,,6,,1,1,3,0.621478059459,8,How to make a donation?, Mix a cocktail.,5
+2154,8,R,,,,,2.78974615992,,,,25,30,1,,9,,1,1,3,1.52373019101,4,How to entertain oneself?, Watch television.,5
+2154,9,L,,,,,1.62108922706,,,,25,30,1,,2,,1,1,3,0.901769269905,1,Why give applause?, Show appreciation.,2
+2154,10,L,,,,,1.93160022975,,,,25,30,1,,7,,1,1,3,1.94019074996,2,Why use a camera?, Give to charity.,2
+2154,11,L,,,,,3.30272980386,,,,25,30,1,,9,,1,1,3,1.1313986935,10,How to impress others?, Show intelligence.,6
+2154,12,L,,,,,0.615424079159,,,,25,30,1,,3,,1,1,3,0.679553883469,5,How to avoid mistakes?, Obey laws.,6

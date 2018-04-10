@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2188,1,R,,,,,2.82635162029,,,,,29,1,,5,90,0,1,4,1.30389880827,11,How to provide food?, Prepare meals.,5
+2188,2,R,,,,,0.803794312206,,,,,27,1,,5,90,0,1,4,1.10613199956,2,How to show ambition?, Serve alcohol.,5
+2188,3,R,,,,,3.03506486113,,,,,34,1,,5,90,0,1,4,0.856011736,6,How to write a song?, Play piano.,4
+2188,4,L,,,,,0.93721464508,,,,,40,1,,5,90,0,1,4,1.03760221112,8,How to mix a cocktail?, Stir ingredients.,4
+2188,5,L,,,,,2.19093462479,,,,,32,1,,5,90,0,1,4,0.592313347721,7,How to show humility?, Build muscles.,6
+2188,6,L,,,,,4.27287503576,,,,,38,1,,5,90,0,1,4,0.69091698727,4,How to express a talent?, Entertain others.,6
+2188,7,R,,,,,2.31920173675,,,,,35,1,,5,90,0,1,4,0.51658171382,3,Why show appreciation?, Spread joy.,3
+2188,8,L,,,,,0.850565430773,,,,,20,1,,5,90,0,1,4,0.749179756679,5,Why contact a friend?, Feel connected.,3
+2188,9,L,,,,,1.56231219983,,,,,25,1,,5,90,0,1,4,0.774709499906,9,Why kill germs?, Avoid diseases.,2
+2188,10,R,,,,,0.934203189736,,,,,30,1,,5,90,0,1,4,0.742047758422,0,Why participate in class?, Show intelligence.,2
+2188,11,R,,,,,1.5378243546,,,,,28,1,,5,90,0,1,4,1.30055967306,10,Why sign ones name?, Write a check.,1
+2188,12,L,,,,,3.08233629883,,,,,36,1,,5,90,0,1,4,1.63046420698,1,Why stir ingredients?, Mix a cocktail.,1

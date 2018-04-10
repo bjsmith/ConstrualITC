@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2009,1,1,,,,,0.668214694095,,,,,20,1,,5,90,0,1,3,2.26582737216,0,Why make breakfast?, Satisfy hunger.,2
+2009,2,1,,,,,3.41848859931,,,,,35,1,,5,90,0,1,3,1.02633335395,0,Why consume caffeine?, Stay alert.,2
+2009,3,2,,,,,1.04673136669,,,,,22,1,,5,90,0,1,3,1.45768764283,0,How to feel secure?, Save money.,6
+2009,4,2,,,,,2.11587920901,,,,,38,1,,5,90,0,1,3,0.526686544462,0,How to live a long life?, Avoid diseases.,6
+2009,5,1,,,,,0.707481984767,,,,,31,1,,5,90,0,1,3,2.26561653689,0,Why take aspirin?, Serve alcohol.,1
+2009,6,1,,,,,1.85005681707,,,,,23,1,,5,90,0,1,3,1.10296947588,1,Why point a camera?, Take a picture.,1
+2009,7,2,,,,,1.54928374431,,,,,25,1,,5,90,0,1,3,2.21017764704,0,How to reduce pain?, Consume medicine.,5
+2009,8,2,,,,,2.11755131412,,,,,21,1,,5,90,0,1,3,1.20230748957,0,How to show intelligence?, Participate in class.,5
+2009,9,1,,,,,2.72180143971,,,,,40,1,,5,90,0,1,3,1.40196858532,0,Why show intelligence?, Impress others.,3
+2009,10,2,,,,,2.17707954364,,,,,36,1,,5,90,0,1,3,2.7342675653,0,Why build muscles?, Show humility.,3
+2009,11,1,,,,,0.968501073868,,,,,37,1,,5,90,0,1,3,4.4598416823,0,How to go shopping?, Use credit cards.,4
+2009,12,2,,,,,4.21929429182,,,,,34,1,,5,90,0,1,3,3.28934672835,0,How to give a lecture?, Brush ones hair.,4

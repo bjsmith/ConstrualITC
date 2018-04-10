@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,L,,,,,1.26743492228,,,,,40,1,,5,90,0,2,2,1.1573484876,12,Why lift a glass?, Drink wine.,1
+2012,2,R,,,,,1.81299064105,,,,,32,1,,5,90,0,2,2,1.23045670062,15,Why use chalk?, Get fit.,1
+2012,3,R,,,,,1.9679324912,,,,,31,1,,5,90,0,2,2,1.36088127596,38,How to attend a school?, Enter a classroom.,5
+2012,4,L,,,,,1.37959076336,,,,,26,1,,5,90,0,2,2,1.55037943921,22,How to make art?, Paint a picture.,5
+2012,5,R,,,,,1.51531374933,,,,,29,1,,5,90,0,2,2,3.66077062462,23,Why give applause?, Show appreciation.,2
+2012,6,R,,,,,1.07861292311,,,,,34,1,,5,90,0,2,2,1.30016818554,19,Why consume medicine?, Reduce pain.,2
+2012,7,L,,,,,1.11108014851,,,,,21,1,,5,90,0,2,2,1.06792601175,3,How to feel connected?, Contact a friend.,6
+2012,8,L,,,,,2.648154348,,,,,35,1,,5,90,0,2,2,2.15546579523,25,How to feel nostalgia?, Keep a memory.,6
+2012,9,L,,,,,1.58989866338,,,,,33,1,,5,90,0,2,2,1.46772704387,33,How to give a lecture?, Brush ones hair.,4
+2012,10,R,,,,,1.45688245877,,,,,22,1,,5,90,0,2,2,1.48767859427,0,How to prepare meals?, Follow recipes.,4
+2012,11,L,,,,,1.80972688254,,,,,38,1,,5,90,0,2,2,4.39882636605,55,Why gain knowledge?, Improve oneself.,3
+2012,12,L,,,,,2.63818162864,,,,,30,1,,5,90,0,2,2,2.23333090048,13,Why write an email?, Send a message.,3
+2012,13,L,,,,,1.60546116118,,,,,39,1,,5,90,0,2,2,2.00276864143,11,Why show courtesy?, Make a friend.,3
+2012,14,R,,,,,2.43761008433,,,,,24,1,,5,90,0,2,2,1.66018121764,40,Why make art?, Show creativity.,3
+2012,15,R,,,,,1.85057263654,,,,,20,1,,5,90,0,2,2,3.62782284579,51,Why open a browser?, Write an email.,2
+2012,16,L,,,,,3.40346658349,,,,,25,1,,5,90,0,2,2,2.13794662332,6,Why teach a class?, Obey laws.,2
+2012,17,L,,,,,1.03827559378,,,,,27,1,,5,90,0,2,2,1.06718500594,1,How to avoid mistakes?, Obey laws.,6
+2012,18,L,,,,,1.29791207243,,,,,28,1,,5,90,0,2,2,1.14413116328,31,How to satisfy a need?, Make a purchase.,6
+2012,19,R,,,,,2.73741925281,,,,,23,1,,5,90,0,2,2,1.81129120555,44,Why point a camera?, Take a picture.,1
+2012,20,R,,,,,2.78297322793,,,,,36,1,,5,90,0,2,2,3.2845063158,4,Why click a mouse?, Open a browser.,1
+2012,21,R,,,,,3.38438904133,,,,,27,1,,5,90,0,2,2,1.48043709191,9,How to write a check?, Sign ones name.,4
+2012,22,R,,,,,1.7905204476,,,,,33,1,,5,90,0,2,2,2.74322450092,32,How to participate in class?, Raise a hand.,4
+2012,23,R,,,,,1.87265225977,,,,,32,1,,5,90,0,2,2,1.47501115682,29,How to entertain oneself?, Watch television.,5
+2012,24,L,,,,,2.57286769973,,,,,39,1,,5,90,0,2,2,2.99018678079,36,How to provide food?, Prepare meals.,5
+2012,25,L,,,,,2.81240554482,,,,,20,1,,5,90,0,2,2,1.62338503653,42,How to achieve success?, Get a promotion.,6
+2012,26,R,,,,,1.16603771348,,,,,40,1,,5,90,0,2,2,2.46277857198,52,How to support a cause?, Give to charity.,6
+2012,27,L,,,,,1.32369796432,,,,,28,1,,5,90,0,2,2,1.11299814935,18,Why go shopping?, Make a purchase.,2
+2012,28,L,,,,,3.28408832253,,,,,31,1,,5,90,0,2,2,1.80236985432,35,Why read articles?, Gain knowledge.,2
+2012,29,R,,,,,1.20301969298,,,,,23,1,,5,90,0,2,2,2.50347238854,47,How to entertain others?, Write a song.,5
+2012,30,R,,,,,2.18093340957,,,,,26,1,,5,90,0,2,2,1.05480171395,34,How to write an email?, Open a browser.,5
+2012,31,L,,,,,2.44297815918,,,,,24,1,,5,90,0,2,2,2.10665168789,14,Why show appreciation?, Spread joy.,3
+2012,32,R,,,,,1.53054845757,,,,,22,1,,5,90,0,2,2,1.7231498456,59,Why build muscles?, Show humility.,3
+2012,33,R,,,,,1.72553799161,,,,,36,1,,5,90,0,2,2,2.45066460375,10,How to mix a cocktail?, Stir ingredients.,4
+2012,34,L,,,,,1.25665159126,,,,,34,1,,5,90,0,2,2,1.21830595854,24,How to read articles?, Open a magazine.,4
+2012,35,R,,,,,1.7874892884,,,,,38,1,,5,90,0,2,2,2.69094305829,57,Why open a bottle?, Consume medicine.,1
+2012,36,L,,,,,4.99861357632,,,,,37,1,,5,90,0,2,2,2.64666507906,26,Why use credit cards?, Go shopping.,1
+2012,37,L,,,,,1.02249564078,,,,,29,1,,5,90,0,2,2,2.78000954986,30,Why hold a party?, Feel sociable.,3
+2012,38,R,,,,,1.08992399801,,,,,21,1,,5,90,0,2,2,2.37338108403,20,Why show intelligence?, Impress others.,3
+2012,39,R,,,,,1.6775558257,,,,,25,1,,5,90,0,2,2,1.37920437652,5,Why write a poem?, Express an idea.,2
+2012,40,L,,,,,2.5710477197,,,,,30,1,,5,90,0,2,2,1.49420289104,2,Why make a list?, Plan ahead.,2
+2012,41,L,,,,,2.38311849807,,,,,20,1,,5,90,0,2,2,1.81621769632,58,How to make a list?, Throw away trash.,4
+2012,42,R,,,,,1.82823362457,,,,,23,1,,5,90,0,2,2,1.7297100715,7,How to consume caffeine?, Press buttons.,4
+2012,43,L,,,,,2.45414771114,,,,,31,1,,5,90,0,2,2,1.13189846756,46,How to make a purchase?, Go shopping.,5
+2012,44,R,,,,,1.2558850012,,,,,37,1,,5,90,0,2,2,1.12438327239,54,How to reduce pain?, Consume medicine.,5
+2012,45,L,,,,,1.01652901794,,,,,35,1,,5,90,0,2,2,2.84057642304,21,Why throw away trash?, Make a list.,1
+2012,46,R,,,,,4.18356894038,,,,,22,1,,5,90,0,2,2,3.07146108901,16,Why use a remote?, Watch television.,1
+2012,47,R,,,,,1.55722676977,,,,,40,1,,5,90,0,2,2,1.01163261326,50,How to impress others?, Show intelligence.,6
+2012,48,L,,,,,1.61497831624,,,,,27,1,,5,90,0,2,2,2.8888430941,53,How to feel secure?, Save money.,6
+2012,49,R,,,,,1.35593023232,,,,,26,1,,5,90,0,2,2,3.9226914826,39,How to kill germs?, Wash ones hands.,4
+2012,50,R,,,,,1.92499015309,,,,,39,1,,5,90,0,2,2,2.13908804504,48,How to dress formally?, Wear ties. ,4
+2012,51,L,,,,,1.83621583994,,,,,21,1,,5,90,0,2,2,1.01139010586,56,How to show ambition?, Serve alcohol.,5
+2012,52,L,,,,,3.18564203731,,,,,33,1,,5,90,0,2,2,1.54655808873,17,How to save money?, Clip coupons.,5
+2012,53,L,,,,,2.63055055275,,,,,34,1,,5,90,0,2,2,1.4203995563,37,Why drink wine?, Consume alcohol.,2
+2012,54,R,,,,,2.11408568747,,,,,36,1,,5,90,0,2,2,1.6834593315,45,Why take a picture?, Keep a memory.,2
+2012,55,R,,,,,1.05538791983,,,,,28,1,,5,90,0,2,2,1.30491123609,41,How to feel sociable?, Hold a party.,6
+2012,56,R,,,,,1.48336212503,,,,,32,1,,5,90,0,2,2,1.24398786111,28,How to avoid boredom?, Entertain oneself.,6
+2012,57,L,,,,,4.27353123477,,,,,24,1,,5,90,0,2,2,3.07641569804,43,Why raise a hand?, Participate in class.,1
+2012,58,L,,,,,1.14282045809,,,,,29,1,,5,90,0,2,2,1.19058080585,8,Why stir ingredients?, Mix a cocktail.,1
+2012,59,L,,,,,1.6379518901,,,,,38,1,,5,90,0,2,2,3.83510368587,49,Why plan ahead?, Reduce worry.,3
+2012,60,R,,,,,1.05907750399,,,,,30,1,,5,90,0,2,2,2.62469370182,27,Why make a purchase?, Satisfy a need.,3

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2117,1,R,,,,,2.49944029973,,,,25,30,1,,6,,1,1,4,0.824943087372,6,Why point a camera?, Take a picture.,1
+2117,2,R,,,,,0.749495652887,,,,25,30,1,,3,,1,1,4,1.23819541935,7,Why use credit cards?, Go shopping.,1
+2117,3,R,,,,,1.13759899577,,,,25,30,1,,9,,1,1,4,0.806836610465,3,How to spread knowledge?, Teach others.,6
+2117,4,L,,,,,1.20517450552,,,,25,30,1,,1,,1,1,4,1.07358236886,11,How to feel nostalgia?, Keep a memory.,6
+2117,5,L,,,,,2.27820834485,,,,25,30,1,,2,,1,1,4,1.56708208525,4,Why contact a friend?, Feel connected.,3
+2117,6,R,,,,,3.22191667306,,,,25,30,1,,4,,1,1,4,0.877085761108,10,Why write an email?, Send a message.,3
+2117,7,L,,,,,0.512639748822,,,,25,30,1,,5,,1,1,4,0.941249044599,5,How to make breakfast?, Crack eggs.,4
+2117,8,L,,,,,0.613295473787,,,,25,30,1,,7,,1,1,4,0.569444612829,1,How to lift weights?, Fasten seatbelt.,4
+2117,9,R,,,,,4.0541344963,,,,25,30,1,,2,,1,1,4,0.543750650709,2,Why lift weights?, Build muscles.,2
+2117,10,R,,,,,1.99572225478,,,,25,30,1,,4,,1,1,4,1.30490248649,8,Why make a list?, Plan ahead.,2
+2117,11,L,,,,,1.56067705468,,,,25,30,1,,7,,1,1,4,1.64732860853,9,How to get a promotion?, Arrive on time.,5
+2117,12,L,,,,,4.23518256514,,,,25,30,1,,9,,1,1,4,0.869975734973,0,How to make a donation?, Mix a cocktail.,5

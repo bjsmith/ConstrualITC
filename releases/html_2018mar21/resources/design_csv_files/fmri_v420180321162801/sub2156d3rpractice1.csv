@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2156,1,L,,,,,0.596453476355,,,,25,30,1,,5,,1,3,3,1.0516442791,1,Why dial numbers?, Make a phone call.,1
+2156,2,R,,,,,5.03751707496,,,,25,30,1,,6,,1,3,3,0.898100949467,2,Why sign ones name?, Write a check.,1
+2156,3,R,,,,,0.512064098867,,,,25,30,1,,9,,1,3,3,0.661396531866,0,How to show an ability?, Satisfy hunger.,6
+2156,4,L,,,,,2.08224431547,,,,25,30,1,,2,,1,3,3,0.900102044862,3,How to avoid boredom?, Entertain oneself.,6

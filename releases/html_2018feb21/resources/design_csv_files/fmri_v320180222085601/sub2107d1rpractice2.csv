@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2107,1,L,,,,,1.92136673618,,,,25,30,1,,8,,1,1,4,0.597487019945,11,Why kill germs?, Avoid diseases.,2
+2107,2,R,,,,,0.939092798141,,,,25,30,1,,9,,1,1,4,2.15302097023,3,Why lift weights?, Build muscles.,2
+2107,3,L,,,,,1.3626046414,,,,25,30,1,,6,,1,1,4,1.00348182292,5,Why show courtesy?, Make a friend.,3
+2107,4,L,,,,,0.802036555162,,,,25,30,1,,7,,1,1,4,0.671269493423,6,Why save money?, Get fit.,3
+2107,5,R,,,,,1.21293567137,,,,25,30,1,,5,,1,1,4,1.3256819726,0,How to read articles?, Open a magazine.,4
+2107,6,L,,,,,2.01668777267,,,,25,30,1,,2,,1,1,4,0.54599455447,2,How to mix a cocktail?, Stir ingredients.,4
+2107,7,L,,,,,2.86992500825,,,,25,30,1,,1,,1,1,4,1.31070583946,10,Why lift a glass?, Drink wine.,1
+2107,8,R,,,,,1.75403505005,,,,25,30,1,,4,,1,1,4,0.544612016881,8,Why open a magazine?, Read articles.,1
+2107,9,L,,,,,1.03627481401,,,,25,30,1,,1,,1,1,4,0.610139375977,7,How to entertain oneself?, Watch television.,5
+2107,10,R,,,,,3.86728575647,,,,25,30,1,,7,,1,1,4,1.24025717016,1,How to make art?, Paint a picture.,5
+2107,11,R,,,,,5.22748176553,,,,25,30,1,,9,,1,1,4,0.551258824048,4,How to feel sociable?, Hold a party.,6
+2107,12,R,,,,,1.28938172359,,,,25,30,1,,4,,1,1,4,0.670387927435,9,How to show an ability?, Satisfy hunger.,6

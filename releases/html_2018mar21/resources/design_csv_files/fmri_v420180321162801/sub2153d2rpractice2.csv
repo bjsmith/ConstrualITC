@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2153,1,L,,,,,1.40964184848,,,,25,30,1,,9,,1,2,4,0.758955144647,3,Why enter a classroom?, Attend a school.,2
+2153,2,R,,,,,2.85161745174,,,,25,30,1,,1,,1,2,4,1.30613628311,0,Why use a camera?, Give to charity.,2
+2153,3,R,,,,,1.20686502134,,,,25,30,1,,2,,1,2,4,0.672642056338,2,Why show intelligence?, Impress others.,3
+2153,4,L,,,,,2.79488918958,,,,25,30,1,,6,,1,2,4,0.686853151554,1,Why make art?, Show creativity.,3

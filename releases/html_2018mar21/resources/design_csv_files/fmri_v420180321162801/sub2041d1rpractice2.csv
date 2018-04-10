@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2041,1,R,,,,,2.09945349955,,,,25,30,1,,8,,1,1,4,1.2205993738,6,How to feel sociable?, Hold a party.,6
+2041,2,L,,,,,5.84315774734,,,,25,30,1,,4,,1,1,4,1.18974392042,8,How to get a degree?, Attend a school.,6
+2041,3,R,,,,,1.24729368128,,,,25,30,1,,7,,1,1,4,0.772675702744,4,How to show intelligence?, Participate in class.,5
+2041,4,R,,,,,2.69053843653,,,,25,30,1,,2,,1,1,4,0.618573239157,5,How to provide food?, Prepare meals.,5
+2041,5,R,,,,,1.56973205863,,,,25,30,1,,1,,1,1,4,2.14648812073,1,Why sign ones name?, Write a check.,1
+2041,6,L,,,,,2.39934839858,,,,25,30,1,,5,,1,1,4,0.767436527929,2,Why use a comb?, Write a song.,1
+2041,7,L,,,,,2.12987760753,,,,25,30,1,,9,,1,1,4,1.65243011789,11,Why consume medicine?, Reduce pain.,2
+2041,8,L,,,,,0.883960243236,,,,25,30,1,,6,,1,1,4,0.500245293258,10,Why make breakfast?, Satisfy hunger.,2
+2041,9,L,,,,,1.00000268944,,,,25,30,1,,9,,1,1,4,1.13877723365,0,Why keep a memory?, Feel nostalgia.,3
+2041,10,R,,,,,1.42342838735,,,,25,30,1,,5,,1,1,4,0.501484267267,9,Why contact a friend?, Feel connected.,3
+2041,11,R,,,,,0.572864386048,,,,25,30,1,,1,,1,1,4,0.546844558627,3,How to consume medicine?, Take pills. ,4
+2041,12,L,,,,,1.74366384485,,,,25,30,1,,4,,1,1,4,0.949751906905,7,How to make a phone call?, Dial numbers.,4

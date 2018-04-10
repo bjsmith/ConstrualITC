@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2051,1,L,,,,,1.66341516373,,,,25,30,1,,1,,1,1,4,0.50689538087,6,Why click a mouse?, Open a browser.,1
+2051,2,R,,,,,3.11577393115,,,,25,30,1,,5,,1,1,4,2.15743622645,5,Why use chalk?, Get fit.,1
+2051,3,R,,,,,0.526645443527,,,,25,30,1,,8,,1,1,4,0.559051197209,11,How to give applause?, Clap hands.,4
+2051,4,L,,,,,0.612787548518,,,,25,30,1,,6,,1,1,4,1.37150206995,4,How to give a lecture?, Brush ones hair.,4
+2051,5,R,,,,,3.70947669042,,,,25,30,1,,3,,1,1,4,1.14617761796,8,How to contact a friend?, Make a phone call.,5
+2051,6,L,,,,,0.988621325768,,,,25,30,1,,2,,1,1,4,0.521173817776,10,How to satisfy hunger?, Make breakfast.,5
+2051,7,L,,,,,1.81002508676,,,,25,30,1,,9,,1,1,4,0.871189633508,2,Why give to charity?, Support a cause.,3
+2051,8,R,,,,,0.714096445385,,,,25,30,1,,4,,1,1,4,0.547993681393,1,Why make art?, Show creativity.,3
+2051,9,L,,,,,0.528298600182,,,,25,30,1,,8,,1,1,4,1.69607779459,3,Why take a picture?, Keep a memory.,2
+2051,10,L,,,,,3.20012706822,,,,25,30,1,,4,,1,1,4,0.834856017389,0,Why consume medicine?, Reduce pain.,2
+2051,11,R,,,,,5.55994198273,,,,25,30,1,,3,,1,1,4,1.2823192726,7,How to feel well?, Reduce pain.,6
+2051,12,R,,,,,2.13724883062,,,,25,30,1,,9,,1,1,4,0.750130965292,9,How to spread joy?, Get a job.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2111,1,R,,,,,0.757856377032,,,,,39,1,,5,90,0,1,3,0.756934420323,5,Why give to charity?, Support a cause.,3
+2111,2,L,,,,,0.971770934343,,,,,30,1,,5,90,0,1,3,0.554709719634,9,Why attend a school?, Get a degree.,3
+2111,3,R,,,,,0.744476986281,,,,,25,1,,5,90,0,1,3,0.813139261016,11,How to satisfy hunger?, Make breakfast.,5
+2111,4,L,,,,,2.34234726575,,,,,33,1,,5,90,0,1,3,0.790765840211,7,How to entertain others?, Write a song.,5
+2111,5,L,,,,,1.34774708242,,,,,21,1,,5,90,0,1,3,0.881684767561,8,Why stir ingredients?, Mix a cocktail.,1
+2111,6,L,,,,,4.25331401023,,,,,29,1,,5,90,0,1,3,1.24314782733,3,Why click a mouse?, Open a browser.,1
+2111,7,L,,,,,2.53303413478,,,,,26,1,,5,90,0,1,3,1.51723236747,1,How to feel well?, Reduce pain.,6
+2111,8,R,,,,,0.783071467399,,,,,38,1,,5,90,0,1,3,1.74412475676,6,How to show an ability?, Satisfy hunger.,6
+2111,9,R,,,,,3.22807136717,,,,,20,1,,5,90,0,1,3,0.954001912726,4,Why take a picture?, Keep a memory.,2
+2111,10,R,,,,,1.71225491058,,,,,22,1,,5,90,0,1,3,1.32295615369,10,Why enter a classroom?, Attend a school.,2
+2111,11,R,,,,,3.18471692292,,,,,35,1,,5,90,0,1,3,1.4512180907,0,How to write a check?, Sign ones name.,4
+2111,12,L,,,,,1.16932988351,,,,,36,1,,5,90,0,1,3,0.568260120013,2,How to go shopping?, Use credit cards.,4

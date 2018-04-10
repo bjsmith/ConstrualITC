@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2055,1,L,,,,,2.78548106044,,,,25,30,1,,8,,1,1,4,1.13481918918,11,Why lift a glass?, Drink wine.,1
+2055,2,L,,,,,1.37857641432,,,,25,30,1,,3,,1,1,4,1.56566655813,6,Why wash ones hands?, Kill germs.,1
+2055,3,L,,,,,3.76064369439,,,,25,30,1,,7,,1,1,4,0.603146759514,0,Why drink wine?, Consume alcohol.,2
+2055,4,R,,,,,3.33642619495,,,,25,30,1,,9,,1,1,4,1.08861667243,10,Why consume caffeine?, Stay alert.,2
+2055,5,L,,,,,2.12207769569,,,,25,30,1,,4,,1,1,4,0.869283159244,5,How to show intelligence?, Participate in class.,5
+2055,6,R,,,,,0.81646369204,,,,25,30,1,,5,,1,1,4,0.780519034415,9,How to gain knowledge?, Read articles.,5
+2055,7,R,,,,,0.595102748494,,,,25,30,1,,6,,1,1,4,0.582179106556,7,Why show courtesy?, Make a friend.,3
+2055,8,L,,,,,4.18158557854,,,,25,30,1,,2,,1,1,4,0.621996074529,4,Why attend a school?, Get a degree.,3
+2055,9,R,,,,,0.649553826763,,,,25,30,1,,9,,1,1,4,1.07482348855,3,How to make a list?, Throw away trash.,4
+2055,10,R,,,,,0.897821588202,,,,25,30,1,,6,,1,1,4,0.639898336036,8,How to give a lecture?, Brush ones hair.,4
+2055,11,L,,,,,2.57603198721,,,,25,30,1,,4,,1,1,4,0.97342374676,1,How to improve oneself?, Gain knowledge.,6
+2055,12,R,,,,,0.532642906176,,,,25,30,1,,1,,1,1,4,1.24508946962,2,How to show cleanliness?, Write an email.,6

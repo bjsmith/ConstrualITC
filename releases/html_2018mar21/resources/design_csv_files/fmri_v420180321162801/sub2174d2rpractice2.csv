@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2174,1,L,,,,,0.955291380228,,,,,28,1,,5,90,0,2,4,0.574092332047,2,Why make breakfast?, Satisfy hunger.,2
+2174,2,L,,,,,1.52590979692,,,,,40,1,,5,90,0,2,4,0.711397160322,3,Why write a song?, Seek advice.,2
+2174,3,R,,,,,1.37163975275,,,,,23,1,,5,90,0,2,4,1.70929929078,0,Why raise a hand?, Participate in class.,1
+2174,4,R,,,,,4.80909873582,,,,,30,1,,5,90,0,2,4,0.857536824402,1,Why sign ones name?, Write a check.,1

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2122,1,R,,,,,1.32089575628,,,,,20,1,,5,90,0,2,4,1.07902272268,3,Why give to charity?, Support a cause.,3
+2122,2,R,,,,,3.29832910182,,,,,36,1,,5,90,0,2,4,0.805784595033,1,Why attend a school?, Get a degree.,3
+2122,3,L,,,,,1.00462230898,,,,,22,1,,5,90,0,2,4,0.674642275391,0,How to consume caffeine?, Press buttons.,4
+2122,4,L,,,,,3.34210647945,,,,,40,1,,5,90,0,2,4,1.38754258655,2,How to make a phone call?, Dial numbers.,4

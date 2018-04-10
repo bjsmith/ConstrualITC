@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2004,1,L,,,,,1.32450146305,,,,25,30,1,,8,,1,2,3,0.858214965414,3,Why open a browser?, Write an email.,2
+2004,2,L,,,,,3.06824879354,,,,25,30,1,,1,,1,2,3,1.05845019436,2,Why take a picture?, Keep a memory.,2
+2004,3,R,,,,,1.81007003311,,,,25,30,1,,6,,1,2,3,0.517432299768,0,How to satisfy a need?, Make a purchase.,6
+2004,4,R,,,,,0.803057112166,,,,25,30,1,,3,,1,2,3,0.580348150715,1,How to achieve success?, Get a promotion.,6

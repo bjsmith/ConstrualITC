@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2081,1,L,,,,,3.09034363135,,,,25,30,1,,2,,1,1,4,1.87692589222,3,Why open a magazine?, Read articles.,1
+2081,2,R,,,,,1.36607235948,,,,25,30,1,,8,,1,1,4,0.762452302238,2,Why turn a doorknob?, Enter a classroom.,1
+2081,3,R,,,,,1.81641378582,,,,25,30,1,,3,,1,1,4,1.21037066159,7,How to show appreciation?, Give applause.,5
+2081,4,L,,,,,3.54021320654,,,,25,30,1,,7,,1,1,4,1.31198440448,8,How to entertain oneself?, Watch television.,5
+2081,5,L,,,,,0.639441822092,,,,25,30,1,,1,,1,1,4,0.503039149164,1,How to feel well?, Reduce pain.,6
+2081,6,L,,,,,0.88433252621,,,,25,30,1,,4,,1,1,4,1.43084526412,9,How to impress others?, Show intelligence.,6
+2081,7,R,,,,,2.95995112693,,,,25,30,1,,6,,1,1,4,0.607151572519,4,How to make breakfast?, Crack eggs.,4
+2081,8,L,,,,,5.31336210924,,,,25,30,1,,5,,1,1,4,1.01615663751,6,How to drink wine?, Open a bottle. ,4
+2081,9,R,,,,,1.15746942926,,,,25,30,1,,5,,1,1,4,1.10533716401,0,Why make art?, Show creativity.,3
+2081,10,R,,,,,1.18831870844,,,,25,30,1,,6,,1,1,4,0.50691944237,11,Why provide food?, Help a person.,3
+2081,11,R,,,,,0.759814518572,,,,25,30,1,,8,,1,1,4,0.873809486348,5,Why make a phone call?, Contact a friend.,2
+2081,12,L,,,,,0.654552051413,,,,25,30,1,,3,,1,1,4,0.657234924727,10,Why make breakfast?, Satisfy hunger.,2

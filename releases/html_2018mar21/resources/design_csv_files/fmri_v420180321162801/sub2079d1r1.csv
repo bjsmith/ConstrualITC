@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2079,1,L,,,,,2.93626084758,,,,,29,1,,5,90,0,1,1,1.13666850202,52,How to express a talent?, Entertain others.,6
+2079,2,R,,,,,3.58444189653,,,,,34,1,,5,90,0,1,1,1.31503405552,4,How to achieve success?, Get a promotion.,6
+2079,3,R,,,,,2.16389932943,,,,,26,1,,5,90,0,1,1,2.47403477407,0,Why make a phone call?, Contact a friend.,2
+2079,4,L,,,,,1.45689439467,,,,,36,1,,5,90,0,1,1,1.44741951531,46,Why watch television?, Show competence.,2
+2079,5,L,,,,,3.79306382654,,,,,35,1,,5,90,0,1,1,2.79050204396,53,How to clip coupons?, Cut paper.,4
+2079,6,L,,,,,1.86456413707,,,,,31,1,,5,90,0,1,1,2.52707127984,55,How to make breakfast?, Crack eggs.,4
+2079,7,L,,,,,1.02295367467,,,,,24,1,,5,90,0,1,1,2.00694150612,27,Why show competence?, Pass the time.,3
+2079,8,L,,,,,1.05047556751,,,,,22,1,,5,90,0,1,1,1.20486965781,24,Why show appreciation?, Spread joy.,3
+2079,9,L,,,,,2.93396828611,,,,,23,1,,5,90,0,1,1,2.4803776046,8,Why use credit cards?, Go shopping.,1
+2079,10,R,,,,,1.14476127591,,,,,37,1,,5,90,0,1,1,2.13350705901,35,Why stir ingredients?, Mix a cocktail.,1
+2079,11,R,,,,,2.13820151502,,,,,40,1,,5,90,0,1,1,1.0884810467,50,How to satisfy hunger?, Make breakfast.,5
+2079,12,L,,,,,4.35300070673,,,,,28,1,,5,90,0,1,1,1.77071881974,22,How to gain knowledge?, Read articles.,5
+2079,13,L,,,,,2.72013604277,,,,,25,1,,5,90,0,1,1,1.82572116047,58,How to spread knowledge?, Teach others.,6
+2079,14,R,,,,,1.26483033139,,,,,27,1,,5,90,0,1,1,1.3734550171,12,How to feel well?, Reduce pain.,6
+2079,15,L,,,,,1.44945570722,,,,,30,1,,5,90,0,1,1,1.82203923623,30,Why write an email?, Send a message.,3
+2079,16,R,,,,,1.1407152974,,,,,38,1,,5,90,0,1,1,1.51204824714,25,Why save money?, Get fit.,3
+2079,17,R,,,,,1.19493308575,,,,,21,1,,5,90,0,1,1,2.28529542939,10,How to reduce pain?, Consume medicine.,5
+2079,18,L,,,,,2.41478887263,,,,,39,1,,5,90,0,1,1,1.77610652766,26,How to express doubt?, Use scissors.,5
+2079,19,R,,,,,1.23412268458,,,,,20,1,,5,90,0,1,1,1.59753260143,16,Why consume medicine?, Reduce pain.,2
+2079,20,R,,,,,1.9993146847,,,,,33,1,,5,90,0,1,1,2.12118080655,54,Why open a browser?, Write an email.,2
+2079,21,R,,,,,1.44472149763,,,,,40,1,,5,90,0,1,1,4.84449124227,37,Why open a magazine?, Read articles.,1
+2079,22,R,,,,,1.78740394736,,,,,27,1,,5,90,0,1,1,1.93592548431,57,Why lift a glass?, Drink wine.,1
+2079,23,R,,,,,1.13399424883,,,,,21,1,,5,90,0,1,1,2.6384595048,2,How to make a phone call?, Dial numbers.,4
+2079,24,L,,,,,1.11648132291,,,,,24,1,,5,90,0,1,1,1.5878681815,32,How to take a picture?, Point a camera.,4
+2079,25,R,,,,,1.83567398714,,,,,35,1,,5,90,0,1,1,1.57632502607,56,How to give a lecture?, Brush ones hair.,4
+2079,26,L,,,,,3.14149070802,,,,,37,1,,5,90,0,1,1,1.08094065765,9,How to go shopping?, Use credit cards.,4
+2079,27,R,,,,,1.27298347756,,,,,38,1,,5,90,0,1,1,1.91775735695,13,Why paint a picture?, Make art.,2
+2079,28,L,,,,,1.70089936583,,,,,26,1,,5,90,0,1,1,2.05968096924,48,Why give applause?, Show appreciation.,2
+2079,29,L,,,,,1.32197992884,,,,,25,1,,5,90,0,1,1,2.87389629225,38,How to provide food?, Prepare meals.,5
+2079,30,R,,,,,2.43745909362,,,,,20,1,,5,90,0,1,1,2.38028987541,34,How to get a promotion?, Arrive on time.,5
+2079,31,L,,,,,1.08542703935,,,,,34,1,,5,90,0,1,1,1.86955399733,18,How to get a degree?, Attend a school.,6
+2079,32,R,,,,,5.28504534106,,,,,29,1,,5,90,0,1,1,3.06610880045,36,How to feel connected?, Contact a friend.,6
+2079,33,L,,,,,1.0468348354,,,,,23,1,,5,90,0,1,1,1.21425033214,31,Why turn a doorknob?, Enter a classroom.,1
+2079,34,R,,,,,2.48271275715,,,,,36,1,,5,90,0,1,1,1.71835865679,28,Why use chalk?, Get fit.,1
+2079,35,L,,,,,1.63430790983,,,,,22,1,,5,90,0,1,1,1.48881568316,5,Why show courtesy?, Make a friend.,3
+2079,36,R,,,,,1.57687610522,,,,,33,1,,5,90,0,1,1,2.45337440825,3,Why provide food?, Help a person.,3
+2079,37,R,,,,,2.55648317715,,,,,31,1,,5,90,0,1,1,1.85179309948,17,Why make art?, Show creativity.,3
+2079,38,R,,,,,1.68734681773,,,,,39,1,,5,90,0,1,1,1.94731685292,45,Why gain knowledge?, Improve oneself.,3
+2079,39,L,,,,,2.98930033203,,,,,32,1,,5,90,0,1,1,1.77620419488,1,How to give applause?, Clap hands.,4
+2079,40,R,,,,,1.42184217014,,,,,30,1,,5,90,0,1,1,1.54099386561,40,How to write a song?, Play piano.,4
+2079,41,L,,,,,1.7026514999,,,,,28,1,,5,90,0,1,1,4.09359057662,21,Why open a bottle?, Consume medicine.,1
+2079,42,L,,,,,1.32446947264,,,,,25,1,,5,90,0,1,1,2.29504276286,7,Why throw away trash?, Make a list.,1
+2079,43,L,,,,,2.77888026151,,,,,26,1,,5,90,0,1,1,2.12267080109,11,How to entertain oneself?, Watch television.,5
+2079,44,L,,,,,1.60461547893,,,,,24,1,,5,90,0,1,1,1.34199554539,29,How to make art?, Paint a picture.,5
+2079,45,R,,,,,2.561261197,,,,,27,1,,5,90,0,1,1,2.35757459522,6,Why dress formally?, Get a promotion.,2
+2079,46,R,,,,,1.36908355834,,,,,33,1,,5,90,0,1,1,1.8449218745,23,Why read articles?, Gain knowledge.,2
+2079,47,R,,,,,2.14642711223,,,,,23,1,,5,90,0,1,1,1.53057297961,39,How to live a long life?, Avoid diseases.,6
+2079,48,L,,,,,1.01164624083,,,,,30,1,,5,90,0,1,1,1.64873282831,42,How to satisfy a need?, Make a purchase.,6
+2079,49,L,,,,,3.87432158343,,,,,32,1,,5,90,0,1,1,1.14457548038,33,Why clip coupons?, Save money.,2
+2079,50,L,,,,,1.48076607041,,,,,22,1,,5,90,0,1,1,1.24787009015,41,Why write a song?, Seek advice.,2
+2079,51,R,,,,,2.20717176392,,,,,29,1,,5,90,0,1,1,1.30058076591,15,How to avoid boredom?, Entertain oneself.,6
+2079,52,R,,,,,1.49711358293,,,,,37,1,,5,90,0,1,1,1.43348562861,43,How to improve oneself?, Gain knowledge.,6
+2079,53,R,,,,,1.33172484784,,,,,34,1,,5,90,0,1,1,2.24105177576,59,How to dress formally?, Wear ties. ,4
+2079,54,L,,,,,1.78946438188,,,,,39,1,,5,90,0,1,1,4.89394114038,44,How to consume caffeine?, Press buttons.,4
+2079,55,R,,,,,2.16516910664,,,,,35,1,,5,90,0,1,1,2.40974155174,14,Why finish a job?, Feel productive.,3
+2079,56,L,,,,,1.46408966138,,,,,36,1,,5,90,0,1,1,1.65607887735,20,Why give to charity?, Support a cause.,3
+2079,57,R,,,,,2.31722296084,,,,,31,1,,5,90,0,1,1,1.17027524876,49,How to write an email?, Open a browser.,5
+2079,58,L,,,,,2.53402545012,,,,,21,1,,5,90,0,1,1,3.28140917136,47,How to make a purchase?, Go shopping.,5
+2079,59,R,,,,,1.95521940309,,,,,38,1,,5,90,0,1,1,1.48986875314,51,Why take aspirin?, Serve alcohol.,1
+2079,60,L,,,,,1.23657213024,,,,,40,1,,5,90,0,1,1,1.7292380593,19,Why wear ties?, Dress formally.,1

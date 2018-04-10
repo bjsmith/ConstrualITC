@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2074,1,L,,,,,0.518604341466,,,,,37,1,,5,90,0,1,4,1.2235221901,2,How to avoid boredom?, Entertain oneself.,6
+2074,2,R,,,,,0.985129484067,,,,,21,1,,5,90,0,1,4,0.576531068292,9,How to satisfy a need?, Make a purchase.,6
+2074,3,L,,,,,0.903153622644,,,,,33,1,,5,90,0,1,4,0.537985727312,4,How to write a check?, Sign ones name.,4
+2074,4,R,,,,,3.52211806321,,,,,23,1,,5,90,0,1,4,0.535379196864,6,How to paint a picture?, Use a brush.,4
+2074,5,R,,,,,2.44677621206,,,,,22,1,,5,90,0,1,4,0.976307354804,0,Why keep a memory?, Feel nostalgia.,3
+2074,6,L,,,,,0.572767755992,,,,,32,1,,5,90,0,1,4,0.931172538332,11,Why build muscles?, Show humility.,3
+2074,7,R,,,,,2.44311470812,,,,,36,1,,5,90,0,1,4,2.24218644956,3,Why open a browser?, Write an email.,2
+2074,8,R,,,,,1.80613778693,,,,,39,1,,5,90,0,1,4,0.761954243059,10,Why participate in class?, Show intelligence.,2
+2074,9,L,,,,,4.43236156427,,,,,29,1,,5,90,0,1,4,1.05154017834,7,How to contact a friend?, Make a phone call.,5
+2074,10,L,,,,,1.70352249509,,,,,26,1,,5,90,0,1,4,0.896862326328,5,How to satisfy hunger?, Make breakfast.,5
+2074,11,R,,,,,3.44307170591,,,,,40,1,,5,90,0,1,4,0.672527545094,8,Why drink coffee?, Consume caffeine.,1
+2074,12,L,,,,,0.692639984948,,,,,20,1,,5,90,0,1,4,1.31561159953,1,Why wash ones hands?, Kill germs.,1

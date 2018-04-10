@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2181,1,L,,,,,0.741725420306,,,,,25,1,,5,90,0,2,3,1.45861074992,2,Why raise a hand?, Participate in class.,1
+2181,2,R,,,,,2.23725554844,,,,,32,1,,5,90,0,2,3,1.1839572926,1,Why use chalk?, Get fit.,1
+2181,3,R,,,,,2.89862082803,,,,,33,1,,5,90,0,2,3,0.628776500522,0,Why contact a friend?, Feel connected.,3
+2181,4,L,,,,,1.46430181,,,,,35,1,,5,90,0,2,3,0.73531590264,3,Why write an email?, Send a message.,3

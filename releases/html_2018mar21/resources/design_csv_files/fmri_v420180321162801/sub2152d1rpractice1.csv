@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2152,1,L,,,,,0.700770805867,,,,25,30,1,,5,,1,1,3,0.988078492293,3,How to make art?, Paint a picture.,5
+2152,2,R,,,,,2.092942141,,,,25,30,1,,6,,1,1,3,0.538360234973,1,How to entertain oneself?, Watch television.,5
+2152,3,R,,,,,1.83143615093,,,,25,30,1,,8,,1,1,3,0.948912366038,10,How to write a check?, Sign ones name.,4
+2152,4,R,,,,,3.18990259486,,,,25,30,1,,9,,1,1,3,1.18869815008,5,How to give applause?, Clap hands.,4
+2152,5,L,,,,,2.61651588713,,,,25,30,1,,4,,1,1,3,0.687938453106,0,Why take aspirin?, Serve alcohol.,1
+2152,6,R,,,,,4.2613762058,,,,25,30,1,,3,,1,1,3,0.637766294558,2,Why sign ones name?, Write a check.,1
+2152,7,R,,,,,0.898075529255,,,,25,30,1,,1,,1,1,3,0.905102597222,6,How to reduce worry?, Plan ahead.,6
+2152,8,L,,,,,1.14615662137,,,,25,30,1,,7,,1,1,3,1.16630221935,4,How to feel productive?, Finish a job.,6
+2152,9,L,,,,,1.83296208639,,,,25,30,1,,1,,1,1,3,0.514650262632,9,Why take a picture?, Keep a memory.,2
+2152,10,L,,,,,3.06247243725,,,,25,30,1,,6,,1,1,3,0.526575979825,7,Why consume medicine?, Reduce pain.,2
+2152,11,R,,,,,1.71456154461,,,,25,30,1,,4,,1,1,3,2.14272322578,11,Why share ideas?, Show intellect.,3
+2152,12,L,,,,,1.1702509587,,,,25,30,1,,2,,1,1,3,0.981630246608,8,Why plan ahead?, Reduce worry.,3

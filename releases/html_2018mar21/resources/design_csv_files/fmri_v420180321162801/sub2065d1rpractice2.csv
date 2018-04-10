@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2065,1,R,,,,,0.75555381734,,,,25,30,1,,3,,1,1,4,1.65538571159,9,How to show intellect?, Share ideas.,6
+2065,2,R,,,,,3.98508288705,,,,25,30,1,,4,,1,1,4,0.501509407083,10,How to satisfy a need?, Make a purchase.,6
+2065,3,L,,,,,0.751001322872,,,,25,30,1,,5,,1,1,4,0.559066839609,0,Why entertain others?, Express a talent.,3
+2065,4,R,,,,,2.16919114866,,,,25,30,1,,9,,1,1,4,1.65659780888,8,Why build muscles?, Show humility.,3
+2065,5,L,,,,,4.93595162022,,,,25,30,1,,2,,1,1,4,0.833415529413,11,How to save money?, Clip coupons.,5
+2065,6,L,,,,,2.96117887759,,,,25,30,1,,7,,1,1,4,0.909748064873,7,How to contact a friend?, Make a phone call.,5
+2065,7,L,,,,,0.513313499528,,,,25,30,1,,6,,1,1,4,0.68743991013,3,How to take a picture?, Point a camera.,4
+2065,8,R,,,,,1.90901175657,,,,25,30,1,,8,,1,1,4,0.655596046719,5,How to kill germs?, Wash ones hands.,4
+2065,9,L,,,,,0.599988422417,,,,25,30,1,,8,,1,1,4,1.04242788573,2,Why participate in class?, Show intelligence.,2
+2065,10,L,,,,,1.94545070651,,,,25,30,1,,2,,1,1,4,1.09525429219,1,Why teach a class?, Obey laws.,2
+2065,11,R,,,,,0.676161295265,,,,25,30,1,,5,,1,1,4,0.824313839184,6,Why follow recipes?, Prepare meals.,1
+2065,12,R,,,,,1.80504134108,,,,25,30,1,,3,,1,1,4,0.833312986768,4,Why use a brush?, Paint a picture.,1

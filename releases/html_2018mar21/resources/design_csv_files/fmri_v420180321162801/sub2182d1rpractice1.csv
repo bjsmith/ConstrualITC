@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2182,1,R,,,,,2.94100812732,,,,25,30,1,,5,,1,1,3,0.593586283695,7,How to express doubt?, Use scissors.,5
+2182,2,R,,,,,2.97416086436,,,,25,30,1,,3,,1,1,3,1.6148489603,3,How to make a purchase?, Go shopping.,5
+2182,3,L,,,,,0.684936793912,,,,25,30,1,,4,,1,1,3,0.761764387731,9,How to show creativity?, Make art.,6
+2182,4,L,,,,,1.27390892471,,,,25,30,1,,6,,1,1,3,0.717175970775,6,How to satisfy a need?, Make a purchase.,6
+2182,5,R,,,,,5.43026988958,,,,25,30,1,,7,,1,1,3,1.29940635631,8,How to dress formally?, Wear ties. ,4
+2182,6,L,,,,,0.519331911608,,,,25,30,1,,8,,1,1,3,1.56714128401,11,How to watch television?, Use a remote.,4
+2182,7,L,,,,,1.17714105652,,,,25,30,1,,1,,1,1,3,0.828319662776,0,Why throw away trash?, Make a list.,1
+2182,8,R,,,,,0.701031197761,,,,25,30,1,,2,,1,1,3,0.595006414605,4,Why sign ones name?, Write a check.,1
+2182,9,R,,,,,4.77878155846,,,,25,30,1,,2,,1,1,3,1.12087170549,10,Why save money?, Get fit.,3
+2182,10,L,,,,,0.74285866743,,,,25,30,1,,1,,1,1,3,0.508711800114,5,Why reduce pain?, Feel well.,3
+2182,11,R,,,,,0.668761766775,,,,25,30,1,,9,,1,1,3,0.76289561281,1,Why teach a class?, Obey laws.,2
+2182,12,L,,,,,1.73994853463,,,,25,30,1,,6,,1,1,3,1.30328934941,2,Why paint a picture?, Make art.,2

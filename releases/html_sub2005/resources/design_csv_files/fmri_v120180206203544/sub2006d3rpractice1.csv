@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2006,1,1,,,,,0.758774280518,,,,25,30,1,,2,,1,3,3,0.661687004385,0,Why dial numbers?, Make a phone call.,1
+2006,2,2,,,,,1.45603063552,,,,25,30,1,,5,,1,3,3,2.57440804401,1,How to go shopping?, Use credit cards.,4
+2006,3,2,,,,,0.788812961748,,,,25,30,1,,7,,1,3,3,0.92195594855,0,How to teach others?, Give a lecture.,5
+2006,4,1,,,,,5.03824404447,,,,25,30,1,,8,,1,3,3,0.757830897978,0,How to get a degree?, Attend a school.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2015,1,1,,,,,3.02106726106,,,,25,30,1,,9,,1,1,4,5.26838488369,0,Why sign ones name?, Write a check.,1
+2015,2,1,,,,,2.32157097476,,,,25,30,1,,5,,1,1,4,1.17665935384,0,Why lift a glass?, Drink wine.,1
+2015,3,2,,,,,1.82777931924,,,,25,30,1,,6,,1,1,4,3.10774889372,1,How to write an email?, Open a browser.,5
+2015,4,1,,,,,1.40246572072,,,,25,30,1,,8,,1,1,4,0.739140352865,0,How to give to charity?, Use a camera.,5
+2015,5,2,,,,,1.11911131773,,,,25,30,1,,4,,1,1,4,5.06071585366,0,How to feel connected?, Contact a friend.,6
+2015,6,1,,,,,1.00197953143,,,,25,30,1,,1,,1,1,4,1.15098321669,0,How to get a degree?, Attend a school.,6
+2015,7,2,,,,,2.29538270876,,,,25,30,1,,2,,1,1,4,0.762680608543,0,How to paint a picture?, Use a brush.,4
+2015,8,1,,,,,1.90843402686,,,,25,30,1,,3,,1,1,4,1.32709879496,0,How to kill germs?, Wash ones hands.,4
+2015,9,2,,,,,2.58506465992,,,,25,30,1,,4,,1,1,4,1.51262682638,0,Why avoid diseases?, Live a long life.,3
+2015,10,2,,,,,0.992886057597,,,,25,30,1,,8,,1,1,4,1.41038937673,0,Why show competence?, Pass the time.,3
+2015,11,1,,,,,3.4507113926,,,,25,30,1,,3,,1,1,4,1.44305490854,0,Why enter a classroom?, Attend a school.,2
+2015,12,2,,,,,2.69746961769,,,,25,30,1,,6,,1,1,4,1.11099971428,0,Why open a browser?, Write an email.,2

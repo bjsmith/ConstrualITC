@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,2,,,,,2.32060072331,,,,25,30,1,,7,,1,3,4,0.527521563109,0,Why open a browser?, Write an email.,2
+2023,2,1,,,,,1.08158629893,,,,25,30,1,,9,,1,3,4,1.63950461454,1,How to entertain oneself?, Watch television.,5
+2023,3,2,,,,,0.918918432731,,,,25,30,1,,4,,1,3,4,0.845342100978,0,Why attend a school?, Get a degree.,3
+2023,4,1,,,,,2.75880789714,,,,25,30,1,,2,,1,3,4,1.8747362381,0,Why wear ties?, Dress formally.,1

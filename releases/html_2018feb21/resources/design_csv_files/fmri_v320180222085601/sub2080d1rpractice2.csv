@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2080,1,L,,,,,1.97516903681,,,,,35,1,,5,90,0,1,4,1.25629810813,7,How to attend a school?, Enter a classroom.,5
+2080,2,R,,,,,0.795310134076,,,,,28,1,,5,90,0,1,4,0.831643014378,5,How to gain knowledge?, Read articles.,5
+2080,3,R,,,,,1.03681962676,,,,,31,1,,5,90,0,1,4,1.44836521129,4,How to avoid boredom?, Entertain oneself.,6
+2080,4,R,,,,,1.50591930696,,,,,37,1,,5,90,0,1,4,0.551174484585,6,How to improve oneself?, Gain knowledge.,6
+2080,5,L,,,,,1.03483625656,,,,,36,1,,5,90,0,1,4,1.21518437099,3,How to drink wine?, Open a bottle. ,4
+2080,6,R,,,,,4.09536696298,,,,,23,1,,5,90,0,1,4,1.00049120777,8,How to give a lecture?, Brush ones hair.,4
+2080,7,L,,,,,0.684990203776,,,,,40,1,,5,90,0,1,4,1.42478291573,0,Why give a lecture?, Teach others.,2
+2080,8,R,,,,,3.55963514574,,,,,30,1,,5,90,0,1,4,1.25639574303,2,Why dress formally?, Get a promotion.,2
+2080,9,R,,,,,1.72021026595,,,,,25,1,,5,90,0,1,4,0.637047112736,1,Why turn a doorknob?, Enter a classroom.,1
+2080,10,L,,,,,0.983526605453,,,,,22,1,,5,90,0,1,4,0.744095923982,9,Why sign ones name?, Write a check.,1
+2080,11,L,,,,,3.89120211792,,,,,21,1,,5,90,0,1,4,0.668916525954,10,Why show appreciation?, Spread joy.,3
+2080,12,L,,,,,2.15886840569,,,,,26,1,,5,90,0,1,4,1.71906157015,11,Why avoid diseases?, Live a long life.,3

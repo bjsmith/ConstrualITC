@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2014,1,L,,,,,1.18251540361,,,,,23,1,,5,90,0,1,4,1.11497703981,9,Why avoid diseases?, Live a long life.,3
+2014,2,R,,,,,0.56359089344,,,,,37,1,,5,90,0,1,4,1.28176544268,3,Why save money?, Get fit.,3
+2014,3,R,,,,,0.776427793541,,,,,28,1,,5,90,0,1,4,0.669205026128,11,How to take a picture?, Point a camera.,4
+2014,4,R,,,,,3.25425525214,,,,,36,1,,5,90,0,1,4,0.573327697152,8,How to watch television?, Use a remote.,4
+2014,5,L,,,,,1.5061337535,,,,,39,1,,5,90,0,1,4,0.644792062512,1,How to show ambition?, Serve alcohol.,5
+2014,6,R,,,,,0.801422879264,,,,,27,1,,5,90,0,1,4,0.534890430544,10,How to make a donation?, Mix a cocktail.,5
+2014,7,L,,,,,1.07164635697,,,,,22,1,,5,90,0,1,4,1.00841165541,4,Why dress formally?, Get a promotion.,2
+2014,8,L,,,,,0.64780891255,,,,,38,1,,5,90,0,1,4,0.972930776092,2,Why make breakfast?, Satisfy hunger.,2
+2014,9,R,,,,,4.00980162169,,,,,20,1,,5,90,0,1,4,0.861470077161,0,How to feel secure?, Save money.,6
+2014,10,L,,,,,1.88707949199,,,,,40,1,,5,90,0,1,4,1.00649361867,5,How to support a cause?, Give to charity.,6
+2014,11,R,,,,,6.39877941374,,,,,31,1,,5,90,0,1,4,1.19737946057,6,Why clap hands?, Give applause.,1
+2014,12,L,,,,,1.42020331727,,,,,25,1,,5,90,0,1,4,1.954157782,7,Why use credit cards?, Go shopping.,1

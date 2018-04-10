@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2040,1,L,,,,,2.68603191301,,,,,32,1,,5,90,0,2,4,1.00042924665,0,Why give applause?, Show appreciation.,2
+2040,2,R,,,,,1.99192486483,,,,,34,1,,5,90,0,2,4,0.552353460747,1,Why teach a class?, Obey laws.,2
+2040,3,L,,,,,1.05917304772,,,,,37,1,,5,90,0,2,4,0.836274617298,2,Why sign ones name?, Write a check.,1
+2040,4,R,,,,,1.9434138064,,,,,21,1,,5,90,0,2,4,0.908024325579,3,Why point a camera?, Take a picture.,1

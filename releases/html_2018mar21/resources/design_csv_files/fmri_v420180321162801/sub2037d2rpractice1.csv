@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2037,1,L,,,,,1.89209180049,,,,,30,1,,5,90,0,2,3,1.19958396721,0,Why drink coffee?, Consume caffeine.,1
+2037,2,R,,,,,2.03118647996,,,,,23,1,,5,90,0,2,3,0.774913620269,1,Why take aspirin?, Serve alcohol.,1
+2037,3,L,,,,,2.78523610535,,,,,29,1,,5,90,0,2,3,0.659234572824,3,Why keep a memory?, Feel nostalgia.,3
+2037,4,R,,,,,0.785535415987,,,,,35,1,,5,90,0,2,3,0.806640293387,2,Why make a purchase?, Satisfy a need.,3

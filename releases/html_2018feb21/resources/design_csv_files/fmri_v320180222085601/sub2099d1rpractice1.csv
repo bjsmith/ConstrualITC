@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2099,1,L,,,,,4.00970750882,,,,,21,1,,5,90,0,1,3,0.6710659475,11,How to take a picture?, Point a camera.,4
+2099,2,R,,,,,1.02819956223,,,,,32,1,,5,90,0,1,3,0.608454923195,0,How to participate in class?, Raise a hand.,4
+2099,3,L,,,,,1.54577927036,,,,,36,1,,5,90,0,1,3,0.806801906316,3,Why hold a party?, Feel sociable.,3
+2099,4,R,,,,,2.10244666544,,,,,24,1,,5,90,0,1,3,1.28066139027,4,Why make art?, Show creativity.,3
+2099,5,R,,,,,2.86222941287,,,,,40,1,,5,90,0,1,3,0.786079446687,9,Why click a mouse?, Open a browser.,1
+2099,6,R,,,,,1.41932297189,,,,,38,1,,5,90,0,1,3,0.635252238722,1,Why take aspirin?, Serve alcohol.,1
+2099,7,L,,,,,1.19131215113,,,,,29,1,,5,90,0,1,3,0.649355909129,2,Why consume caffeine?, Stay alert.,2
+2099,8,L,,,,,3.16672420608,,,,,26,1,,5,90,0,1,3,1.40551581013,8,Why go shopping?, Make a purchase.,2
+2099,9,L,,,,,1.20414786202,,,,,35,1,,5,90,0,1,3,0.937922419443,5,How to build muscles?, Lift weights.,5
+2099,10,R,,,,,1.69205754521,,,,,20,1,,5,90,0,1,3,1.84149460157,7,How to consume alcohol?, Drink wine.,5
+2099,11,L,,,,,3.28874008336,,,,,31,1,,5,90,0,1,3,1.12019258978,10,How to achieve success?, Get a promotion.,6
+2099,12,R,,,,,1.20418523713,,,,,25,1,,5,90,0,1,3,0.980204575994,6,How to show an ability?, Satisfy hunger.,6

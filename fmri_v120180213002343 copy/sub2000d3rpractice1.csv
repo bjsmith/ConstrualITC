@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2000,1,2,,,,,1.04758976622,,,,25,30,1,,1,,1,3,3,0.64126137698,0,Why write an email?, Send a message.,3
+2000,2,1,,,,,3.50090741301,,,,25,30,1,,5,,1,3,3,2.06270417577,0,Why contact a friend?, Feel connected.,3
+2000,3,1,,,,,2.76994774682,,,,25,30,1,,8,,1,3,3,2.80797739664,0,Why wear ties?, Dress formally.,1
+2000,4,2,,,,,1.4026159563,,,,25,30,1,,9,,1,3,3,3.45467102895,1,Why crack eggs?, Make breakfast.,1

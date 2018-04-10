@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2014,1,R,,,,,1.49944422691,,,,25,30,1,,6,,1,3,1,2.25601320162,9,How to show ambition?, Serve alcohol.,5
+2014,2,R,,,,,1.28296214679,,,,25,30,1,,7,,1,3,1,1.23594445809,48,How to teach others?, Give a lecture.,5
+2014,3,L,,,,,1.95181864468,,,,25,30,1,,4,,1,3,1,1.53612588138,37,Why finish a job?, Feel productive.,3
+2014,4,R,,,,,1.53143188433,,,,25,30,1,,8,,1,3,1,3.67362254387,4,Why write an email?, Send a message.,3
+2014,5,R,,,,,1.8914351111,,,,25,30,1,,3,,1,3,1,3.03787216616,49,Why make breakfast?, Satisfy hunger.,2
+2014,6,R,,,,,1.57516139195,,,,25,30,1,,9,,1,3,1,1.40819108038,26,Why kill germs?, Avoid diseases.,2
+2014,7,L,,,,,2.22271367976,,,,25,30,1,,5,,1,3,1,2.37642765286,56,How to go shopping?, Use credit cards.,4
+2014,8,R,,,,,1.44972379191,,,,25,30,1,,2,,1,3,1,3.77730113308,46,How to clip coupons?, Cut paper.,4
+2014,9,L,,,,,1.24159932596,,,,25,30,1,,8,,1,3,1,1.17688314459,1,How to achieve success?, Get a promotion.,6
+2014,10,L,,,,,2.72139158554,,,,25,30,1,,7,,1,3,1,1.0527962316,2,How to feel secure?, Save money.,6
+2014,11,L,,,,,3.44711874232,,,,25,30,1,,3,,1,3,1,1.29727973862,53,Why take aspirin?, Serve alcohol.,1
+2014,12,L,,,,,1.88119944161,,,,25,30,1,,5,,1,3,1,3.28371369422,57,Why open a magazine?, Read articles.,1
+2014,13,R,,,,,2.14321211778,,,,25,30,1,,4,,1,3,1,2.11783841864,6,Why use chalk?, Get fit.,1
+2014,14,R,,,,,5.41737184505,,,,25,30,1,,6,,1,3,1,1.33268981984,43,Why turn a doorknob?, Enter a classroom.,1
+2014,15,R,,,,,1.59350569953,,,,25,30,1,,9,,1,3,1,1.2555312273,51,Why consume medicine?, Reduce pain.,2
+2014,16,L,,,,,1.30156844876,,,,25,30,1,,2,,1,3,1,1.42552842674,36,Why drink wine?, Consume alcohol.,2
+2014,17,R,,,,,3.11719191618,,,,25,30,1,,7,,1,3,1,1.09156108757,29,Why plan ahead?, Reduce worry.,3
+2014,18,R,,,,,1.14806607438,,,,25,30,1,,2,,1,3,1,2.85878458345,25,Why make a purchase?, Satisfy a need.,3
+2014,19,L,,,,,2.74255695132,,,,25,30,1,,8,,1,3,1,2.35047825353,3,How to entertain others?, Write a song.,5
+2014,20,R,,,,,1.15412951341,,,,25,30,1,,6,,1,3,1,1.6423378679,27,How to attend a school?, Enter a classroom.,5
+2014,21,L,,,,,2.38782216838,,,,25,30,1,,1,,1,3,1,1.33434279516,50,How to lift weights?, Fasten seatbelt.,4
+2014,22,L,,,,,1.97564326643,,,,25,30,1,,3,,1,3,1,2.3873608855,30,How to paint a picture?, Use a brush.,4
+2014,23,L,,,,,1.80660645676,,,,25,30,1,,9,,1,3,1,1.39019786935,54,How to express a talent?, Entertain others.,6
+2014,24,L,,,,,1.17600977552,,,,25,30,1,,5,,1,3,1,1.79366363209,58,How to feel nostalgia?, Keep a memory.,6
+2014,25,R,,,,,1.4011327718,,,,25,30,1,,4,,1,3,1,1.29635253964,21,Why lift weights?, Build muscles.,2
+2014,26,L,,,,,2.27160109172,,,,25,30,1,,2,,1,3,1,3.60170127622,47,Why teach a class?, Obey laws.,2
+2014,27,R,,,,,1.04378286067,,,,25,30,1,,8,,1,3,1,2.23243732993,5,Why cut paper?, Clip coupons.,1
+2014,28,L,,,,,3.59783448224,,,,25,30,1,,5,,1,3,1,3.09100004849,10,Why wear ties?, Dress formally.,1
+2014,29,L,,,,,1.43654878182,,,,25,30,1,,1,,1,3,1,1.68182059843,0,How to drink wine?, Open a bottle. ,4
+2014,30,R,,,,,1.47338956921,,,,25,30,1,,6,,1,3,1,1.11754456913,17,How to dress formally?, Wear ties. ,4
+2014,31,R,,,,,1.41304958491,,,,25,30,1,,7,,1,3,1,2.31583977861,18,Why make art?, Show creativity.,3
+2014,32,L,,,,,4.69174552262,,,,25,30,1,,9,,1,3,1,1.45979866936,41,Why attend a school?, Get a degree.,3
+2014,33,L,,,,,1.12541820891,,,,25,30,1,,7,,1,3,1,3.5864346443,52,How to avoid diseases?, Kill germs.,5
+2014,34,L,,,,,2.5190248005,,,,25,30,1,,9,,1,3,1,1.09715452482,11,How to provide food?, Prepare meals.,5
+2014,35,R,,,,,1.16758924867,,,,25,30,1,,1,,1,3,1,1.3933508511,20,How to improve oneself?, Gain knowledge.,6
+2014,36,R,,,,,1.41492536038,,,,25,30,1,,2,,1,3,1,1.14914394464,35,How to show creativity?, Make art.,6
+2014,37,L,,,,,1.81768227568,,,,25,30,1,,8,,1,3,1,1.05470013671,15,Why lift a glass?, Drink wine.,1
+2014,38,L,,,,,1.26089801009,,,,25,30,1,,3,,1,3,1,1.76906868359,59,Why use a remote?, Watch television.,1
+2014,39,R,,,,,2.27100784574,,,,25,30,1,,4,,1,3,1,1.62094118798,42,Why save money?, Get fit.,3
+2014,40,R,,,,,2.4662769954,,,,25,30,1,,6,,1,3,1,3.27339164006,16,Why get a promotion?, Achieve success.,3
+2014,41,L,,,,,2.37990318054,,,,25,30,1,,5,,1,3,1,2.76063349222,39,How to make a phone call?, Dial numbers.,4
+2014,42,R,,,,,1.51780568421,,,,25,30,1,,7,,1,3,1,2.54269388025,19,How to make a list?, Throw away trash.,4
+2014,43,L,,,,,2.61513339054,,,,25,30,1,,4,,1,3,1,1.23438700966,33,How to support a cause?, Give to charity.,6
+2014,44,R,,,,,1.44529363979,,,,25,30,1,,1,,1,3,1,1.09315087597,8,How to live a long life?, Avoid diseases.,6
+2014,45,R,,,,,1.7318216755,,,,25,30,1,,8,,1,3,1,5.44400248328,45,How to plan ahead?, Make a list.,5
+2014,46,L,,,,,2.570105787,,,,25,30,1,,2,,1,3,1,1.81146845531,34,How to make art?, Paint a picture.,5
+2014,47,L,,,,,2.79826004251,,,,25,30,1,,3,,1,3,1,1.68468328292,14,Why give applause?, Show appreciation.,2
+2014,48,R,,,,,1.0288648172,,,,25,30,1,,6,,1,3,1,1.23650128008,44,Why read articles?, Gain knowledge.,2
+2014,49,L,,,,,1.6610092449,,,,25,30,1,,9,,1,3,1,1.63360270464,31,How to show humility?, Build muscles.,6
+2014,50,R,,,,,1.71192754309,,,,25,30,1,,7,,1,3,1,1.55078870321,23,How to avoid mistakes?, Obey laws.,6
+2014,51,R,,,,,3.6810603902,,,,25,30,1,,5,,1,3,1,1.43154799519,12,Why contact a friend?, Feel connected.,3
+2014,52,R,,,,,1.0745139445,,,,25,30,1,,8,,1,3,1,1.98306798592,7,Why reduce pain?, Feel well.,3
+2014,53,L,,,,,2.15384676785,,,,25,30,1,,6,,1,3,1,1.60320932694,38,Why use a comb?, Write a song.,1
+2014,54,L,,,,,2.34070430111,,,,25,30,1,,2,,1,3,1,2.2545438818,40,Why follow recipes?, Prepare meals.,1
+2014,55,R,,,,,4.41846046549,,,,25,30,1,,1,,1,3,1,2.18635342057,55,How to make a purchase?, Go shopping.,5
+2014,56,R,,,,,1.82925431698,,,,25,30,1,,3,,1,3,1,1.84279023067,32,How to get a promotion?, Arrive on time.,5
+2014,57,L,,,,,1.94736229352,,,,25,30,1,,9,,1,3,1,2.8542662261,13,Why participate in class?, Show intelligence.,2
+2014,58,R,,,,,1.52719232954,,,,25,30,1,,2,,1,3,1,3.11469117744,28,Why make a phone call?, Contact a friend.,2
+2014,59,L,,,,,1.27408315487,,,,25,30,1,,4,,1,3,1,1.7354909927,24,How to write a poem?, Grab a pencil.,4
+2014,60,L,,,,,1.25511907158,,,,25,30,1,,1,,1,3,1,1.85416545487,22,How to watch television?, Use a remote.,4

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2092,1,R,,,,,1.11786907226,,,,25,30,1,,2,,1,3,3,1.2747619278,3,How to teach others?, Give a lecture.,5
+2092,2,L,,,,,0.528695000174,,,,25,30,1,,8,,1,3,3,1.08368943986,2,How to write an email?, Open a browser.,5
+2092,3,L,,,,,2.29234245112,,,,25,30,1,,1,,1,3,3,0.653673734016,1,Why point a camera?, Take a picture.,1
+2092,4,R,,,,,4.85286642796,,,,25,30,1,,9,,1,3,3,1.11664830187,0,Why click a mouse?, Open a browser.,1

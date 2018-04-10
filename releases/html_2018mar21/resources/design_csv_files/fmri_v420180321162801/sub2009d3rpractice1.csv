@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2009,1,R,,,,,0.860490753918,,,,,27,1,,5,90,0,3,3,0.534745180492,0,Why point a camera?, Take a picture.,1
+2009,2,R,,,,,4.80215845203,,,,,35,1,,5,90,0,3,3,1.4494275005,2,Why use a comb?, Write a song.,1
+2009,3,L,,,,,0.908465898538,,,,,24,1,,5,90,0,3,3,0.827272092164,1,Why paint a picture?, Make art.,2
+2009,4,L,,,,,1.69358145964,,,,,30,1,,5,90,0,3,3,0.580930752106,3,Why write a song?, Seek advice.,2

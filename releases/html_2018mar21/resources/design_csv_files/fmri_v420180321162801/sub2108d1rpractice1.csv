@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2108,1,R,,,,,0.535388356016,,,,25,30,1,,5,,1,1,3,1.0579371085,4,Why get a promotion?, Achieve success.,3
+2108,2,L,,,,,2.31547416413,,,,25,30,1,,6,,1,1,3,0.592502801354,1,Why plan ahead?, Reduce worry.,3
+2108,3,L,,,,,0.688585539496,,,,25,30,1,,3,,1,1,3,2.38158300754,9,How to attend a school?, Enter a classroom.,5
+2108,4,R,,,,,0.804542834304,,,,25,30,1,,8,,1,1,3,0.66064084867,8,How to reduce pain?, Consume medicine.,5
+2108,5,R,,,,,0.891157879954,,,,25,30,1,,7,,1,1,3,1.30582748863,10,Why give applause?, Show appreciation.,2
+2108,6,L,,,,,2.1465202422,,,,25,30,1,,4,,1,1,3,0.808345532654,6,Why make a list?, Plan ahead.,2
+2108,7,L,,,,,3.91134724093,,,,25,30,1,,1,,1,1,3,1.04547590159,0,How to show intellect?, Share ideas.,6
+2108,8,L,,,,,2.14406990218,,,,25,30,1,,9,,1,1,3,0.651730655528,5,How to feel productive?, Finish a job.,6
+2108,9,L,,,,,3.69756317006,,,,25,30,1,,4,,1,1,3,0.567017254109,2,How to write a song?, Play piano.,4
+2108,10,R,,,,,1.85602243401,,,,25,30,1,,3,,1,1,3,0.925149826552,3,How to read articles?, Open a magazine.,4
+2108,11,R,,,,,3.62126566139,,,,25,30,1,,8,,1,1,3,1.17406297147,7,Why take aspirin?, Serve alcohol.,1
+2108,12,R,,,,,0.604820003776,,,,25,30,1,,7,,1,1,3,0.716311108441,11,Why sign ones name?, Write a check.,1

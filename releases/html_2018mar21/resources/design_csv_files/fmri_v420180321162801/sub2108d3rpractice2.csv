@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2108,1,R,,,,,0.831062388751,,,,,29,1,,5,90,0,3,4,0.736279808271,3,Why use a remote?, Watch television.,1
+2108,2,R,,,,,0.670143961127,,,,,22,1,,5,90,0,3,4,1.37849244877,1,Why drink coffee?, Consume caffeine.,1
+2108,3,L,,,,,4.28964017173,,,,,31,1,,5,90,0,3,4,0.820068830291,0,Why enter a classroom?, Attend a school.,2
+2108,4,L,,,,,3.1590519765,,,,,37,1,,5,90,0,3,4,1.79890024364,2,Why make a list?, Plan ahead.,2

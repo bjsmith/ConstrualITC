@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2196,1,R,,,,,1.20919538286,,,,25,30,1,,2,,1,1,3,0.793915670157,8,How to feel productive?, Finish a job.,6
+2196,2,L,,,,,1.91943768455,,,,25,30,1,,3,,1,1,3,0.64535346415,5,How to satisfy a need?, Make a purchase.,6
+2196,3,L,,,,,2.69393758373,,,,25,30,1,,1,,1,1,3,2.31230070503,2,How to write a check?, Sign ones name.,4
+2196,4,L,,,,,1.13543166939,,,,25,30,1,,8,,1,1,3,1.14838240267,4,How to take a picture?, Point a camera.,4
+2196,5,R,,,,,2.21899003376,,,,25,30,1,,7,,1,1,3,0.840056998387,1,How to make a purchase?, Go shopping.,5
+2196,6,L,,,,,0.55553369789,,,,25,30,1,,4,,1,1,3,0.743460159348,10,How to give to charity?, Use a camera.,5
+2196,7,R,,,,,2.76487923618,,,,25,30,1,,6,,1,1,3,0.767079727081,7,Why keep a memory?, Feel nostalgia.,3
+2196,8,R,,,,,1.29668764687,,,,25,30,1,,5,,1,1,3,0.90568312881,3,Why entertain others?, Express a talent.,3
+2196,9,L,,,,,2.34490272387,,,,25,30,1,,8,,1,1,3,0.970816192145,6,Why kill germs?, Avoid diseases.,2
+2196,10,R,,,,,1.44142826321,,,,25,30,1,,2,,1,1,3,0.765537312915,11,Why make breakfast?, Satisfy hunger.,2
+2196,11,R,,,,,4.53230279755,,,,25,30,1,,4,,1,1,3,2.03162831219,0,Why point a camera?, Take a picture.,1
+2196,12,L,,,,,1.01475418263,,,,25,30,1,,1,,1,1,3,0.781902898256,9,Why wash ones hands?, Kill germs.,1

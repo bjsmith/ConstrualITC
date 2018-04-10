@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2133,1,L,,,,,1.2831261126,,,,,23,1,,5,90,0,2,3,1.48744862872,1,Why show intelligence?, Impress others.,3
+2133,2,R,,,,,1.19009451688,,,,,28,1,,5,90,0,2,3,0.660721242497,3,Why gain knowledge?, Improve oneself.,3
+2133,3,R,,,,,2.99367949159,,,,,36,1,,5,90,0,2,3,0.524499580779,0,Why write a song?, Seek advice.,2
+2133,4,L,,,,,2.56537211271,,,,,31,1,,5,90,0,2,3,1.2330777568,2,Why give applause?, Show appreciation.,2

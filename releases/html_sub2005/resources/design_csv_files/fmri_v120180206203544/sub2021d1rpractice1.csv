@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,1,,,,,2.80232030149,,,,,20,1,,5,90,0,1,3,1.05563971192,0,How to read articles?, Open a magazine.,4
+2021,2,2,,,,,1.65714523999,,,,,32,1,,5,90,0,1,3,0.634781960561,0,Why drink wine?, Consume alcohol.,2
+2021,3,1,,,,,0.679612618226,,,,,37,1,,5,90,0,1,3,0.58768840283,0,How to give to charity?, Use a camera.,5
+2021,4,2,,,,,1.05671221095,,,,,22,1,,5,90,0,1,3,2.14025753738,1,How to show intellect?, Share ideas.,6
+2021,5,2,,,,,0.983345867682,,,,,40,1,,5,90,0,1,3,1.1986973046,0,Why use a brush?, Paint a picture.,1
+2021,6,2,,,,,1.67928471672,,,,,36,1,,5,90,0,1,3,1.7173675178,0,Why show courtesy?, Make a friend.,3
+2021,7,2,,,,,2.66822642058,,,,,27,1,,5,90,0,1,3,0.685358978554,0,How to feel secure?, Save money.,6
+2021,8,1,,,,,1.64912295483,,,,,23,1,,5,90,0,1,3,0.570814652095,0,Why consume caffeine?, Stay alert.,2
+2021,9,1,,,,,1.00007490596,,,,,33,1,,5,90,0,1,3,1.24156659365,0,Why contact a friend?, Feel connected.,3
+2021,10,1,,,,,1.46397384049,,,,,39,1,,5,90,0,1,3,0.901677758508,0,How to plan ahead?, Make a list.,5
+2021,11,2,,,,,5.56145937546,,,,,31,1,,5,90,0,1,3,0.96518639515,0,How to make a phone call?, Dial numbers.,4
+2021,12,1,,,,,3.63664599119,,,,,21,1,,5,90,0,1,3,0.620505696796,0,Why raise a hand?, Participate in class.,1

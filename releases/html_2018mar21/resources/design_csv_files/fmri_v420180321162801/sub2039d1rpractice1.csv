@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2039,1,R,,,,,0.799139069595,,,,,30,1,,5,90,0,1,3,0.866271692833,4,Why drink coffee?, Consume caffeine.,1
+2039,2,R,,,,,0.556986476879,,,,,24,1,,5,90,0,1,3,1.29336543863,2,Why use chalk?, Get fit.,1
+2039,3,R,,,,,1.40791168607,,,,,23,1,,5,90,0,1,3,0.611342131184,8,How to show creativity?, Make art.,6
+2039,4,R,,,,,0.879595952098,,,,,20,1,,5,90,0,1,3,0.934272397801,0,How to avoid boredom?, Entertain oneself.,6
+2039,5,L,,,,,2.99719746174,,,,,40,1,,5,90,0,1,3,1.12614827386,7,How to take a picture?, Point a camera.,4
+2039,6,L,,,,,1.23718311886,,,,,34,1,,5,90,0,1,3,0.84463644252,6,How to write a check?, Sign ones name.,4
+2039,7,R,,,,,3.66392536666,,,,,21,1,,5,90,0,1,3,0.566201819307,3,Why teach a class?, Obey laws.,2
+2039,8,R,,,,,2.02228642414,,,,,32,1,,5,90,0,1,3,0.892932581288,1,Why read articles?, Gain knowledge.,2
+2039,9,L,,,,,2.96509893818,,,,,33,1,,5,90,0,1,3,0.946424499526,11,Why save money?, Get fit.,3
+2039,10,L,,,,,3.45803569138,,,,,36,1,,5,90,0,1,3,0.854623428323,5,Why reduce pain?, Feel well.,3
+2039,11,L,,,,,1.34881911005,,,,,28,1,,5,90,0,1,3,0.664680295608,9,How to reduce pain?, Consume medicine.,5
+2039,12,L,,,,,2.33056426206,,,,,26,1,,5,90,0,1,3,1.94868650257,10,How to consume alcohol?, Drink wine.,5

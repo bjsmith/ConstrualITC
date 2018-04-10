@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2150,1,L,,,,,0.987197804087,,,,,35,1,,5,90,0,1,4,0.693072740536,3,How to gain knowledge?, Read articles.,5
+2150,2,R,,,,,2.62411305117,,,,,37,1,,5,90,0,1,4,0.545965895372,2,How to provide food?, Prepare meals.,5
+2150,3,L,,,,,4.88505578214,,,,,32,1,,5,90,0,1,4,1.28396524846,5,Why use a remote?, Watch television.,1
+2150,4,R,,,,,0.867120977472,,,,,23,1,,5,90,0,1,4,1.36721197561,0,Why raise a hand?, Participate in class.,1
+2150,5,R,,,,,1.69321616046,,,,,40,1,,5,90,0,1,4,1.17377499237,10,Why write an email?, Send a message.,3
+2150,6,L,,,,,2.59530898134,,,,,20,1,,5,90,0,1,4,1.72923451404,9,Why finish a job?, Feel productive.,3
+2150,7,R,,,,,2.92573352036,,,,,25,1,,5,90,0,1,4,1.98364784698,6,Why write a song?, Seek advice.,2
+2150,8,R,,,,,0.932873705659,,,,,36,1,,5,90,0,1,4,1.08675336674,7,Why enter a classroom?, Attend a school.,2
+2150,9,L,,,,,1.99155491379,,,,,22,1,,5,90,0,1,4,0.56155738818,4,How to give a lecture?, Brush ones hair.,4
+2150,10,L,,,,,0.809570531581,,,,,21,1,,5,90,0,1,4,0.518566436588,1,How to take a picture?, Point a camera.,4
+2150,11,L,,,,,3.07918987501,,,,,24,1,,5,90,0,1,4,0.532877364295,11,How to show intellect?, Share ideas.,6
+2150,12,R,,,,,1.24323001582,,,,,28,1,,5,90,0,1,4,1.3049345761,8,How to feel sociable?, Hold a party.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2196,1,R,,,,,2.13716836424,,,,,20,1,,5,90,0,1,4,0.687309797556,7,How to avoid boredom?, Entertain oneself.,6
+2196,2,R,,,,,1.03245374728,,,,,23,1,,5,90,0,1,4,0.621148359411,5,How to improve oneself?, Gain knowledge.,6
+2196,3,R,,,,,1.26551111644,,,,,36,1,,5,90,0,1,4,0.914588767855,11,How to entertain oneself?, Watch television.,5
+2196,4,L,,,,,2.1071212931,,,,,32,1,,5,90,0,1,4,0.655249950588,3,How to gain knowledge?, Read articles.,5
+2196,5,R,,,,,0.995023601358,,,,,28,1,,5,90,0,1,4,1.52005932269,6,Why teach a class?, Obey laws.,2
+2196,6,L,,,,,3.98095262093,,,,,25,1,,5,90,0,1,4,2.23175833761,8,Why watch television?, Show competence.,2
+2196,7,L,,,,,3.19267304295,,,,,40,1,,5,90,0,1,4,0.822584919881,9,Why use chalk?, Get fit.,1
+2196,8,L,,,,,0.952787371983,,,,,37,1,,5,90,0,1,4,0.695407277525,4,Why dial numbers?, Make a phone call.,1
+2196,9,L,,,,,1.88454531123,,,,,24,1,,5,90,0,1,4,1.10764891973,2,How to dress formally?, Wear ties. ,4
+2196,10,R,,,,,0.751969726248,,,,,31,1,,5,90,0,1,4,1.07461438311,10,How to read articles?, Open a magazine.,4
+2196,11,R,,,,,2.98679071762,,,,,21,1,,5,90,0,1,4,0.967984762466,1,Why contact a friend?, Feel connected.,3
+2196,12,L,,,,,2.10705074775,,,,,35,1,,5,90,0,1,4,0.503743992167,0,Why build muscles?, Show humility.,3

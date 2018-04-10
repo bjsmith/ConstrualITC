@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,R,,,,,1.04519390376,,,,25,30,1,,8,,1,3,1,1.93926094262,17,How to provide food?, Prepare meals.,5
+2018,2,R,,,,,2.23646708058,,,,25,30,1,,6,,1,3,1,1.60165344299,29,How to attend a school?, Enter a classroom.,5
+2018,3,R,,,,,2.10919074498,,,,25,30,1,,4,,1,3,1,1.95092303319,13,How to consume caffeine?, Press buttons.,4
+2018,4,L,,,,,1.80260285826,,,,25,30,1,,1,,1,3,1,1.05793600587,5,How to give applause?, Clap hands.,4
+2018,5,L,,,,,3.63039960378,,,,25,30,1,,3,,1,3,1,1.46195446487,46,How to express a talent?, Entertain others.,6
+2018,6,R,,,,,2.60004897121,,,,25,30,1,,9,,1,3,1,1.2751444145,45,How to feel connected?, Contact a friend.,6
+2018,7,R,,,,,1.07360697659,,,,25,30,1,,7,,1,3,1,1.79191444742,48,Why use a camera?, Give to charity.,2
+2018,8,R,,,,,1.6272047641,,,,25,30,1,,5,,1,3,1,2.77336642036,25,Why make a list?, Plan ahead.,2
+2018,9,R,,,,,2.03021800873,,,,25,30,1,,9,,1,3,1,2.05261207395,31,Why make a purchase?, Satisfy a need.,3
+2018,10,L,,,,,1.76266064655,,,,25,30,1,,7,,1,3,1,1.25873101257,34,Why show intelligence?, Impress others.,3
+2018,11,R,,,,,1.50530321747,,,,25,30,1,,1,,1,3,1,1.38690285679,26,Why wear ties?, Dress formally.,1
+2018,12,L,,,,,1.39006036909,,,,25,30,1,,3,,1,3,1,1.38581353134,19,Why dial numbers?, Make a phone call.,1
+2018,13,R,,,,,6.77339882132,,,,25,30,1,,8,,1,3,1,1.07698661359,47,Why sign ones name?, Write a check.,1
+2018,14,L,,,,,1.22696381699,,,,25,30,1,,4,,1,3,1,1.79774816972,16,Why lift a glass?, Drink wine.,1
+2018,15,L,,,,,2.98638473541,,,,25,30,1,,6,,1,3,1,3.90256425978,10,Why write a poem?, Express an idea.,2
+2018,16,L,,,,,1.90378675995,,,,25,30,1,,2,,1,3,1,1.84867626083,33,Why write a song?, Seek advice.,2
+2018,17,L,,,,,1.22651657234,,,,25,30,1,,1,,1,3,1,1.9004892552,7,How to impress others?, Show intelligence.,6
+2018,18,L,,,,,2.1247554598,,,,25,30,1,,6,,1,3,1,1.57546087686,22,How to show creativity?, Make art.,6
+2018,19,L,,,,,1.39688712251,,,,25,30,1,,4,,1,3,1,1.8847619006,4,Why contact a friend?, Feel connected.,3
+2018,20,R,,,,,1.97380538875,,,,25,30,1,,9,,1,3,1,2.92215779898,2,Why reduce pain?, Feel well.,3
+2018,21,R,,,,,1.0918575563,,,,25,30,1,,2,,1,3,1,2.60381752406,43,How to make a list?, Throw away trash.,4
+2018,22,L,,,,,1.07295680051,,,,25,30,1,,5,,1,3,1,4.57152392079,15,How to write a song?, Play piano.,4
+2018,23,L,,,,,1.13800109931,,,,25,30,1,,7,,1,3,1,2.06883338755,27,How to consume alcohol?, Drink wine.,5
+2018,24,R,,,,,1.71190607714,,,,25,30,1,,8,,1,3,1,1.73333043927,59,How to give to charity?, Use a camera.,5
+2018,25,L,,,,,1.28634743519,,,,25,30,1,,8,,1,3,1,1.29190726286,51,How to satisfy hunger?, Make breakfast.,5
+2018,26,L,,,,,2.82833851116,,,,25,30,1,,9,,1,3,1,1.91568118226,1,How to contact a friend?, Make a phone call.,5
+2018,27,R,,,,,1.69283874564,,,,25,30,1,,7,,1,3,1,2.13878746473,20,Why enter a classroom?, Attend a school.,2
+2018,28,L,,,,,4.18317379957,,,,25,30,1,,1,,1,3,1,2.5556346227,28,Why lift weights?, Build muscles.,2
+2018,29,R,,,,,1.37333466144,,,,25,30,1,,6,,1,3,1,2.53225656749,24,Why use a comb?, Write a song.,1
+2018,30,R,,,,,1.51010429579,,,,25,30,1,,5,,1,3,1,1.39485431545,11,Why click a mouse?, Open a browser.,1
+2018,31,R,,,,,1.55079385381,,,,25,30,1,,2,,1,3,1,1.1907197598,37,How to live a long life?, Avoid diseases.,6
+2018,32,L,,,,,2.68068609615,,,,25,30,1,,3,,1,3,1,2.5894831066,53,How to feel well?, Reduce pain.,6
+2018,33,R,,,,,2.70094425621,,,,25,30,1,,3,,1,3,1,1.79519787739,41,How to write a check?, Sign ones name.,4
+2018,34,L,,,,,1.44064636992,,,,25,30,1,,1,,1,3,1,2.57329261273,9,How to prepare meals?, Follow recipes.,4
+2018,35,R,,,,,1.57167633885,,,,25,30,1,,4,,1,3,1,1.70366008194,18,Why give to charity?, Support a cause.,3
+2018,36,L,,,,,1.69636212024,,,,25,30,1,,7,,1,3,1,2.22308834663,44,Why get a promotion?, Achieve success.,3
+2018,37,L,,,,,1.24754276823,,,,25,30,1,,6,,1,3,1,3.32307117225,39,How to make breakfast?, Crack eggs.,4
+2018,38,L,,,,,3.37482159898,,,,25,30,1,,2,,1,3,1,2.09379618225,49,How to participate in class?, Raise a hand.,4
+2018,39,R,,,,,1.15543587819,,,,25,30,1,,5,,1,3,1,1.66579228622,3,Why throw away trash?, Make a list.,1
+2018,40,R,,,,,3.93320284459,,,,25,30,1,,9,,1,3,1,2.46936902943,35,Why use a brush?, Paint a picture.,1
+2018,41,L,,,,,1.55468713692,,,,25,30,1,,5,,1,3,1,1.03596814274,14,How to reduce worry?, Plan ahead.,6
+2018,42,R,,,,,1.38489007416,,,,25,30,1,,3,,1,3,1,1.92417272019,50,How to improve oneself?, Gain knowledge.,6
+2018,43,R,,,,,1.03587782113,,,,25,30,1,,6,,1,3,1,1.8999489331,55,How to show ambition?, Serve alcohol.,5
+2018,44,R,,,,,3.21884660709,,,,25,30,1,,2,,1,3,1,2.07350552837,0,How to entertain oneself?, Watch television.,5
+2018,45,L,,,,,1.92455690621,,,,25,30,1,,1,,1,3,1,1.95112548955,30,Why avoid diseases?, Live a long life.,3
+2018,46,L,,,,,1.45584928153,,,,25,30,1,,4,,1,3,1,2.07501093905,8,Why write an email?, Send a message.,3
+2018,47,L,,,,,1.63675148477,,,,25,30,1,,7,,1,3,1,2.01629491213,57,Why dress formally?, Get a promotion.,2
+2018,48,R,,,,,2.11178004031,,,,25,30,1,,8,,1,3,1,1.42643201072,56,Why kill germs?, Avoid diseases.,2
+2018,49,R,,,,,1.47302840637,,,,25,30,1,,1,,1,3,1,1.36757505477,23,How to build muscles?, Lift weights.,5
+2018,50,R,,,,,2.0552262675,,,,25,30,1,,7,,1,3,1,2.86552359378,40,How to get a promotion?, Arrive on time.,5
+2018,51,L,,,,,2.74108538842,,,,25,30,1,,9,,1,3,1,1.61299182479,42,Why crack eggs?, Make breakfast.,1
+2018,52,R,,,,,2.37857052277,,,,25,30,1,,8,,1,3,1,2.12437932854,12,Why turn a doorknob?, Enter a classroom.,1
+2018,53,L,,,,,1.92105415123,,,,25,30,1,,4,,1,3,1,1.07972245004,32,How to show an ability?, Satisfy hunger.,6
+2018,54,L,,,,,1.78520807681,,,,25,30,1,,5,,1,3,1,2.66370922445,52,How to feel productive?, Finish a job.,6
+2018,55,R,,,,,2.78246794628,,,,25,30,1,,2,,1,3,1,2.44193266274,21,How to write a poem?, Grab a pencil.,4
+2018,56,L,,,,,1.83474606378,,,,25,30,1,,6,,1,3,1,1.73484171598,6,How to drink wine?, Open a bottle. ,4
+2018,57,L,,,,,1.97389918621,,,,25,30,1,,3,,1,3,1,1.00369293774,58,Why open a browser?, Write an email.,2
+2018,58,R,,,,,1.16085086708,,,,25,30,1,,2,,1,3,1,1.47326513079,36,Why make breakfast?, Satisfy hunger.,2
+2018,59,L,,,,,2.23005110054,,,,25,30,1,,7,,1,3,1,2.19899950587,38,Why keep a memory?, Feel nostalgia.,3
+2018,60,R,,,,,2.57091746465,,,,25,30,1,,9,,1,3,1,3.20327073335,54,Why show courtesy?, Make a friend.,3

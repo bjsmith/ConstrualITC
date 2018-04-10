@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2145,1,R,,,,,0.892671173051,,,,,32,1,,5,90,0,1,3,0.749802341231,4,How to show an ability?, Satisfy hunger.,6
+2145,2,L,,,,,1.41214301322,,,,,36,1,,5,90,0,1,3,1.43870980498,0,How to show creativity?, Make art.,6
+2145,3,R,,,,,1.47777847231,,,,,37,1,,5,90,0,1,3,1.27321092415,5,How to consume medicine?, Take pills. ,4
+2145,4,L,,,,,0.778996524688,,,,,21,1,,5,90,0,1,3,1.19920764175,8,How to take a picture?, Point a camera.,4
+2145,5,L,,,,,3.37598213764,,,,,27,1,,5,90,0,1,3,1.50325683069,6,Why kill germs?, Avoid diseases.,2
+2145,6,R,,,,,2.61249629242,,,,,34,1,,5,90,0,1,3,0.891372789079,10,Why consume medicine?, Reduce pain.,2
+2145,7,L,,,,,0.906998352612,,,,,38,1,,5,90,0,1,3,0.98803748934,7,Why use a remote?, Watch television.,1
+2145,8,R,,,,,1.29620828096,,,,,40,1,,5,90,0,1,3,0.503094498134,3,Why sign ones name?, Write a check.,1
+2145,9,L,,,,,4.41235237001,,,,,28,1,,5,90,0,1,3,0.645238276172,9,How to attend a school?, Enter a classroom.,5
+2145,10,R,,,,,0.611149807238,,,,,24,1,,5,90,0,1,3,1.6525532879,11,How to write an email?, Open a browser.,5
+2145,11,R,,,,,1.52001342773,,,,,20,1,,5,90,0,1,3,0.714413658127,2,Why give to charity?, Support a cause.,3
+2145,12,L,,,,,4.50807178038,,,,,30,1,,5,90,0,1,3,1.27031534107,1,Why finish a job?, Feel productive.,3

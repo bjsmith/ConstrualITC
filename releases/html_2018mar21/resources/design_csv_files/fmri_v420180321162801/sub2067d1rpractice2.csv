@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2067,1,R,,,,,0.935523898431,,,,25,30,1,,2,,1,1,4,0.555382847539,4,How to consume medicine?, Take pills. ,4
+2067,2,L,,,,,1.08601587641,,,,25,30,1,,5,,1,1,4,1.63864184349,5,How to write a song?, Play piano.,4
+2067,3,R,,,,,1.08746129374,,,,25,30,1,,1,,1,1,4,0.838213961697,9,How to give to charity?, Use a camera.,5
+2067,4,L,,,,,3.53727865674,,,,25,30,1,,3,,1,1,4,0.557180661028,8,How to make art?, Paint a picture.,5
+2067,5,R,,,,,2.29295655956,,,,25,30,1,,6,,1,1,4,1.04799018929,3,Why give applause?, Show appreciation.,2
+2067,6,R,,,,,2.17209791648,,,,25,30,1,,7,,1,1,4,1.12467847402,7,Why open a browser?, Write an email.,2
+2067,7,L,,,,,5.02607869816,,,,25,30,1,,9,,1,1,4,1.7301045461,6,Why lift a glass?, Drink wine.,1
+2067,8,L,,,,,2.49274856038,,,,25,30,1,,4,,1,1,4,1.48633082808,2,Why sign ones name?, Write a check.,1
+2067,9,L,,,,,1.10935543602,,,,25,30,1,,4,,1,1,4,1.02793081878,10,Why give to charity?, Support a cause.,3
+2067,10,R,,,,,1.059407472,,,,25,30,1,,7,,1,1,4,0.804927985477,11,Why share ideas?, Show intellect.,3
+2067,11,L,,,,,2.6374531951,,,,25,30,1,,9,,1,1,4,0.876762042182,1,How to show cleanliness?, Write an email.,6
+2067,12,R,,,,,0.83590528388,,,,25,30,1,,5,,1,1,4,1.05679323267,0,How to feel connected?, Contact a friend.,6

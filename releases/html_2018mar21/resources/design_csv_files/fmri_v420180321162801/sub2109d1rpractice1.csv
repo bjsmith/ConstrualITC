@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2109,1,L,,,,,3.01684754444,,,,,33,1,,5,90,0,1,3,0.793483699097,11,Why use a camera?, Give to charity.,2
+2109,2,R,,,,,2.70160643396,,,,,37,1,,5,90,0,1,3,1.15811485531,5,Why consume caffeine?, Stay alert.,2
+2109,3,R,,,,,3.08445945789,,,,,27,1,,5,90,0,1,3,1.14345403953,7,How to reduce pain?, Consume medicine.,5
+2109,4,L,,,,,2.03107725687,,,,,31,1,,5,90,0,1,3,1.93025580745,8,How to contact a friend?, Make a phone call.,5
+2109,5,R,,,,,1.35917877493,,,,,34,1,,5,90,0,1,3,0.650126002534,2,Why give to charity?, Support a cause.,3
+2109,6,R,,,,,1.96371492845,,,,,38,1,,5,90,0,1,3,0.516762513315,6,Why reduce pain?, Feel well.,3
+2109,7,R,,,,,0.812343562952,,,,,39,1,,5,90,0,1,3,1.49891265996,9,Why raise a hand?, Participate in class.,1
+2109,8,L,,,,,1.02260996125,,,,,20,1,,5,90,0,1,3,0.772400827716,4,Why stir ingredients?, Mix a cocktail.,1
+2109,9,L,,,,,2.55010415904,,,,,26,1,,5,90,0,1,3,0.667334829017,1,How to get a degree?, Attend a school.,6
+2109,10,L,,,,,2.39816014387,,,,,29,1,,5,90,0,1,3,1.00980613347,10,How to support a cause?, Give to charity.,6
+2109,11,R,,,,,1.42465217146,,,,,24,1,,5,90,0,1,3,0.860823221909,0,How to lift weights?, Fasten seatbelt.,4
+2109,12,L,,,,,1.95333121223,,,,,28,1,,5,90,0,1,3,1.30159494338,3,How to watch television?, Use a remote.,4

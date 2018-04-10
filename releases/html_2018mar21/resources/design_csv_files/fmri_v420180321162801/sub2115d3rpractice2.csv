@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2115,1,R,,,,,0.928887389685,,,,25,30,1,,4,,1,3,4,1.62482939443,2,How to watch television?, Use a remote.,4
+2115,2,L,,,,,2.47593935452,,,,25,30,1,,9,,1,3,4,1.63597980088,0,How to make a list?, Throw away trash.,4
+2115,3,R,,,,,1.99359005317,,,,25,30,1,,2,,1,3,4,0.839105762024,3,How to avoid boredom?, Entertain oneself.,6
+2115,4,L,,,,,2.70648881376,,,,25,30,1,,3,,1,3,4,0.811487234417,1,How to impress others?, Show intelligence.,6

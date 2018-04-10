@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2008,1,R,,,,,1.0342778353,,,,25,30,1,,1,,1,1,1,1.1361871986,22,How to satisfy hunger?, Make breakfast.,5
+2008,2,L,,,,,1.39573681321,,,,25,30,1,,3,,1,1,1,2.83329583031,49,How to consume alcohol?, Drink wine.,5
+2008,3,R,,,,,3.42196941353,,,,25,30,1,,4,,1,1,1,2.58261444254,45,Why go shopping?, Make a purchase.,2
+2008,4,L,,,,,1.08384584426,,,,25,30,1,,7,,1,1,1,1.04127103431,18,Why consume medicine?, Reduce pain.,2
+2008,5,R,,,,,1.55045499959,,,,25,30,1,,6,,1,1,1,1.13601407878,4,How to achieve success?, Get a promotion.,6
+2008,6,L,,,,,3.512606059,,,,25,30,1,,5,,1,1,1,1.72152817144,36,How to feel well?, Reduce pain.,6
+2008,7,R,,,,,1.05292316049,,,,25,30,1,,8,,1,1,1,1.72689573038,33,Why contact a friend?, Feel connected.,3
+2008,8,R,,,,,1.08341044242,,,,25,30,1,,2,,1,1,1,4.15488372492,30,Why save money?, Get fit.,3
+2008,9,L,,,,,4.5097374859,,,,25,30,1,,1,,1,1,1,2.14836098011,5,Why use chalk?, Get fit.,1
+2008,10,R,,,,,3.62062043537,,,,25,30,1,,4,,1,1,1,1.8618851808,46,Why use a brush?, Paint a picture.,1
+2008,11,R,,,,,1.43011664075,,,,25,30,1,,6,,1,1,1,1.38589901,21,How to go shopping?, Use credit cards.,4
+2008,12,L,,,,,1.25819343998,,,,25,30,1,,2,,1,1,1,1.55675089623,15,How to make breakfast?, Crack eggs.,4
+2008,13,L,,,,,3.22804526662,,,,25,30,1,,3,,1,1,1,3.00053540913,3,Why lift a glass?, Drink wine.,1
+2008,14,L,,,,,2.00730382894,,,,25,30,1,,5,,1,1,1,1.51138548578,9,Why wash ones hands?, Kill germs.,1
+2008,15,R,,,,,1.27239423058,,,,25,30,1,,9,,1,1,1,3.78093820635,35,How to take a picture?, Point a camera.,4
+2008,16,L,,,,,2.07468607187,,,,25,30,1,,8,,1,1,1,1.85717480204,16,How to give a lecture?, Brush ones hair.,4
+2008,17,L,,,,,1.12166568786,,,,25,30,1,,5,,1,1,1,3.87389208617,7,How to show intellect?, Share ideas.,6
+2008,18,R,,,,,3.31170042239,,,,25,30,1,,6,,1,1,1,1.09548772915,42,How to show creativity?, Make art.,6
+2008,19,L,,,,,1.10546935909,,,,25,30,1,,3,,1,1,1,1.01873292277,57,Why show courtesy?, Make a friend.,3
+2008,20,L,,,,,3.64329493127,,,,25,30,1,,4,,1,1,1,1.87055230084,38,Why provide food?, Help a person.,3
+2008,21,R,,,,,1.06606062151,,,,25,30,1,,2,,1,1,1,1.47334517652,53,How to gain knowledge?, Read articles.,5
+2008,22,L,,,,,1.52294839328,,,,25,30,1,,9,,1,1,1,1.49140876934,34,How to teach others?, Give a lecture.,5
+2008,23,R,,,,,1.21209606589,,,,25,30,1,,1,,1,1,1,1.29917084127,51,Why participate in class?, Show intelligence.,2
+2008,24,R,,,,,1.17015229098,,,,25,30,1,,8,,1,1,1,1.5122101172,41,Why read articles?, Gain knowledge.,2
+2008,25,R,,,,,1.91494459027,,,,25,30,1,,8,,1,1,1,2.44421757596,39,Why satisfy hunger?, Show an ability.,3
+2008,26,L,,,,,3.08524301031,,,,25,30,1,,1,,1,1,1,1.52348617386,47,Why build muscles?, Show humility.,3
+2008,27,L,,,,,2.12786520382,,,,25,30,1,,3,,1,1,1,4.04721418307,48,How to feel nostalgia?, Keep a memory.,6
+2008,28,R,,,,,1.19908330719,,,,25,30,1,,5,,1,1,1,1.23883998749,26,How to feel sociable?, Hold a party.,6
+2008,29,R,,,,,1.97750975723,,,,25,30,1,,2,,1,1,1,1.60935820518,59,Why dress formally?, Get a promotion.,2
+2008,30,L,,,,,1.77988062817,,,,25,30,1,,6,,1,1,1,2.26689636583,29,Why open a browser?, Write an email.,2
+2008,31,L,,,,,1.43747554151,,,,25,30,1,,4,,1,1,1,1.00470885125,58,How to express doubt?, Use scissors.,5
+2008,32,R,,,,,1.75743511938,,,,25,30,1,,9,,1,1,1,2.00344806332,6,How to attend a school?, Enter a classroom.,5
+2008,33,R,,,,,1.24462131409,,,,25,30,1,,3,,1,1,1,1.4735062248,24,Why stir ingredients?, Mix a cocktail.,1
+2008,34,R,,,,,2.34799518859,,,,25,30,1,,8,,1,1,1,1.96769556129,55,Why turn a doorknob?, Enter a classroom.,1
+2008,35,L,,,,,1.69373511264,,,,25,30,1,,6,,1,1,1,2.59136125052,31,How to make a phone call?, Dial numbers.,4
+2008,36,L,,,,,3.38818380888,,,,25,30,1,,5,,1,1,1,2.93221026568,56,How to open a browser?, Click a mouse.,4
+2008,37,L,,,,,3.25810476522,,,,25,30,1,,4,,1,1,1,1.04045310287,44,Why raise a hand?, Participate in class.,1
+2008,38,R,,,,,1.94327869178,,,,25,30,1,,1,,1,1,1,1.55546805351,20,Why take aspirin?, Serve alcohol.,1
+2008,39,R,,,,,2.59076686798,,,,25,30,1,,7,,1,1,1,1.2897981601,13,Why show intelligence?, Impress others.,3
+2008,40,R,,,,,1.61583565811,,,,25,30,1,,9,,1,1,1,1.54054511645,25,Why share ideas?, Show intellect.,3
+2008,41,L,,,,,2.32594277474,,,,25,30,1,,5,,1,1,1,4.41887321036,10,Why consume caffeine?, Stay alert.,2
+2008,42,L,,,,,1.06480123768,,,,25,30,1,,4,,1,1,1,1.00571487826,2,Why make a list?, Plan ahead.,2
+2008,43,L,,,,,2.37275435211,,,,25,30,1,,2,,1,1,1,3.0088979655,14,How to express a talent?, Entertain others.,6
+2008,44,L,,,,,1.15286170266,,,,25,30,1,,9,,1,1,1,2.5793667611,11,How to avoid boredom?, Entertain oneself.,6
+2008,45,R,,,,,1.36979033217,,,,25,30,1,,6,,1,1,1,2.20776078193,40,How to consume medicine?, Take pills. ,4
+2008,46,L,,,,,2.55652332731,,,,25,30,1,,7,,1,1,1,1.47566527323,12,How to drink wine?, Open a bottle. ,4
+2008,47,R,,,,,1.06342533891,,,,25,30,1,,8,,1,1,1,2.31907780165,17,How to give to charity?, Use a camera.,5
+2008,48,R,,,,,3.67069654977,,,,25,30,1,,3,,1,1,1,1.3560625743,32,How to show intelligence?, Participate in class.,5
+2008,49,L,,,,,2.99738189229,,,,25,30,1,,1,,1,1,1,1.8298523399,23,How to feel secure?, Save money.,6
+2008,50,R,,,,,1.34181381341,,,,25,30,1,,8,,1,1,1,2.16122146854,52,How to live a long life?, Avoid diseases.,6
+2008,51,R,,,,,2.33773895791,,,,25,30,1,,3,,1,1,1,2.10952224498,43,Why dial numbers?, Make a phone call.,1
+2008,52,L,,,,,2.18777433657,,,,25,30,1,,6,,1,1,1,1.4059984286,27,Why open a bottle?, Consume medicine.,1
+2008,53,R,,,,,1.43540177563,,,,25,30,1,,9,,1,1,1,3.14932633878,19,How to clip coupons?, Cut paper.,4
+2008,54,L,,,,,1.83038914334,,,,25,30,1,,7,,1,1,1,2.28405173524,50,How to read articles?, Open a magazine.,4
+2008,55,R,,,,,1.83868457765,,,,25,30,1,,2,,1,1,1,2.0592767553,28,How to write an email?, Open a browser.,5
+2008,56,L,,,,,2.80641035125,,,,25,30,1,,4,,1,1,1,1.4230187604,54,How to entertain oneself?, Watch television.,5
+2008,57,L,,,,,2.47308564096,,,,25,30,1,,8,,1,1,1,1.70802035564,1,Why show appreciation?, Spread joy.,3
+2008,58,R,,,,,1.234883887,,,,25,30,1,,6,,1,1,1,1.34586233031,0,Why finish a job?, Feel productive.,3
+2008,59,R,,,,,1.94377779777,,,,25,30,1,,4,,1,1,1,2.4674885272,8,Why write a poem?, Express an idea.,2
+2008,60,L,,,,,1.42525218615,,,,25,30,1,,5,,1,1,1,1.25218225304,37,Why take a picture?, Keep a memory.,2

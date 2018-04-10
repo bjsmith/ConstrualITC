@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2054,1,R,,,,,0.766944453921,,,,25,30,1,,2,,1,3,3,0.566724918324,3,Why use a comb?, Write a song.,1
+2054,2,L,,,,,0.829871218325,,,,25,30,1,,4,,1,3,3,1.19167612264,1,Why point a camera?, Take a picture.,1
+2054,3,L,,,,,1.75565159511,,,,25,30,1,,8,,1,3,3,1.0337267359,0,Why build muscles?, Show humility.,3
+2054,4,R,,,,,4.50837432821,,,,25,30,1,,9,,1,3,3,0.679506705369,2,Why show courtesy?, Make a friend.,3

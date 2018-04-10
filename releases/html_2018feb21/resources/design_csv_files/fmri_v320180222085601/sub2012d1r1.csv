@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,R,,,,,4.20481957301,,,,25,30,1,,4,,1,1,1,1.72173806121,7,How to mix a cocktail?, Stir ingredients.,4
+2012,2,L,,,,,1.39020983709,,,,25,30,1,,8,,1,1,1,2.19135647852,48,How to make breakfast?, Crack eggs.,4
+2012,3,R,,,,,2.08488543318,,,,25,30,1,,2,,1,1,1,1.09140326744,12,How to satisfy a need?, Make a purchase.,6
+2012,4,R,,,,,1.66405709504,,,,25,30,1,,1,,1,1,1,1.43250252472,27,How to feel sociable?, Hold a party.,6
+2012,5,R,,,,,1.0289974198,,,,25,30,1,,6,,1,1,1,2.52989532898,23,Why consume medicine?, Reduce pain.,2
+2012,6,R,,,,,1.68999026749,,,,25,30,1,,9,,1,1,1,2.19171056321,41,Why watch television?, Show competence.,2
+2012,7,L,,,,,4.25432175322,,,,25,30,1,,5,,1,1,1,1.09812805374,33,Why point a camera?, Take a picture.,1
+2012,8,R,,,,,2.12497486732,,,,25,30,1,,3,,1,1,1,1.75759396013,32,Why use a brush?, Paint a picture.,1
+2012,9,R,,,,,3.8859875784,,,,25,30,1,,4,,1,1,1,3.67749123787,19,How to reduce pain?, Consume medicine.,5
+2012,10,L,,,,,1.19371689019,,,,25,30,1,,8,,1,1,1,4.65150793471,18,How to write an email?, Open a browser.,5
+2012,11,R,,,,,1.16873596301,,,,25,30,1,,3,,1,1,1,1.06817754573,14,Why provide food?, Help a person.,3
+2012,12,L,,,,,1.15808316585,,,,25,30,1,,5,,1,1,1,1.34884247667,6,Why give to charity?, Support a cause.,3
+2012,13,R,,,,,2.40904385453,,,,25,30,1,,7,,1,1,1,2.32373118242,26,Why participate in class?, Show intelligence.,2
+2012,14,R,,,,,5.58024512318,,,,25,30,1,,9,,1,1,1,1.64624957924,38,Why use a camera?, Give to charity.,2
+2012,15,L,,,,,1.65923845257,,,,25,30,1,,2,,1,1,1,2.76984529719,0,How to feel connected?, Contact a friend.,6
+2012,16,L,,,,,1.67016268544,,,,25,30,1,,6,,1,1,1,3.10182427119,55,How to live a long life?, Avoid diseases.,6
+2012,17,R,,,,,1.05591589617,,,,25,30,1,,6,,1,1,1,1.4548417428,3,Why wear ties?, Dress formally.,1
+2012,18,L,,,,,1.17274926725,,,,25,30,1,,2,,1,1,1,2.96189190195,10,Why sign ones name?, Write a check.,1
+2012,19,L,,,,,1.1452253641,,,,25,30,1,,9,,1,1,1,2.22712014456,24,Why reduce pain?, Feel well.,3
+2012,20,R,,,,,1.15026913495,,,,25,30,1,,8,,1,1,1,1.19014637887,58,Why make art?, Show creativity.,3
+2012,21,L,,,,,1.52093401813,,,,25,30,1,,5,,1,1,1,1.45442731163,53,How to consume medicine?, Take pills. ,4
+2012,22,L,,,,,1.22345503762,,,,25,30,1,,3,,1,1,1,1.714512194,59,How to give applause?, Clap hands.,4
+2012,23,L,,,,,2.42901034729,,,,25,30,1,,7,,1,1,1,1.72576503124,42,How to save money?, Clip coupons.,5
+2012,24,L,,,,,1.31153090148,,,,25,30,1,,4,,1,1,1,1.18527675317,20,How to show ambition?, Serve alcohol.,5
+2012,25,R,,,,,1.57653196329,,,,25,30,1,,5,,1,1,1,1.36447629179,57,How to achieve success?, Get a promotion.,6
+2012,26,L,,,,,1.29580133796,,,,25,30,1,,1,,1,1,1,3.09607842852,2,How to avoid mistakes?, Obey laws.,6
+2012,27,L,,,,,4.67103050668,,,,25,30,1,,6,,1,1,1,1.14335042146,54,Why throw away trash?, Make a list.,1
+2012,28,L,,,,,1.97235351801,,,,25,30,1,,8,,1,1,1,1.21466972016,56,Why use chalk?, Get fit.,1
+2012,29,R,,,,,1.77711000248,,,,25,30,1,,2,,1,1,1,2.31315619766,43,Why show courtesy?, Make a friend.,3
+2012,30,R,,,,,1.46537754527,,,,25,30,1,,7,,1,1,1,1.5329295556,37,Why share ideas?, Show intellect.,3
+2012,31,R,,,,,1.95294403555,,,,25,30,1,,3,,1,1,1,4.03329435122,51,How to give to charity?, Use a camera.,5
+2012,32,R,,,,,1.26797031655,,,,25,30,1,,9,,1,1,1,1.25871852011,1,How to show intelligence?, Participate in class.,5
+2012,33,L,,,,,2.98570019402,,,,25,30,1,,7,,1,1,1,2.17299253387,36,Why clip coupons?, Save money.,2
+2012,34,L,,,,,1.16167871152,,,,25,30,1,,5,,1,1,1,1.71814695075,30,Why make a phone call?, Contact a friend.,2
+2012,35,L,,,,,2.31030388837,,,,25,30,1,,6,,1,1,1,1.15260201851,46,How to make a list?, Throw away trash.,4
+2012,36,R,,,,,1.1348393543,,,,25,30,1,,8,,1,1,1,3.40382345034,35,How to drink wine?, Open a bottle. ,4
+2012,37,R,,,,,3.68646602629,,,,25,30,1,,2,,1,1,1,3.71288117502,9,How to reduce worry?, Plan ahead.,6
+2012,38,L,,,,,1.27121628619,,,,25,30,1,,9,,1,1,1,1.48011703379,45,How to support a cause?, Give to charity.,6
+2012,39,R,,,,,2.81757176637,,,,25,30,1,,3,,1,1,1,1.09232742439,21,How to contact a friend?, Make a phone call.,5
+2012,40,L,,,,,1.33549072453,,,,25,30,1,,1,,1,1,1,1.04218470545,44,How to consume alcohol?, Drink wine.,5
+2012,41,L,,,,,1.47323391807,,,,25,30,1,,9,,1,1,1,2.01198319978,22,Why read articles?, Gain knowledge.,2
+2012,42,R,,,,,1.22400583611,,,,25,30,1,,2,,1,1,1,1.63147523485,50,Why write a song?, Seek advice.,2
+2012,43,R,,,,,1.46197046842,,,,25,30,1,,4,,1,1,1,1.7483897297,29,How to kill germs?, Wash ones hands.,4
+2012,44,L,,,,,4.57633721242,,,,25,30,1,,6,,1,1,1,1.01415323638,13,How to make a phone call?, Dial numbers.,4
+2012,45,R,,,,,1.39571829391,,,,25,30,1,,5,,1,1,1,1.6481613206,25,Why hold a party?, Feel sociable.,3
+2012,46,L,,,,,1.90544437639,,,,25,30,1,,7,,1,1,1,3.0997430481,47,Why avoid diseases?, Live a long life.,3
+2012,47,R,,,,,1.21670167501,,,,25,30,1,,3,,1,1,1,2.67255739679,8,Why take aspirin?, Serve alcohol.,1
+2012,48,L,,,,,2.01350000349,,,,25,30,1,,1,,1,1,1,1.07140035432,40,Why dial numbers?, Make a phone call.,1
+2012,49,L,,,,,1.12037773304,,,,25,30,1,,4,,1,1,1,1.07819367495,16,How to lift weights?, Fasten seatbelt.,4
+2012,50,L,,,,,1.61779671904,,,,25,30,1,,8,,1,1,1,2.59530163068,17,How to clip coupons?, Cut paper.,4
+2012,51,R,,,,,1.22068718965,,,,25,30,1,,1,,1,1,1,2.51323639895,5,Why keep a memory?, Feel nostalgia.,3
+2012,52,R,,,,,1.45082680921,,,,25,30,1,,9,,1,1,1,3.21833816546,11,Why make a purchase?, Satisfy a need.,3
+2012,53,L,,,,,2.81019501414,,,,25,30,1,,2,,1,1,1,1.09015391056,31,How to avoid diseases?, Kill germs.,5
+2012,54,R,,,,,3.48494539946,,,,25,30,1,,5,,1,1,1,2.09477473309,15,How to provide food?, Prepare meals.,5
+2012,55,L,,,,,1.39732059578,,,,25,30,1,,7,,1,1,1,2.1793839977,4,How to get a degree?, Attend a school.,6
+2012,56,R,,,,,2.38549780112,,,,25,30,1,,6,,1,1,1,2.50502336297,28,How to feel nostalgia?, Keep a memory.,6
+2012,57,L,,,,,1.9285864931,,,,25,30,1,,4,,1,1,1,1.08940676367,34,Why wash ones hands?, Kill germs.,1
+2012,58,R,,,,,1.75203729604,,,,25,30,1,,8,,1,1,1,1.18359912195,39,Why stir ingredients?, Mix a cocktail.,1
+2012,59,L,,,,,3.07993867778,,,,25,30,1,,1,,1,1,1,1.95013478418,52,Why kill germs?, Avoid diseases.,2
+2012,60,R,,,,,1.50443545057,,,,25,30,1,,7,,1,1,1,3.25711707331,49,Why enter a classroom?, Attend a school.,2

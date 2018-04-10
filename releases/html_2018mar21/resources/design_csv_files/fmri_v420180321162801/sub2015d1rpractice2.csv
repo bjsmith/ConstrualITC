@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2015,1,L,,,,,3.02106726106,,,,25,30,1,,9,,1,1,4,0.758310225493,10,Why write an email?, Send a message.,3
+2015,2,L,,,,,2.32157097476,,,,25,30,1,,5,,1,1,4,0.828206695107,0,Why avoid diseases?, Live a long life.,3
+2015,3,R,,,,,1.82777931924,,,,25,30,1,,6,,1,1,4,1.15291340586,4,How to prepare meals?, Follow recipes.,4
+2015,4,L,,,,,1.40246572072,,,,25,30,1,,8,,1,1,4,0.580838394543,3,How to give a lecture?, Brush ones hair.,4
+2015,5,R,,,,,1.11911131773,,,,25,30,1,,4,,1,1,4,0.921542168487,9,Why drink wine?, Consume alcohol.,2
+2015,6,L,,,,,1.00197953143,,,,25,30,1,,1,,1,1,4,0.617444780896,7,Why clip coupons?, Save money.,2
+2015,7,R,,,,,2.29538270876,,,,25,30,1,,2,,1,1,4,2.23361220799,6,Why sign ones name?, Write a check.,1
+2015,8,L,,,,,1.90843402686,,,,25,30,1,,3,,1,1,4,1.36973921588,1,Why wear ties?, Dress formally.,1
+2015,9,R,,,,,2.58506465992,,,,25,30,1,,4,,1,1,4,1.10407562942,2,How to provide food?, Prepare meals.,5
+2015,10,R,,,,,0.992886057597,,,,25,30,1,,8,,1,1,4,1.18252174862,11,How to gain knowledge?, Read articles.,5
+2015,11,L,,,,,3.4507113926,,,,25,30,1,,3,,1,1,4,1.21073233753,8,How to reduce worry?, Plan ahead.,6
+2015,12,R,,,,,2.69746961769,,,,25,30,1,,6,,1,1,4,0.578551401673,5,How to live a long life?, Avoid diseases.,6

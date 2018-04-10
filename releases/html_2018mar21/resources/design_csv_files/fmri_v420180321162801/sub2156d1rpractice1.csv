@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2156,1,L,,,,,0.992396048774,,,,25,30,1,,1,,1,1,3,1.17775652357,0,How to show humility?, Build muscles.,6
+2156,2,R,,,,,1.9700887702,,,,25,30,1,,2,,1,1,3,0.679969024529,11,How to express a talent?, Entertain others.,6
+2156,3,L,,,,,2.31625048655,,,,25,30,1,,4,,1,1,3,0.670633711056,1,Why clip coupons?, Save money.,2
+2156,4,L,,,,,5.31639936947,,,,25,30,1,,6,,1,1,3,0.92670195767,7,Why make a phone call?, Contact a friend.,2
+2156,5,R,,,,,0.871962716084,,,,25,30,1,,9,,1,1,3,2.00494469947,5,Why make a purchase?, Satisfy a need.,3
+2156,6,L,,,,,1.11858839675,,,,25,30,1,,8,,1,1,3,0.829459666662,10,Why save money?, Get fit.,3
+2156,7,R,,,,,2.09572172397,,,,25,30,1,,5,,1,1,3,0.6786994292,4,Why drink coffee?, Consume caffeine.,1
+2156,8,R,,,,,0.56239192171,,,,25,30,1,,7,,1,1,3,0.530747135695,6,Why follow recipes?, Prepare meals.,1
+2156,9,R,,,,,0.887669997953,,,,25,30,1,,6,,1,1,3,0.826841626924,2,How to make breakfast?, Crack eggs.,4
+2156,10,L,,,,,3.03601006129,,,,25,30,1,,1,,1,1,3,1.20083592992,9,How to prepare meals?, Follow recipes.,4
+2156,11,L,,,,,4.25077031447,,,,25,30,1,,5,,1,1,3,0.513310338891,8,How to attend a school?, Enter a classroom.,5
+2156,12,R,,,,,0.900456764823,,,,25,30,1,,7,,1,1,3,1.13667049981,3,How to express doubt?, Use scissors.,5

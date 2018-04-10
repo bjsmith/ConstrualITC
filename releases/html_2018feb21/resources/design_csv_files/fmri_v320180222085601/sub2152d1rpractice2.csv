@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2152,1,L,,,,,0.919447455681,,,,,34,1,,5,90,0,1,4,0.651731696244,8,How to make art?, Paint a picture.,5
+2152,2,L,,,,,0.841286360221,,,,,20,1,,5,90,0,1,4,0.653365546801,6,How to save money?, Clip coupons.,5
+2152,3,L,,,,,0.564371872445,,,,,27,1,,5,90,0,1,4,0.823960145646,11,Why wash ones hands?, Kill germs.,1
+2152,4,R,,,,,1.20068475086,,,,,32,1,,5,90,0,1,4,0.689324132279,3,Why wear ties?, Dress formally.,1
+2152,5,L,,,,,1.8660952381,,,,,38,1,,5,90,0,1,4,0.551840063016,10,How to mix a cocktail?, Stir ingredients.,4
+2152,6,L,,,,,4.46429585815,,,,,35,1,,5,90,0,1,4,1.15696658606,0,How to paint a picture?, Use a brush.,4
+2152,7,R,,,,,0.972002911001,,,,,26,1,,5,90,0,1,4,0.948452056515,9,Why watch television?, Show competence.,2
+2152,8,R,,,,,2.5243694588,,,,,25,1,,5,90,0,1,4,1.13169953157,4,Why write a poem?, Express an idea.,2
+2152,9,R,,,,,1.39394284273,,,,,23,1,,5,90,0,1,4,1.38824519201,2,Why show competence?, Pass the time.,3
+2152,10,L,,,,,6.24251068662,,,,,22,1,,5,90,0,1,4,0.617673929849,1,Why gain knowledge?, Improve oneself.,3
+2152,11,R,,,,,1.7745471246,,,,,36,1,,5,90,0,1,4,0.736071891411,5,How to spread knowledge?, Teach others.,6
+2152,12,R,,,,,1.47704997118,,,,,40,1,,5,90,0,1,4,1.89849168678,7,How to reduce worry?, Plan ahead.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2132,1,L,,,,,2.22980302932,,,,,25,1,,5,90,0,1,4,0.856544919616,6,Why lift weights?, Build muscles.,2
+2132,2,R,,,,,1.02417960907,,,,,40,1,,5,90,0,1,4,1.31023796901,0,Why use a camera?, Give to charity.,2
+2132,3,L,,,,,0.623328349677,,,,,23,1,,5,90,0,1,4,1.13055891776,2,How to achieve success?, Get a promotion.,6
+2132,4,R,,,,,2.40710953284,,,,,35,1,,5,90,0,1,4,1.04769974569,10,How to spread joy?, Get a job.,6
+2132,5,R,,,,,1.56410981093,,,,,28,1,,5,90,0,1,4,0.613191512693,1,How to provide food?, Prepare meals.,5
+2132,6,L,,,,,1.08291837731,,,,,21,1,,5,90,0,1,4,2.10755104899,11,How to write an email?, Open a browser.,5
+2132,7,L,,,,,2.70333640773,,,,,37,1,,5,90,0,1,4,0.819340702509,8,Why save money?, Get fit.,3
+2132,8,R,,,,,2.76518634373,,,,,29,1,,5,90,0,1,4,1.11323788184,7,Why gain knowledge?, Improve oneself.,3
+2132,9,L,,,,,0.728765959669,,,,,30,1,,5,90,0,1,4,1.65149194697,4,Why sign ones name?, Write a check.,1
+2132,10,R,,,,,3.4677960092,,,,,26,1,,5,90,0,1,4,0.755911563751,3,Why wear ties?, Dress formally.,1
+2132,11,R,,,,,3.19284143248,,,,,36,1,,5,90,0,1,4,0.729835625825,5,How to make breakfast?, Crack eggs.,4
+2132,12,L,,,,,1.89919673244,,,,,39,1,,5,90,0,1,4,0.847674781417,9,How to mix a cocktail?, Stir ingredients.,4

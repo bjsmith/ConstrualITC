@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2014,1,L,,,,,0.78984800833,,,,25,30,1,,7,,1,1,3,0.689269589031,1,How to contact a friend?, Make a phone call.,5
+2014,2,L,,,,,1.5856014535,,,,25,30,1,,6,,1,1,3,1.96032048327,11,How to make art?, Paint a picture.,5
+2014,3,L,,,,,1.66497180516,,,,25,30,1,,4,,1,1,3,1.57917681302,7,Why use a remote?, Watch television.,1
+2014,4,R,,,,,0.651545664054,,,,25,30,1,,3,,1,1,3,1.06033944266,6,Why drink coffee?, Consume caffeine.,1
+2014,5,L,,,,,5.29457257271,,,,25,30,1,,5,,1,1,3,1.11573666443,0,How to clip coupons?, Cut paper.,4
+2014,6,L,,,,,4.35146841585,,,,25,30,1,,1,,1,1,3,1.07819973059,10,How to write a check?, Sign ones name.,4
+2014,7,R,,,,,1.60790687574,,,,25,30,1,,9,,1,1,3,0.716539662987,8,Why reduce pain?, Feel well.,3
+2014,8,R,,,,,3.76664332367,,,,25,30,1,,2,,1,1,3,0.860924064527,2,Why show intelligence?, Impress others.,3
+2014,9,L,,,,,0.572404676509,,,,25,30,1,,3,,1,1,3,0.918415457432,9,Why watch television?, Show competence.,2
+2014,10,R,,,,,0.500708214545,,,,25,30,1,,6,,1,1,3,0.993371073813,4,Why give a lecture?, Teach others.,2
+2014,11,R,,,,,0.594737286474,,,,25,30,1,,2,,1,1,3,0.67874853202,3,How to reduce worry?, Plan ahead.,6
+2014,12,R,,,,,2.02721580205,,,,25,30,1,,8,,1,1,3,0.531888628175,5,How to avoid mistakes?, Obey laws.,6

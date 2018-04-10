@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2143,1,L,,,,,4.38354247053,,,,25,30,1,,6,,1,1,4,0.601072224815,2,Why use a comb?, Write a song.,1
+2143,2,R,,,,,3.07520903235,,,,25,30,1,,2,,1,1,4,1.07922920575,10,Why sign ones name?, Write a check.,1
+2143,3,L,,,,,1.68685302009,,,,25,30,1,,5,,1,1,4,1.19298613908,11,Why get a promotion?, Achieve success.,3
+2143,4,L,,,,,1.67318221042,,,,25,30,1,,8,,1,1,4,0.691874927535,3,Why entertain others?, Express a talent.,3
+2143,5,L,,,,,1.5343903904,,,,25,30,1,,4,,1,1,4,0.873523780338,7,Why go shopping?, Make a purchase.,2
+2143,6,R,,,,,2.04827708584,,,,25,30,1,,9,,1,1,4,0.756172916734,4,Why clip coupons?, Save money.,2
+2143,7,R,,,,,1.04401860214,,,,25,30,1,,3,,1,1,4,1.56737819496,0,How to avoid boredom?, Entertain oneself.,6
+2143,8,L,,,,,0.727259601609,,,,25,30,1,,7,,1,1,4,1.58567242372,1,How to achieve success?, Get a promotion.,6
+2143,9,R,,,,,2.49680946469,,,,25,30,1,,3,,1,1,4,0.783325997013,9,How to prepare meals?, Follow recipes.,4
+2143,10,L,,,,,0.592561856246,,,,25,30,1,,8,,1,1,4,0.664514009856,8,How to give applause?, Clap hands.,4
+2143,11,R,,,,,2.35666897977,,,,25,30,1,,7,,1,1,4,0.536847618432,5,How to provide food?, Prepare meals.,5
+2143,12,R,,,,,1.4140602082,,,,25,30,1,,6,,1,1,4,0.674201686964,6,How to get a promotion?, Arrive on time.,5

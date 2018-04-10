@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2147,1,L,,,,,2.05723723847,,,,,28,1,,5,90,0,2,3,0.870151342895,0,How to gain knowledge?, Read articles.,5
+2147,2,R,,,,,0.808993671247,,,,,40,1,,5,90,0,2,3,0.72978260501,3,How to show ambition?, Serve alcohol.,5
+2147,3,L,,,,,2.69754652579,,,,,31,1,,5,90,0,2,3,1.01092634756,2,How to spread joy?, Get a job.,6
+2147,4,R,,,,,2.56633008748,,,,,25,1,,5,90,0,2,3,1.37505548382,1,How to get a degree?, Attend a school.,6

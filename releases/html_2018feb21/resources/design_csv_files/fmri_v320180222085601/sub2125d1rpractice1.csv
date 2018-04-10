@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2125,1,L,,,,,1.90352835882,,,,,36,1,,5,90,0,1,3,0.695100298452,6,Why show appreciation?, Spread joy.,3
+2125,2,R,,,,,2.07253436118,,,,,40,1,,5,90,0,1,3,2.03641918642,0,Why give to charity?, Support a cause.,3
+2125,3,R,,,,,0.700034096039,,,,,21,1,,5,90,0,1,3,0.65334212774,1,How to mix a cocktail?, Stir ingredients.,4
+2125,4,R,,,,,1.29985457259,,,,,38,1,,5,90,0,1,3,0.992066734949,2,How to write a check?, Sign ones name.,4
+2125,5,L,,,,,3.49333380082,,,,,20,1,,5,90,0,1,3,0.936829085465,4,Why use a brush?, Paint a picture.,1
+2125,6,L,,,,,1.90378820998,,,,,28,1,,5,90,0,1,3,0.505286504673,3,Why raise a hand?, Participate in class.,1
+2125,7,R,,,,,1.10885935823,,,,,31,1,,5,90,0,1,3,0.517579782638,7,How to avoid mistakes?, Obey laws.,6
+2125,8,L,,,,,1.43975400355,,,,,29,1,,5,90,0,1,3,0.96907423354,9,How to express a talent?, Entertain others.,6
+2125,9,R,,,,,0.902717624574,,,,,34,1,,5,90,0,1,3,0.724956207767,11,Why make a list?, Plan ahead.,2
+2125,10,R,,,,,1.70993822083,,,,,22,1,,5,90,0,1,3,0.602184498445,5,Why make breakfast?, Satisfy hunger.,2
+2125,11,L,,,,,6.57111258839,,,,,33,1,,5,90,0,1,3,0.836035765539,8,How to build muscles?, Lift weights.,5
+2125,12,L,,,,,0.772764969329,,,,,24,1,,5,90,0,1,3,1.82693304372,10,How to consume alcohol?, Drink wine.,5

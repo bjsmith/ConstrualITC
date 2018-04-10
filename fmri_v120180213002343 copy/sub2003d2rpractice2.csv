@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2003,1,1,,,,,0.7020452622,,,,25,30,1,,3,,1,2,4,3.03420708996,0,How to make a purchase?, Go shopping.,5
+2003,2,2,,,,,4.56969410556,,,,25,30,1,,9,,1,2,4,1.05950056971,0,How to make a donation?, Mix a cocktail.,5
+2003,3,2,,,,,1.9905514499,,,,25,30,1,,6,,1,2,4,2.4278865404,1,Why show appreciation?, Spread joy.,3
+2003,4,1,,,,,1.15843210648,,,,25,30,1,,5,,1,2,4,1.44587724572,0,Why show intelligence?, Impress others.,3

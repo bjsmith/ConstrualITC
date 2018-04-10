@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2163,1,R,,,,,2.11887898268,,,,25,30,1,,1,,1,1,4,1.0429682084,3,How to read articles?, Open a magazine.,4
+2163,2,R,,,,,2.31996286304,,,,25,30,1,,2,,1,1,4,0.778070847998,7,How to write a poem?, Grab a pencil.,4
+2163,3,L,,,,,2.04300048201,,,,25,30,1,,7,,1,1,4,0.506090098523,0,Why dial numbers?, Make a phone call.,1
+2163,4,R,,,,,1.51609120155,,,,25,30,1,,6,,1,1,4,0.595628296254,9,Why stir ingredients?, Mix a cocktail.,1
+2163,5,R,,,,,1.12865248623,,,,25,30,1,,8,,1,1,4,0.643102382215,10,How to build muscles?, Lift weights.,5
+2163,6,R,,,,,2.38539505104,,,,25,30,1,,3,,1,1,4,0.635639821519,11,How to save money?, Clip coupons.,5
+2163,7,R,,,,,5.22523931983,,,,25,30,1,,4,,1,1,4,0.978309485027,6,How to feel nostalgia?, Keep a memory.,6
+2163,8,L,,,,,2.54043733842,,,,25,30,1,,9,,1,1,4,2.68269576214,5,How to avoid mistakes?, Obey laws.,6
+2163,9,L,,,,,1.52637700992,,,,25,30,1,,8,,1,1,4,1.22575260994,4,Why avoid diseases?, Live a long life.,3
+2163,10,L,,,,,1.31860237374,,,,25,30,1,,9,,1,1,4,0.771197972835,8,Why keep a memory?, Feel nostalgia.,3
+2163,11,L,,,,,0.916543372781,,,,25,30,1,,6,,1,1,4,0.727549348978,1,Why clip coupons?, Save money.,2
+2163,12,L,,,,,1.06124742376,,,,25,30,1,,5,,1,1,4,2.05630270702,2,Why go shopping?, Make a purchase.,2

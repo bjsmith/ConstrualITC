@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2184,1,R,,,,,0.701367325222,,,,25,30,1,,7,,1,3,3,0.633675192883,3,Why avoid diseases?, Live a long life.,3
+2184,2,L,,,,,3.41124298322,,,,25,30,1,,3,,1,3,3,0.676532961525,1,Why save money?, Get fit.,3
+2184,3,L,,,,,0.663812763305,,,,25,30,1,,8,,1,3,3,0.525222380932,2,How to satisfy hunger?, Make breakfast.,5
+2184,4,R,,,,,2.59531868099,,,,25,30,1,,5,,1,3,3,1.30888987319,0,How to build muscles?, Lift weights.,5

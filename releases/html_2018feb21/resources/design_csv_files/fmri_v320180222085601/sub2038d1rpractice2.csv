@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2038,1,R,,,,,4.41531449726,,,,,21,1,,5,90,0,1,4,1.85380099135,9,Why show competence?, Pass the time.,3
+2038,2,L,,,,,0.525140782137,,,,,37,1,,5,90,0,1,4,0.677356066617,1,Why make art?, Show creativity.,3
+2038,3,L,,,,,1.15695195166,,,,,25,1,,5,90,0,1,4,0.509272120384,0,How to read articles?, Open a magazine.,4
+2038,4,L,,,,,3.65964761633,,,,,35,1,,5,90,0,1,4,0.620104410222,5,How to write a poem?, Grab a pencil.,4
+2038,5,L,,,,,0.801684757589,,,,,24,1,,5,90,0,1,4,0.985947855533,7,How to show humility?, Build muscles.,6
+2038,6,R,,,,,4.14276502537,,,,,30,1,,5,90,0,1,4,0.907061177208,11,How to show creativity?, Make art.,6
+2038,7,R,,,,,0.631834664467,,,,,39,1,,5,90,0,1,4,1.57809581269,2,Why stir ingredients?, Mix a cocktail.,1
+2038,8,R,,,,,1.2029062195,,,,,31,1,,5,90,0,1,4,1.61085858084,4,Why point a camera?, Take a picture.,1
+2038,9,L,,,,,0.630431894413,,,,,38,1,,5,90,0,1,4,0.920327645438,10,How to save money?, Clip coupons.,5
+2038,10,L,,,,,1.44787041723,,,,,33,1,,5,90,0,1,4,0.51315047771,8,How to attend a school?, Enter a classroom.,5
+2038,11,R,,,,,1.51679112533,,,,,22,1,,5,90,0,1,4,0.515372283953,3,Why consume medicine?, Reduce pain.,2
+2038,12,R,,,,,3.87612254389,,,,,28,1,,5,90,0,1,4,0.813675256088,6,Why make breakfast?, Satisfy hunger.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2183,1,R,,,,,3.05531537749,,,,,20,1,,5,90,0,3,3,1.03385810112,2,Why cut paper?, Clip coupons.,1
+2183,2,R,,,,,1.49154865365,,,,,33,1,,5,90,0,3,3,0.617149726525,1,Why dial numbers?, Make a phone call.,1
+2183,3,L,,,,,1.87237736991,,,,,26,1,,5,90,0,3,3,0.697208056026,0,Why gain knowledge?, Improve oneself.,3
+2183,4,L,,,,,1.23670525075,,,,,40,1,,5,90,0,3,3,0.848904756588,3,Why attend a school?, Get a degree.,3

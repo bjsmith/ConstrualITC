@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2170,1,L,,,,,0.634467924763,,,,25,30,1,,5,,1,1,3,1.47732055159,8,Why participate in class?, Show intelligence.,2
+2170,2,R,,,,,2.25291771169,,,,25,30,1,,2,,1,1,3,1.25029779516,1,Why take a picture?, Keep a memory.,2
+2170,3,L,,,,,3.02285872326,,,,25,30,1,,9,,1,1,3,1.1355160284,5,How to read articles?, Open a magazine.,4
+2170,4,R,,,,,1.22608947941,,,,25,30,1,,4,,1,1,3,0.610467844638,0,How to give a lecture?, Brush ones hair.,4
+2170,5,R,,,,,3.25312677804,,,,25,30,1,,8,,1,1,3,1.06137346165,3,Why wear ties?, Dress formally.,1
+2170,6,L,,,,,2.15223602885,,,,25,30,1,,3,,1,1,3,0.718999248111,9,Why click a mouse?, Open a browser.,1
+2170,7,R,,,,,1.32267586432,,,,25,30,1,,7,,1,1,3,0.907046477815,4,Why build muscles?, Show humility.,3
+2170,8,R,,,,,0.804887653402,,,,25,30,1,,1,,1,1,3,0.69094500537,10,Why show intelligence?, Impress others.,3
+2170,9,R,,,,,2.15339590849,,,,25,30,1,,3,,1,1,3,0.952035572621,2,How to teach others?, Give a lecture.,5
+2170,10,L,,,,,5.08710752643,,,,25,30,1,,4,,1,1,3,1.47597850035,11,How to make art?, Paint a picture.,5
+2170,11,L,,,,,0.552269476519,,,,25,30,1,,6,,1,1,3,1.54945375751,7,How to show creativity?, Make art.,6
+2170,12,L,,,,,1.34494258283,,,,25,30,1,,5,,1,1,3,1.03930307027,6,How to show intellect?, Share ideas.,6

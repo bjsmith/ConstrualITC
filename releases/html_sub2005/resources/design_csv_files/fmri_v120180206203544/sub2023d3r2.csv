@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,2,,,,,1.85019381743,,,,25,30,1,,7,,1,3,2,1.84391254752,0,How to give to charity?, Use a camera.,5
+2023,2,1,,,,,1.43559101033,,,,25,30,1,,1,,1,3,2,1.27727918476,0,Why avoid diseases?, Live a long life.,3
+2023,3,1,,,,,5.09274858778,,,,25,30,1,,2,,1,3,2,0.942331135397,0,Why make breakfast?, Satisfy hunger.,2
+2023,4,1,,,,,0.901699839277,,,,25,30,1,,6,,1,3,2,0.517451473271,0,How to show intellect?, Share ideas.,6
+2023,5,2,,,,,3.82438000743,,,,25,30,1,,8,,1,3,2,0.776760656955,0,Why point a camera?, Take a picture.,1
+2023,6,2,,,,,1.43491204721,,,,25,30,1,,3,,1,3,2,0.58617336434,0,How to paint a picture?, Use a brush.,4
+2023,7,2,,,,,0.670859809107,,,,25,30,1,,5,,1,3,2,0.790072478114,0,Why throw away trash?, Make a list.,1
+2023,8,2,,,,,2.52573677819,,,,25,30,1,,9,,1,3,2,1.58442516625,0,Why get a promotion?, Achieve success.,3
+2023,9,1,,,,,1.04072641125,,,,25,30,1,,7,,1,3,2,1.18731652267,0,How to dress formally?, Wear ties. ,4
+2023,10,1,,,,,0.925060292733,,,,25,30,1,,1,,1,3,2,0.530032460448,0,Why lift weights?, Build muscles.,2
+2023,11,2,,,,,1.22629550806,,,,25,30,1,,8,,1,3,2,1.25510640256,0,How to impress others?, Show intelligence.,6
+2023,12,2,,,,,0.768726772643,,,,25,30,1,,9,,1,3,2,0.739160024117,0,How to contact a friend?, Make a phone call.,5
+2023,13,1,,,,,1.44704731274,,,,25,30,1,,6,,1,3,2,0.734409905843,0,How to show an ability?, Satisfy hunger.,6
+2023,14,2,,,,,0.655064174796,,,,25,30,1,,5,,1,3,2,0.565092732735,0,How to mix a cocktail?, Stir ingredients.,4
+2023,15,1,,,,,2.60032717192,,,,25,30,1,,3,,1,3,2,1.15117511605,0,How to make a purchase?, Go shopping.,5
+2023,16,2,,,,,1.58971348053,,,,25,30,1,,2,,1,3,2,1.44588142602,0,Why show competence?, Pass the time.,3
+2023,17,1,,,,,3.42933571041,,,,25,30,1,,7,,1,3,2,1.07451487088,0,Why click a mouse?, Open a browser.,1
+2023,18,1,,,,,1.03359742158,,,,25,30,1,,9,,1,3,2,0.574501326828,0,Why give applause?, Show appreciation.,2
+2023,19,2,,,,,2.03788616941,,,,25,30,1,,4,,1,3,2,0.90052895631,1,How to write a song?, Play piano.,4
+2023,20,2,,,,,0.617612830425,,,,25,30,1,,6,,1,3,2,0.50821611162,0,How to achieve success?, Get a promotion.,6
+2023,21,2,,,,,0.981696585057,,,,25,30,1,,2,,1,3,2,1.12991625358,0,Why use a comb?, Write a song.,1
+2023,22,2,,,,,3.99629557409,,,,25,30,1,,8,,1,3,2,0.618051914512,0,Why build muscles?, Show humility.,3
+2023,23,1,,,,,2.55938024782,,,,25,30,1,,1,,1,3,2,0.965990253373,0,How to entertain others?, Write a song.,5
+2023,24,1,,,,,1.26711747484,,,,25,30,1,,5,,1,3,2,1.3303688373,0,Why teach a class?, Obey laws.,2
+2023,25,2,,,,,3.86034233507,,,,25,30,1,,9,,1,3,2,0.535870619017,0,Why consume caffeine?, Stay alert.,2
+2023,26,2,,,,,0.978869194471,,,,25,30,1,,2,,1,3,2,1.05952772385,0,Why raise a hand?, Participate in class.,1
+2023,27,1,,,,,3.9295214394,,,,25,30,1,,1,,1,3,2,0.759491056776,0,How to feel secure?, Save money.,6
+2023,28,1,,,,,1.0741661089,,,,25,30,1,,6,,1,3,2,0.60052081584,0,How to satisfy hunger?, Make breakfast.,5
+2023,29,1,,,,,1.10704542473,,,,25,30,1,,7,,1,3,2,0.785404033202,0,Why make art?, Show creativity.,3
+2023,30,2,,,,,0.835752288517,,,,25,30,1,,5,,1,3,2,0.72049595942,0,How to give a lecture?, Brush ones hair.,4
+2023,31,1,,,,,2.67147313306,,,,25,30,1,,8,,1,3,2,2.57697242011,0,Why give a lecture?, Teach others.,2
+2023,32,1,,,,,5.51508978648,,,,25,30,1,,4,,1,3,2,0.912297515945,0,How to read articles?, Open a magazine.,4
+2023,33,1,,,,,3.62125139386,,,,25,30,1,,7,,1,3,2,1.4316670472,0,Why use credit cards?, Go shopping.,1
+2023,34,1,,,,,1.08240611494,,,,25,30,1,,3,,1,3,2,1.19014382394,0,How to teach others?, Give a lecture.,5
+2023,35,2,,,,,2.14092873663,,,,25,30,1,,5,,1,3,2,0.621618017863,0,How to feel connected?, Contact a friend.,6
+2023,36,2,,,,,1.55363305317,,,,25,30,1,,9,,1,3,2,0.631509358501,0,Why show appreciation?, Spread joy.,3
+2023,37,1,,,,,3.84645703276,,,,25,30,1,,2,,1,3,2,0.80605430888,0,How to attend a school?, Enter a classroom.,5
+2023,38,1,,,,,1.94447536189,,,,25,30,1,,4,,1,3,2,1.8310477228,0,Why drink coffee?, Consume caffeine.,1
+2023,39,2,,,,,0.740027124306,,,,25,30,1,,6,,1,3,2,0.659478327134,0,Why use a camera?, Give to charity.,2
+2023,40,2,,,,,1.27546758767,,,,25,30,1,,1,,1,3,2,0.947289146714,0,How to prepare meals?, Follow recipes.,4

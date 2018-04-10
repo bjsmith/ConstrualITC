@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2002,1,L,,,,,0.769396183071,,,,25,30,1,,1,,1,1,3,0.532605522934,4,How to satisfy hunger?, Make breakfast.,5
+2002,2,R,,,,,0.756516399409,,,,25,30,1,,2,,1,1,3,3.23634408572,8,How to make a donation?, Mix a cocktail.,5
+2002,3,L,,,,,2.40323482941,,,,25,30,1,,6,,1,1,3,1.19526569972,0,How to consume medicine?, Take pills. ,4
+2002,4,L,,,,,1.99769367732,,,,25,30,1,,4,,1,1,3,0.682976518176,6,How to prepare meals?, Follow recipes.,4
+2002,5,R,,,,,1.83672870302,,,,25,30,1,,9,,1,1,3,0.675011887023,7,Why make a purchase?, Satisfy a need.,3
+2002,6,L,,,,,3.57022311496,,,,25,30,1,,5,,1,1,3,0.696738470046,2,Why gain knowledge?, Improve oneself.,3
+2002,7,R,,,,,0.954858008732,,,,25,30,1,,3,,1,1,3,0.50113203736,10,Why use a remote?, Watch television.,1
+2002,8,R,,,,,6.10212558245,,,,25,30,1,,8,,1,1,3,0.629638984675,3,Why throw away trash?, Make a list.,1
+2002,9,R,,,,,1.61744569062,,,,25,30,1,,9,,1,1,3,0.5272908832,11,Why write a poem?, Express an idea.,2
+2002,10,L,,,,,1.46015415459,,,,25,30,1,,1,,1,1,3,1.52076688313,9,Why lift weights?, Build muscles.,2
+2002,11,L,,,,,0.931487617936,,,,25,30,1,,7,,1,1,3,0.54693031399,5,How to get a degree?, Attend a school.,6
+2002,12,R,,,,,0.850703894617,,,,25,30,1,,3,,1,1,3,0.739832656118,1,How to show intellect?, Share ideas.,6

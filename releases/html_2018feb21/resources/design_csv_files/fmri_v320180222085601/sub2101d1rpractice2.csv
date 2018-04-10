@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2101,1,L,,,,,1.13303416792,,,,25,30,1,,6,,1,1,4,0.629941067667,4,How to read articles?, Open a magazine.,4
+2101,2,L,,,,,0.78294115064,,,,25,30,1,,5,,1,1,4,0.613365819143,9,How to write a poem?, Grab a pencil.,4
+2101,3,L,,,,,4.77093495389,,,,25,30,1,,3,,1,1,4,0.550414952848,8,Why keep a memory?, Feel nostalgia.,3
+2101,4,L,,,,,1.49291007579,,,,25,30,1,,9,,1,1,4,0.515718193401,10,Why satisfy hunger?, Show an ability.,3
+2101,5,R,,,,,1.69235147194,,,,25,30,1,,4,,1,1,4,2.95985579941,6,How to feel productive?, Finish a job.,6
+2101,6,L,,,,,0.561297325788,,,,25,30,1,,1,,1,1,4,0.798300396413,0,How to avoid mistakes?, Obey laws.,6
+2101,7,R,,,,,0.741528186911,,,,25,30,1,,8,,1,1,4,0.704835819603,7,How to build muscles?, Lift weights.,5
+2101,8,R,,,,,1.26325177246,,,,25,30,1,,7,,1,1,4,0.658221102974,2,How to contact a friend?, Make a phone call.,5
+2101,9,R,,,,,5.10966186261,,,,25,30,1,,3,,1,1,4,1.45077334913,11,Why wear ties?, Dress formally.,1
+2101,10,R,,,,,1.77829866783,,,,25,30,1,,1,,1,1,4,1.2386631665,5,Why turn a doorknob?, Enter a classroom.,1
+2101,11,L,,,,,0.542029420234,,,,25,30,1,,4,,1,1,4,1.09473343494,1,Why write a poem?, Express an idea.,2
+2101,12,R,,,,,4.47776865023,,,,25,30,1,,8,,1,1,4,0.589437535354,3,Why dress formally?, Get a promotion.,2

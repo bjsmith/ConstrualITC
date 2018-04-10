@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2124,1,R,,,,,1.46492047879,,,,,36,1,,5,90,0,1,2,1.0381686601,31,How to improve oneself?, Gain knowledge.,6
+2124,2,L,,,,,1.11759501102,,,,,28,1,,5,90,0,1,2,2.82989224208,59,How to support a cause?, Give to charity.,6
+2124,3,L,,,,,2.56166011109,,,,,31,1,,5,90,0,1,2,2.67630548441,43,How to make a donation?, Mix a cocktail.,5
+2124,4,L,,,,,1.51860238723,,,,,37,1,,5,90,0,1,2,5.53823927848,40,How to attend a school?, Enter a classroom.,5
+2124,5,L,,,,,4.17451083199,,,,,29,1,,5,90,0,1,2,1.61305052071,6,Why enter a classroom?, Attend a school.,2
+2124,6,L,,,,,2.39296724287,,,,,27,1,,5,90,0,1,2,1.56607182437,18,Why read articles?, Gain knowledge.,2
+2124,7,L,,,,,2.29538934424,,,,,38,1,,5,90,0,1,2,1.21625375912,51,Why hold a party?, Feel sociable.,3
+2124,8,L,,,,,1.29134561391,,,,,34,1,,5,90,0,1,2,1.28240633491,1,Why finish a job?, Feel productive.,3
+2124,9,R,,,,,1.92284296528,,,,,20,1,,5,90,0,1,2,2.95234753024,34,How to open a browser?, Click a mouse.,4
+2124,10,L,,,,,1.44382019784,,,,,25,1,,5,90,0,1,2,1.40632335569,13,How to participate in class?, Raise a hand.,4
+2124,11,L,,,,,1.64612810257,,,,,21,1,,5,90,0,1,2,1.02788072816,54,Why drink coffee?, Consume caffeine.,1
+2124,12,L,,,,,1.3371352044,,,,,24,1,,5,90,0,1,2,1.5999099326,0,Why cut paper?, Clip coupons.,1
+2124,13,L,,,,,3.536575864,,,,,33,1,,5,90,0,1,2,2.16145491465,22,How to give a lecture?, Brush ones hair.,4
+2124,14,R,,,,,1.90473675418,,,,,40,1,,5,90,0,1,2,4.2220668452,12,How to give applause?, Clap hands.,4
+2124,15,R,,,,,2.21919438491,,,,,22,1,,5,90,0,1,2,1.338533437,29,Why show appreciation?, Spread joy.,3
+2124,16,R,,,,,2.2397926965,,,,,23,1,,5,90,0,1,2,1.63184509866,24,Why build muscles?, Show humility.,3
+2124,17,R,,,,,3.18432867066,,,,,30,1,,5,90,0,1,2,2.69769333107,2,Why use credit cards?, Go shopping.,1
+2124,18,R,,,,,1.8137207598,,,,,39,1,,5,90,0,1,2,1.14435730278,25,Why dial numbers?, Make a phone call.,1
+2124,19,R,,,,,1.21674082134,,,,,26,1,,5,90,0,1,2,1.36455347685,5,How to avoid diseases?, Kill germs.,5
+2124,20,R,,,,,2.49620940627,,,,,32,1,,5,90,0,1,2,1.26981987968,28,How to gain knowledge?, Read articles.,5
+2124,21,R,,,,,1.08101922242,,,,,40,1,,5,90,0,1,2,2.07924460734,9,Why teach a class?, Obey laws.,2
+2124,22,L,,,,,1.46778414829,,,,,30,1,,5,90,0,1,2,1.86369518971,37,Why drink wine?, Consume alcohol.,2
+2124,23,R,,,,,1.86889744074,,,,,22,1,,5,90,0,1,2,1.35570014945,21,How to spread knowledge?, Teach others.,6
+2124,24,R,,,,,1.71500792287,,,,,39,1,,5,90,0,1,2,2.11098478842,35,How to reduce worry?, Plan ahead.,6
+2124,25,R,,,,,1.07716698807,,,,,37,1,,5,90,0,1,2,2.94623940417,17,How to entertain others?, Write a song.,5
+2124,26,R,,,,,2.07932207821,,,,,28,1,,5,90,0,1,2,1.32853002822,50,How to provide food?, Prepare meals.,5
+2124,27,R,,,,,2.25304288244,,,,,36,1,,5,90,0,1,2,3.46214661812,46,How to consume caffeine?, Press buttons.,4
+2124,28,L,,,,,1.01257119555,,,,,26,1,,5,90,0,1,2,1.00377906535,16,How to lift weights?, Fasten seatbelt.,4
+2124,29,L,,,,,2.99842673199,,,,,27,1,,5,90,0,1,2,1.58405820966,45,Why participate in class?, Show intelligence.,2
+2124,30,L,,,,,3.2734956914,,,,,21,1,,5,90,0,1,2,1.59546035066,53,Why write a poem?, Express an idea.,2
+2124,31,R,,,,,1.97938483767,,,,,31,1,,5,90,0,1,2,4.60725236871,49,Why wear ties?, Dress formally.,1
+2124,32,L,,,,,1.0222762113,,,,,20,1,,5,90,0,1,2,2.57939154873,23,Why turn a doorknob?, Enter a classroom.,1
+2124,33,L,,,,,2.92123548139,,,,,29,1,,5,90,0,1,2,1.59907751414,27,Why save money?, Get fit.,3
+2124,34,R,,,,,1.39125475765,,,,,35,1,,5,90,0,1,2,1.19663969932,15,Why make art?, Show creativity.,3
+2124,35,R,,,,,2.45534487734,,,,,34,1,,5,90,0,1,2,1.41616805878,36,How to get a degree?, Attend a school.,6
+2124,36,L,,,,,1.16623882166,,,,,25,1,,5,90,0,1,2,1.36091061948,48,How to feel well?, Reduce pain.,6
+2124,37,R,,,,,3.96288598825,,,,,32,1,,5,90,0,1,2,1.19374792446,58,Why show courtesy?, Make a friend.,3
+2124,38,L,,,,,1.45042448583,,,,,33,1,,5,90,0,1,2,2.23796013883,10,Why get a promotion?, Achieve success.,3
+2124,39,R,,,,,1.21086545293,,,,,23,1,,5,90,0,1,2,2.30548967337,14,Why follow recipes?, Prepare meals.,1
+2124,40,L,,,,,2.80142975934,,,,,38,1,,5,90,0,1,2,1.17357379777,7,Why open a magazine?, Read articles.,1
+2124,41,R,,,,,1.12076805679,,,,,31,1,,5,90,0,1,2,2.77615767149,56,Why consume caffeine?, Stay alert.,2
+2124,42,L,,,,,1.30175295563,,,,,34,1,,5,90,0,1,2,1.44208138889,55,Why write a song?, Seek advice.,2
+2124,43,R,,,,,2.67475553649,,,,,25,1,,5,90,0,1,2,1.25417606295,8,How to express a talent?, Entertain others.,6
+2124,44,L,,,,,3.19029579034,,,,,22,1,,5,90,0,1,2,2.16055250321,39,How to achieve success?, Get a promotion.,6
+2124,45,L,,,,,1.68517543878,,,,,32,1,,5,90,0,1,2,2.69720118454,57,How to write a song?, Play piano.,4
+2124,46,R,,,,,1.58559901197,,,,,21,1,,5,90,0,1,2,2.78940954565,42,How to make a phone call?, Dial numbers.,4
+2124,47,L,,,,,1.10196876053,,,,,40,1,,5,90,0,1,2,1.53090328702,30,How to contact a friend?, Make a phone call.,5
+2124,48,R,,,,,2.21241723912,,,,,33,1,,5,90,0,1,2,1.64736422842,20,How to plan ahead?, Make a list.,5
+2124,49,R,,,,,1.29446706812,,,,,27,1,,5,90,0,1,2,1.82057156826,32,Why clip coupons?, Save money.,2
+2124,50,L,,,,,2.10131379588,,,,,28,1,,5,90,0,1,2,2.15144604849,26,Why open a browser?, Write an email.,2
+2124,51,L,,,,,1.00223297118,,,,,26,1,,5,90,0,1,2,1.68196062715,19,Why share ideas?, Show intellect.,3
+2124,52,R,,,,,1.70983592435,,,,,39,1,,5,90,0,1,2,1.01471888341,38,Why satisfy hunger?, Show an ability.,3
+2124,53,L,,,,,2.67486497775,,,,,30,1,,5,90,0,1,2,4.28787471839,41,Why lift a glass?, Drink wine.,1
+2124,54,R,,,,,3.41703308239,,,,,23,1,,5,90,0,1,2,1.87682383186,4,Why sign ones name?, Write a check.,1
+2124,55,L,,,,,1.43946844538,,,,,20,1,,5,90,0,1,2,2.89263163324,11,How to feel productive?, Finish a job.,6
+2124,56,R,,,,,2.2049089569,,,,,38,1,,5,90,0,1,2,3.84505979233,52,How to spread joy?, Get a job.,6
+2124,57,L,,,,,1.13893896967,,,,,36,1,,5,90,0,1,2,2.22335652328,3,How to satisfy hunger?, Make breakfast.,5
+2124,58,R,,,,,3.16887840831,,,,,37,1,,5,90,0,1,2,1.06402705863,44,How to build muscles?, Lift weights.,5
+2124,59,L,,,,,1.98955108793,,,,,35,1,,5,90,0,1,2,1.19327757292,33,How to consume medicine?, Take pills. ,4
+2124,60,R,,,,,1.42189431017,,,,,29,1,,5,90,0,1,2,1.05990972464,47,How to read articles?, Open a magazine.,4

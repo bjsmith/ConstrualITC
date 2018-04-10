@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2126,1,L,,,,,3.71715694022,,,,25,30,1,,3,,1,1,3,1.01011014121,2,How to spread knowledge?, Teach others.,6
+2126,2,R,,,,,4.20717317333,,,,25,30,1,,5,,1,1,3,1.29112249319,10,How to feel nostalgia?, Keep a memory.,6
+2126,3,L,,,,,0.748624860105,,,,25,30,1,,1,,1,1,3,1.84776766559,9,Why make breakfast?, Satisfy hunger.,2
+2126,4,R,,,,,0.942570292416,,,,25,30,1,,9,,1,1,3,0.656754457855,4,Why open a browser?, Write an email.,2
+2126,5,R,,,,,0.808558954406,,,,25,30,1,,6,,1,1,3,0.622748370004,7,How to make a list?, Throw away trash.,4
+2126,6,L,,,,,1.20805925833,,,,25,30,1,,2,,1,1,3,0.84161079676,5,How to go shopping?, Use credit cards.,4
+2126,7,R,,,,,0.811468898298,,,,25,30,1,,7,,1,1,3,0.596345064437,0,Why provide food?, Help a person.,3
+2126,8,L,,,,,1.83241293873,,,,25,30,1,,4,,1,1,3,0.733682931529,8,Why show competence?, Pass the time.,3
+2126,9,L,,,,,0.582200690243,,,,25,30,1,,1,,1,1,3,1.08899274111,6,How to make a purchase?, Go shopping.,5
+2126,10,R,,,,,3.89522742399,,,,25,30,1,,3,,1,1,3,1.55031508109,11,How to show ambition?, Serve alcohol.,5
+2126,11,R,,,,,2.28760135182,,,,25,30,1,,4,,1,1,3,0.5591806007,1,Why use a remote?, Watch television.,1
+2126,12,L,,,,,3.52173734552,,,,25,30,1,,6,,1,1,3,0.706011177197,3,Why raise a hand?, Participate in class.,1

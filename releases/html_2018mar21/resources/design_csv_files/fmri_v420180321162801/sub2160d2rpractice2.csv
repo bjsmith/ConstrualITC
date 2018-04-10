@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2160,1,L,,,,,3.29611185079,,,,,26,1,,5,90,0,2,4,0.610108268136,3,Why open a browser?, Write an email.,2
+2160,2,R,,,,,2.57290133437,,,,,25,1,,5,90,0,2,4,1.42575634362,1,Why use a camera?, Give to charity.,2
+2160,3,L,,,,,1.83888287975,,,,,36,1,,5,90,0,2,4,0.780725919151,2,Why raise a hand?, Participate in class.,1
+2160,4,R,,,,,0.888899874143,,,,,37,1,,5,90,0,2,4,0.876494603375,0,Why use a remote?, Watch television.,1

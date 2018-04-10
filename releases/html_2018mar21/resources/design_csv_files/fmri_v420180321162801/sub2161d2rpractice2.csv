@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2161,1,R,,,,,1.14898638494,,,,25,30,1,,1,,1,2,4,1.8271995963,1,How to give applause?, Clap hands.,4
+2161,2,L,,,,,0.679951803263,,,,25,30,1,,8,,1,2,4,0.509587450331,3,How to consume medicine?, Take pills. ,4
+2161,3,R,,,,,5.2963298448,,,,25,30,1,,5,,1,2,4,1.02439431422,2,How to support a cause?, Give to charity.,6
+2161,4,L,,,,,0.913532322699,,,,25,30,1,,6,,1,2,4,0.531829621006,0,How to live a long life?, Avoid diseases.,6

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2129,1,R,,,,,1.44978445988,,,,,28,1,,5,90,0,3,3,0.927055465148,2,How to go shopping?, Use credit cards.,4
+2129,2,R,,,,,2.14946807284,,,,,25,1,,5,90,0,3,3,1.00700185306,1,How to clip coupons?, Cut paper.,4
+2129,3,L,,,,,1.54318310213,,,,,37,1,,5,90,0,3,3,0.556940028771,3,How to entertain oneself?, Watch television.,5
+2129,4,L,,,,,2.02957945233,,,,,29,1,,5,90,0,3,3,0.962341820213,0,How to give to charity?, Use a camera.,5

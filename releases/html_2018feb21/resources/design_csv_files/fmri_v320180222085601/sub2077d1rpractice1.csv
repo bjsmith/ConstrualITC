@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2077,1,L,,,,,2.89076095876,,,,,40,1,,5,90,0,1,3,0.70127676237,7,Why cut paper?, Clip coupons.,1
+2077,2,L,,,,,1.63724202486,,,,,37,1,,5,90,0,1,3,1.36075544402,2,Why drink coffee?, Consume caffeine.,1
+2077,3,R,,,,,0.645475861744,,,,,26,1,,5,90,0,1,3,0.783034000337,6,Why watch television?, Show competence.,2
+2077,4,R,,,,,2.04236709399,,,,,35,1,,5,90,0,1,3,1.13709782057,10,Why write a poem?, Express an idea.,2
+2077,5,R,,,,,0.648023055235,,,,,31,1,,5,90,0,1,3,2.31955479302,9,How to save money?, Clip coupons.,5
+2077,6,R,,,,,1.85950792862,,,,,34,1,,5,90,0,1,3,0.742198118034,4,How to reduce pain?, Consume medicine.,5
+2077,7,R,,,,,3.49442900062,,,,,22,1,,5,90,0,1,3,0.618964053164,3,Why contact a friend?, Feel connected.,3
+2077,8,L,,,,,3.64835005808,,,,,28,1,,5,90,0,1,3,1.11818602709,11,Why write an email?, Send a message.,3
+2077,9,L,,,,,1.70000526881,,,,,20,1,,5,90,0,1,3,1.15840331784,5,How to lift weights?, Fasten seatbelt.,4
+2077,10,R,,,,,1.01263054403,,,,,36,1,,5,90,0,1,3,1.15529402182,8,How to clip coupons?, Cut paper.,4
+2077,11,L,,,,,0.982802195508,,,,,30,1,,5,90,0,1,3,0.634650465225,0,How to avoid mistakes?, Obey laws.,6
+2077,12,L,,,,,4.35435698474,,,,,29,1,,5,90,0,1,3,0.837506173517,1,How to impress others?, Show intelligence.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2033,1,R,,,,,1.75675958214,,,,25,30,1,,3,,1,1,4,0.95791069639,4,Why clip coupons?, Save money.,2
+2033,2,L,,,,,3.26625881502,,,,25,30,1,,4,,1,1,4,1.34654870422,7,Why give applause?, Show appreciation.,2
+2033,3,L,,,,,0.592109296856,,,,25,30,1,,6,,1,1,4,0.724097673298,2,How to drink wine?, Open a bottle. ,4
+2033,4,R,,,,,1.23090049259,,,,25,30,1,,7,,1,1,4,1.52843654344,11,How to watch television?, Use a remote.,4
+2033,5,R,,,,,1.15388565421,,,,25,30,1,,2,,1,1,4,0.791414323592,5,Why lift a glass?, Drink wine.,1
+2033,6,L,,,,,3.75839267136,,,,25,30,1,,9,,1,1,4,0.614703075588,3,Why stir ingredients?, Mix a cocktail.,1
+2033,7,L,,,,,0.644645021759,,,,25,30,1,,1,,1,1,4,0.873346203172,1,How to show intelligence?, Participate in class.,5
+2033,8,R,,,,,1.6664902828,,,,25,30,1,,8,,1,1,4,1.62939480667,8,How to write an email?, Open a browser.,5
+2033,9,R,,,,,1.75729341887,,,,25,30,1,,7,,1,1,4,1.31088625263,9,Why finish a job?, Feel productive.,3
+2033,10,R,,,,,2.89212853597,,,,25,30,1,,2,,1,1,4,0.919575561966,10,Why give to charity?, Support a cause.,3
+2033,11,L,,,,,4.82351671379,,,,25,30,1,,9,,1,1,4,0.779702467745,6,How to feel secure?, Save money.,6
+2033,12,L,,,,,1.42210313379,,,,25,30,1,,4,,1,1,4,0.654312476342,0,How to express a talent?, Entertain others.,6

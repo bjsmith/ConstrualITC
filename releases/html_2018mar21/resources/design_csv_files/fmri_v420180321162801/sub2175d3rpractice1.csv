@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2175,1,R,,,,,1.54154204165,,,,,40,1,,5,90,0,3,3,0.613707627661,1,How to consume alcohol?, Drink wine.,5
+2175,2,R,,,,,2.83720105199,,,,,21,1,,5,90,0,3,3,0.911782671085,2,How to show appreciation?, Give applause.,5
+2175,3,L,,,,,2.47763504857,,,,,25,1,,5,90,0,3,3,1.02471872955,3,Why clap hands?, Give applause.,1
+2175,4,L,,,,,0.596054910605,,,,,31,1,,5,90,0,3,3,0.945831701902,0,Why wear ties?, Dress formally.,1

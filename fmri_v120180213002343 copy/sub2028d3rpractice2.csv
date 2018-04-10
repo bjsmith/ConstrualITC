@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,2,,,,,3.02965688417,,,,,23,1,,5,90,0,3,4,1.53714026591,0,How to satisfy a need?, Make a purchase.,6
+2028,2,1,,,,,2.12632278082,,,,,37,1,,5,90,0,3,4,1.59131325962,0,How to feel productive?, Finish a job.,6
+2028,3,1,,,,,0.563579843933,,,,,35,1,,5,90,0,3,4,1.54557693328,1,Why use a comb?, Write a song.,1
+2028,4,2,,,,,2.39390533433,,,,,28,1,,5,90,0,3,4,2.7122342407,0,Why use a remote?, Watch television.,1

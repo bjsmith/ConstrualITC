@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2154,1,R,,,,,3.24206667164,,,,,38,1,,5,90,0,2,4,0.754706963544,2,How to gain knowledge?, Read articles.,5
+2154,2,L,,,,,1.22827825039,,,,,28,1,,5,90,0,2,4,0.615976406521,3,How to teach others?, Give a lecture.,5
+2154,3,R,,,,,3.34728281643,,,,,21,1,,5,90,0,2,4,1.47058855361,1,Why provide food?, Help a person.,3
+2154,4,L,,,,,0.744356183824,,,,,36,1,,5,90,0,2,4,1.51771511727,0,Why give to charity?, Support a cause.,3

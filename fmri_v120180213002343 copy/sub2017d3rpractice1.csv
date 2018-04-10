@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2017,1,2,,,,,0.776170621969,,,,,31,1,,5,90,0,3,3,1.2539972989,0,How to make art?, Paint a picture.,5
+2017,2,1,,,,,2.19164370738,,,,,32,1,,5,90,0,3,3,2.79622127089,0,How to contact a friend?, Make a phone call.,5
+2017,3,2,,,,,2.18554204857,,,,,24,1,,5,90,0,3,3,2.09898353625,1,Why open a browser?, Write an email.,2
+2017,4,1,,,,,2.81517321285,,,,,30,1,,5,90,0,3,3,1.53981705349,0,Why consume caffeine?, Stay alert.,2

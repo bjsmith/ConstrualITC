@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2027,1,1,,,,,1.09062769283,,,,,30,1,,5,90,0,2,1,1.42497699305,0,Why wash ones hands?, Kill germs.,1
+2027,2,2,,,,,2.88448738046,,,,,32,1,,5,90,0,2,1,1.04223028654,0,Why point a camera?, Take a picture.,1
+2027,3,1,,,,,1.35270688497,,,,,33,1,,5,90,0,2,1,1.59241648356,0,Why clip coupons?, Save money.,2
+2027,4,2,,,,,2.78554251634,,,,,25,1,,5,90,0,2,1,1.16539108104,0,Why teach a class?, Obey laws.,2
+2027,5,1,,,,,1.45371082732,,,,,34,1,,5,90,0,2,1,1.11732454114,0,How to feel connected?, Contact a friend.,6
+2027,6,2,,,,,1.32407963453,,,,,28,1,,5,90,0,2,1,2.58446805558,0,How to impress others?, Show intelligence.,6
+2027,7,1,,,,,1.41082905337,,,,,36,1,,5,90,0,2,1,1.15984438069,0,Why make art?, Show creativity.,3
+2027,8,2,,,,,1.25207309223,,,,,29,1,,5,90,0,2,1,1.17103541875,0,Why finish a job?, Feel productive.,3
+2027,9,2,,,,,3.41526193957,,,,,31,1,,5,90,0,2,1,1.4245171449,0,How to lift weights?, Fasten seatbelt.,4
+2027,10,1,,,,,1.85431751675,,,,,26,1,,5,90,0,2,1,1.05822114671,0,How to dress formally?, Wear ties. ,4
+2027,11,1,,,,,5.43803400239,,,,,23,1,,5,90,0,2,1,4.31569252769,0,How to save money?, Clip coupons.,5
+2027,12,2,,,,,1.19990812276,,,,,27,1,,5,90,0,2,1,2.57981901874,0,How to build muscles?, Lift weights.,5
+2027,13,1,,,,,1.0381795871,,,,,21,1,,5,90,0,2,1,1.23065945057,0,Why show courtesy?, Make a friend.,3
+2027,14,1,,,,,3.8713604376,,,,,24,1,,5,90,0,2,1,1.93675557907,0,Why show intelligence?, Impress others.,3
+2027,15,2,,,,,1.13579835533,,,,,40,1,,5,90,0,2,1,1.36936072115,0,How to participate in class?, Raise a hand.,4
+2027,16,2,,,,,1.2258566753,,,,,35,1,,5,90,0,2,1,1.22485509099,0,How to go shopping?, Use credit cards.,4
+2027,17,2,,,,,2.03770238139,,,,,20,1,,5,90,0,2,1,3.3736419885,0,How to feel well?, Reduce pain.,6
+2027,18,1,,,,,2.06767672761,,,,,38,1,,5,90,0,2,1,3.51335171317,0,How to avoid boredom?, Entertain oneself.,6
+2027,19,1,,,,,1.40194199296,,,,,39,1,,5,90,0,2,1,2.61181941457,0,Why consume medicine?, Reduce pain.,2
+2027,20,1,,,,,1.7757661042,,,,,22,1,,5,90,0,2,1,1.92518179373,0,Why make a phone call?, Contact a friend.,2
+2027,21,1,,,,,2.53687515717,,,,,40,1,,5,90,0,2,1,3.19444927483,0,Why lift a glass?, Drink wine.,1
+2027,22,2,,,,,1.91987311847,,,,,20,1,,5,90,0,2,1,2.39802982045,0,Why use chalk?, Get fit.,1
+2027,23,1,,,,,1.0509143135,,,,,27,1,,5,90,0,2,1,1.28868901185,1,How to entertain oneself?, Watch television.,5
+2027,24,1,,,,,1.01440157404,,,,,21,1,,5,90,0,2,1,1.16271791566,0,How to entertain others?, Write a song.,5
+2027,25,2,,,,,1.06804554606,,,,,31,1,,5,90,0,2,1,1.32927211619,0,Why contact a friend?, Feel connected.,3
+2027,26,2,,,,,2.60583139929,,,,,33,1,,5,90,0,2,1,1.50825341608,0,Why hold a party?, Feel sociable.,3
+2027,27,2,,,,,1.86923930331,,,,,26,1,,5,90,0,2,1,1.65616819876,0,How to show appreciation?, Give applause.,5
+2027,28,2,,,,,1.12769573196,,,,,23,1,,5,90,0,2,1,1.43029029279,0,How to consume alcohol?, Drink wine.,5
+2027,29,2,,,,,2.89017923254,,,,,24,1,,5,90,0,2,1,2.86436535599,0,Why drink wine?, Consume alcohol.,2
+2027,30,1,,,,,1.88498031668,,,,,39,1,,5,90,0,2,1,1.07854130661,0,Why kill germs?, Avoid diseases.,2
+2027,31,2,,,,,1.66329630694,,,,,30,1,,5,90,0,2,1,3.51368862754,0,How to open a browser?, Click a mouse.,4
+2027,32,1,,,,,2.24077710118,,,,,37,1,,5,90,0,2,1,1.40642171679,0,How to read articles?, Open a magazine.,4
+2027,33,2,,,,,1.31524026656,,,,,22,1,,5,90,0,2,1,2.3591835733,0,Why turn a doorknob?, Enter a classroom.,1
+2027,34,1,,,,,4.79009480582,,,,,34,1,,5,90,0,2,1,1.45343599437,0,Why click a mouse?, Open a browser.,1
+2027,35,2,,,,,2.8132072815,,,,,32,1,,5,90,0,2,1,4.38277037223,0,How to show intellect?, Share ideas.,6
+2027,36,1,,,,,1.1316207479,,,,,36,1,,5,90,0,2,1,2.55970035786,0,How to spread knowledge?, Teach others.,6

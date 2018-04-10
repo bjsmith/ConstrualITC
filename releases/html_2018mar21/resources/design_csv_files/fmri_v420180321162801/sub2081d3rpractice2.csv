@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2081,1,L,,,,,1.01294962578,,,,25,30,1,,7,,1,3,4,0.595841241088,0,Why use chalk?, Get fit.,1
+2081,2,R,,,,,2.39300211685,,,,25,30,1,,9,,1,3,4,0.935941764743,2,Why point a camera?, Take a picture.,1
+2081,3,L,,,,,1.85778312145,,,,25,30,1,,5,,1,3,4,2.03146691582,3,How to make art?, Paint a picture.,5
+2081,4,R,,,,,2.83352597726,,,,25,30,1,,1,,1,3,4,0.585408055775,1,How to give to charity?, Use a camera.,5

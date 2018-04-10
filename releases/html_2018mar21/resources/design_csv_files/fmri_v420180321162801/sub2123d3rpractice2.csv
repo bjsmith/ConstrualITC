@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2123,1,L,,,,,3.62514193898,,,,25,30,1,,1,,1,3,4,0.62414650694,3,How to reduce worry?, Plan ahead.,6
+2123,2,L,,,,,0.654807915362,,,,25,30,1,,9,,1,3,4,1.79139588254,0,How to get a degree?, Attend a school.,6
+2123,3,R,,,,,1.75690457705,,,,25,30,1,,2,,1,3,4,0.541528385997,1,Why show courtesy?, Make a friend.,3
+2123,4,R,,,,,1.34613410597,,,,25,30,1,,7,,1,3,4,0.507232235316,2,Why finish a job?, Feel productive.,3

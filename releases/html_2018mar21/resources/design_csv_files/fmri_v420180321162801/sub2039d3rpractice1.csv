@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2039,1,R,,,,,3.20416855987,,,,,27,1,,5,90,0,3,3,1.80771011707,1,How to satisfy a need?, Make a purchase.,6
+2039,2,R,,,,,1.02642185858,,,,,38,1,,5,90,0,3,3,0.727055879787,2,How to spread joy?, Get a job.,6
+2039,3,L,,,,,2.8104095257,,,,,23,1,,5,90,0,3,3,0.979399697985,0,Why plan ahead?, Reduce worry.,3
+2039,4,L,,,,,1.81535006739,,,,,28,1,,5,90,0,3,3,0.543516995874,3,Why show competence?, Pass the time.,3

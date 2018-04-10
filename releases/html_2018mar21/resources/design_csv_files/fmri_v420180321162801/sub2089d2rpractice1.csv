@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2089,1,R,,,,,3.04028644246,,,,,32,1,,5,90,0,2,3,1.02300256533,3,Why write a poem?, Express an idea.,2
+2089,2,L,,,,,1.6839887925,,,,,30,1,,5,90,0,2,3,1.418292204,2,Why give a lecture?, Teach others.,2
+2089,3,R,,,,,1.41571538563,,,,,26,1,,5,90,0,2,3,0.546881768836,1,Why show appreciation?, Spread joy.,3
+2089,4,L,,,,,2.0074647249,,,,,31,1,,5,90,0,2,3,0.829877129327,0,Why show intelligence?, Impress others.,3

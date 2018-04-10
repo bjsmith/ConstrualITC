@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2148,1,L,,,,,2.14123069823,,,,,27,1,,5,90,0,3,4,0.764717258694,1,How to participate in class?, Raise a hand.,4
+2148,2,R,,,,,2.58551171369,,,,,29,1,,5,90,0,3,4,0.737173106564,3,How to paint a picture?, Use a brush.,4
+2148,3,R,,,,,1.29214182507,,,,,38,1,,5,90,0,3,4,1.65719550068,2,How to support a cause?, Give to charity.,6
+2148,4,L,,,,,1.59932011033,,,,,31,1,,5,90,0,3,4,0.802074627829,0,How to show intellect?, Share ideas.,6

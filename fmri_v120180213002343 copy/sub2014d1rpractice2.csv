@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2014,1,1,,,,,1.18251540361,,,,,23,1,,5,90,0,1,4,2.34493111944,0,How to give applause?, Clap hands.,4
+2014,2,2,,,,,0.56359089344,,,,,37,1,,5,90,0,1,4,2.84529632804,0,How to watch television?, Use a remote.,4
+2014,3,2,,,,,0.776427793541,,,,,28,1,,5,90,0,1,4,1.00761507838,0,How to contact a friend?, Make a phone call.,5
+2014,4,2,,,,,3.25425525214,,,,,36,1,,5,90,0,1,4,0.719983091455,0,How to make a purchase?, Go shopping.,5
+2014,5,1,,,,,1.5061337535,,,,,39,1,,5,90,0,1,4,0.934376187537,0,Why cut paper?, Clip coupons.,1
+2014,6,2,,,,,0.801422879264,,,,,27,1,,5,90,0,1,4,0.604671291631,0,Why raise a hand?, Participate in class.,1
+2014,7,1,,,,,1.07164635697,,,,,22,1,,5,90,0,1,4,2.02523496623,0,Why show appreciation?, Spread joy.,3
+2014,8,1,,,,,0.64780891255,,,,,38,1,,5,90,0,1,4,1.91879232828,0,Why share ideas?, Show intellect.,3
+2014,9,2,,,,,4.00980162169,,,,,20,1,,5,90,0,1,4,1.58441023148,0,How to show cleanliness?, Write an email.,6
+2014,10,1,,,,,1.88707949199,,,,,40,1,,5,90,0,1,4,2.01948085601,1,How to improve oneself?, Gain knowledge.,6
+2014,11,2,,,,,6.39877941374,,,,,31,1,,5,90,0,1,4,2.5921383817,0,Why consume medicine?, Reduce pain.,2
+2014,12,1,,,,,1.42020331727,,,,,25,1,,5,90,0,1,4,4.862473346,0,Why paint a picture?, Make art.,2

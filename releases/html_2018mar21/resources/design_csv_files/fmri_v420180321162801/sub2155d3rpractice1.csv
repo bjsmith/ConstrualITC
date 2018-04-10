@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2155,1,L,,,,,1.95662958803,,,,,22,1,,5,90,0,3,3,0.940362256538,2,How to show ambition?, Serve alcohol.,5
+2155,2,L,,,,,2.1078637483,,,,,34,1,,5,90,0,3,3,0.595731413061,3,How to plan ahead?, Make a list.,5
+2155,3,R,,,,,2.55709453515,,,,,38,1,,5,90,0,3,3,1.31724196648,0,How to spread knowledge?, Teach others.,6
+2155,4,R,,,,,1.38081545285,,,,,25,1,,5,90,0,3,3,0.513485039676,1,How to feel sociable?, Hold a party.,6

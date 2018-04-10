@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,L,,,,,2.02430024123,,,,,37,1,,5,90,0,1,3,2.28324288376,6,Why sign ones name?, Write a check.,1
+2023,2,R,,,,,2.45427718699,,,,,25,1,,5,90,0,1,3,0.526431649275,4,Why use a remote?, Watch television.,1
+2023,3,L,,,,,0.693898238464,,,,,40,1,,5,90,0,1,3,0.95131573371,10,How to spread joy?, Get a job.,6
+2023,4,L,,,,,1.66800944178,,,,,36,1,,5,90,0,1,3,0.830809545344,11,How to impress others?, Show intelligence.,6
+2023,5,L,,,,,1.66683727006,,,,,26,1,,5,90,0,1,3,0.963912813177,0,How to avoid diseases?, Kill germs.,5
+2023,6,L,,,,,0.630295356208,,,,,20,1,,5,90,0,1,3,0.720968628202,8,How to show ambition?, Serve alcohol.,5
+2023,7,R,,,,,1.57478692832,,,,,27,1,,5,90,0,1,3,0.659151695442,2,Why dress formally?, Get a promotion.,2
+2023,8,R,,,,,5.45274332477,,,,,24,1,,5,90,0,1,3,0.726673321932,3,Why consume caffeine?, Stay alert.,2
+2023,9,R,,,,,1.5538314463,,,,,28,1,,5,90,0,1,3,0.725007427167,5,Why give to charity?, Support a cause.,3
+2023,10,R,,,,,2.93170088002,,,,,32,1,,5,90,0,1,3,0.861983131969,1,Why reduce pain?, Feel well.,3
+2023,11,R,,,,,1.35859081272,,,,,38,1,,5,90,0,1,3,0.505891822303,9,How to go shopping?, Use credit cards.,4
+2023,12,L,,,,,1.10734299862,,,,,22,1,,5,90,0,1,3,1.75765562521,7,How to give a lecture?, Brush ones hair.,4

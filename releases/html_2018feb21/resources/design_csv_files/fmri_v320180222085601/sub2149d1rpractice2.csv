@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2149,1,R,,,,,2.08288347492,,,,25,30,1,,9,,1,1,4,0.706470920509,4,Why open a bottle?, Consume medicine.,1
+2149,2,L,,,,,2.33943682682,,,,25,30,1,,4,,1,1,4,0.537512030276,1,Why use credit cards?, Go shopping.,1
+2149,3,R,,,,,2.83680192142,,,,25,30,1,,7,,1,1,4,0.866033435971,10,How to feel well?, Reduce pain.,6
+2149,4,L,,,,,1.1237833338,,,,25,30,1,,1,,1,1,4,0.922622931179,8,How to show intellect?, Share ideas.,6
+2149,5,L,,,,,1.87560119631,,,,25,30,1,,5,,1,1,4,0.656227559651,11,How to contact a friend?, Make a phone call.,5
+2149,6,R,,,,,0.610221621058,,,,25,30,1,,2,,1,1,4,1.21547499561,5,How to make a donation?, Mix a cocktail.,5
+2149,7,R,,,,,1.26649996234,,,,25,30,1,,8,,1,1,4,1.4965411405,9,Why make breakfast?, Satisfy hunger.,2
+2149,8,L,,,,,2.55267560934,,,,25,30,1,,6,,1,1,4,1.17683742825,3,Why teach a class?, Obey laws.,2
+2149,9,R,,,,,1.2596236944,,,,25,30,1,,8,,1,1,4,1.65138947598,2,Why reduce pain?, Feel well.,3
+2149,10,L,,,,,2.53148612607,,,,25,30,1,,4,,1,1,4,0.697595466274,6,Why keep a memory?, Feel nostalgia.,3
+2149,11,R,,,,,2.42238486766,,,,25,30,1,,7,,1,1,4,1.10155128837,0,How to take a picture?, Point a camera.,4
+2149,12,L,,,,,2.5730776101,,,,25,30,1,,9,,1,1,4,0.871499789192,7,How to prepare meals?, Follow recipes.,4

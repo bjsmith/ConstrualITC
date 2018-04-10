@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2150,1,L,,,,,1.30681254979,,,,,34,1,,5,90,0,2,4,0.568964720174,2,Why save money?, Get fit.,3
+2150,2,R,,,,,0.760618388739,,,,,22,1,,5,90,0,2,4,0.744937618685,3,Why get a promotion?, Achieve success.,3
+2150,3,L,,,,,1.87827482349,,,,,40,1,,5,90,0,2,4,0.943846475349,1,Why open a bottle?, Consume medicine.,1
+2150,4,R,,,,,3.30621047331,,,,,23,1,,5,90,0,2,4,0.993238351478,0,Why follow recipes?, Prepare meals.,1

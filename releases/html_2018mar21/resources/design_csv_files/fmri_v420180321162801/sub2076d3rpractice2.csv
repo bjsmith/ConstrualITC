@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2076,1,R,,,,,0.570164368123,,,,,36,1,,5,90,0,3,4,0.82214121755,1,Why keep a memory?, Feel nostalgia.,3
+2076,2,L,,,,,0.726082138028,,,,,28,1,,5,90,0,3,4,1.01876840252,0,Why share ideas?, Show intellect.,3
+2076,3,L,,,,,6.48053058237,,,,,26,1,,5,90,0,3,4,1.05223953089,3,How to spread knowledge?, Teach others.,6
+2076,4,R,,,,,0.877221608148,,,,,33,1,,5,90,0,3,4,1.60820909546,2,How to improve oneself?, Gain knowledge.,6

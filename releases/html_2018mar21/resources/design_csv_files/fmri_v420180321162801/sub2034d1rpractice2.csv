@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2034,1,R,,,,,1.44688131387,,,,,26,1,,5,90,0,1,4,0.700882894605,1,Why finish a job?, Feel productive.,3
+2034,2,R,,,,,0.83786364046,,,,,40,1,,5,90,0,1,4,0.940759850227,9,Why keep a memory?, Feel nostalgia.,3
+2034,3,R,,,,,0.535734033266,,,,,29,1,,5,90,0,1,4,0.502197825789,8,Why give applause?, Show appreciation.,2
+2034,4,R,,,,,2.500026666,,,,,30,1,,5,90,0,1,4,0.901684526306,4,Why drink wine?, Consume alcohol.,2
+2034,5,L,,,,,0.617993465186,,,,,20,1,,5,90,0,1,4,1.01122671618,7,Why use a remote?, Watch television.,1
+2034,6,R,,,,,2.37732148019,,,,,31,1,,5,90,0,1,4,0.546708402045,11,Why follow recipes?, Prepare meals.,1
+2034,7,L,,,,,0.735753386882,,,,,25,1,,5,90,0,1,4,2.68130619809,0,How to improve oneself?, Gain knowledge.,6
+2034,8,L,,,,,1.9097540692,,,,,37,1,,5,90,0,1,4,1.00329821771,5,How to satisfy a need?, Make a purchase.,6
+2034,9,R,,,,,0.59957350029,,,,,24,1,,5,90,0,1,4,0.566771151198,6,How to paint a picture?, Use a brush.,4
+2034,10,L,,,,,3.55809442379,,,,,27,1,,5,90,0,1,4,0.657241599077,2,How to consume medicine?, Take pills. ,4
+2034,11,L,,,,,2.96025935871,,,,,22,1,,5,90,0,1,4,1.24330287323,10,How to save money?, Clip coupons.,5
+2034,12,L,,,,,6.05151471715,,,,,32,1,,5,90,0,1,4,0.639028500042,3,How to avoid diseases?, Kill germs.,5

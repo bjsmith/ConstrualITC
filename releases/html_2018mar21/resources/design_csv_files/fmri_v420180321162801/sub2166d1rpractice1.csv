@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2166,1,L,,,,,2.81389525536,,,,25,30,1,,4,,1,1,3,0.839195511187,9,How to entertain others?, Write a song.,5
+2166,2,R,,,,,0.610422865076,,,,25,30,1,,9,,1,1,3,0.531743274815,3,How to teach others?, Give a lecture.,5
+2166,3,L,,,,,1.10227074899,,,,25,30,1,,6,,1,1,3,0.744353008743,8,Why consume caffeine?, Stay alert.,2
+2166,4,R,,,,,0.60876023643,,,,25,30,1,,8,,1,1,3,0.504381568565,6,Why clip coupons?, Save money.,2
+2166,5,L,,,,,0.969117919289,,,,25,30,1,,7,,1,1,3,1.07626378285,1,Why save money?, Get fit.,3
+2166,6,R,,,,,3.86458126269,,,,25,30,1,,3,,1,1,3,0.673798255468,7,Why share ideas?, Show intellect.,3
+2166,7,R,,,,,0.803211738677,,,,25,30,1,,1,,1,1,3,3.03785142967,11,How to feel productive?, Finish a job.,6
+2166,8,L,,,,,0.507391463397,,,,25,30,1,,2,,1,1,3,0.854321270706,4,How to feel nostalgia?, Keep a memory.,6
+2166,9,L,,,,,1.79977603817,,,,25,30,1,,7,,1,1,3,1.20113064708,2,Why turn a doorknob?, Enter a classroom.,1
+2166,10,R,,,,,3.59221220139,,,,25,30,1,,4,,1,1,3,0.534859229525,10,Why use credit cards?, Go shopping.,1
+2166,11,L,,,,,1.17262462731,,,,25,30,1,,5,,1,1,3,0.672128404066,0,How to paint a picture?, Use a brush.,4
+2166,12,R,,,,,5.60061926387,,,,25,30,1,,9,,1,1,3,0.818701975961,5,How to prepare meals?, Follow recipes.,4

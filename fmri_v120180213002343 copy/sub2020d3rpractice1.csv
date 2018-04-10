@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,1,,,,,1.34294946682,,,,25,30,1,,8,,1,3,3,0.790157426264,0,Why show intelligence?, Impress others.,3
+2020,2,2,,,,,1.55144386934,,,,25,30,1,,7,,1,3,3,2.90321505712,0,Why contact a friend?, Feel connected.,3
+2020,3,1,,,,,1.38126732261,,,,25,30,1,,3,,1,3,3,3.12951533052,1,How to dress formally?, Wear ties. ,4
+2020,4,2,,,,,3.25728403591,,,,25,30,1,,2,,1,3,3,0.708343737907,0,How to make breakfast?, Crack eggs.,4

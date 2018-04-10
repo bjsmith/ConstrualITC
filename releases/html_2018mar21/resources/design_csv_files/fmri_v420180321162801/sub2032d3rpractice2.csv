@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2032,1,L,,,,,1.42737801104,,,,,36,1,,5,90,0,3,4,0.761171427931,3,Why show intelligence?, Impress others.,3
+2032,2,R,,,,,5.25644800835,,,,,25,1,,5,90,0,3,4,0.590775604029,0,Why avoid diseases?, Live a long life.,3
+2032,3,L,,,,,1.59876617175,,,,,21,1,,5,90,0,3,4,0.6500837452,1,How to spread knowledge?, Teach others.,6
+2032,4,R,,,,,0.706289180831,,,,,40,1,,5,90,0,3,4,1.15713811715,2,How to impress others?, Show intelligence.,6

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2083,1,L,,,,,3.7911339804,,,,,32,1,,5,90,0,1,3,0.54120876466,6,Why finish a job?, Feel productive.,3
+2083,2,R,,,,,1.42973770185,,,,,38,1,,5,90,0,1,3,0.980878557132,8,Why save money?, Get fit.,3
+2083,3,R,,,,,2.40052741417,,,,,27,1,,5,90,0,1,3,0.679401632246,1,How to feel productive?, Finish a job.,6
+2083,4,L,,,,,0.690844371547,,,,,35,1,,5,90,0,1,3,1.17456376104,11,How to show cleanliness?, Write an email.,6
+2083,5,L,,,,,1.777722974,,,,,25,1,,5,90,0,1,3,1.38726898194,10,Why make a list?, Plan ahead.,2
+2083,6,R,,,,,1.40802475302,,,,,37,1,,5,90,0,1,3,1.29638917234,4,Why give a lecture?, Teach others.,2
+2083,7,L,,,,,3.0262489628,,,,,34,1,,5,90,0,1,3,0.872997110624,9,How to paint a picture?, Use a brush.,4
+2083,8,R,,,,,0.51634815358,,,,,30,1,,5,90,0,1,3,1.09708760997,0,How to lift weights?, Fasten seatbelt.,4
+2083,9,L,,,,,2.77722166118,,,,,31,1,,5,90,0,1,3,1.18046873928,7,Why use credit cards?, Go shopping.,1
+2083,10,R,,,,,2.1038707613,,,,,36,1,,5,90,0,1,3,0.506992189746,5,Why open a magazine?, Read articles.,1
+2083,11,L,,,,,0.535113991843,,,,,26,1,,5,90,0,1,3,1.4903413284,3,How to teach others?, Give a lecture.,5
+2083,12,R,,,,,3.54661947526,,,,,23,1,,5,90,0,1,3,0.648158339881,2,How to consume alcohol?, Drink wine.,5

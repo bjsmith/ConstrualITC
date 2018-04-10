@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2025,1,1,,,,,1.52983948947,,,,,28,1,,5,90,0,2,3,0.618721662732,0,How to open a browser?, Click a mouse.,4
+2025,2,1,,,,,3.92996439595,,,,,37,1,,5,90,0,2,3,0.804974781345,0,Why open a browser?, Write an email.,2
+2025,3,2,,,,,1.8979672604,,,,,26,1,,5,90,0,2,3,0.684256248963,0,How to provide food?, Prepare meals.,5
+2025,4,2,,,,,1.23797450859,,,,,30,1,,5,90,0,2,3,1.28443434077,1,Why show competence?, Pass the time.,3

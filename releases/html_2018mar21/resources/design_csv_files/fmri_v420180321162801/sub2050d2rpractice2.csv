@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2050,1,R,,,,,3.24811138435,,,,,39,1,,5,90,0,2,4,0.835024436637,2,How to contact a friend?, Make a phone call.,5
+2050,2,L,,,,,3.09707415332,,,,,21,1,,5,90,0,2,4,0.680510045192,1,How to make a purchase?, Go shopping.,5
+2050,3,R,,,,,0.873427537031,,,,,23,1,,5,90,0,2,4,0.784256295697,0,Why use a comb?, Write a song.,1
+2050,4,L,,,,,0.578969045801,,,,,38,1,,5,90,0,2,4,2.00718871591,3,Why use credit cards?, Go shopping.,1

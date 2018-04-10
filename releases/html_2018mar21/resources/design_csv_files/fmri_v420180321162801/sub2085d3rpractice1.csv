@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2085,1,L,,,,,1.26057606449,,,,,31,1,,5,90,0,3,3,0.633572258918,0,How to make a phone call?, Dial numbers.,4
+2085,2,L,,,,,2.44630440604,,,,,21,1,,5,90,0,3,3,0.658071496404,2,How to give a lecture?, Brush ones hair.,4
+2085,3,R,,,,,0.593704086314,,,,,25,1,,5,90,0,3,3,0.896900533181,3,How to show cleanliness?, Write an email.,6
+2085,4,R,,,,,4.5673266156,,,,,39,1,,5,90,0,3,3,0.969964891671,1,How to reduce worry?, Plan ahead.,6

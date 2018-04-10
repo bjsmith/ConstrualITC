@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2067,1,R,,,,,0.591180950255,,,,,25,1,,5,90,0,1,3,0.941850634822,0,How to get a degree?, Attend a school.,6
+2067,2,R,,,,,2.77184570749,,,,,35,1,,5,90,0,1,3,2.03065691912,8,How to satisfy a need?, Make a purchase.,6
+2067,3,L,,,,,0.97410664353,,,,,31,1,,5,90,0,1,3,0.650758777087,3,How to build muscles?, Lift weights.,5
+2067,4,L,,,,,4.12392837551,,,,,22,1,,5,90,0,1,3,0.663991973941,2,How to plan ahead?, Make a list.,5
+2067,5,L,,,,,2.87528009369,,,,,40,1,,5,90,0,1,3,2.11435212627,10,Why plan ahead?, Reduce worry.,3
+2067,6,R,,,,,2.11474192596,,,,,28,1,,5,90,0,1,3,0.618352741988,1,Why make art?, Show creativity.,3
+2067,7,L,,,,,1.83545108532,,,,,38,1,,5,90,0,1,3,0.976304706231,4,Why watch television?, Show competence.,2
+2067,8,L,,,,,2.06908393752,,,,,29,1,,5,90,0,1,3,1.13348379708,7,Why teach a class?, Obey laws.,2
+2067,9,R,,,,,2.62517077975,,,,,33,1,,5,90,0,1,3,0.559335792125,5,Why raise a hand?, Participate in class.,1
+2067,10,L,,,,,1.14579407771,,,,,21,1,,5,90,0,1,3,0.532714136883,6,Why use a brush?, Paint a picture.,1
+2067,11,R,,,,,1.77929437582,,,,,23,1,,5,90,0,1,3,0.723615061615,11,How to go shopping?, Use credit cards.,4
+2067,12,R,,,,,1.44001274335,,,,,24,1,,5,90,0,1,3,1.55895192404,9,How to lift weights?, Fasten seatbelt.,4

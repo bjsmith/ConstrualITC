@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2167,1,R,,,,,1.03346798942,,,,25,30,1,,2,,1,1,4,0.742656151959,6,How to teach others?, Give a lecture.,5
+2167,2,L,,,,,5.69112084879,,,,25,30,1,,3,,1,1,4,0.542032597269,1,How to save money?, Clip coupons.,5
+2167,3,L,,,,,1.11738298515,,,,25,30,1,,4,,1,1,4,1.44421942908,10,How to make a list?, Throw away trash.,4
+2167,4,L,,,,,2.13827772852,,,,25,30,1,,1,,1,1,4,1.04426534128,4,How to lift weights?, Fasten seatbelt.,4
+2167,5,R,,,,,1.46417367542,,,,25,30,1,,6,,1,1,4,0.895336518604,9,Why use credit cards?, Go shopping.,1
+2167,6,L,,,,,3.56471316008,,,,25,30,1,,9,,1,1,4,0.637783253284,3,Why take aspirin?, Serve alcohol.,1
+2167,7,R,,,,,1.57963591882,,,,25,30,1,,8,,1,1,4,0.526496814829,11,Why show courtesy?, Make a friend.,3
+2167,8,R,,,,,2.23378338603,,,,25,30,1,,7,,1,1,4,2.55544417065,8,Why show appreciation?, Spread joy.,3
+2167,9,L,,,,,1.4222960782,,,,25,30,1,,4,,1,1,4,0.654793855746,5,Why clip coupons?, Save money.,2
+2167,10,R,,,,,1.01004522292,,,,25,30,1,,9,,1,1,4,0.787001820245,2,Why make a phone call?, Contact a friend.,2
+2167,11,L,,,,,0.867230906867,,,,25,30,1,,7,,1,1,4,1.56775435986,7,How to feel productive?, Finish a job.,6
+2167,12,R,,,,,1.01044540898,,,,25,30,1,,1,,1,1,4,0.71153471877,0,How to get a degree?, Attend a school.,6

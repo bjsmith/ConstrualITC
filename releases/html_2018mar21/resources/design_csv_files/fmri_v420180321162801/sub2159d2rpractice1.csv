@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2159,1,R,,,,,5.02995777687,,,,,28,1,,5,90,0,2,3,0.57221068143,0,Why attend a school?, Get a degree.,3
+2159,2,L,,,,,1.11014800638,,,,,38,1,,5,90,0,2,3,0.908765652331,1,Why keep a memory?, Feel nostalgia.,3
+2159,3,L,,,,,0.603218817012,,,,,33,1,,5,90,0,2,3,0.738884333068,2,How to show ambition?, Serve alcohol.,5
+2159,4,R,,,,,0.5603753529,,,,,20,1,,5,90,0,2,3,1.9525036662,3,How to give to charity?, Use a camera.,5

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2158,1,L,,,,,4.63812942472,,,,,35,1,,5,90,0,3,4,0.729229642941,3,Why give a lecture?, Teach others.,2
+2158,2,R,,,,,1.01363645135,,,,,28,1,,5,90,0,3,4,1.19487715925,1,Why watch television?, Show competence.,2
+2158,3,L,,,,,2.45919337167,,,,,31,1,,5,90,0,3,4,0.774560083155,0,How to reduce worry?, Plan ahead.,6
+2158,4,R,,,,,0.721987512823,,,,,25,1,,5,90,0,3,4,1.49746340111,2,How to show cleanliness?, Write an email.,6

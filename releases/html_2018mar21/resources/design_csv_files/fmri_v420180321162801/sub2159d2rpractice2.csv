@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2159,1,R,,,,,0.904566539386,,,,25,30,1,,9,,1,2,4,0.551843659123,2,How to get a promotion?, Arrive on time.,5
+2159,2,R,,,,,1.58114158981,,,,25,30,1,,2,,1,2,4,0.817387665597,3,How to avoid diseases?, Kill germs.,5
+2159,3,L,,,,,1.51721772772,,,,25,30,1,,1,,1,2,4,1.07777909423,1,How to write a song?, Play piano.,4
+2159,4,L,,,,,3.03431987061,,,,25,30,1,,5,,1,2,4,1.01865035048,0,How to paint a picture?, Use a brush.,4

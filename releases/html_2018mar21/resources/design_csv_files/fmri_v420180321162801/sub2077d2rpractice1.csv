@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2077,1,L,,,,,5.00062666845,,,,,26,1,,5,90,0,2,3,0.989586296571,0,Why wear ties?, Dress formally.,1
+2077,2,R,,,,,1.48482252367,,,,,40,1,,5,90,0,2,3,1.40276214766,1,Why use credit cards?, Go shopping.,1
+2077,3,L,,,,,1.08841511966,,,,,21,1,,5,90,0,2,3,0.857539128273,2,How to avoid boredom?, Entertain oneself.,6
+2077,4,R,,,,,0.759583245912,,,,,38,1,,5,90,0,2,3,0.726132304083,3,How to show an ability?, Satisfy hunger.,6

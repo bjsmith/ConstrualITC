@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,R,,,,,1.6784270278,,,,,40,1,,5,90,0,1,4,0.529027180313,3,Why kill germs?, Avoid diseases.,2
+2018,2,R,,,,,4.43706812549,,,,,22,1,,5,90,0,1,4,1.1177053973,2,Why read articles?, Gain knowledge.,2
+2018,3,L,,,,,3.75414472683,,,,,26,1,,5,90,0,1,4,0.639660932842,7,How to show ambition?, Serve alcohol.,5
+2018,4,L,,,,,1.570535766,,,,,31,1,,5,90,0,1,4,1.29941203929,10,How to plan ahead?, Make a list.,5
+2018,5,R,,,,,0.768824533266,,,,,25,1,,5,90,0,1,4,2.48421437433,4,Why finish a job?, Feel productive.,3
+2018,6,L,,,,,1.10712129044,,,,,30,1,,5,90,0,1,4,1.08810072672,9,Why show appreciation?, Spread joy.,3
+2018,7,L,,,,,1.06859541489,,,,,29,1,,5,90,0,1,4,0.778936796886,6,Why take aspirin?, Serve alcohol.,1
+2018,8,R,,,,,3.40982481402,,,,,28,1,,5,90,0,1,4,0.912540421281,0,Why lift a glass?, Drink wine.,1
+2018,9,R,,,,,1.78130569987,,,,,24,1,,5,90,0,1,4,1.11456527967,8,How to spread knowledge?, Teach others.,6
+2018,10,L,,,,,0.873995871757,,,,,21,1,,5,90,0,1,4,0.774668104464,5,How to avoid boredom?, Entertain oneself.,6
+2018,11,L,,,,,2.15241686225,,,,,39,1,,5,90,0,1,4,1.06722203278,1,How to consume medicine?, Take pills. ,4
+2018,12,R,,,,,0.529210931637,,,,,32,1,,5,90,0,1,4,0.669670903659,11,How to open a browser?, Click a mouse.,4

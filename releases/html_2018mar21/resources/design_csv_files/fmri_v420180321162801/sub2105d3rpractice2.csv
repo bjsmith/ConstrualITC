@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2105,1,R,,,,,3.44312631736,,,,25,30,1,,1,,1,3,4,0.969345092493,0,Why throw away trash?, Make a list.,1
+2105,2,L,,,,,1.3841700518,,,,25,30,1,,5,,1,3,4,0.555630647786,2,Why point a camera?, Take a picture.,1
+2105,3,R,,,,,1.32569730652,,,,25,30,1,,9,,1,3,4,0.858177968279,1,Why write a poem?, Express an idea.,2
+2105,4,L,,,,,2.54488225387,,,,25,30,1,,3,,1,3,4,1.01818660716,3,Why read articles?, Gain knowledge.,2

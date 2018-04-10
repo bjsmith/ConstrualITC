@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2067,1,R,,,,,4.41347948144,,,,25,30,1,,2,,1,3,4,2.23466136435,3,How to consume caffeine?, Press buttons.,4
+2067,2,L,,,,,0.738567525243,,,,25,30,1,,5,,1,3,4,0.623359456064,0,How to open a browser?, Click a mouse.,4
+2067,3,R,,,,,1.99520066944,,,,25,30,1,,4,,1,3,4,0.577125123323,1,How to express a talent?, Entertain others.,6
+2067,4,L,,,,,1.53282185953,,,,25,30,1,,7,,1,3,4,0.505489477719,2,How to support a cause?, Give to charity.,6

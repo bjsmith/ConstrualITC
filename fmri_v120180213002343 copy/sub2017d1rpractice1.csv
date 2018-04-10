@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2017,1,1,,,,,1.38702473675,,,,,39,1,,5,90,0,1,3,1.61904629541,0,Why turn a doorknob?, Enter a classroom.,1
+2017,2,2,,,,,0.835432296549,,,,,21,1,,5,90,0,1,3,1.11081656553,0,Why drink coffee?, Consume caffeine.,1
+2017,3,1,,,,,0.614747415932,,,,,31,1,,5,90,0,1,3,0.903557686683,0,How to avoid boredom?, Entertain oneself.,6
+2017,4,2,,,,,1.24702180365,,,,,38,1,,5,90,0,1,3,3.76703367831,0,How to support a cause?, Give to charity.,6
+2017,5,1,,,,,3.36847829291,,,,,28,1,,5,90,0,1,3,1.50789468479,0,How to make breakfast?, Crack eggs.,4
+2017,6,2,,,,,0.565790755833,,,,,30,1,,5,90,0,1,3,2.77617883014,0,How to paint a picture?, Use a brush.,4
+2017,7,1,,,,,0.531819893784,,,,,35,1,,5,90,0,1,3,0.511437735794,0,Why write a song?, Seek advice.,2
+2017,8,1,,,,,3.18024811975,,,,,29,1,,5,90,0,1,3,2.4749125176,0,Why watch television?, Show competence.,2
+2017,9,2,,,,,1.95828727041,,,,,27,1,,5,90,0,1,3,1.12133903011,0,Why make art?, Show creativity.,3
+2017,10,2,,,,,4.24685434461,,,,,22,1,,5,90,0,1,3,0.826272492609,0,Why make a purchase?, Satisfy a need.,3
+2017,11,1,,,,,0.649611237671,,,,,40,1,,5,90,0,1,3,2.87911531134,0,How to reduce pain?, Consume medicine.,5
+2017,12,2,,,,,4.54802345704,,,,,33,1,,5,90,0,1,3,3.93913218556,1,How to avoid diseases?, Kill germs.,5

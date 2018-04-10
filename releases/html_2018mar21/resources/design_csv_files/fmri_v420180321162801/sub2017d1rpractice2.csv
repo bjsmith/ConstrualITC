@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2017,1,R,,,,,2.1144142681,,,,25,30,1,,6,,1,1,4,0.943862770882,7,How to write a check?, Sign ones name.,4
+2017,2,R,,,,,0.817569742869,,,,25,30,1,,9,,1,1,4,0.719529737994,8,How to consume medicine?, Take pills. ,4
+2017,3,R,,,,,2.22046158162,,,,25,30,1,,4,,1,1,4,1.52550835161,1,Why write a poem?, Express an idea.,2
+2017,4,L,,,,,1.09056716201,,,,25,30,1,,3,,1,1,4,0.643323178137,10,Why participate in class?, Show intelligence.,2
+2017,5,L,,,,,1.14756751704,,,,25,30,1,,1,,1,1,4,0.924020264446,4,How to show cleanliness?, Write an email.,6
+2017,6,L,,,,,0.913983971301,,,,25,30,1,,5,,1,1,4,0.775097202871,6,How to avoid mistakes?, Obey laws.,6
+2017,7,L,,,,,6.43793691251,,,,25,30,1,,2,,1,1,4,1.27261971547,5,Why use credit cards?, Go shopping.,1
+2017,8,L,,,,,1.12896261872,,,,25,30,1,,7,,1,1,4,0.781116421175,9,Why use a brush?, Paint a picture.,1
+2017,9,R,,,,,0.898413390643,,,,25,30,1,,5,,1,1,4,1.58236778642,11,How to make a donation?, Mix a cocktail.,5
+2017,10,R,,,,,1.48152705396,,,,25,30,1,,1,,1,1,4,1.34317593299,2,How to teach others?, Give a lecture.,5
+2017,11,R,,,,,4.40942258757,,,,25,30,1,,6,,1,1,4,0.794107766769,3,Why show appreciation?, Spread joy.,3
+2017,12,L,,,,,1.26138958318,,,,25,30,1,,4,,1,1,4,1.47211522762,0,Why avoid diseases?, Live a long life.,3

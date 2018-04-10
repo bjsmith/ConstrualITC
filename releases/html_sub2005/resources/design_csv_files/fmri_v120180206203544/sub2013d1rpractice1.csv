@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2013,1,2,,,,,1.48159139824,,,,,25,1,,5,90,0,1,3,0.646350759455,0,How to clip coupons?, Cut paper.,4
+2013,2,2,,,,,0.69230573748,,,,,22,1,,5,90,0,1,3,1.59438723249,1,Why read articles?, Gain knowledge.,2
+2013,3,1,,,,,2.17419782051,,,,,40,1,,5,90,0,1,3,1.98059497649,0,Why open a bottle?, Consume medicine.,1
+2013,4,2,,,,,2.49614323845,,,,,38,1,,5,90,0,1,3,0.644101434012,0,How to feel productive?, Finish a job.,6
+2013,5,2,,,,,5.44953369087,,,,,23,1,,5,90,0,1,3,0.536545542004,0,How to give to charity?, Use a camera.,5
+2013,6,1,,,,,0.826639243801,,,,,36,1,,5,90,0,1,3,0.706981220872,0,Why reduce pain?, Feel well.,3
+2013,7,1,,,,,0.721413120958,,,,,35,1,,5,90,0,1,3,1.29752730312,0,How to show intellect?, Share ideas.,6
+2013,8,2,,,,,1.66772574004,,,,,28,1,,5,90,0,1,3,0.643099446453,0,How to attend a school?, Enter a classroom.,5
+2013,9,1,,,,,1.06217274571,,,,,26,1,,5,90,0,1,3,0.861753313181,0,Why open a magazine?, Read articles.,1
+2013,10,1,,,,,3.25898723554,,,,,34,1,,5,90,0,1,3,0.941363810981,0,Why avoid diseases?, Live a long life.,3
+2013,11,2,,,,,0.568300037623,,,,,27,1,,5,90,0,1,3,0.953634355681,0,How to make breakfast?, Crack eggs.,4
+2013,12,1,,,,,3.09468250074,,,,,37,1,,5,90,0,1,3,0.843588177161,0,Why make breakfast?, Satisfy hunger.,2

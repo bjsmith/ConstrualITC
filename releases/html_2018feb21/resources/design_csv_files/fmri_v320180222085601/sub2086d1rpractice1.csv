@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2086,1,R,,,,,0.768269122681,,,,25,30,1,,2,,1,1,3,0.716881985129,1,How to write a song?, Play piano.,4
+2086,2,R,,,,,2.0828692598,,,,25,30,1,,3,,1,1,3,1.80305162002,7,How to make breakfast?, Crack eggs.,4
+2086,3,R,,,,,3.01739217509,,,,25,30,1,,5,,1,1,3,0.941394606569,8,How to impress others?, Show intelligence.,6
+2086,4,L,,,,,5.71135947424,,,,25,30,1,,4,,1,1,3,0.660413311645,2,How to show an ability?, Satisfy hunger.,6
+2086,5,R,,,,,1.70548195272,,,,25,30,1,,6,,1,1,3,0.767195465473,10,Why contact a friend?, Feel connected.,3
+2086,6,L,,,,,2.53369271843,,,,25,30,1,,9,,1,1,3,1.453105126,9,Why make a purchase?, Satisfy a need.,3
+2086,7,L,,,,,0.616918622928,,,,25,30,1,,8,,1,1,3,1.33393263738,0,Why drink coffee?, Consume caffeine.,1
+2086,8,L,,,,,1.11560011393,,,,25,30,1,,7,,1,1,3,0.680981195121,4,Why raise a hand?, Participate in class.,1
+2086,9,R,,,,,1.47733765645,,,,25,30,1,,9,,1,1,3,0.547284191119,6,How to avoid diseases?, Kill germs.,5
+2086,10,R,,,,,0.885966849101,,,,25,30,1,,2,,1,1,3,0.79871004093,3,How to show appreciation?, Give applause.,5
+2086,11,L,,,,,2.7740191636,,,,25,30,1,,3,,1,1,3,1.65516717306,11,Why write a song?, Seek advice.,2
+2086,12,L,,,,,1.98884065214,,,,25,30,1,,8,,1,1,3,1.55005476593,5,Why consume caffeine?, Stay alert.,2

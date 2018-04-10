@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2058,1,L,,,,,3.17558047306,,,,,27,1,,5,90,0,1,4,0.707925336993,1,Why drink coffee?, Consume caffeine.,1
+2058,2,R,,,,,1.11244708183,,,,,24,1,,5,90,0,1,4,1.14869738342,5,Why open a magazine?, Read articles.,1
+2058,3,R,,,,,4.32837526736,,,,,22,1,,5,90,0,1,4,1.12503471529,7,How to avoid boredom?, Entertain oneself.,6
+2058,4,R,,,,,0.565112910199,,,,,35,1,,5,90,0,1,4,0.575891238448,8,How to satisfy a need?, Make a purchase.,6
+2058,5,L,,,,,1.53005325057,,,,,28,1,,5,90,0,1,4,1.64063533758,10,Why entertain others?, Express a talent.,3
+2058,6,R,,,,,0.7254256687,,,,,30,1,,5,90,0,1,4,0.834096090791,4,Why attend a school?, Get a degree.,3
+2058,7,L,,,,,2.01654126994,,,,,23,1,,5,90,0,1,4,1.11528620208,9,How to lift weights?, Fasten seatbelt.,4
+2058,8,L,,,,,1.79705358161,,,,,32,1,,5,90,0,1,4,0.52032487657,6,How to open a browser?, Click a mouse.,4
+2058,9,R,,,,,1.16209389796,,,,,40,1,,5,90,0,1,4,0.766233837288,3,Why make breakfast?, Satisfy hunger.,2
+2058,10,L,,,,,5.02449268713,,,,,21,1,,5,90,0,1,4,0.882431179757,2,Why take a picture?, Keep a memory.,2
+2058,11,L,,,,,0.887181523457,,,,,25,1,,5,90,0,1,4,0.830325443806,0,How to show ambition?, Serve alcohol.,5
+2058,12,R,,,,,2.23289126721,,,,,38,1,,5,90,0,1,4,1.0744972994,11,How to make a purchase?, Go shopping.,5

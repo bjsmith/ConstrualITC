@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2074,1,L,,,,,1.74125523335,,,,25,30,1,,1,,1,3,3,1.03258514556,0,Why read articles?, Gain knowledge.,2
+2074,2,R,,,,,2.12382252284,,,,25,30,1,,8,,1,3,3,0.736641708827,1,Why take a picture?, Keep a memory.,2
+2074,3,R,,,,,0.990725137779,,,,25,30,1,,3,,1,3,3,1.7719583183,2,How to mix a cocktail?, Stir ingredients.,4
+2074,4,L,,,,,2.89204832979,,,,25,30,1,,6,,1,3,3,0.588035603644,3,How to write a song?, Play piano.,4

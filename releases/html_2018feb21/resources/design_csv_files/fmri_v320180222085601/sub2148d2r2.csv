@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2148,1,L,,,,,1.45533492619,,,,,40,1,,5,90,0,2,2,2.10733902054,18,How to make breakfast?, Crack eggs.,4
+2148,2,L,,,,,2.40590713811,,,,,20,1,,5,90,0,2,2,1.08457003237,28,How to make a list?, Throw away trash.,4
+2148,3,R,,,,,2.38753746709,,,,,22,1,,5,90,0,2,2,2.56324944879,53,How to build muscles?, Lift weights.,5
+2148,4,R,,,,,1.32012151187,,,,,31,1,,5,90,0,2,2,1.61945100625,6,How to give to charity?, Use a camera.,5
+2148,5,R,,,,,1.72381070434,,,,,21,1,,5,90,0,2,2,2.51155957785,33,Why drink wine?, Consume alcohol.,2
+2148,6,L,,,,,1.42332754424,,,,,38,1,,5,90,0,2,2,1.81269220191,3,Why take a picture?, Keep a memory.,2
+2148,7,L,,,,,2.50466807749,,,,,36,1,,5,90,0,2,2,1.4892351953,48,Why contact a friend?, Feel connected.,3
+2148,8,R,,,,,1.084376668,,,,,26,1,,5,90,0,2,2,2.67324586623,13,Why hold a party?, Feel sociable.,3
+2148,9,L,,,,,1.10242148745,,,,,27,1,,5,90,0,2,2,2.87685508576,31,Why take aspirin?, Serve alcohol.,1
+2148,10,L,,,,,1.12394166299,,,,,30,1,,5,90,0,2,2,2.63986362512,0,Why use a remote?, Watch television.,1
+2148,11,L,,,,,2.06972166156,,,,,25,1,,5,90,0,2,2,1.3512437958,36,How to show creativity?, Make art.,6
+2148,12,R,,,,,3.2152018759,,,,,33,1,,5,90,0,2,2,4.61406335877,10,How to avoid boredom?, Entertain oneself.,6
+2148,13,R,,,,,2.32278399861,,,,,24,1,,5,90,0,2,2,1.03069080372,8,Why finish a job?, Feel productive.,3
+2148,14,L,,,,,1.51922502706,,,,,35,1,,5,90,0,2,2,2.30828317204,40,Why make art?, Show creativity.,3
+2148,15,R,,,,,1.13232696173,,,,,28,1,,5,90,0,2,2,1.64543387763,32,Why write a poem?, Express an idea.,2
+2148,16,R,,,,,2.34632042357,,,,,34,1,,5,90,0,2,2,1.12685118667,42,Why kill germs?, Avoid diseases.,2
+2148,17,L,,,,,3.13417238569,,,,,23,1,,5,90,0,2,2,1.02140405563,56,How to show intellect?, Share ideas.,6
+2148,18,L,,,,,2.80326010083,,,,,37,1,,5,90,0,2,2,1.88648804454,14,How to feel productive?, Finish a job.,6
+2148,19,R,,,,,2.65244706515,,,,,29,1,,5,90,0,2,2,1.73559597763,54,Why lift a glass?, Drink wine.,1
+2148,20,R,,,,,1.38947956391,,,,,39,1,,5,90,0,2,2,2.93814340489,4,Why clap hands?, Give applause.,1
+2148,21,L,,,,,1.90661455571,,,,,36,1,,5,90,0,2,2,1.36267711612,19,How to plan ahead?, Make a list.,5
+2148,22,R,,,,,1.52589036133,,,,,23,1,,5,90,0,2,2,1.78167250126,7,How to show ambition?, Serve alcohol.,5
+2148,23,L,,,,,3.42736789559,,,,,22,1,,5,90,0,2,2,2.52090274882,12,How to read articles?, Open a magazine.,4
+2148,24,R,,,,,1.91487140155,,,,,40,1,,5,90,0,2,2,1.05885771404,50,How to consume caffeine?, Press buttons.,4
+2148,25,L,,,,,3.61606319996,,,,,39,1,,5,90,0,2,2,2.44981088354,20,How to mix a cocktail?, Stir ingredients.,4
+2148,26,L,,,,,1.14056902415,,,,,25,1,,5,90,0,2,2,3.78041939743,2,How to clip coupons?, Cut paper.,4
+2148,27,R,,,,,1.96003500083,,,,,32,1,,5,90,0,2,2,1.27426723595,26,Why plan ahead?, Reduce worry.,3
+2148,28,R,,,,,2.90442189414,,,,,27,1,,5,90,0,2,2,1.36034280436,9,Why entertain others?, Express a talent.,3
+2148,29,L,,,,,1.10078324741,,,,,33,1,,5,90,0,2,2,2.07592652613,37,Why use a camera?, Give to charity.,2
+2148,30,R,,,,,1.62965973423,,,,,30,1,,5,90,0,2,2,1.17451210852,22,Why participate in class?, Show intelligence.,2
+2148,31,L,,,,,1.26973274551,,,,,28,1,,5,90,0,2,2,5.57207633851,30,How to reduce worry?, Plan ahead.,6
+2148,32,R,,,,,1.06458341965,,,,,24,1,,5,90,0,2,2,1.41937126286,5,How to live a long life?, Avoid diseases.,6
+2148,33,R,,,,,1.9158150342,,,,,38,1,,5,90,0,2,2,2.35373421804,57,How to express doubt?, Use scissors.,5
+2148,34,L,,,,,2.64333610613,,,,,37,1,,5,90,0,2,2,1.04119490542,39,How to save money?, Clip coupons.,5
+2148,35,R,,,,,1.15993423477,,,,,29,1,,5,90,0,2,2,1.13227276586,59,Why drink coffee?, Consume caffeine.,1
+2148,36,L,,,,,3.17744870967,,,,,35,1,,5,90,0,2,2,1.3291933067,58,Why raise a hand?, Participate in class.,1
+2148,37,L,,,,,1.16355220288,,,,,26,1,,5,90,0,2,2,2.93298881203,47,Why reduce pain?, Feel well.,3
+2148,38,L,,,,,1.24259765129,,,,,20,1,,5,90,0,2,2,2.74801860215,17,Why show intelligence?, Impress others.,3
+2148,39,R,,,,,3.90118913068,,,,,34,1,,5,90,0,2,2,1.524861709,38,How to feel secure?, Save money.,6
+2148,40,L,,,,,2.00088153509,,,,,31,1,,5,90,0,2,2,1.11177966718,24,How to show humility?, Build muscles.,6
+2148,41,R,,,,,1.42416794902,,,,,32,1,,5,90,0,2,2,1.75188345501,25,How to lift weights?, Fasten seatbelt.,4
+2148,42,R,,,,,1.85943736844,,,,,39,1,,5,90,0,2,2,1.09188317842,16,How to write a check?, Sign ones name.,4
+2148,43,R,,,,,1.76387999692,,,,,23,1,,5,90,0,2,2,2.4804470499,11,How to show appreciation?, Give applause.,5
+2148,44,R,,,,,1.43388266038,,,,,40,1,,5,90,0,2,2,3.27049493458,23,How to get a promotion?, Arrive on time.,5
+2148,45,R,,,,,2.11691402185,,,,,35,1,,5,90,0,2,2,1.33816351077,27,Why dress formally?, Get a promotion.,2
+2148,46,L,,,,,4.20124060911,,,,,36,1,,5,90,0,2,2,1.46483197037,1,Why open a browser?, Write an email.,2
+2148,47,L,,,,,1.32020160469,,,,,29,1,,5,90,0,2,2,1.61776689179,21,Why stir ingredients?, Mix a cocktail.,1
+2148,48,L,,,,,1.79967686143,,,,,30,1,,5,90,0,2,2,2.07768622692,34,Why follow recipes?, Prepare meals.,1
+2148,49,R,,,,,1.08575511536,,,,,24,1,,5,90,0,2,2,1.24599320312,45,Why make a list?, Plan ahead.,2
+2148,50,R,,,,,2.84185896608,,,,,34,1,,5,90,0,2,2,3.96995344526,44,Why consume medicine?, Reduce pain.,2
+2148,51,L,,,,,1.18198254806,,,,,37,1,,5,90,0,2,2,1.28759299111,55,How to satisfy hunger?, Make breakfast.,5
+2148,52,L,,,,,2.42875148974,,,,,25,1,,5,90,0,2,2,2.42460616894,29,How to avoid diseases?, Kill germs.,5
+2148,53,L,,,,,1.04512909058,,,,,22,1,,5,90,0,2,2,1.8129785672,52,Why point a camera?, Take a picture.,1
+2148,54,R,,,,,3.84578467857,,,,,27,1,,5,90,0,2,2,1.76691130843,51,Why click a mouse?, Open a browser.,1
+2148,55,L,,,,,3.60220862035,,,,,28,1,,5,90,0,2,2,1.97696690859,35,How to paint a picture?, Use a brush.,4
+2148,56,R,,,,,1.64669341463,,,,,38,1,,5,90,0,2,2,1.28936340705,43,How to write a poem?, Grab a pencil.,4
+2148,57,L,,,,,1.44066207122,,,,,20,1,,5,90,0,2,2,1.43827224924,41,Why show competence?, Pass the time.,3
+2148,58,R,,,,,1.23442024586,,,,,26,1,,5,90,0,2,2,2.27068700572,15,Why provide food?, Help a person.,3
+2148,59,R,,,,,1.72495289135,,,,,31,1,,5,90,0,2,2,2.14956564139,46,How to spread knowledge?, Teach others.,6
+2148,60,L,,,,,1.78133529033,,,,,33,1,,5,90,0,2,2,2.79221821448,49,How to improve oneself?, Gain knowledge.,6

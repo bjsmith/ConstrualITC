@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,2,,,,,2.00681740833,,,,,27,1,,5,90,0,1,4,0.533891061261,0,Why consume medicine?, Reduce pain.,2
+2012,2,2,,,,,1.86168034527,,,,,33,1,,5,90,0,1,4,2.06739586536,0,How to entertain oneself?, Watch television.,5
+2012,3,1,,,,,0.798936855724,,,,,37,1,,5,90,0,1,4,1.72834307247,1,Why use a remote?, Watch television.,1
+2012,4,2,,,,,3.34520291136,,,,,24,1,,5,90,0,1,4,0.715220944005,0,How to support a cause?, Give to charity.,6
+2012,5,2,,,,,1.1793387787,,,,,32,1,,5,90,0,1,4,1.14039590618,0,How to consume caffeine?, Press buttons.,4
+2012,6,2,,,,,1.59942047701,,,,,26,1,,5,90,0,1,4,1.00838087403,0,Why give to charity?, Support a cause.,3
+2012,7,1,,,,,2.49203641533,,,,,25,1,,5,90,0,1,4,0.763829119123,0,Why dial numbers?, Make a phone call.,1
+2012,8,1,,,,,0.872310528227,,,,,30,1,,5,90,0,1,4,0.69999576626,0,Why contact a friend?, Feel connected.,3
+2012,9,1,,,,,0.999539711725,,,,,35,1,,5,90,0,1,4,0.794523916632,0,How to save money?, Clip coupons.,5
+2012,10,2,,,,,1.28781471087,,,,,20,1,,5,90,0,1,4,0.633806915768,0,How to watch television?, Use a remote.,4
+2012,11,1,,,,,4.90430386461,,,,,29,1,,5,90,0,1,4,1.22649913761,0,Why dress formally?, Get a promotion.,2
+2012,12,1,,,,,2.28853209794,,,,,36,1,,5,90,0,1,4,0.501467872268,0,How to feel secure?, Save money.,6

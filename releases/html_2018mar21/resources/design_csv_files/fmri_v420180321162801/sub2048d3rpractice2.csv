@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2048,1,R,,,,,1.28412877013,,,,,28,1,,5,90,0,3,4,1.77220910833,0,Why give to charity?, Support a cause.,3
+2048,2,R,,,,,5.76075041557,,,,,40,1,,5,90,0,3,4,0.716578248548,2,Why save money?, Get fit.,3
+2048,3,L,,,,,0.583137658004,,,,,23,1,,5,90,0,3,4,0.79451835957,3,Why make a phone call?, Contact a friend.,2
+2048,4,L,,,,,1.15285768814,,,,,29,1,,5,90,0,3,4,0.607848716443,1,Why enter a classroom?, Attend a school.,2

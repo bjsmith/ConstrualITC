@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2123,1,R,,,,,1.19890488699,,,,,31,1,,5,90,0,3,3,1.80138661753,3,Why drink coffee?, Consume caffeine.,1
+2123,2,R,,,,,0.906789571671,,,,,34,1,,5,90,0,3,3,1.09255083831,0,Why clap hands?, Give applause.,1
+2123,3,L,,,,,1.94470595872,,,,,26,1,,5,90,0,3,3,1.01321950403,1,How to impress others?, Show intelligence.,6
+2123,4,L,,,,,3.51984325405,,,,,33,1,,5,90,0,3,3,1.08056933945,2,How to satisfy a need?, Make a purchase.,6

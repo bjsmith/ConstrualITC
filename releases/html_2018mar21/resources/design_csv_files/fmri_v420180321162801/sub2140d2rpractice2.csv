@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2140,1,L,,,,,4.03004329747,,,,,25,1,,5,90,0,2,4,2.26047674151,3,How to watch television?, Use a remote.,4
+2140,2,R,,,,,0.577348152232,,,,,31,1,,5,90,0,2,4,0.697962233771,1,How to give applause?, Clap hands.,4
+2140,3,L,,,,,1.12716664997,,,,,28,1,,5,90,0,2,4,1.03433811733,2,Why keep a memory?, Feel nostalgia.,3
+2140,4,R,,,,,1.53078727005,,,,,34,1,,5,90,0,2,4,0.666833770822,0,Why build muscles?, Show humility.,3

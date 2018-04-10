@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2069,1,L,,,,,1.30301586851,,,,,30,1,,5,90,0,2,3,0.986061672321,0,Why gain knowledge?, Improve oneself.,3
+2069,2,R,,,,,4.29693865114,,,,,26,1,,5,90,0,2,3,1.85482250933,3,Why get a promotion?, Achieve success.,3
+2069,3,L,,,,,1.07795632109,,,,,40,1,,5,90,0,2,3,1.31269474617,1,Why crack eggs?, Make breakfast.,1
+2069,4,R,,,,,1.04029274509,,,,,25,1,,5,90,0,2,3,0.619483701033,2,Why open a magazine?, Read articles.,1

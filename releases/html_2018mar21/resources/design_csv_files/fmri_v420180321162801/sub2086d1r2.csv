@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2086,1,L,,,,,1.06311208992,,,,,32,1,,5,90,0,1,2,1.45825637951,51,Why show appreciation?, Spread joy.,3
+2086,2,R,,,,,2.46841054713,,,,,31,1,,5,90,0,1,2,1.57541104577,6,Why write an email?, Send a message.,3
+2086,3,R,,,,,1.26990686483,,,,,27,1,,5,90,0,1,2,4.5777762245,18,Why turn a doorknob?, Enter a classroom.,1
+2086,4,L,,,,,1.8331100976,,,,,25,1,,5,90,0,1,2,1.39493124341,29,Why wash ones hands?, Kill germs.,1
+2086,5,R,,,,,2.80259524797,,,,,21,1,,5,90,0,1,2,1.33218617458,54,How to consume alcohol?, Drink wine.,5
+2086,6,L,,,,,1.26737910381,,,,,35,1,,5,90,0,1,2,1.27750976079,14,How to entertain others?, Write a song.,5
+2086,7,R,,,,,1.00162259607,,,,,24,1,,5,90,0,1,2,1.35323918165,21,How to kill germs?, Wash ones hands.,4
+2086,8,R,,,,,2.93352557962,,,,,33,1,,5,90,0,1,2,2.15208279952,50,How to paint a picture?, Use a brush.,4
+2086,9,R,,,,,2.33646795721,,,,,20,1,,5,90,0,1,2,1.56637576188,57,How to avoid mistakes?, Obey laws.,6
+2086,10,R,,,,,2.00426832403,,,,,29,1,,5,90,0,1,2,2.3535260268,9,How to impress others?, Show intelligence.,6
+2086,11,R,,,,,3.162566911,,,,,38,1,,5,90,0,1,2,2.11006877187,43,Why dress formally?, Get a promotion.,2
+2086,12,L,,,,,1.62671233325,,,,,37,1,,5,90,0,1,2,1.78615684011,7,Why kill germs?, Avoid diseases.,2
+2086,13,L,,,,,2.09679357985,,,,,28,1,,5,90,0,1,2,1.28820089836,47,Why keep a memory?, Feel nostalgia.,3
+2086,14,R,,,,,2.87480080538,,,,,40,1,,5,90,0,1,2,2.2070620032,11,Why give to charity?, Support a cause.,3
+2086,15,L,,,,,1.2775764239,,,,,36,1,,5,90,0,1,2,1.0314173494,16,How to show an ability?, Satisfy hunger.,6
+2086,16,L,,,,,1.49655683122,,,,,26,1,,5,90,0,1,2,3.02073508845,8,How to feel sociable?, Hold a party.,6
+2086,17,L,,,,,1.4522728874,,,,,39,1,,5,90,0,1,2,4.30662750261,22,How to make a phone call?, Dial numbers.,4
+2086,18,L,,,,,2.90839695527,,,,,22,1,,5,90,0,1,2,1.21177857695,0,How to lift weights?, Fasten seatbelt.,4
+2086,19,R,,,,,2.35872892413,,,,,23,1,,5,90,0,1,2,2.45968482002,26,Why participate in class?, Show intelligence.,2
+2086,20,R,,,,,1.24998478885,,,,,30,1,,5,90,0,1,2,1.08650856757,48,Why consume medicine?, Reduce pain.,2
+2086,21,L,,,,,2.5518530775,,,,,28,1,,5,90,0,1,2,1.59728014032,15,How to make a donation?, Mix a cocktail.,5
+2086,22,R,,,,,2.94328088561,,,,,20,1,,5,90,0,1,2,3.10000534214,35,How to show appreciation?, Give applause.,5
+2086,23,L,,,,,1.23534957183,,,,,40,1,,5,90,0,1,2,1.69716164795,59,Why follow recipes?, Prepare meals.,1
+2086,24,L,,,,,1.69001924431,,,,,27,1,,5,90,0,1,2,1.8186241691,23,Why wear ties?, Dress formally.,1
+2086,25,R,,,,,2.77333626227,,,,,21,1,,5,90,0,1,2,1.44836988637,5,Why use credit cards?, Go shopping.,1
+2086,26,L,,,,,1.12651569809,,,,,24,1,,5,90,0,1,2,2.58608644781,34,Why use a comb?, Write a song.,1
+2086,27,L,,,,,1.32116170532,,,,,35,1,,5,90,0,1,2,1.46538656801,30,How to feel nostalgia?, Keep a memory.,6
+2086,28,R,,,,,1.58996188536,,,,,30,1,,5,90,0,1,2,2.04694206907,4,How to spread joy?, Get a job.,6
+2086,29,L,,,,,2.11341651437,,,,,34,1,,5,90,0,1,2,2.94662334802,49,Why satisfy hunger?, Show an ability.,3
+2086,30,R,,,,,2.22634680797,,,,,31,1,,5,90,0,1,2,2.05180952074,39,Why gain knowledge?, Improve oneself.,3
+2086,31,R,,,,,3.1005206371,,,,,38,1,,5,90,0,1,2,1.32063984516,10,How to make a list?, Throw away trash.,4
+2086,32,R,,,,,3.27074301523,,,,,25,1,,5,90,0,1,2,2.53122569972,52,How to participate in class?, Raise a hand.,4
+2086,33,L,,,,,1.10227241741,,,,,26,1,,5,90,0,1,2,1.41866980559,42,How to get a promotion?, Arrive on time.,5
+2086,34,L,,,,,1.3891015983,,,,,29,1,,5,90,0,1,2,2.07307104488,46,How to satisfy hunger?, Make breakfast.,5
+2086,35,L,,,,,1.75636334179,,,,,36,1,,5,90,0,1,2,2.18079053636,3,Why drink wine?, Consume alcohol.,2
+2086,36,R,,,,,2.65857349585,,,,,33,1,,5,90,0,1,2,2.11425169221,24,Why make a list?, Plan ahead.,2
+2086,37,R,,,,,2.20539740527,,,,,22,1,,5,90,0,1,2,1.10022260589,44,Why entertain others?, Express a talent.,3
+2086,38,L,,,,,1.54696359408,,,,,32,1,,5,90,0,1,2,4.30575575828,58,Why finish a job?, Feel productive.,3
+2086,39,L,,,,,1.62621571044,,,,,37,1,,5,90,0,1,2,1.66266911804,38,Why take aspirin?, Serve alcohol.,1
+2086,40,R,,,,,1.52761515002,,,,,39,1,,5,90,0,1,2,1.50680558481,31,Why click a mouse?, Open a browser.,1
+2086,41,R,,,,,2.4360308677,,,,,39,1,,5,90,0,1,2,1.48152315499,36,How to make breakfast?, Crack eggs.,4
+2086,42,L,,,,,1.52202397602,,,,,22,1,,5,90,0,1,2,1.00996049111,2,How to write a check?, Sign ones name.,4
+2086,43,R,,,,,1.92061324973,,,,,24,1,,5,90,0,1,2,1.7018750783,1,How to express a talent?, Entertain others.,6
+2086,44,L,,,,,1.1545438855,,,,,37,1,,5,90,0,1,2,2.3086139298,53,How to show intellect?, Share ideas.,6
+2086,45,L,,,,,2.05523791559,,,,,31,1,,5,90,0,1,2,3.67754438947,19,How to save money?, Clip coupons.,5
+2086,46,L,,,,,4.49166034728,,,,,21,1,,5,90,0,1,2,2.12602999744,32,How to build muscles?, Lift weights.,5
+2086,47,R,,,,,1.25645912657,,,,,33,1,,5,90,0,1,2,1.52164028686,37,Why watch television?, Show competence.,2
+2086,48,R,,,,,2.68695277274,,,,,20,1,,5,90,0,1,2,1.00181599865,41,Why consume caffeine?, Stay alert.,2
+2086,49,L,,,,,1.34063133401,,,,,32,1,,5,90,0,1,2,2.76717527439,17,Why make art?, Show creativity.,3
+2086,50,L,,,,,2.1791025929,,,,,25,1,,5,90,0,1,2,1.85733250866,27,Why show competence?, Pass the time.,3
+2086,51,R,,,,,1.26971278544,,,,,35,1,,5,90,0,1,2,1.9526550421,28,Why paint a picture?, Make art.,2
+2086,52,L,,,,,2.11058819147,,,,,28,1,,5,90,0,1,2,1.29359659698,33,Why give applause?, Show appreciation.,2
+2086,53,R,,,,,2.58275753755,,,,,30,1,,5,90,0,1,2,4.6548504073,45,How to watch television?, Use a remote.,4
+2086,54,R,,,,,1.53508732197,,,,,27,1,,5,90,0,1,2,1.02874457829,55,How to dress formally?, Wear ties. ,4
+2086,55,R,,,,,1.63060372399,,,,,29,1,,5,90,0,1,2,1.35223673539,12,How to support a cause?, Give to charity.,6
+2086,56,L,,,,,2.54386509584,,,,,23,1,,5,90,0,1,2,1.2657291378,56,How to avoid boredom?, Entertain oneself.,6
+2086,57,R,,,,,3.23622731989,,,,,34,1,,5,90,0,1,2,2.15634182581,13,Why point a camera?, Take a picture.,1
+2086,58,L,,,,,2.26529958747,,,,,38,1,,5,90,0,1,2,1.99637633808,20,Why clap hands?, Give applause.,1
+2086,59,R,,,,,1.55365054101,,,,,26,1,,5,90,0,1,2,1.43103588976,25,How to make a purchase?, Go shopping.,5
+2086,60,L,,,,,1.00342516377,,,,,40,1,,5,90,0,1,2,3.63284672586,40,How to plan ahead?, Make a list.,5

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2144,1,L,,,,,1.5827761671,,,,25,30,1,,2,,1,3,3,0.61692112788,2,Why watch television?, Show competence.,2
+2144,2,L,,,,,2.31884608279,,,,25,30,1,,7,,1,3,3,1.19055851795,0,Why write a poem?, Express an idea.,2
+2144,3,R,,,,,1.8185696243,,,,25,30,1,,8,,1,3,3,1.39033366885,3,Why point a camera?, Take a picture.,1
+2144,4,R,,,,,1.37047024617,,,,25,30,1,,5,,1,3,3,1.07542898328,1,Why take aspirin?, Serve alcohol.,1

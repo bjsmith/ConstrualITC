@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2017,1,1,,,,,0.799144398982,,,,25,30,1,,8,,1,1,2,0.860213002625,0,Why make a purchase?, Satisfy a need.,3
+2017,2,2,,,,,3.0998361449,,,,25,30,1,,9,,1,1,2,0.571064562543,0,How to watch television?, Use a remote.,4
+2017,3,2,,,,,1.15123287469,,,,25,30,1,,3,,1,1,2,1.27085977281,0,How to spread joy?, Get a job.,6
+2017,4,2,,,,,2.09199682851,,,,25,30,1,,4,,1,1,2,1.01188617273,0,Why wear ties?, Dress formally.,1
+2017,5,1,,,,,5.70544929125,,,,25,30,1,,7,,1,1,2,1.50923100122,0,How to consume alcohol?, Drink wine.,5
+2017,6,1,,,,,0.531581183638,,,,25,30,1,,2,,1,1,2,1.58356219286,0,Why give applause?, Show appreciation.,2
+2017,7,2,,,,,3.04841658731,,,,25,30,1,,6,,1,1,2,0.971542474056,0,Why make a list?, Plan ahead.,2
+2017,8,2,,,,,2.98206936524,,,,25,30,1,,1,,1,1,2,0.524583506351,0,Why share ideas?, Show intellect.,3
+2017,9,2,,,,,1.01718168857,,,,25,30,1,,7,,1,1,2,1.11898358002,0,How to participate in class?, Raise a hand.,4
+2017,10,1,,,,,2.67858484144,,,,25,30,1,,2,,1,1,2,0.661657951543,0,How to plan ahead?, Make a list.,5
+2017,11,1,,,,,0.555923107038,,,,25,30,1,,3,,1,1,2,0.952852443839,0,Why throw away trash?, Make a list.,1
+2017,12,2,,,,,0.952319566075,,,,25,30,1,,8,,1,1,2,0.591933955034,0,How to feel secure?, Save money.,6
+2017,13,2,,,,,5.73334766386,,,,25,30,1,,1,,1,1,2,0.994158974935,0,Why enter a classroom?, Attend a school.,2
+2017,14,2,,,,,1.01361741072,,,,25,30,1,,5,,1,1,2,1.49183961444,0,How to get a promotion?, Arrive on time.,5
+2017,15,1,,,,,1.36919347065,,,,25,30,1,,6,,1,1,2,1.03181422293,0,How to open a browser?, Click a mouse.,4
+2017,16,1,,,,,0.563180479259,,,,25,30,1,,4,,1,1,2,0.682438243782,0,Why give to charity?, Support a cause.,3
+2017,17,2,,,,,2.48694698831,,,,25,30,1,,9,,1,1,2,1.26440817094,0,Why turn a doorknob?, Enter a classroom.,1
+2017,18,1,,,,,1.93835413397,,,,25,30,1,,6,,1,1,2,0.535747636254,0,How to avoid boredom?, Entertain oneself.,6
+2017,19,2,,,,,0.695128950113,,,,25,30,1,,4,,1,1,2,0.928797312522,0,How to feel connected?, Contact a friend.,6
+2017,20,2,,,,,0.537044280714,,,,25,30,1,,7,,1,1,2,0.679444422264,0,How to consume medicine?, Take pills. ,4
+2017,21,1,,,,,3.38951893342,,,,25,30,1,,2,,1,1,2,0.797709151252,0,Why open a browser?, Write an email.,2
+2017,22,1,,,,,1.43558517973,,,,25,30,1,,3,,1,1,2,1.09078728219,0,Why reduce pain?, Feel well.,3
+2017,23,1,,,,,1.40756362734,,,,25,30,1,,1,,1,1,2,1.39488482905,0,How to save money?, Clip coupons.,5
+2017,24,2,,,,,1.81694754481,,,,25,30,1,,5,,1,1,2,1.25578085552,0,Why stir ingredients?, Mix a cocktail.,1
+2017,25,1,,,,,2.55576431762,,,,25,30,1,,7,,1,1,2,0.604226533315,1,How to make a purchase?, Go shopping.,5
+2017,26,1,,,,,1.6652194244,,,,25,30,1,,9,,1,1,2,0.878410844139,0,How to achieve success?, Get a promotion.,6
+2017,27,1,,,,,1.61635992113,,,,25,30,1,,2,,1,1,2,0.551495243195,0,Why use credit cards?, Go shopping.,1
+2017,28,2,,,,,1.54165888184,,,,25,30,1,,4,,1,1,2,0.737779762281,0,Why attend a school?, Get a degree.,3
+2017,29,2,,,,,1.34333039866,,,,25,30,1,,1,,1,1,2,1.10572322921,0,How to mix a cocktail?, Stir ingredients.,4
+2017,30,2,,,,,4.60021841152,,,,25,30,1,,5,,1,1,2,0.796998178801,0,Why kill germs?, Avoid diseases.,2
+2017,31,1,,,,,1.39343506152,,,,25,30,1,,3,,1,1,2,0.70607482775,0,How to support a cause?, Give to charity.,6
+2017,32,1,,,,,3.27128209085,,,,25,30,1,,6,,1,1,2,0.990529519875,0,How to give a lecture?, Brush ones hair.,4
+2017,33,2,,,,,4.60874028745,,,,25,30,1,,1,,1,1,2,0.648675066124,0,How to give to charity?, Use a camera.,5
+2017,34,1,,,,,0.513255915096,,,,25,30,1,,7,,1,1,2,0.74111394083,0,Why teach a class?, Obey laws.,2
+2017,35,1,,,,,2.79954987925,,,,25,30,1,,3,,1,1,2,0.839603068228,0,Why show intelligence?, Impress others.,3
+2017,36,2,,,,,1.01038285894,,,,25,30,1,,9,,1,1,2,2.02455692648,0,Why crack eggs?, Make breakfast.,1
+2017,37,2,,,,,2.74986699682,,,,25,30,1,,2,,1,1,2,0.558977701197,0,How to teach others?, Give a lecture.,5
+2017,38,1,,,,,0.677222295687,,,,25,30,1,,8,,1,1,2,1.18489069277,0,How to spread knowledge?, Teach others.,6
+2017,39,2,,,,,1.51227262219,,,,25,30,1,,5,,1,1,2,1.2708906908,0,Why open a magazine?, Read articles.,1
+2017,40,1,,,,,1.11369482368,,,,25,30,1,,4,,1,1,2,1.77815704783,0,How to take a picture?, Point a camera.,4

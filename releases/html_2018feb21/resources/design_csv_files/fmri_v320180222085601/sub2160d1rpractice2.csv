@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2160,1,R,,,,,0.688877684056,,,,,39,1,,5,90,0,1,4,3.2142378664,3,Why show appreciation?, Spread joy.,3
+2160,2,L,,,,,1.77805158837,,,,,38,1,,5,90,0,1,4,0.536901455127,9,Why avoid diseases?, Live a long life.,3
+2160,3,R,,,,,3.17787059419,,,,,28,1,,5,90,0,1,4,0.520510852726,1,How to support a cause?, Give to charity.,6
+2160,4,L,,,,,3.21099762678,,,,,30,1,,5,90,0,1,4,1.01080476263,7,How to achieve success?, Get a promotion.,6
+2160,5,R,,,,,1.42610365446,,,,,29,1,,5,90,0,1,4,0.555004668477,0,Why turn a doorknob?, Enter a classroom.,1
+2160,6,L,,,,,1.20158785364,,,,,21,1,,5,90,0,1,4,1.23651576715,11,Why raise a hand?, Participate in class.,1
+2160,7,L,,,,,1.16599191612,,,,,23,1,,5,90,0,1,4,0.971407405671,4,How to give applause?, Clap hands.,4
+2160,8,R,,,,,2.92542223085,,,,,34,1,,5,90,0,1,4,1.15101790679,10,How to give a lecture?, Brush ones hair.,4
+2160,9,R,,,,,1.52273148776,,,,,35,1,,5,90,0,1,4,0.55057118354,6,How to build muscles?, Lift weights.,5
+2160,10,R,,,,,3.69894792009,,,,,26,1,,5,90,0,1,4,0.512362707564,5,How to write an email?, Open a browser.,5
+2160,11,L,,,,,1.8299450961,,,,,40,1,,5,90,0,1,4,0.506843770394,8,Why make a list?, Plan ahead.,2
+2160,12,L,,,,,1.85739564115,,,,,32,1,,5,90,0,1,4,1.2262769606,2,Why give a lecture?, Teach others.,2

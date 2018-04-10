@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2019,1,2,,,,,4.99922353417,,,,,29,1,,5,90,0,2,1,2.46181267454,0,Why open a browser?, Write an email.,2
+2019,2,1,,,,,1.2251966314,,,,,35,1,,5,90,0,2,1,1.39692829958,0,Why consume medicine?, Reduce pain.,2
+2019,3,1,,,,,2.54350180765,,,,,23,1,,5,90,0,2,1,2.11419614511,0,Why show intelligence?, Impress others.,3
+2019,4,2,,,,,4.57620891905,,,,,25,1,,5,90,0,2,1,1.16082793453,0,Why finish a job?, Feel productive.,3
+2019,5,2,,,,,1.21691349525,,,,,26,1,,5,90,0,2,1,1.77145857678,0,How to make breakfast?, Crack eggs.,4
+2019,6,2,,,,,1.08730333002,,,,,27,1,,5,90,0,2,1,3.67060056886,0,How to write a check?, Sign ones name.,4
+2019,7,1,,,,,1.89204483205,,,,,30,1,,5,90,0,2,1,2.41596365644,0,How to live a long life?, Avoid diseases.,6
+2019,8,1,,,,,2.61792538692,,,,,21,1,,5,90,0,2,1,1.82186018056,0,How to reduce worry?, Plan ahead.,6
+2019,9,1,,,,,3.80651915521,,,,,36,1,,5,90,0,2,1,1.71902409268,0,How to entertain others?, Write a song.,5
+2019,10,1,,,,,1.54260406777,,,,,24,1,,5,90,0,2,1,2.21264642323,0,How to make a purchase?, Go shopping.,5
+2019,11,2,,,,,2.18742635675,,,,,34,1,,5,90,0,2,1,1.91034030914,0,Why open a magazine?, Read articles.,1
+2019,12,1,,,,,2.63948379619,,,,,31,1,,5,90,0,2,1,2.15387979148,0,Why use a comb?, Write a song.,1
+2019,13,2,,,,,1.50044155784,,,,,22,1,,5,90,0,2,1,1.17402796326,0,Why write a poem?, Express an idea.,2
+2019,14,2,,,,,1.18238605203,,,,,32,1,,5,90,0,2,1,2.320091579,0,Why write a song?, Seek advice.,2
+2019,15,1,,,,,1.67793183339,,,,,38,1,,5,90,0,2,1,2.22031984733,0,How to participate in class?, Raise a hand.,4
+2019,16,1,,,,,2.34138468014,,,,,33,1,,5,90,0,2,1,3.29506734373,0,How to consume medicine?, Take pills. ,4
+2019,17,1,,,,,1.14682209939,,,,,20,1,,5,90,0,2,1,2.51294995646,0,How to gain knowledge?, Read articles.,5
+2019,18,2,,,,,1.74042350126,,,,,28,1,,5,90,0,2,1,1.57432901296,0,How to avoid diseases?, Kill germs.,5
+2019,19,1,,,,,1.29041980402,,,,,37,1,,5,90,0,2,1,2.05751921582,0,How to show creativity?, Make art.,6
+2019,20,1,,,,,1.61584826379,,,,,40,1,,5,90,0,2,1,1.44185942836,0,How to feel secure?, Save money.,6
+2019,21,2,,,,,1.26825639563,,,,,32,1,,5,90,0,2,1,3.90115492954,0,Why reduce pain?, Feel well.,3
+2019,22,1,,,,,1.65151048542,,,,,33,1,,5,90,0,2,1,1.53512010004,0,Why write an email?, Send a message.,3
+2019,23,1,,,,,1.96043908799,,,,,27,1,,5,90,0,2,1,1.72910387921,0,Why follow recipes?, Prepare meals.,1
+2019,24,2,,,,,2.03331724911,,,,,34,1,,5,90,0,2,1,1.45829864402,0,Why cut paper?, Clip coupons.,1
+2019,25,1,,,,,2.49646070293,,,,,31,1,,5,90,0,2,1,1.74608490927,0,Why show courtesy?, Make a friend.,3
+2019,26,1,,,,,1.77912876715,,,,,24,1,,5,90,0,2,1,1.98743269036,0,Why share ideas?, Show intellect.,3
+2019,27,2,,,,,2.36174512824,,,,,20,1,,5,90,0,2,1,1.00276392467,0,Why sign ones name?, Write a check.,1
+2019,28,2,,,,,1.65378312939,,,,,35,1,,5,90,0,2,1,2.32004940873,0,Why drink coffee?, Consume caffeine.,1
+2019,29,2,,,,,1.37729742405,,,,,29,1,,5,90,0,2,1,1.53948351962,0,How to watch television?, Use a remote.,4
+2019,30,2,,,,,1.44921623749,,,,,39,1,,5,90,0,2,1,3.1707607617,0,How to lift weights?, Fasten seatbelt.,4
+2019,31,2,,,,,3.91188512127,,,,,40,1,,5,90,0,2,1,1.72371137033,0,Why participate in class?, Show intelligence.,2
+2019,32,2,,,,,1.65092612896,,,,,21,1,,5,90,0,2,1,1.27957638904,0,Why go shopping?, Make a purchase.,2
+2019,33,1,,,,,2.01772813541,,,,,36,1,,5,90,0,2,1,1.25382933116,0,How to show cleanliness?, Write an email.,6
+2019,34,1,,,,,1.37907256227,,,,,37,1,,5,90,0,2,1,2.57541965161,0,How to spread joy?, Get a job.,6
+2019,35,2,,,,,1.54865355996,,,,,25,1,,5,90,0,2,1,1.05224822486,1,How to teach others?, Give a lecture.,5
+2019,36,2,,,,,1.09271630254,,,,,28,1,,5,90,0,2,1,1.73657198741,0,How to write an email?, Open a browser.,5

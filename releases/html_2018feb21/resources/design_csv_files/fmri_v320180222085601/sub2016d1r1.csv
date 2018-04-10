@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2016,1,L,,,,,3.52510769302,,,,25,30,1,,6,,1,1,1,1.41909954626,37,How to save money?, Clip coupons.,5
+2016,2,R,,,,,1.34706429021,,,,25,30,1,,9,,1,1,1,1.60199871684,8,How to write an email?, Open a browser.,5
+2016,3,R,,,,,1.61823288355,,,,25,30,1,,4,,1,1,1,1.96462307987,24,Why drink coffee?, Consume caffeine.,1
+2016,4,R,,,,,1.81271346119,,,,25,30,1,,3,,1,1,1,3.78360474411,44,Why use a remote?, Watch television.,1
+2016,5,R,,,,,1.40776847436,,,,25,30,1,,7,,1,1,1,1.81291017733,49,How to feel secure?, Save money.,6
+2016,6,L,,,,,2.02534930873,,,,25,30,1,,5,,1,1,1,1.82215342905,0,How to improve oneself?, Gain knowledge.,6
+2016,7,L,,,,,2.76086067992,,,,25,30,1,,8,,1,1,1,1.38925503929,39,Why kill germs?, Avoid diseases.,2
+2016,8,L,,,,,2.16822122773,,,,25,30,1,,2,,1,1,1,2.19165306798,22,Why take a picture?, Keep a memory.,2
+2016,9,R,,,,,5.64025398259,,,,25,30,1,,1,,1,1,1,1.52966356171,2,Why get a promotion?, Achieve success.,3
+2016,10,L,,,,,2.21569279474,,,,25,30,1,,6,,1,1,1,1.08623317022,27,Why show competence?, Pass the time.,3
+2016,11,L,,,,,1.58499770373,,,,25,30,1,,8,,1,1,1,1.16589709927,13,How to lift weights?, Fasten seatbelt.,4
+2016,12,L,,,,,2.67775017479,,,,25,30,1,,3,,1,1,1,5.75369035037,17,How to give a lecture?, Brush ones hair.,4
+2016,13,R,,,,,1.00801523634,,,,25,30,1,,2,,1,1,1,2.60824777348,56,How to mix a cocktail?, Stir ingredients.,4
+2016,14,R,,,,,3.01008647073,,,,25,30,1,,9,,1,1,1,1.02294269489,35,How to participate in class?, Raise a hand.,4
+2016,15,L,,,,,1.78370116866,,,,25,30,1,,4,,1,1,1,1.07674586321,6,How to contact a friend?, Make a phone call.,5
+2016,16,L,,,,,1.71109337675,,,,25,30,1,,7,,1,1,1,2.01172991343,15,How to get a promotion?, Arrive on time.,5
+2016,17,R,,,,,1.70850093305,,,,25,30,1,,1,,1,1,1,2.04808733076,29,Why sign ones name?, Write a check.,1
+2016,18,L,,,,,1.01963893195,,,,25,30,1,,9,,1,1,1,4.60245240482,25,Why stir ingredients?, Mix a cocktail.,1
+2016,19,R,,,,,1.4879821679,,,,25,30,1,,7,,1,1,1,1.02095627152,53,Why contact a friend?, Feel connected.,3
+2016,20,R,,,,,1.47580721588,,,,25,30,1,,6,,1,1,1,1.71052888923,19,Why show courtesy?, Make a friend.,3
+2016,21,R,,,,,1.67385981411,,,,25,30,1,,2,,1,1,1,2.97246652832,50,Why go shopping?, Make a purchase.,2
+2016,22,R,,,,,1.20434685699,,,,25,30,1,,8,,1,1,1,2.02837736873,12,Why read articles?, Gain knowledge.,2
+2016,23,L,,,,,1.16874554586,,,,25,30,1,,3,,1,1,1,1.0573169496,43,How to show cleanliness?, Write an email.,6
+2016,24,L,,,,,1.26822239173,,,,25,30,1,,4,,1,1,1,1.13986065228,31,How to feel well?, Reduce pain.,6
+2016,25,L,,,,,1.73307890859,,,,25,30,1,,2,,1,1,1,1.21820641688,23,How to consume caffeine?, Press buttons.,4
+2016,26,L,,,,,1.35859646706,,,,25,30,1,,1,,1,1,1,2.0645414435,59,How to write a poem?, Grab a pencil.,4
+2016,27,R,,,,,1.11205945923,,,,25,30,1,,4,,1,1,1,1.72322885851,38,How to attend a school?, Enter a classroom.,5
+2016,28,L,,,,,1.47889931789,,,,25,30,1,,6,,1,1,1,4.04240353848,9,How to gain knowledge?, Read articles.,5
+2016,29,R,,,,,4.83032704067,,,,25,30,1,,9,,1,1,1,1.36769679613,1,Why entertain others?, Express a talent.,3
+2016,30,R,,,,,2.19919972157,,,,25,30,1,,7,,1,1,1,1.40079654792,34,Why share ideas?, Show intellect.,3
+2016,31,L,,,,,1.23174541816,,,,25,30,1,,8,,1,1,1,2.27142485166,20,Why throw away trash?, Make a list.,1
+2016,32,L,,,,,2.11551880482,,,,25,30,1,,5,,1,1,1,1.28183878975,4,Why point a camera?, Take a picture.,1
+2016,33,L,,,,,2.60453890916,,,,25,30,1,,1,,1,1,1,1.41666224123,57,Why make breakfast?, Satisfy hunger.,2
+2016,34,R,,,,,2.12938626166,,,,25,30,1,,9,,1,1,1,1.86018209043,41,Why consume caffeine?, Stay alert.,2
+2016,35,R,,,,,2.2815535119,,,,25,30,1,,2,,1,1,1,2.93769264679,3,How to live a long life?, Avoid diseases.,6
+2016,36,R,,,,,2.31744317955,,,,25,30,1,,4,,1,1,1,1.08387996108,5,How to get a degree?, Attend a school.,6
+2016,37,L,,,,,1.48258954341,,,,25,30,1,,3,,1,1,1,4.89375816114,55,Why write a song?, Seek advice.,2
+2016,38,R,,,,,1.9524953893,,,,25,30,1,,7,,1,1,1,1.46674166183,18,Why lift weights?, Build muscles.,2
+2016,39,L,,,,,1.28428315241,,,,25,30,1,,8,,1,1,1,1.12571229888,10,How to make a donation?, Mix a cocktail.,5
+2016,40,R,,,,,3.53906527411,,,,25,30,1,,5,,1,1,1,1.36384579571,47,How to consume alcohol?, Drink wine.,5
+2016,41,R,,,,,1.2127858669,,,,25,30,1,,6,,1,1,1,1.15413124156,16,Why raise a hand?, Participate in class.,1
+2016,42,L,,,,,1.20704390609,,,,25,30,1,,3,,1,1,1,1.58646579115,21,Why cut paper?, Clip coupons.,1
+2016,43,R,,,,,2.24711110364,,,,25,30,1,,5,,1,1,1,2.03226243306,40,How to support a cause?, Give to charity.,6
+2016,44,R,,,,,1.60371019636,,,,25,30,1,,2,,1,1,1,1.32606171039,45,How to avoid boredom?, Entertain oneself.,6
+2016,45,R,,,,,1.27388601334,,,,25,30,1,,9,,1,1,1,5.32608526483,14,Why build muscles?, Show humility.,3
+2016,46,L,,,,,3.60714025181,,,,25,30,1,,7,,1,1,1,1.37504809954,54,Why provide food?, Help a person.,3
+2016,47,L,,,,,1.64743842419,,,,25,30,1,,8,,1,1,1,1.97984228088,52,How to consume medicine?, Take pills. ,4
+2016,48,L,,,,,2.10750231053,,,,25,30,1,,1,,1,1,1,1.23856537505,26,How to kill germs?, Wash ones hands.,4
+2016,49,R,,,,,2.47780913459,,,,25,30,1,,7,,1,1,1,1.4442590406,33,Why finish a job?, Feel productive.,3
+2016,50,R,,,,,1.88546151179,,,,25,30,1,,6,,1,1,1,1.45841917897,51,Why reduce pain?, Feel well.,3
+2016,51,L,,,,,1.45860782978,,,,25,30,1,,2,,1,1,1,1.66759839382,42,How to show humility?, Build muscles.,6
+2016,52,L,,,,,1.87364861981,,,,25,30,1,,9,,1,1,1,1.68961156128,48,How to express a talent?, Entertain others.,6
+2016,53,L,,,,,3.15602247845,,,,25,30,1,,3,,1,1,1,3.24046316635,11,Why watch television?, Show competence.,2
+2016,54,R,,,,,1.20635901617,,,,25,30,1,,5,,1,1,1,2.55182527554,30,Why write a poem?, Express an idea.,2
+2016,55,R,,,,,1.36576258748,,,,25,30,1,,1,,1,1,1,1.68630231577,7,How to write a song?, Play piano.,4
+2016,56,L,,,,,1.050293545,,,,25,30,1,,4,,1,1,1,1.99271412059,32,How to take a picture?, Point a camera.,4
+2016,57,R,,,,,1.14792203494,,,,25,30,1,,8,,1,1,1,2.61411360892,28,Why lift a glass?, Drink wine.,1
+2016,58,L,,,,,4.25964434148,,,,25,30,1,,3,,1,1,1,2.3698349295,36,Why wash ones hands?, Kill germs.,1
+2016,59,R,,,,,3.09436527192,,,,25,30,1,,2,,1,1,1,1.31870637242,58,How to plan ahead?, Make a list.,5
+2016,60,L,,,,,2.02863554552,,,,25,30,1,,1,,1,1,1,2.31847933833,46,How to provide food?, Prepare meals.,5

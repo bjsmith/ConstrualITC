@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2174,1,R,,,,,2.16037132899,,,,,33,1,,5,90,0,1,4,1.95355204101,6,How to contact a friend?, Make a phone call.,5
+2174,2,L,,,,,3.06493844617,,,,,20,1,,5,90,0,1,4,1.28742121409,4,How to reduce pain?, Consume medicine.,5
+2174,3,L,,,,,1.60873962263,,,,,24,1,,5,90,0,1,4,0.746297994016,0,Why build muscles?, Show humility.,3
+2174,4,R,,,,,0.505134377199,,,,,25,1,,5,90,0,1,4,0.503163155975,9,Why share ideas?, Show intellect.,3
+2174,5,R,,,,,4.35478512224,,,,,38,1,,5,90,0,1,4,0.759545506464,7,How to feel secure?, Save money.,6
+2174,6,L,,,,,0.50613285192,,,,,39,1,,5,90,0,1,4,0.554358553544,10,How to spread joy?, Get a job.,6
+2174,7,R,,,,,2.31938489616,,,,,32,1,,5,90,0,1,4,0.952872694637,11,How to paint a picture?, Use a brush.,4
+2174,8,L,,,,,0.651314525918,,,,,36,1,,5,90,0,1,4,0.988278386835,2,How to dress formally?, Wear ties. ,4
+2174,9,R,,,,,1.39382942092,,,,,31,1,,5,90,0,1,4,0.590092904297,1,Why wash ones hands?, Kill germs.,1
+2174,10,R,,,,,2.31762890495,,,,,28,1,,5,90,0,1,4,0.840322029941,5,Why open a magazine?, Read articles.,1
+2174,11,L,,,,,2.54694413449,,,,,37,1,,5,90,0,1,4,2.25764968925,3,Why consume medicine?, Reduce pain.,2
+2174,12,L,,,,,3.0291826784,,,,,30,1,,5,90,0,1,4,0.621514199874,8,Why make breakfast?, Satisfy hunger.,2

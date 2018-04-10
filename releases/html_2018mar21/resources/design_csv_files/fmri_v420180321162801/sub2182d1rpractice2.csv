@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2182,1,R,,,,,2.91963872682,,,,,20,1,,5,90,0,1,4,0.906230892438,9,Why open a browser?, Write an email.,2
+2182,2,L,,,,,1.8146195678,,,,,24,1,,5,90,0,1,4,0.534169194516,10,Why take a picture?, Keep a memory.,2
+2182,3,L,,,,,1.9172860908,,,,,25,1,,5,90,0,1,4,1.03475229289,0,How to build muscles?, Lift weights.,5
+2182,4,R,,,,,1.52306819873,,,,,27,1,,5,90,0,1,4,0.685208369741,7,How to show appreciation?, Give applause.,5
+2182,5,R,,,,,2.98486633774,,,,,36,1,,5,90,0,1,4,0.876082782113,2,Why show courtesy?, Make a friend.,3
+2182,6,L,,,,,4.99666877938,,,,,29,1,,5,90,0,1,4,1.38237809232,5,Why plan ahead?, Reduce worry.,3
+2182,7,L,,,,,1.15434710761,,,,,32,1,,5,90,0,1,4,0.758654589841,11,How to write a song?, Play piano.,4
+2182,8,R,,,,,0.717555503399,,,,,40,1,,5,90,0,1,4,1.25264872465,1,How to make a phone call?, Dial numbers.,4
+2182,9,L,,,,,1.58358503567,,,,,23,1,,5,90,0,1,4,1.60640137777,4,How to support a cause?, Give to charity.,6
+2182,10,R,,,,,1.05848709934,,,,,37,1,,5,90,0,1,4,0.590806619897,3,How to show intellect?, Share ideas.,6
+2182,11,R,,,,,1.45390712053,,,,,35,1,,5,90,0,1,4,0.693348601864,6,Why point a camera?, Take a picture.,1
+2182,12,L,,,,,1.56526402695,,,,,39,1,,5,90,0,1,4,1.02578970137,8,Why dial numbers?, Make a phone call.,1

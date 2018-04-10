@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2139,1,L,,,,,1.16772209749,,,,,37,1,,5,90,0,3,3,2.1815412031,1,Why drink coffee?, Consume caffeine.,1
+2139,2,R,,,,,2.02492374497,,,,,33,1,,5,90,0,3,3,0.807694592375,0,Why raise a hand?, Participate in class.,1
+2139,3,R,,,,,3.63597612318,,,,,20,1,,5,90,0,3,3,0.902424075005,3,How to give to charity?, Use a camera.,5
+2139,4,L,,,,,0.716291099405,,,,,28,1,,5,90,0,3,3,0.767579310902,2,How to save money?, Clip coupons.,5

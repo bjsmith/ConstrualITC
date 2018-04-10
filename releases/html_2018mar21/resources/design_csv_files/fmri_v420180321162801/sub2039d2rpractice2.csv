@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2039,1,R,,,,,1.70734457687,,,,25,30,1,,9,,1,2,4,0.885354881808,1,Why give applause?, Show appreciation.,2
+2039,2,L,,,,,1.20277286452,,,,25,30,1,,6,,1,2,4,0.925045413333,2,Why dress formally?, Get a promotion.,2
+2039,3,R,,,,,0.687851178096,,,,25,30,1,,2,,1,2,4,0.567440230208,0,Why throw away trash?, Make a list.,1
+2039,4,L,,,,,3.51472581083,,,,25,30,1,,5,,1,2,4,0.834042086645,3,Why open a magazine?, Read articles.,1

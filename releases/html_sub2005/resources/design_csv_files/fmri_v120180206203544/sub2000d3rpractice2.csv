@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2000,1,1,,,,,4.36257766581,,,,,30,1,,5,90,0,3,4,0.678098140694,0,How to express a talent?, Entertain others.,6
+2000,2,2,,,,,2.34296915239,,,,,29,1,,5,90,0,3,4,1.16726877858,1,How to write a song?, Play piano.,4
+2000,3,1,,,,,1.19221284127,,,,,34,1,,5,90,0,3,4,0.759326301846,0,How to avoid diseases?, Kill germs.,5
+2000,4,2,,,,,0.558877785012,,,,,26,1,,5,90,0,3,4,1.82438755301,0,Why use chalk?, Get fit.,1

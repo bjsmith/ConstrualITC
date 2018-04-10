@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2098,1,R,,,,,4.22654728684,,,,,35,1,,5,90,0,1,4,0.799065825491,5,How to take a picture?, Point a camera.,4
+2098,2,L,,,,,1.21918405714,,,,,32,1,,5,90,0,1,4,0.745407707791,2,How to kill germs?, Wash ones hands.,4
+2098,3,L,,,,,1.14766992243,,,,,31,1,,5,90,0,1,4,0.518365978603,7,Why show competence?, Pass the time.,3
+2098,4,L,,,,,0.592015688174,,,,,24,1,,5,90,0,1,4,1.08946114492,4,Why avoid diseases?, Live a long life.,3
+2098,5,R,,,,,0.935929856509,,,,,30,1,,5,90,0,1,4,1.97638098944,11,Why consume medicine?, Reduce pain.,2
+2098,6,R,,,,,1.04821031339,,,,,27,1,,5,90,0,1,4,0.960081644148,3,Why watch television?, Show competence.,2
+2098,7,L,,,,,3.29085968035,,,,,25,1,,5,90,0,1,4,0.555845178153,1,How to feel productive?, Finish a job.,6
+2098,8,L,,,,,1.54075593294,,,,,36,1,,5,90,0,1,4,1.32633187423,10,How to show cleanliness?, Write an email.,6
+2098,9,R,,,,,1.97850696851,,,,,39,1,,5,90,0,1,4,0.972327040124,9,How to plan ahead?, Make a list.,5
+2098,10,R,,,,,2.08460160428,,,,,23,1,,5,90,0,1,4,0.653109593797,0,How to satisfy hunger?, Make breakfast.,5
+2098,11,L,,,,,5.17066866787,,,,,38,1,,5,90,0,1,4,1.84707133913,8,Why point a camera?, Take a picture.,1
+2098,12,R,,,,,1.32654662393,,,,,34,1,,5,90,0,1,4,0.75950055133,6,Why drink coffee?, Consume caffeine.,1

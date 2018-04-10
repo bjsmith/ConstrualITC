@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2089,1,L,,,,,0.539257813406,,,,,27,1,,5,90,0,1,3,1.07999929407,11,Why teach a class?, Obey laws.,2
+2089,2,R,,,,,5.02926291122,,,,,28,1,,5,90,0,1,3,0.585982611412,3,Why write a song?, Seek advice.,2
+2089,3,L,,,,,0.797631504404,,,,,24,1,,5,90,0,1,3,2.22807156881,5,How to consume caffeine?, Press buttons.,4
+2089,4,R,,,,,1.26002682815,,,,,34,1,,5,90,0,1,3,0.783524452189,0,How to paint a picture?, Use a brush.,4
+2089,5,L,,,,,0.867580489834,,,,,32,1,,5,90,0,1,3,0.609055507525,4,Why give to charity?, Support a cause.,3
+2089,6,L,,,,,3.20892928228,,,,,23,1,,5,90,0,1,3,0.728976734497,9,Why finish a job?, Feel productive.,3
+2089,7,R,,,,,2.5559752367,,,,,39,1,,5,90,0,1,3,0.637412319937,7,How to feel productive?, Finish a job.,6
+2089,8,R,,,,,2.18365432076,,,,,35,1,,5,90,0,1,3,0.66231309639,1,How to get a degree?, Attend a school.,6
+2089,9,R,,,,,0.563294443248,,,,,31,1,,5,90,0,1,3,1.93978474755,8,Why use credit cards?, Go shopping.,1
+2089,10,L,,,,,2.39299832474,,,,,36,1,,5,90,0,1,3,0.862018370852,2,Why dial numbers?, Make a phone call.,1
+2089,11,R,,,,,2.0193641912,,,,,40,1,,5,90,0,1,3,0.781130081384,10,How to show ambition?, Serve alcohol.,5
+2089,12,L,,,,,2.34799486851,,,,,26,1,,5,90,0,1,3,0.806133461931,6,How to make art?, Paint a picture.,5

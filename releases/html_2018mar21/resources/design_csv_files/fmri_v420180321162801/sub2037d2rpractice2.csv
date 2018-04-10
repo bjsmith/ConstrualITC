@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2037,1,L,,,,,0.783775021842,,,,25,30,1,,9,,1,2,4,1.18320851085,0,Why entertain others?, Express a talent.,3
+2037,2,R,,,,,1.94995442026,,,,25,30,1,,3,,1,2,4,0.561725376964,3,Why contact a friend?, Feel connected.,3
+2037,3,R,,,,,1.15414205199,,,,25,30,1,,1,,1,2,4,0.795632322627,2,Why follow recipes?, Prepare meals.,1
+2037,4,L,,,,,3.2864479778,,,,25,30,1,,5,,1,2,4,0.984322460235,1,Why point a camera?, Take a picture.,1

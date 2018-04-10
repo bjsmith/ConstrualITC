@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2069,1,R,,,,,0.938046309516,,,,,29,1,,5,90,0,1,3,0.500343109826,3,Why take a picture?, Keep a memory.,2
+2069,2,L,,,,,1.13026488968,,,,,38,1,,5,90,0,1,3,0.897180883802,0,Why read articles?, Gain knowledge.,2
+2069,3,L,,,,,1.5234665099,,,,,25,1,,5,90,0,1,3,0.598899291094,10,Why click a mouse?, Open a browser.,1
+2069,4,L,,,,,3.64675008295,,,,,28,1,,5,90,0,1,3,1.4096465956,4,Why cut paper?, Clip coupons.,1
+2069,5,L,,,,,1.95242012999,,,,,27,1,,5,90,0,1,3,0.693272341861,5,Why hold a party?, Feel sociable.,3
+2069,6,R,,,,,2.83195960025,,,,,33,1,,5,90,0,1,3,1.99238948947,7,Why entertain others?, Express a talent.,3
+2069,7,R,,,,,1.9269349918,,,,,30,1,,5,90,0,1,3,0.533598750305,9,How to write a song?, Play piano.,4
+2069,8,R,,,,,1.15588275805,,,,,31,1,,5,90,0,1,3,0.748818670536,2,How to consume caffeine?, Press buttons.,4
+2069,9,L,,,,,1.5100721694,,,,,36,1,,5,90,0,1,3,1.22133063334,1,How to make a donation?, Mix a cocktail.,5
+2069,10,R,,,,,3.45056742465,,,,,23,1,,5,90,0,1,3,0.552844348787,11,How to build muscles?, Lift weights.,5
+2069,11,L,,,,,2.60381500729,,,,,20,1,,5,90,0,1,3,0.995646481176,8,How to feel sociable?, Hold a party.,6
+2069,12,R,,,,,1.13138741173,,,,,40,1,,5,90,0,1,3,1.09145245206,6,How to feel well?, Reduce pain.,6

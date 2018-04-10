@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2176,1,R,,,,,2.68716764738,,,,,25,1,,5,90,0,2,4,0.637278183322,0,How to drink wine?, Open a bottle. ,4
+2176,2,L,,,,,1.66268304138,,,,,33,1,,5,90,0,2,4,0.594975383057,1,How to lift weights?, Fasten seatbelt.,4
+2176,3,L,,,,,0.892235078139,,,,,34,1,,5,90,0,2,4,1.86458870439,3,How to show cleanliness?, Write an email.,6
+2176,4,R,,,,,2.19349852594,,,,,32,1,,5,90,0,2,4,0.547243647139,2,How to feel productive?, Finish a job.,6

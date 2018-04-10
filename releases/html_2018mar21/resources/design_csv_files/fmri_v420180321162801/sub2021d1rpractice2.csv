@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,L,,,,,2.33167568589,,,,25,30,1,,6,,1,1,4,2.15553969289,5,Why show courtesy?, Make a friend.,3
+2021,2,L,,,,,1.1184561887,,,,25,30,1,,5,,1,1,4,0.622596005673,1,Why hold a party?, Feel sociable.,3
+2021,3,R,,,,,3.58143549193,,,,25,30,1,,8,,1,1,4,1.05699972992,8,How to read articles?, Open a magazine.,4
+2021,4,L,,,,,0.734821394812,,,,25,30,1,,4,,1,1,4,1.12453815375,0,How to participate in class?, Raise a hand.,4
+2021,5,R,,,,,0.649326849187,,,,25,30,1,,9,,1,1,4,0.712978467396,7,How to feel secure?, Save money.,6
+2021,6,R,,,,,1.2759919396,,,,25,30,1,,3,,1,1,4,0.540185428716,10,How to support a cause?, Give to charity.,6
+2021,7,L,,,,,2.15860379309,,,,25,30,1,,7,,1,1,4,0.779870563533,6,How to write an email?, Open a browser.,5
+2021,8,L,,,,,1.51234995755,,,,25,30,1,,2,,1,1,4,0.711399190179,3,How to express doubt?, Use scissors.,5
+2021,9,R,,,,,0.796803397367,,,,25,30,1,,7,,1,1,4,0.530581305506,4,Why clap hands?, Give applause.,1
+2021,10,L,,,,,2.36888989214,,,,25,30,1,,5,,1,1,4,1.39930507698,2,Why use chalk?, Get fit.,1
+2021,11,R,,,,,4.54144266969,,,,25,30,1,,3,,1,1,4,0.962744458053,9,Why paint a picture?, Make art.,2
+2021,12,R,,,,,3.43948507656,,,,25,30,1,,2,,1,1,4,1.20365651894,11,Why take a picture?, Keep a memory.,2

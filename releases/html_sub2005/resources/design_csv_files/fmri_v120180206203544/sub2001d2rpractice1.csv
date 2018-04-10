@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,1,,,,,1.90299804714,,,,,29,1,,5,90,0,2,3,0.998681366192,0,Why show intelligence?, Impress others.,3
+2001,2,2,,,,,2.39806724772,,,,,25,1,,5,90,0,2,3,0.510465921725,0,Why throw away trash?, Make a list.,1
+2001,3,1,,,,,2.20717719898,,,,,35,1,,5,90,0,2,3,1.45105191537,0,How to go shopping?, Use credit cards.,4
+2001,4,2,,,,,1.17315775699,,,,,31,1,,5,90,0,2,3,0.863726939622,1,How to express a talent?, Entertain others.,6

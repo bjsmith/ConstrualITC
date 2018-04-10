@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2008,1,R,,,,,2.7779166541,,,,,35,1,,5,90,0,1,2,1.70959404367,14,Why throw away trash?, Make a list.,1
+2008,2,R,,,,,4.95886820466,,,,,37,1,,5,90,0,1,2,1.52959821332,31,Why clap hands?, Give applause.,1
+2008,3,L,,,,,3.26615715798,,,,,24,1,,5,90,0,1,2,1.47612559359,15,Why kill germs?, Avoid diseases.,2
+2008,4,R,,,,,1.53233518424,,,,,38,1,,5,90,0,1,2,1.74504486399,44,Why write a song?, Seek advice.,2
+2008,5,L,,,,,1.36642426596,,,,,28,1,,5,90,0,1,2,2.27467208868,16,Why show competence?, Pass the time.,3
+2008,6,L,,,,,1.70101296311,,,,,30,1,,5,90,0,1,2,2.15538689985,7,Why make art?, Show creativity.,3
+2008,7,R,,,,,1.90112425703,,,,,26,1,,5,90,0,1,2,1.06151970155,10,How to write a poem?, Grab a pencil.,4
+2008,8,L,,,,,1.87899024854,,,,,29,1,,5,90,0,1,2,1.85212847979,58,How to write a check?, Sign ones name.,4
+2008,9,R,,,,,1.09798556962,,,,,21,1,,5,90,0,1,2,1.62781712419,19,How to spread knowledge?, Teach others.,6
+2008,10,L,,,,,1.41047111343,,,,,23,1,,5,90,0,1,2,2.45027827111,38,How to improve oneself?, Gain knowledge.,6
+2008,11,R,,,,,1.19090732113,,,,,33,1,,5,90,0,1,2,1.59647579089,47,How to plan ahead?, Make a list.,5
+2008,12,L,,,,,1.77090979378,,,,,22,1,,5,90,0,1,2,2.04062052647,33,How to make a purchase?, Go shopping.,5
+2008,13,L,,,,,1.25682423563,,,,,27,1,,5,90,0,1,2,2.59594001604,12,Why lift weights?, Build muscles.,2
+2008,14,L,,,,,1.0051286418,,,,,39,1,,5,90,0,1,2,4.3592842681,11,Why make a phone call?, Contact a friend.,2
+2008,15,R,,,,,1.49901077613,,,,,40,1,,5,90,0,1,2,1.87780965252,27,How to participate in class?, Raise a hand.,4
+2008,16,R,,,,,2.52188480529,,,,,34,1,,5,90,0,1,2,1.19101913009,34,How to mix a cocktail?, Stir ingredients.,4
+2008,17,R,,,,,1.51710859795,,,,,20,1,,5,90,0,1,2,1.49248487131,9,Why crack eggs?, Make breakfast.,1
+2008,18,L,,,,,1.06605967623,,,,,25,1,,5,90,0,1,2,2.86607950728,4,Why follow recipes?, Prepare meals.,1
+2008,19,R,,,,,1.88370344629,,,,,36,1,,5,90,0,1,2,1.42655119533,42,How to support a cause?, Give to charity.,6
+2008,20,R,,,,,3.66043341787,,,,,31,1,,5,90,0,1,2,1.47697347075,26,How to impress others?, Show intelligence.,6
+2008,21,L,,,,,4.12640062451,,,,,33,1,,5,90,0,1,2,1.66102716849,53,Why get a promotion?, Achieve success.,3
+2008,22,R,,,,,1.37132169233,,,,,36,1,,5,90,0,1,2,1.8752072021,3,Why attend a school?, Get a degree.,3
+2008,23,L,,,,,2.68458617637,,,,,38,1,,5,90,0,1,2,4.051698405,56,How to avoid diseases?, Kill germs.,5
+2008,24,L,,,,,1.41226155778,,,,,28,1,,5,90,0,1,2,1.00298367936,23,How to show appreciation?, Give applause.,5
+2008,25,L,,,,,1.07800974109,,,,,21,1,,5,90,0,1,2,1.94475644745,1,Why cut paper?, Clip coupons.,1
+2008,26,R,,,,,1.46174925778,,,,,32,1,,5,90,0,1,2,2.40122888317,45,Why use a comb?, Write a song.,1
+2008,27,R,,,,,1.86941972486,,,,,25,1,,5,90,0,1,2,1.31282742657,29,Why hold a party?, Feel sociable.,3
+2008,28,L,,,,,1.18817939914,,,,,27,1,,5,90,0,1,2,1.71407258718,22,Why entertain others?, Express a talent.,3
+2008,29,L,,,,,1.14293652332,,,,,20,1,,5,90,0,1,2,3.48334440824,32,How to feel productive?, Finish a job.,6
+2008,30,R,,,,,3.41925370736,,,,,24,1,,5,90,0,1,2,1.45374898663,48,How to show humility?, Build muscles.,6
+2008,31,R,,,,,1.37752636766,,,,,37,1,,5,90,0,1,2,2.64829633683,8,Why teach a class?, Obey laws.,2
+2008,32,L,,,,,1.91022766167,,,,,26,1,,5,90,0,1,2,1.94077297676,24,Why paint a picture?, Make art.,2
+2008,33,L,,,,,3.4515032172,,,,,29,1,,5,90,0,1,2,1.21910585808,59,How to give applause?, Clap hands.,4
+2008,34,L,,,,,3.22920423631,,,,,30,1,,5,90,0,1,2,2.57802232855,41,How to dress formally?, Wear ties. ,4
+2008,35,R,,,,,1.01187661668,,,,,22,1,,5,90,0,1,2,2.1536825917,37,How to save money?, Clip coupons.,5
+2008,36,R,,,,,1.21965876473,,,,,39,1,,5,90,0,1,2,1.66030870928,50,How to provide food?, Prepare meals.,5
+2008,37,R,,,,,1.57262888617,,,,,23,1,,5,90,0,1,2,2.59930663767,18,How to lift weights?, Fasten seatbelt.,4
+2008,38,R,,,,,4.52968806217,,,,,34,1,,5,90,0,1,2,1.60983160431,5,How to consume caffeine?, Press buttons.,4
+2008,39,L,,,,,1.06898246752,,,,,40,1,,5,90,0,1,2,2.06676939242,2,How to show cleanliness?, Write an email.,6
+2008,40,L,,,,,1.09590405505,,,,,31,1,,5,90,0,1,2,3.06096215668,35,How to feel connected?, Contact a friend.,6
+2008,41,R,,,,,1.30458935006,,,,,32,1,,5,90,0,1,2,1.40284095817,39,How to entertain others?, Write a song.,5
+2008,42,L,,,,,2.66340221179,,,,,39,1,,5,90,0,1,2,1.22205074551,57,How to make a donation?, Mix a cocktail.,5
+2008,43,L,,,,,1.5542650696,,,,,22,1,,5,90,0,1,2,1.0693088971,46,Why gain knowledge?, Improve oneself.,3
+2008,44,R,,,,,1.74844290012,,,,,31,1,,5,90,0,1,2,3.52786092425,30,Why plan ahead?, Reduce worry.,3
+2008,45,R,,,,,1.40879644302,,,,,33,1,,5,90,0,1,2,1.16602373114,6,Why drink coffee?, Consume caffeine.,1
+2008,46,L,,,,,1.74319200618,,,,,20,1,,5,90,0,1,2,1.31326428658,55,Why sign ones name?, Write a check.,1
+2008,47,R,,,,,2.91343479684,,,,,24,1,,5,90,0,1,2,1.83596070514,40,Why give applause?, Show appreciation.,2
+2008,48,L,,,,,3.76624032139,,,,,34,1,,5,90,0,1,2,2.62578661808,25,Why enter a classroom?, Attend a school.,2
+2008,49,R,,,,,1.16031619881,,,,,21,1,,5,90,0,1,2,2.66843678566,20,Why use a remote?, Watch television.,1
+2008,50,L,,,,,3.67279713091,,,,,26,1,,5,90,0,1,2,1.27684087409,0,Why open a magazine?, Read articles.,1
+2008,51,R,,,,,1.1484397457,,,,,30,1,,5,90,0,1,2,2.37438411867,28,Why give a lecture?, Teach others.,2
+2008,52,L,,,,,1.81477115088,,,,,36,1,,5,90,0,1,2,3.46665691753,13,Why watch television?, Show competence.,2
+2008,53,L,,,,,2.17259022683,,,,,40,1,,5,90,0,1,2,1.95012374997,17,How to reduce worry?, Plan ahead.,6
+2008,54,R,,,,,1.97291643008,,,,,37,1,,5,90,0,1,2,1.83911066296,54,How to show an ability?, Satisfy hunger.,6
+2008,55,L,,,,,3.0487885739,,,,,25,1,,5,90,0,1,2,1.50080197065,49,How to paint a picture?, Use a brush.,4
+2008,56,L,,,,,1.3403444793,,,,,28,1,,5,90,0,1,2,1.2196545021,51,How to write a song?, Play piano.,4
+2008,57,R,,,,,1.66365158595,,,,,27,1,,5,90,0,1,2,1.32163047857,21,Why avoid diseases?, Live a long life.,3
+2008,58,R,,,,,1.551231864,,,,,35,1,,5,90,0,1,2,1.42719058971,52,Why reduce pain?, Feel well.,3
+2008,59,L,,,,,1.58084430329,,,,,38,1,,5,90,0,1,2,1.73012561227,36,How to contact a friend?, Make a phone call.,5
+2008,60,R,,,,,2.5871125125,,,,,23,1,,5,90,0,1,2,3.65784755522,43,How to make art?, Paint a picture.,5

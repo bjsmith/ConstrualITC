@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2088,1,R,,,,,1.33501264798,,,,25,30,1,,1,,1,2,3,0.795008872177,1,Why reduce pain?, Feel well.,3
+2088,2,L,,,,,0.611678209616,,,,25,30,1,,5,,1,2,3,0.512154822144,3,Why finish a job?, Feel productive.,3
+2088,3,R,,,,,1.11858739617,,,,25,30,1,,8,,1,2,3,1.33279625484,0,Why wear ties?, Dress formally.,1
+2088,4,L,,,,,5.48572019033,,,,25,30,1,,9,,1,2,3,0.949971579389,2,Why use credit cards?, Go shopping.,1

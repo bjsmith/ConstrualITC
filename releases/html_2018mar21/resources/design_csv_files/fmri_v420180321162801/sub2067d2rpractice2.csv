@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2067,1,R,,,,,4.4384153133,,,,25,30,1,,9,,1,2,4,0.708442603415,3,How to satisfy a need?, Make a purchase.,6
+2067,2,R,,,,,1.03507664748,,,,25,30,1,,1,,1,2,4,0.872056196861,0,How to express a talent?, Entertain others.,6
+2067,3,L,,,,,1.76902244199,,,,25,30,1,,8,,1,2,4,0.887298017612,2,How to entertain oneself?, Watch television.,5
+2067,4,L,,,,,1.37445549433,,,,25,30,1,,3,,1,2,4,0.635684303965,1,How to satisfy hunger?, Make breakfast.,5

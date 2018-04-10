@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2019,1,R,,,,,0.535338398473,,,,,25,1,,5,90,0,3,3,1.0373128694,3,Why raise a hand?, Participate in class.,1
+2019,2,L,,,,,3.2685816719,,,,,24,1,,5,90,0,3,3,0.889335916203,2,Why wear ties?, Dress formally.,1
+2019,3,R,,,,,3.68782258769,,,,,36,1,,5,90,0,3,3,0.786322788355,0,Why finish a job?, Feel productive.,3
+2019,4,L,,,,,0.73380374578,,,,,38,1,,5,90,0,3,3,0.72124051041,1,Why write an email?, Send a message.,3

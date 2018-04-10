@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2172,1,R,,,,,0.589076294567,,,,,31,1,,5,90,0,1,4,1.92569595372,0,How to show humility?, Build muscles.,6
+2172,2,L,,,,,0.755450157425,,,,,22,1,,5,90,0,1,4,0.673624423517,9,How to achieve success?, Get a promotion.,6
+2172,3,L,,,,,1.99847036579,,,,,34,1,,5,90,0,1,4,0.571886047225,5,Why satisfy hunger?, Show an ability.,3
+2172,4,R,,,,,3.62900468014,,,,,33,1,,5,90,0,1,4,1.36177033503,10,Why reduce pain?, Feel well.,3
+2172,5,L,,,,,1.36903672819,,,,,24,1,,5,90,0,1,4,0.584246594898,11,Why teach a class?, Obey laws.,2
+2172,6,R,,,,,1.19894690273,,,,,32,1,,5,90,0,1,4,1.48830343925,3,Why dress formally?, Get a promotion.,2
+2172,7,L,,,,,1.4302682638,,,,,21,1,,5,90,0,1,4,1.14315113052,7,How to entertain others?, Write a song.,5
+2172,8,L,,,,,2.14540777778,,,,,35,1,,5,90,0,1,4,1.12635099009,8,How to write an email?, Open a browser.,5
+2172,9,R,,,,,0.592044885854,,,,,40,1,,5,90,0,1,4,1.13549335556,1,How to write a check?, Sign ones name.,4
+2172,10,R,,,,,4.37978456724,,,,,28,1,,5,90,0,1,4,0.876429564408,6,How to prepare meals?, Follow recipes.,4
+2172,11,L,,,,,0.68801483916,,,,,36,1,,5,90,0,1,4,0.672802476027,2,Why open a bottle?, Consume medicine.,1
+2172,12,R,,,,,5.21378091614,,,,,25,1,,5,90,0,1,4,0.887536908465,4,Why stir ingredients?, Mix a cocktail.,1

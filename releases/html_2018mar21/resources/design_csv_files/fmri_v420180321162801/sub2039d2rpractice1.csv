@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2039,1,L,,,,,2.31860546507,,,,,31,1,,5,90,0,2,3,0.766494765096,1,Why sign ones name?, Write a check.,1
+2039,2,L,,,,,0.720700144254,,,,,35,1,,5,90,0,2,3,0.715272710554,3,Why follow recipes?, Prepare meals.,1
+2039,3,R,,,,,0.755972224146,,,,,21,1,,5,90,0,2,3,0.977505906534,2,How to take a picture?, Point a camera.,4
+2039,4,R,,,,,4.00391984423,,,,,29,1,,5,90,0,2,3,0.770277689064,0,How to mix a cocktail?, Stir ingredients.,4

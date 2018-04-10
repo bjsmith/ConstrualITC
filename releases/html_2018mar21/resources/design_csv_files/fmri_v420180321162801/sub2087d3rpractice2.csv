@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2087,1,L,,,,,1.49808483821,,,,25,30,1,,5,,1,3,4,0.575309779433,2,How to provide food?, Prepare meals.,5
+2087,2,L,,,,,0.628377486993,,,,25,30,1,,6,,1,3,4,1.95676471287,3,How to satisfy hunger?, Make breakfast.,5
+2087,3,R,,,,,2.84901334899,,,,25,30,1,,7,,1,3,4,1.45978304415,1,How to paint a picture?, Use a brush.,4
+2087,4,R,,,,,3.4302395918,,,,25,30,1,,4,,1,3,4,0.86240982426,0,How to dress formally?, Wear ties. ,4

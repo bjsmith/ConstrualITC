@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2093,1,L,,,,,1.39261063054,,,,25,30,1,,6,,1,3,4,2.87227964399,1,Why cut paper?, Clip coupons.,1
+2093,2,R,,,,,3.06495420721,,,,25,30,1,,1,,1,3,4,0.552385170813,0,Why sign ones name?, Write a check.,1
+2093,3,L,,,,,2.57333467992,,,,25,30,1,,9,,1,3,4,0.967874698665,3,How to show intellect?, Share ideas.,6
+2093,4,R,,,,,0.968248815864,,,,25,30,1,,2,,1,3,4,0.557638743652,2,How to feel secure?, Save money.,6

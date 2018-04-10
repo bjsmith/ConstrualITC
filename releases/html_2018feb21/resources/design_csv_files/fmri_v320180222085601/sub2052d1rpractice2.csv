@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2052,1,L,,,,,1.16930816269,,,,,21,1,,5,90,0,1,4,0.514019423138,7,Why give a lecture?, Teach others.,2
+2052,2,R,,,,,2.67357149036,,,,,31,1,,5,90,0,1,4,0.593209421132,5,Why consume medicine?, Reduce pain.,2
+2052,3,L,,,,,2.5431144878,,,,,20,1,,5,90,0,1,4,0.559066666789,2,How to make a phone call?, Dial numbers.,4
+2052,4,R,,,,,1.05183456881,,,,,25,1,,5,90,0,1,4,0.774464934302,10,How to consume medicine?, Take pills. ,4
+2052,5,R,,,,,1.85955165618,,,,,32,1,,5,90,0,1,4,1.14014702455,1,How to support a cause?, Give to charity.,6
+2052,6,R,,,,,1.19891642219,,,,,33,1,,5,90,0,1,4,1.06139490756,9,How to feel well?, Reduce pain.,6
+2052,7,R,,,,,2.72650140388,,,,,40,1,,5,90,0,1,4,0.687904740924,0,Why follow recipes?, Prepare meals.,1
+2052,8,L,,,,,2.10433931326,,,,,35,1,,5,90,0,1,4,0.73707165666,3,Why crack eggs?, Make breakfast.,1
+2052,9,L,,,,,3.30419456331,,,,,34,1,,5,90,0,1,4,1.09381199243,4,Why make art?, Show creativity.,3
+2052,10,L,,,,,1.92118917372,,,,,36,1,,5,90,0,1,4,4.3120270759,11,Why reduce pain?, Feel well.,3
+2052,11,L,,,,,2.07362501766,,,,,23,1,,5,90,0,1,4,0.703725132514,8,How to provide food?, Prepare meals.,5
+2052,12,R,,,,,1.34240298883,,,,,38,1,,5,90,0,1,4,0.794321229653,6,How to satisfy hunger?, Make breakfast.,5

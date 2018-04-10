@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2170,1,L,,,,,2.21356767428,,,,,35,1,,5,90,0,1,4,0.517129002322,0,How to write an email?, Open a browser.,5
+2170,2,L,,,,,4.51403637957,,,,,37,1,,5,90,0,1,4,1.1661481456,11,How to provide food?, Prepare meals.,5
+2170,3,R,,,,,1.10412402691,,,,,28,1,,5,90,0,1,4,1.06567258158,3,How to make a list?, Throw away trash.,4
+2170,4,L,,,,,1.39701084406,,,,,30,1,,5,90,0,1,4,1.31299531086,2,How to consume medicine?, Take pills. ,4
+2170,5,L,,,,,1.36080668853,,,,,36,1,,5,90,0,1,4,0.695844591911,10,Why write an email?, Send a message.,3
+2170,6,R,,,,,4.16577677344,,,,,34,1,,5,90,0,1,4,1.06452454784,7,Why plan ahead?, Reduce worry.,3
+2170,7,R,,,,,1.01974950973,,,,,23,1,,5,90,0,1,4,0.594328098497,4,Why use credit cards?, Go shopping.,1
+2170,8,R,,,,,2.01896658839,,,,,33,1,,5,90,0,1,4,0.635594504024,1,Why follow recipes?, Prepare meals.,1
+2170,9,R,,,,,2.68501677463,,,,,29,1,,5,90,0,1,4,0.653450621843,6,How to support a cause?, Give to charity.,6
+2170,10,L,,,,,0.695739185743,,,,,32,1,,5,90,0,1,4,1.10568420831,5,How to spread joy?, Get a job.,6
+2170,11,L,,,,,0.56260189012,,,,,26,1,,5,90,0,1,4,0.956059971265,8,Why consume medicine?, Reduce pain.,2
+2170,12,R,,,,,1.64664830264,,,,,24,1,,5,90,0,1,4,2.52712306007,9,Why lift weights?, Build muscles.,2

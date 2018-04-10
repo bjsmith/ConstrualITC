@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2126,1,L,,,,,5.50393202935,,,,,31,1,,5,90,0,1,4,0.553781578999,0,Why dial numbers?, Make a phone call.,1
+2126,2,R,,,,,2.78491832242,,,,,23,1,,5,90,0,1,4,1.43226298655,3,Why clap hands?, Give applause.,1
+2126,3,R,,,,,1.55554413624,,,,,38,1,,5,90,0,1,4,0.711569579387,2,How to feel well?, Reduce pain.,6
+2126,4,R,,,,,1.88296162408,,,,,32,1,,5,90,0,1,4,0.587904149898,10,How to feel secure?, Save money.,6
+2126,5,L,,,,,0.579262566745,,,,,27,1,,5,90,0,1,4,1.39265627131,4,How to satisfy hunger?, Make breakfast.,5
+2126,6,L,,,,,1.02937374204,,,,,29,1,,5,90,0,1,4,1.18943435881,6,How to consume alcohol?, Drink wine.,5
+2126,7,L,,,,,4.28835241205,,,,,21,1,,5,90,0,1,4,0.703670117629,11,Why write a poem?, Express an idea.,2
+2126,8,R,,,,,0.516002618468,,,,,37,1,,5,90,0,1,4,0.860518100362,8,Why lift weights?, Build muscles.,2
+2126,9,R,,,,,1.87665646405,,,,,22,1,,5,90,0,1,4,1.01871434552,9,How to write a poem?, Grab a pencil.,4
+2126,10,L,,,,,1.05063823207,,,,,33,1,,5,90,0,1,4,0.792301042283,1,How to write a check?, Sign ones name.,4
+2126,11,L,,,,,1.80632485878,,,,,34,1,,5,90,0,1,4,0.746618221381,7,Why save money?, Get fit.,3
+2126,12,R,,,,,0.813115413053,,,,,25,1,,5,90,0,1,4,2.21805646125,5,Why share ideas?, Show intellect.,3

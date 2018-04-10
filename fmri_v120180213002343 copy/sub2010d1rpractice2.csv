@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2010,1,1,,,,,1.05346092245,,,,,20,1,,5,90,0,1,4,1.16843957002,0,How to consume alcohol?, Drink wine.,5
+2010,2,2,,,,,2.10711896184,,,,,26,1,,5,90,0,1,4,1.32742752475,0,How to show ambition?, Serve alcohol.,5
+2010,3,1,,,,,2.38240117,,,,,24,1,,5,90,0,1,4,1.7108320525,0,How to dress formally?, Wear ties. ,4
+2010,4,1,,,,,1.37925455447,,,,,33,1,,5,90,0,1,4,2.38128234467,1,How to take a picture?, Point a camera.,4
+2010,5,2,,,,,1.51666919418,,,,,30,1,,5,90,0,1,4,3.06420747595,0,How to avoid boredom?, Entertain oneself.,6
+2010,6,2,,,,,2.18984584208,,,,,22,1,,5,90,0,1,4,2.30350516791,0,How to feel nostalgia?, Keep a memory.,6
+2010,7,1,,,,,1.79956880071,,,,,36,1,,5,90,0,1,4,1.57618581202,0,Why take aspirin?, Serve alcohol.,1
+2010,8,2,,,,,6.39291918643,,,,,40,1,,5,90,0,1,4,4.4798490182,0,Why open a magazine?, Read articles.,1
+2010,9,2,,,,,1.23999847068,,,,,28,1,,5,90,0,1,4,0.620616437049,0,Why show courtesy?, Make a friend.,3
+2010,10,1,,,,,0.79059960963,,,,,29,1,,5,90,0,1,4,3.45852100005,0,Why make a purchase?, Satisfy a need.,3
+2010,11,1,,,,,1.62286374505,,,,,23,1,,5,90,0,1,4,1.12195925861,0,Why make breakfast?, Satisfy hunger.,2
+2010,12,2,,,,,1.19602317898,,,,,38,1,,5,90,0,1,4,1.2934713191,0,Why give a lecture?, Teach others.,2

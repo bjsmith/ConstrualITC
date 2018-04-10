@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,L,,,,,2.08758275487,,,,,36,1,,5,90,0,2,2,1.39273019035,37,Why show competence?, Pass the time.,3
+2020,2,R,,,,,1.66481164983,,,,,39,1,,5,90,0,2,2,2.52520805011,3,Why make art?, Show creativity.,3
+2020,3,L,,,,,3.03559277444,,,,,23,1,,5,90,0,2,2,2.20913050293,13,Why follow recipes?, Prepare meals.,1
+2020,4,R,,,,,1.11743068321,,,,,37,1,,5,90,0,2,2,3.02271317172,25,Why use a brush?, Paint a picture.,1
+2020,5,L,,,,,1.41595837906,,,,,38,1,,5,90,0,2,2,1.08270532775,41,How to build muscles?, Lift weights.,5
+2020,6,L,,,,,1.1757179271,,,,,22,1,,5,90,0,2,2,1.91487086491,40,How to make a purchase?, Go shopping.,5
+2020,7,L,,,,,2.54298798001,,,,,28,1,,5,90,0,2,2,5.6837758993,20,How to make a phone call?, Dial numbers.,4
+2020,8,R,,,,,2.93955673191,,,,,34,1,,5,90,0,2,2,1.64261984762,36,How to write a song?, Play piano.,4
+2020,9,R,,,,,3.32664885004,,,,,30,1,,5,90,0,2,2,1.30263199692,34,Why teach a class?, Obey laws.,2
+2020,10,R,,,,,1.10074793258,,,,,32,1,,5,90,0,2,2,2.51257366121,17,Why go shopping?, Make a purchase.,2
+2020,11,R,,,,,1.15268977148,,,,,40,1,,5,90,0,2,2,1.83245529331,31,How to reduce worry?, Plan ahead.,6
+2020,12,L,,,,,4.04425972848,,,,,24,1,,5,90,0,2,2,1.07450528576,18,How to achieve success?, Get a promotion.,6
+2020,13,L,,,,,2.47001642168,,,,,31,1,,5,90,0,2,2,1.42149835907,30,Why make a list?, Plan ahead.,2
+2020,14,R,,,,,1.61379239317,,,,,26,1,,5,90,0,2,2,3.21600471221,14,Why lift weights?, Build muscles.,2
+2020,15,R,,,,,6.12711256583,,,,,29,1,,5,90,0,2,2,1.13671833858,2,How to feel secure?, Save money.,6
+2020,16,L,,,,,1.17966781451,,,,,25,1,,5,90,0,2,2,2.4620773769,5,How to show an ability?, Satisfy hunger.,6
+2020,17,L,,,,,1.0854390022,,,,,27,1,,5,90,0,2,2,1.54726934763,52,How to write an email?, Open a browser.,5
+2020,18,R,,,,,1.40585349795,,,,,35,1,,5,90,0,2,2,1.23662925797,6,How to provide food?, Prepare meals.,5
+2020,19,L,,,,,1.66871316322,,,,,33,1,,5,90,0,2,2,1.03277538702,42,Why contact a friend?, Feel connected.,3
+2020,20,R,,,,,1.00462386364,,,,,21,1,,5,90,0,2,2,1.39699904572,12,Why hold a party?, Feel sociable.,3
+2020,21,R,,,,,1.58856840014,,,,,25,1,,5,90,0,2,2,1.31933336078,51,Why open a bottle?, Consume medicine.,1
+2020,22,L,,,,,1.03289777065,,,,,29,1,,5,90,0,2,2,2.29967225669,11,Why wear ties?, Dress formally.,1
+2020,23,L,,,,,2.27379442775,,,,,39,1,,5,90,0,2,2,2.24148644311,22,How to prepare meals?, Follow recipes.,4
+2020,24,R,,,,,1.46771568619,,,,,26,1,,5,90,0,2,2,2.31527590148,58,How to write a check?, Sign ones name.,4
+2020,25,L,,,,,2.14058153327,,,,,36,1,,5,90,0,2,2,1.40421849255,56,Why kill germs?, Avoid diseases.,2
+2020,26,R,,,,,2.72303400719,,,,,32,1,,5,90,0,2,2,1.39064164266,43,Why enter a classroom?, Attend a school.,2
+2020,27,L,,,,,1.17974246894,,,,,30,1,,5,90,0,2,2,1.06139773736,4,Why crack eggs?, Make breakfast.,1
+2020,28,R,,,,,3.03087856336,,,,,35,1,,5,90,0,2,2,2.95604103584,53,Why use a comb?, Write a song.,1
+2020,29,L,,,,,1.15856551142,,,,,21,1,,5,90,0,2,2,1.61069304528,46,Why attend a school?, Get a degree.,3
+2020,30,R,,,,,1.23807254212,,,,,20,1,,5,90,0,2,2,3.69372012037,32,Why plan ahead?, Reduce worry.,3
+2020,31,R,,,,,2.14440668802,,,,,28,1,,5,90,0,2,2,2.31191623806,33,How to give a lecture?, Brush ones hair.,4
+2020,32,L,,,,,1.78628790852,,,,,33,1,,5,90,0,2,2,2.23857765432,50,How to take a picture?, Point a camera.,4
+2020,33,R,,,,,1.13274340843,,,,,23,1,,5,90,0,2,2,2.82538244464,0,How to live a long life?, Avoid diseases.,6
+2020,34,R,,,,,3.39362247292,,,,,31,1,,5,90,0,2,2,1.87104179423,57,How to get a degree?, Attend a school.,6
+2020,35,L,,,,,1.33988079523,,,,,24,1,,5,90,0,2,2,1.34271352614,48,How to teach others?, Give a lecture.,5
+2020,36,L,,,,,1.3680123637,,,,,40,1,,5,90,0,2,2,1.03198409294,19,How to entertain oneself?, Watch television.,5
+2020,37,L,,,,,1.66775146968,,,,,38,1,,5,90,0,2,2,1.08730788116,10,How to entertain others?, Write a song.,5
+2020,38,R,,,,,2.82832462176,,,,,37,1,,5,90,0,2,2,3.26346904811,27,How to avoid diseases?, Kill germs.,5
+2020,39,R,,,,,1.26854090911,,,,,27,1,,5,90,0,2,2,2.06800017894,26,How to feel sociable?, Hold a party.,6
+2020,40,L,,,,,2.45424666819,,,,,34,1,,5,90,0,2,2,2.2908710344,15,How to show cleanliness?, Write an email.,6
+2020,41,R,,,,,2.93734680274,,,,,20,1,,5,90,0,2,2,1.64297863045,21,Why reduce pain?, Feel well.,3
+2020,42,L,,,,,2.6035003491,,,,,26,1,,5,90,0,2,2,1.86589159852,49,Why satisfy hunger?, Show an ability.,3
+2020,43,L,,,,,1.85985236204,,,,,23,1,,5,90,0,2,2,3.17289213639,23,How to watch television?, Use a remote.,4
+2020,44,L,,,,,3.00557078357,,,,,30,1,,5,90,0,2,2,1.01524390209,29,How to write a poem?, Grab a pencil.,4
+2020,45,R,,,,,1.30799910975,,,,,36,1,,5,90,0,2,2,2.04335100482,54,Why paint a picture?, Make art.,2
+2020,46,L,,,,,3.06201036963,,,,,29,1,,5,90,0,2,2,1.65440003568,38,Why dress formally?, Get a promotion.,2
+2020,47,R,,,,,1.23611493595,,,,,35,1,,5,90,0,2,2,2.98123951497,16,Why point a camera?, Take a picture.,1
+2020,48,R,,,,,1.03330993249,,,,,34,1,,5,90,0,2,2,1.06551981191,28,Why lift a glass?, Drink wine.,1
+2020,49,R,,,,,1.42508148081,,,,,24,1,,5,90,0,2,2,1.86725151393,59,How to feel connected?, Contact a friend.,6
+2020,50,L,,,,,2.93555776217,,,,,33,1,,5,90,0,2,2,1.83217726818,45,How to feel productive?, Finish a job.,6
+2020,51,R,,,,,1.73560366489,,,,,27,1,,5,90,0,2,2,1.48305406027,47,How to show ambition?, Serve alcohol.,5
+2020,52,R,,,,,2.62485580565,,,,,28,1,,5,90,0,2,2,2.3855995202,39,How to show appreciation?, Give applause.,5
+2020,53,L,,,,,1.17993098923,,,,,38,1,,5,90,0,2,2,1.66307570078,55,How to drink wine?, Open a bottle. ,4
+2020,54,L,,,,,1.70036724815,,,,,32,1,,5,90,0,2,2,2.72620787929,35,How to consume medicine?, Take pills. ,4
+2020,55,L,,,,,1.94684542557,,,,,22,1,,5,90,0,2,2,1.3666399207,24,Why show appreciation?, Spread joy.,3
+2020,56,L,,,,,1.31656061987,,,,,39,1,,5,90,0,2,2,3.60910054451,9,Why gain knowledge?, Improve oneself.,3
+2020,57,R,,,,,4.23586964095,,,,,25,1,,5,90,0,2,2,1.63892676691,1,Why stir ingredients?, Mix a cocktail.,1
+2020,58,R,,,,,1.10924440367,,,,,21,1,,5,90,0,2,2,1.05702567869,7,Why throw away trash?, Make a list.,1
+2020,59,L,,,,,1.63524491,,,,,37,1,,5,90,0,2,2,1.045056284,44,Why write a poem?, Express an idea.,2
+2020,60,R,,,,,1.39988505732,,,,,40,1,,5,90,0,2,2,2.77475891446,8,Why make a phone call?, Contact a friend.,2

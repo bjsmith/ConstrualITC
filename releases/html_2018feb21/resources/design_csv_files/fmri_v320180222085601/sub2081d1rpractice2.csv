@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2081,1,L,,,,,3.09034363135,,,,25,30,1,,2,,1,1,4,1.87692589222,3,How to get a promotion?, Arrive on time.,5
+2081,2,R,,,,,1.36607235948,,,,25,30,1,,8,,1,1,4,0.762452302238,2,How to write an email?, Open a browser.,5
+2081,3,R,,,,,1.81641378582,,,,25,30,1,,3,,1,1,4,1.21037066159,7,How to spread joy?, Get a job.,6
+2081,4,L,,,,,3.54021320654,,,,25,30,1,,7,,1,1,4,1.31198440448,8,How to support a cause?, Give to charity.,6
+2081,5,L,,,,,0.639441822092,,,,25,30,1,,1,,1,1,4,0.503039149164,1,Why use a comb?, Write a song.,1
+2081,6,L,,,,,0.88433252621,,,,25,30,1,,4,,1,1,4,1.43084526412,9,Why use chalk?, Get fit.,1
+2081,7,R,,,,,2.95995112693,,,,25,30,1,,6,,1,1,4,0.607151572519,4,Why participate in class?, Show intelligence.,2
+2081,8,L,,,,,5.31336210924,,,,25,30,1,,5,,1,1,4,1.01615663751,6,Why make a phone call?, Contact a friend.,2
+2081,9,R,,,,,1.15746942926,,,,25,30,1,,5,,1,1,4,1.10533716401,0,Why save money?, Get fit.,3
+2081,10,R,,,,,1.18831870844,,,,25,30,1,,6,,1,1,4,0.50691944237,11,Why plan ahead?, Reduce worry.,3
+2081,11,R,,,,,0.759814518572,,,,25,30,1,,8,,1,1,4,0.873809486348,5,How to watch television?, Use a remote.,4
+2081,12,L,,,,,0.654552051413,,,,25,30,1,,3,,1,1,4,0.657234924727,10,How to consume medicine?, Take pills. ,4

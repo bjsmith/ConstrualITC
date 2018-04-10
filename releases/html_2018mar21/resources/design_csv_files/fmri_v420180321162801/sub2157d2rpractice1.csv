@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2157,1,L,,,,,5.1478605884,,,,,31,1,,5,90,0,2,3,0.956812056802,0,Why gain knowledge?, Improve oneself.,3
+2157,2,L,,,,,0.955645089583,,,,,35,1,,5,90,0,2,3,0.905140676497,2,Why avoid diseases?, Live a long life.,3
+2157,3,R,,,,,1.92732684678,,,,,30,1,,5,90,0,2,3,2.14372220866,3,How to consume medicine?, Take pills. ,4
+2157,4,R,,,,,0.774777742732,,,,,25,1,,5,90,0,2,3,0.618365716864,1,How to read articles?, Open a magazine.,4

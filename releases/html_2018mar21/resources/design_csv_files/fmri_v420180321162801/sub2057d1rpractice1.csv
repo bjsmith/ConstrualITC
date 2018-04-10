@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2057,1,L,,,,,2.81226537263,,,,,22,1,,5,90,0,1,3,0.572356451577,7,Why use a brush?, Paint a picture.,1
+2057,2,L,,,,,1.05763322429,,,,,31,1,,5,90,0,1,3,0.534631672769,0,Why crack eggs?, Make breakfast.,1
+2057,3,L,,,,,1.04505940183,,,,,39,1,,5,90,0,1,3,3.77621689134,8,How to watch television?, Use a remote.,4
+2057,4,R,,,,,3.41541727368,,,,,33,1,,5,90,0,1,3,0.510174793887,3,How to give applause?, Clap hands.,4
+2057,5,L,,,,,3.0613240547,,,,,34,1,,5,90,0,1,3,0.766303312513,4,Why show intelligence?, Impress others.,3
+2057,6,R,,,,,2.06251374504,,,,,25,1,,5,90,0,1,3,1.32862894962,5,Why reduce pain?, Feel well.,3
+2057,7,L,,,,,1.43842072263,,,,,21,1,,5,90,0,1,3,0.637091232946,6,How to show an ability?, Satisfy hunger.,6
+2057,8,L,,,,,1.32320036947,,,,,35,1,,5,90,0,1,3,1.05030687814,1,How to get a degree?, Attend a school.,6
+2057,9,R,,,,,1.38170430901,,,,,29,1,,5,90,0,1,3,0.620520742796,9,How to provide food?, Prepare meals.,5
+2057,10,R,,,,,2.82027613053,,,,,20,1,,5,90,0,1,3,0.69235782876,10,How to attend a school?, Enter a classroom.,5
+2057,11,R,,,,,2.1679329324,,,,,28,1,,5,90,0,1,3,0.873586769012,2,Why participate in class?, Show intelligence.,2
+2057,12,R,,,,,2.14806130136,,,,,32,1,,5,90,0,1,3,1.01154036757,11,Why use a camera?, Give to charity.,2

@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,1,,,,,0.670398473596,,,,25,30,1,,3,,1,3,1,0.784495204791,0,Why use a remote?, Watch television.,1
+2020,2,1,,,,,1.31232062739,,,,25,30,1,,9,,1,3,1,0.697606464885,0,Why finish a job?, Feel productive.,3
+2020,3,1,,,,,5.65796368234,,,,25,30,1,,8,,1,3,1,0.817414200149,0,How to take a picture?, Point a camera.,4
+2020,4,2,,,,,3.07309599245,,,,25,30,1,,1,,1,3,1,0.86250531469,0,How to show ambition?, Serve alcohol.,5
+2020,5,2,,,,,1.32611957176,,,,25,30,1,,2,,1,3,1,0.546028244534,0,How to spread joy?, Get a job.,6
+2020,6,2,,,,,1.58483038872,,,,25,30,1,,5,,1,3,1,1.22349974275,0,Why lift weights?, Build muscles.,2
+2020,7,1,,,,,2.83594604824,,,,25,30,1,,6,,1,3,1,1.21877692426,0,How to give applause?, Clap hands.,4
+2020,8,2,,,,,1.08126134057,,,,25,30,1,,4,,1,3,1,1.0767649668,0,How to avoid boredom?, Entertain oneself.,6
+2020,9,1,,,,,5.29408514555,,,,25,30,1,,4,,1,3,1,1.94729147,0,How to reduce pain?, Consume medicine.,5
+2020,10,1,,,,,4.29802236916,,,,25,30,1,,5,,1,3,1,0.823700079372,0,Why show appreciation?, Spread joy.,3
+2020,11,2,,,,,2.43066324364,,,,25,30,1,,3,,1,3,1,0.804138075538,0,Why teach a class?, Obey laws.,2
+2020,12,2,,,,,0.516849382976,,,,25,30,1,,7,,1,3,1,1.0610345334,0,Why lift a glass?, Drink wine.,1
+2020,13,1,,,,,2.40160854911,,,,25,30,1,,8,,1,3,1,0.996342881629,0,Why build muscles?, Show humility.,3
+2020,14,1,,,,,1.66470980291,,,,25,30,1,,9,,1,3,1,1.14880457503,0,How to write a check?, Sign ones name.,4
+2020,15,1,,,,,1.7389283115,,,,25,30,1,,6,,1,3,1,0.580441822279,0,Why drink coffee?, Consume caffeine.,1
+2020,16,2,,,,,0.877079849359,,,,25,30,1,,2,,1,3,1,2.46484829338,0,How to provide food?, Prepare meals.,5
+2020,17,1,,,,,0.824050554513,,,,25,30,1,,8,,1,3,1,0.53167815083,0,Why consume medicine?, Reduce pain.,2
+2020,18,2,,,,,0.854914006353,,,,25,30,1,,1,,1,3,1,0.527625693876,0,How to feel well?, Reduce pain.,6
+2020,19,2,,,,,0.552157246188,,,,25,30,1,,7,,1,3,1,2.08293416122,0,Why write an email?, Send a message.,3
+2020,20,1,,,,,2.99790036783,,,,25,30,1,,5,,1,3,1,1.04175717957,0,How to consume medicine?, Take pills. ,4
+2020,21,2,,,,,1.89474634957,,,,25,30,1,,9,,1,3,1,0.761950391587,0,How to show an ability?, Satisfy hunger.,6
+2020,22,1,,,,,1.00759290843,,,,25,30,1,,3,,1,3,1,0.547565752042,1,How to write an email?, Open a browser.,5
+2020,23,2,,,,,4.31181811004,,,,25,30,1,,4,,1,3,1,0.858492445133,0,Why crack eggs?, Make breakfast.,1
+2020,24,1,,,,,0.780681345146,,,,25,30,1,,2,,1,3,1,1.01937929241,0,Why consume caffeine?, Stay alert.,2
+2020,25,2,,,,,1.46806446527,,,,25,30,1,,6,,1,3,1,0.976724670328,0,How to watch television?, Use a remote.,4
+2020,26,2,,,,,1.49250368763,,,,25,30,1,,3,,1,3,1,2.201030624,0,How to show intellect?, Share ideas.,6
+2020,27,2,,,,,1.83210635944,,,,25,30,1,,5,,1,3,1,0.849663904195,0,Why hold a party?, Feel sociable.,3
+2020,28,1,,,,,1.17752094479,,,,25,30,1,,9,,1,3,1,0.573428072307,0,How to express doubt?, Use scissors.,5
+2020,29,2,,,,,1.66093988427,,,,25,30,1,,8,,1,3,1,0.810646633047,0,Why write a poem?, Express an idea.,2
+2020,30,1,,,,,1.32005202942,,,,25,30,1,,2,,1,3,1,0.882854065933,0,Why use a brush?, Paint a picture.,1
+2020,31,2,,,,,0.544340039131,,,,25,30,1,,7,,1,3,1,1.09478818059,0,Why paint a picture?, Make art.,2
+2020,32,1,,,,,2.73773423405,,,,25,30,1,,4,,1,3,1,0.521648300343,0,How to spread knowledge?, Teach others.,6
+2020,33,1,,,,,0.718134230432,,,,25,30,1,,2,,1,3,1,1.1337031435,0,How to read articles?, Open a magazine.,4
+2020,34,2,,,,,3.7000132622,,,,25,30,1,,4,,1,3,1,0.95911864508,0,Why show intelligence?, Impress others.,3
+2020,35,2,,,,,3.18177618666,,,,25,30,1,,9,,1,3,1,1.020223648,0,How to attend a school?, Enter a classroom.,5
+2020,36,1,,,,,3.17468367864,,,,25,30,1,,5,,1,3,1,0.904864901007,0,Why follow recipes?, Prepare meals.,1
+2020,37,2,,,,,3.20591754838,,,,25,30,1,,6,,1,3,1,0.679387041589,0,How to express a talent?, Entertain others.,6
+2020,38,2,,,,,1.05615005427,,,,25,30,1,,8,,1,3,1,0.587561303417,0,How to write a song?, Play piano.,4
+2020,39,1,,,,,0.577449480739,,,,25,30,1,,7,,1,3,1,1.42817971234,0,How to show appreciation?, Give applause.,5
+2020,40,1,,,,,1.39080596963,,,,25,30,1,,3,,1,3,1,0.623082444243,0,Why show courtesy?, Make a friend.,3

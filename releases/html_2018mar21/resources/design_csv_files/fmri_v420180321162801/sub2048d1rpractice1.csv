@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2048,1,R,,,,,0.725424298932,,,,25,30,1,,6,,1,1,3,0.984150636927,2,Why dress formally?, Get a promotion.,2
+2048,2,R,,,,,0.747733948373,,,,25,30,1,,8,,1,1,3,2.13369488403,8,Why consume caffeine?, Stay alert.,2
+2048,3,R,,,,,5.22366190926,,,,25,30,1,,7,,1,1,3,0.769636048721,4,Why show competence?, Pass the time.,3
+2048,4,L,,,,,1.98576753894,,,,25,30,1,,1,,1,1,3,0.855400447513,7,Why make a purchase?, Satisfy a need.,3
+2048,5,L,,,,,0.827886136594,,,,25,30,1,,9,,1,1,3,0.875378785994,1,How to read articles?, Open a magazine.,4
+2048,6,L,,,,,2.48017965375,,,,25,30,1,,4,,1,1,3,0.738278701346,11,How to take a picture?, Point a camera.,4
+2048,7,L,,,,,0.816567522637,,,,25,30,1,,2,,1,1,3,0.646720267834,0,How to reduce worry?, Plan ahead.,6
+2048,8,L,,,,,2.65654898175,,,,25,30,1,,3,,1,1,3,0.618752316456,6,How to get a degree?, Attend a school.,6
+2048,9,R,,,,,1.44499414812,,,,25,30,1,,7,,1,1,3,0.979236561845,5,Why follow recipes?, Prepare meals.,1
+2048,10,R,,,,,3.37854567005,,,,25,30,1,,4,,1,1,3,1.24293431256,10,Why click a mouse?, Open a browser.,1
+2048,11,L,,,,,1.86420836284,,,,25,30,1,,1,,1,1,3,0.681835861468,9,How to plan ahead?, Make a list.,5
+2048,12,R,,,,,2.30113920865,,,,25,30,1,,8,,1,1,3,0.520325107331,3,How to provide food?, Prepare meals.,5

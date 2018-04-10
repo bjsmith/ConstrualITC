@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2036,1,L,,,,,4.59168898563,,,,,28,1,,5,90,0,1,4,0.582185002676,1,How to go shopping?, Use credit cards.,4
+2036,2,L,,,,,1.18473211634,,,,,40,1,,5,90,0,1,4,2.0973865916,11,How to write a check?, Sign ones name.,4
+2036,3,R,,,,,0.658908628999,,,,,38,1,,5,90,0,1,4,1.34305466606,9,How to give to charity?, Use a camera.,5
+2036,4,R,,,,,1.31357046787,,,,,39,1,,5,90,0,1,4,0.547798055049,7,How to plan ahead?, Make a list.,5
+2036,5,L,,,,,1.26533951314,,,,,37,1,,5,90,0,1,4,0.864616127288,6,How to show humility?, Build muscles.,6
+2036,6,L,,,,,2.39100152108,,,,,22,1,,5,90,0,1,4,0.6119904853,10,How to satisfy a need?, Make a purchase.,6
+2036,7,R,,,,,4.11135924331,,,,,23,1,,5,90,0,1,4,0.633077726848,8,Why open a magazine?, Read articles.,1
+2036,8,R,,,,,1.27072111962,,,,,21,1,,5,90,0,1,4,0.585791798529,0,Why cut paper?, Clip coupons.,1
+2036,9,R,,,,,1.92488759855,,,,,35,1,,5,90,0,1,4,0.681023192754,2,Why contact a friend?, Feel connected.,3
+2036,10,L,,,,,2.09804423328,,,,,20,1,,5,90,0,1,4,0.558549812566,4,Why provide food?, Help a person.,3
+2036,11,L,,,,,1.11170371746,,,,,26,1,,5,90,0,1,4,1.57321781416,5,Why go shopping?, Make a purchase.,2
+2036,12,R,,,,,1.77281612164,,,,,24,1,,5,90,0,1,4,1.74418707195,3,Why enter a classroom?, Attend a school.,2

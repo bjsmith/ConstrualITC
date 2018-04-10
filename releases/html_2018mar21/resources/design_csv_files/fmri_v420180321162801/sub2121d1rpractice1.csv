@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2121,1,L,,,,,0.815662767069,,,,,33,1,,5,90,0,1,3,0.540556130557,7,How to show intellect?, Share ideas.,6
+2121,2,L,,,,,1.31233848089,,,,,29,1,,5,90,0,1,3,0.971355415634,8,How to avoid mistakes?, Obey laws.,6
+2121,3,L,,,,,2.80258389326,,,,,37,1,,5,90,0,1,3,0.791957701777,10,Why kill germs?, Avoid diseases.,2
+2121,4,R,,,,,0.680827103505,,,,,25,1,,5,90,0,1,3,0.645173199037,11,Why write a song?, Seek advice.,2
+2121,5,R,,,,,0.820580019,,,,,36,1,,5,90,0,1,3,1.22222834837,6,Why plan ahead?, Reduce worry.,3
+2121,6,L,,,,,1.33347472164,,,,,34,1,,5,90,0,1,3,1.00036823666,3,Why build muscles?, Show humility.,3
+2121,7,R,,,,,1.62360938082,,,,,21,1,,5,90,0,1,3,1.43669138067,5,How to read articles?, Open a magazine.,4
+2121,8,R,,,,,3.84921831182,,,,,22,1,,5,90,0,1,3,0.639298938051,0,How to open a browser?, Click a mouse.,4
+2121,9,R,,,,,5.35473462601,,,,,28,1,,5,90,0,1,3,1.35414779064,2,How to show ambition?, Serve alcohol.,5
+2121,10,L,,,,,3.21372608277,,,,,39,1,,5,90,0,1,3,0.919382013754,9,How to make art?, Paint a picture.,5
+2121,11,L,,,,,0.709754311592,,,,,24,1,,5,90,0,1,3,0.544836403736,1,Why use a comb?, Write a song.,1
+2121,12,R,,,,,1.77913319875,,,,,31,1,,5,90,0,1,3,0.948232478488,4,Why use chalk?, Get fit.,1

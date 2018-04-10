@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2011,1,1,,,,,3.13462931994,,,,,21,1,,5,90,0,2,1,1.54312126087,0,How to save money?, Clip coupons.,5
+2011,2,2,,,,,1.1298883037,,,,,37,1,,5,90,0,2,1,1.04191929222,0,How to attend a school?, Enter a classroom.,5
+2011,3,2,,,,,1.37272793032,,,,,38,1,,5,90,0,2,1,2.48931111177,0,Why turn a doorknob?, Enter a classroom.,1
+2011,4,1,,,,,1.26672011873,,,,,32,1,,5,90,0,2,1,3.62968249904,0,Why use chalk?, Get fit.,1
+2011,5,2,,,,,1.63240072954,,,,,39,1,,5,90,0,2,1,3.13506041823,0,How to show intellect?, Share ideas.,6
+2011,6,1,,,,,1.10402963234,,,,,36,1,,5,90,0,2,1,1.44988004435,0,How to show humility?, Build muscles.,6
+2011,7,1,,,,,2.52677738114,,,,,23,1,,5,90,0,2,1,2.04984740576,0,How to open a browser?, Click a mouse.,4
+2011,8,1,,,,,2.29813355209,,,,,29,1,,5,90,0,2,1,1.88679017429,0,How to paint a picture?, Use a brush.,4
+2011,9,2,,,,,1.82375226355,,,,,31,1,,5,90,0,2,1,2.61729199857,0,Why show intelligence?, Impress others.,3
+2011,10,2,,,,,3.62572029153,,,,,24,1,,5,90,0,2,1,3.10015966668,0,Why avoid diseases?, Live a long life.,3
+2011,11,1,,,,,1.30610874044,,,,,40,1,,5,90,0,2,1,2.39230925134,0,Why open a browser?, Write an email.,2
+2011,12,2,,,,,1.41945698097,,,,,30,1,,5,90,0,2,1,2.84469330056,0,Why make a list?, Plan ahead.,2
+2011,13,2,,,,,2.67328618544,,,,,25,1,,5,90,0,2,1,2.08059054824,0,How to write an email?, Open a browser.,5
+2011,14,2,,,,,1.10661991535,,,,,28,1,,5,90,0,2,1,3.60395505501,0,How to give to charity?, Use a camera.,5
+2011,15,2,,,,,2.26496702815,,,,,35,1,,5,90,0,2,1,1.41833537404,0,Why gain knowledge?, Improve oneself.,3
+2011,16,1,,,,,2.97479971561,,,,,22,1,,5,90,0,2,1,1.7530898272,0,Why show courtesy?, Make a friend.,3
+2011,17,1,,,,,1.53721308151,,,,,26,1,,5,90,0,2,1,1.36677076951,0,How to make a phone call?, Dial numbers.,4
+2011,18,2,,,,,2.59211697188,,,,,27,1,,5,90,0,2,1,1.31013034358,1,How to participate in class?, Raise a hand.,4
+2011,19,2,,,,,1.10756241507,,,,,34,1,,5,90,0,2,1,2.07308186301,0,Why lift a glass?, Drink wine.,1
+2011,20,1,,,,,2.35341915231,,,,,33,1,,5,90,0,2,1,2.08115046558,0,Why wash ones hands?, Kill germs.,1
+2011,21,1,,,,,1.89156490925,,,,,21,1,,5,90,0,2,1,1.04769763963,0,Why give a lecture?, Teach others.,2
+2011,22,1,,,,,2.34447501145,,,,,31,1,,5,90,0,2,1,1.23992471294,0,Why kill germs?, Avoid diseases.,2
+2011,23,1,,,,,1.47349829042,,,,,24,1,,5,90,0,2,1,1.10508188781,0,How to feel productive?, Finish a job.,6
+2011,24,1,,,,,2.17401741956,,,,,34,1,,5,90,0,2,1,1.16036051858,0,How to improve oneself?, Gain knowledge.,6
+2011,25,1,,,,,1.34979407109,,,,,38,1,,5,90,0,2,1,1.99985881954,0,How to consume medicine?, Take pills. ,4
+2011,26,2,,,,,1.3386442963,,,,,39,1,,5,90,0,2,1,2.06433202364,0,How to clip coupons?, Cut paper.,4
+2011,27,1,,,,,1.05771780426,,,,,35,1,,5,90,0,2,1,1.2669415579,0,How to impress others?, Show intelligence.,6
+2011,28,2,,,,,4.83069601024,,,,,27,1,,5,90,0,2,1,1.30398564721,0,How to support a cause?, Give to charity.,6
+2011,29,1,,,,,4.47461599302,,,,,37,1,,5,90,0,2,1,2.36727323232,0,Why make art?, Show creativity.,3
+2011,30,1,,,,,1.34619326612,,,,,23,1,,5,90,0,2,1,2.03937151617,0,Why get a promotion?, Achieve success.,3
+2011,31,2,,,,,1.1155735141,,,,,30,1,,5,90,0,2,1,1.75290815698,0,How to avoid diseases?, Kill germs.,5
+2011,32,2,,,,,3.06685677183,,,,,28,1,,5,90,0,2,1,1.61408025859,0,How to make a purchase?, Go shopping.,5
+2011,33,2,,,,,1.20984857289,,,,,40,1,,5,90,0,2,1,2.05843075726,0,Why use a brush?, Paint a picture.,1
+2011,34,2,,,,,1.02895440942,,,,,20,1,,5,90,0,2,1,1.07239791317,0,Why sign ones name?, Write a check.,1
+2011,35,2,,,,,1.28124102234,,,,,22,1,,5,90,0,2,1,4.34887118899,0,Why make a phone call?, Contact a friend.,2
+2011,36,1,,,,,3.43829431772,,,,,32,1,,5,90,0,2,1,1.54444823274,0,Why teach a class?, Obey laws.,2

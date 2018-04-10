@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2109,1,L,,,,,0.501082860056,,,,25,30,1,,9,,1,1,4,0.951440244261,10,Why use a camera?, Give to charity.,2
+2109,2,L,,,,,2.32393247603,,,,25,30,1,,2,,1,1,4,0.758182964163,6,Why drink wine?, Consume alcohol.,2
+2109,3,R,,,,,0.737167531602,,,,25,30,1,,3,,1,1,4,0.943030493248,3,How to make a donation?, Mix a cocktail.,5
+2109,4,R,,,,,1.55881450837,,,,25,30,1,,8,,1,1,4,0.649495740672,2,How to give to charity?, Use a camera.,5
+2109,5,R,,,,,2.74117961475,,,,25,30,1,,5,,1,1,4,0.770826567417,11,How to read articles?, Open a magazine.,4
+2109,6,R,,,,,2.78499923675,,,,25,30,1,,7,,1,1,4,1.47239029804,8,How to go shopping?, Use credit cards.,4
+2109,7,L,,,,,1.59236836151,,,,25,30,1,,4,,1,1,4,0.667430460487,5,Why wear ties?, Dress formally.,1
+2109,8,L,,,,,1.01630281435,,,,25,30,1,,1,,1,1,4,1.21281963277,9,Why use a comb?, Write a song.,1
+2109,9,R,,,,,1.29679473128,,,,25,30,1,,9,,1,1,4,1.21689568694,0,Why build muscles?, Show humility.,3
+2109,10,L,,,,,3.60611787537,,,,25,30,1,,1,,1,1,4,0.764250501943,1,Why give to charity?, Support a cause.,3
+2109,11,L,,,,,1.33903906661,,,,25,30,1,,7,,1,1,4,1.1175439247,4,How to reduce worry?, Plan ahead.,6
+2109,12,R,,,,,3.53909179961,,,,25,30,1,,2,,1,1,4,1.07496263039,7,How to feel nostalgia?, Keep a memory.,6

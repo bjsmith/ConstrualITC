@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,R,,,,,0.641367043955,,,,25,30,1,,1,,1,1,3,0.7205740233,1,How to get a promotion?, Arrive on time.,5
+2030,2,R,,,,,1.80495686047,,,,25,30,1,,3,,1,1,3,0.652269377754,2,How to build muscles?, Lift weights.,5
+2030,3,L,,,,,0.996506520852,,,,25,30,1,,4,,1,1,3,0.667744345479,9,How to show intellect?, Share ideas.,6
+2030,4,L,,,,,5.31287600596,,,,25,30,1,,5,,1,1,3,1.5584231806,8,How to reduce worry?, Plan ahead.,6
+2030,5,R,,,,,0.641420181098,,,,25,30,1,,8,,1,1,3,0.697899320865,3,How to write a check?, Sign ones name.,4
+2030,6,L,,,,,1.54921071249,,,,25,30,1,,2,,1,1,3,0.677331631721,7,How to lift weights?, Fasten seatbelt.,4
+2030,7,L,,,,,1.61797952683,,,,25,30,1,,7,,1,1,3,0.744446728488,10,Why dress formally?, Get a promotion.,2
+2030,8,R,,,,,0.529288145139,,,,25,30,1,,6,,1,1,3,1.22256146317,0,Why clip coupons?, Save money.,2
+2030,9,R,,,,,1.48244187063,,,,25,30,1,,8,,1,1,3,0.920593142319,4,Why get a promotion?, Achieve success.,3
+2030,10,L,,,,,3.72952022952,,,,25,30,1,,3,,1,1,3,1.32351209035,6,Why avoid diseases?, Live a long life.,3
+2030,11,L,,,,,5.55739706644,,,,25,30,1,,7,,1,1,3,2.22159096494,5,Why click a mouse?, Open a browser.,1
+2030,12,R,,,,,0.756191173655,,,,25,30,1,,6,,1,1,3,1.51553935368,11,Why use chalk?, Get fit.,1

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2195,1,R,,,,,2.90452287565,,,,,31,1,,5,90,0,2,3,0.677863995125,1,How to impress others?, Show intelligence.,6
+2195,2,L,,,,,2.41896162736,,,,,28,1,,5,90,0,2,3,0.576997146865,0,How to feel productive?, Finish a job.,6
+2195,3,R,,,,,1.05663042577,,,,,24,1,,5,90,0,2,3,0.752512446814,3,How to write a song?, Play piano.,4
+2195,4,L,,,,,0.809084474857,,,,,35,1,,5,90,0,2,3,1.194548724,2,How to kill germs?, Wash ones hands.,4

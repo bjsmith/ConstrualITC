@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2158,1,R,,,,,1.40569890389,,,,25,30,1,,5,,1,2,3,1.13890108079,3,Why clip coupons?, Save money.,2
+2158,2,L,,,,,0.705093812283,,,,25,30,1,,9,,1,2,3,0.549549758084,0,Why make a phone call?, Contact a friend.,2
+2158,3,R,,,,,3.90755491576,,,,25,30,1,,6,,1,2,3,0.90758192382,1,Why use credit cards?, Go shopping.,1
+2158,4,L,,,,,2.86150954748,,,,25,30,1,,1,,1,2,3,1.36848663056,2,Why open a bottle?, Consume medicine.,1

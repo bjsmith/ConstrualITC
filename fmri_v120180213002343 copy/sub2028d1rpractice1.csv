@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,1,,,,,4.96999504453,,,,25,30,1,,8,,1,1,3,1.68868335742,0,How to read articles?, Open a magazine.,4
+2028,2,2,,,,,0.620637156257,,,,25,30,1,,2,,1,1,3,3.36865489087,0,How to take a picture?, Point a camera.,4
+2028,3,1,,,,,1.06636394547,,,,25,30,1,,1,,1,1,3,1.5855292934,0,Why watch television?, Show competence.,2
+2028,4,2,,,,,0.541084860456,,,,25,30,1,,9,,1,1,3,5.01337633712,1,Why make breakfast?, Satisfy hunger.,2
+2028,5,2,,,,,1.35773398981,,,,25,30,1,,6,,1,1,3,2.16435991993,0,How to show appreciation?, Give applause.,5
+2028,6,1,,,,,0.860869426561,,,,25,30,1,,5,,1,1,3,1.89713247221,0,How to make a donation?, Mix a cocktail.,5
+2028,7,2,,,,,1.24799895005,,,,25,30,1,,7,,1,1,3,0.611233488997,0,Why throw away trash?, Make a list.,1
+2028,8,2,,,,,6.96299939351,,,,25,30,1,,3,,1,1,3,2.02852461837,0,Why stir ingredients?, Mix a cocktail.,1
+2028,9,2,,,,,1.23103279627,,,,25,30,1,,8,,1,1,3,3.43882155227,0,How to feel connected?, Contact a friend.,6
+2028,10,1,,,,,2.62995419223,,,,25,30,1,,7,,1,1,3,1.38851451877,0,How to show cleanliness?, Write an email.,6
+2028,11,1,,,,,0.860678814888,,,,25,30,1,,4,,1,1,3,0.680793553022,0,Why reduce pain?, Feel well.,3
+2028,12,1,,,,,1.38892690078,,,,25,30,1,,2,,1,1,3,1.05729137835,0,Why give to charity?, Support a cause.,3

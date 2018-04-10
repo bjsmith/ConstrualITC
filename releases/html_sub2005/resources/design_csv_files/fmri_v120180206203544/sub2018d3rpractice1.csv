@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,1,,,,,0.850255999615,,,,25,30,1,,6,,1,3,3,1.46498471662,0,How to make a list?, Throw away trash.,4
+2018,2,1,,,,,0.966061317552,,,,25,30,1,,2,,1,3,3,0.859235072231,0,Why open a browser?, Write an email.,2
+2018,3,2,,,,,2.49552554251,,,,25,30,1,,7,,1,3,3,0.853511699355,1,Why gain knowledge?, Improve oneself.,3
+2018,4,2,,,,,4.25281415986,,,,25,30,1,,4,,1,3,3,0.918656745738,0,How to teach others?, Give a lecture.,5

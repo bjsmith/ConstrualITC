@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2000,1,L,,,,,0.889678477062,,,,25,30,1,,8,,1,2,3,1.77709934015,3,Why entertain others?, Express a talent.,3
+2000,2,R,,,,,1.63850578766,,,,25,30,1,,4,,1,2,3,0.848986658231,0,Why hold a party?, Feel sociable.,3
+2000,3,R,,,,,1.38286810888,,,,25,30,1,,2,,1,2,3,0.902003718891,1,How to prepare meals?, Follow recipes.,4
+2000,4,L,,,,,4.30581796331,,,,25,30,1,,5,,1,2,3,0.505726859691,2,How to mix a cocktail?, Stir ingredients.,4

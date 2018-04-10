@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,L,,,,,0.746863771481,,,,,35,1,,5,90,0,1,4,0.937554013513,2,How to write a check?, Sign ones name.,4
+2030,2,R,,,,,0.67719498683,,,,,38,1,,5,90,0,1,4,1.36695930919,1,How to clip coupons?, Cut paper.,4
+2030,3,L,,,,,0.578302378093,,,,,24,1,,5,90,0,1,4,1.3821456055,11,How to reduce worry?, Plan ahead.,6
+2030,4,R,,,,,0.777241871249,,,,,23,1,,5,90,0,1,4,1.05240812235,4,How to achieve success?, Get a promotion.,6
+2030,5,R,,,,,1.49784780806,,,,,39,1,,5,90,0,1,4,0.569293475722,8,Why use credit cards?, Go shopping.,1
+2030,6,L,,,,,3.99692132771,,,,,25,1,,5,90,0,1,4,1.15495497667,3,Why open a magazine?, Read articles.,1
+2030,7,R,,,,,1.52966062751,,,,,32,1,,5,90,0,1,4,1.06973710163,7,Why consume caffeine?, Stay alert.,2
+2030,8,L,,,,,1.77048687008,,,,,26,1,,5,90,0,1,4,0.631911030106,10,Why clip coupons?, Save money.,2
+2030,9,L,,,,,3.87865483845,,,,,34,1,,5,90,0,1,4,1.15215882969,0,Why show appreciation?, Spread joy.,3
+2030,10,R,,,,,0.578656951901,,,,,28,1,,5,90,0,1,4,0.519749961569,6,Why entertain others?, Express a talent.,3
+2030,11,L,,,,,4.56797572708,,,,,20,1,,5,90,0,1,4,0.906732104953,9,How to make a donation?, Mix a cocktail.,5
+2030,12,R,,,,,4.02105742318,,,,,33,1,,5,90,0,1,4,1.4741603705,5,How to get a promotion?, Arrive on time.,5

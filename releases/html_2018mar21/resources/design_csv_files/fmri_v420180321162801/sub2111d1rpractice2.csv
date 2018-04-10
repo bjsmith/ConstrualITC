@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2111,1,R,,,,,5.00160783551,,,,25,30,1,,5,,1,1,4,1.12426674987,2,How to feel connected?, Contact a friend.,6
+2111,2,L,,,,,1.49534746988,,,,25,30,1,,6,,1,1,4,0.685890197731,1,How to feel nostalgia?, Keep a memory.,6
+2111,3,R,,,,,0.698053887245,,,,25,30,1,,9,,1,1,4,1.36243128636,11,Why make breakfast?, Satisfy hunger.,2
+2111,4,L,,,,,1.33091731707,,,,25,30,1,,1,,1,1,4,1.93356586109,9,Why clip coupons?, Save money.,2
+2111,5,L,,,,,1.82574040437,,,,25,30,1,,7,,1,1,4,0.502695602876,8,How to consume caffeine?, Press buttons.,4
+2111,6,L,,,,,2.27347339396,,,,25,30,1,,4,,1,1,4,1.23009514624,10,How to make a phone call?, Dial numbers.,4
+2111,7,R,,,,,2.18859031659,,,,25,30,1,,2,,1,1,4,0.824034131086,7,Why make art?, Show creativity.,3
+2111,8,R,,,,,1.03042613425,,,,25,30,1,,3,,1,1,4,0.70678196165,3,Why plan ahead?, Reduce worry.,3
+2111,9,R,,,,,1.05159972442,,,,25,30,1,,6,,1,1,4,0.888724713086,4,How to show ambition?, Serve alcohol.,5
+2111,10,R,,,,,0.923043319924,,,,25,30,1,,5,,1,1,4,1.60586913173,6,How to make a purchase?, Go shopping.,5
+2111,11,L,,,,,3.39092671979,,,,25,30,1,,9,,1,1,4,0.897597196452,5,Why raise a hand?, Participate in class.,1
+2111,12,L,,,,,3.37577273801,,,,25,30,1,,4,,1,1,4,0.992879032011,0,Why lift a glass?, Drink wine.,1

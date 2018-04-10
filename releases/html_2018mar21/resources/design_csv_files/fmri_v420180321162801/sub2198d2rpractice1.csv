@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2198,1,L,,,,,1.2104312576,,,,25,30,1,,5,,1,2,3,1.17248745436,3,Why wash ones hands?, Kill germs.,1
+2198,2,R,,,,,1.44494422342,,,,25,30,1,,6,,1,2,3,0.820822430042,1,Why point a camera?, Take a picture.,1
+2198,3,R,,,,,1.45585795239,,,,25,30,1,,2,,1,2,3,0.699040410366,0,Why show courtesy?, Make a friend.,3
+2198,4,L,,,,,3.02015997924,,,,25,30,1,,7,,1,2,3,0.990280337877,2,Why provide food?, Help a person.,3

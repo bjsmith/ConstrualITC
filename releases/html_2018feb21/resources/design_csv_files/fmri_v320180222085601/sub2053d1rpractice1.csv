@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2053,1,L,,,,,0.76862940814,,,,,26,1,,5,90,0,1,3,1.28388244385,2,How to take a picture?, Point a camera.,4
+2053,2,R,,,,,2.33192277854,,,,,22,1,,5,90,0,1,3,1.48906055585,6,How to write a poem?, Grab a pencil.,4
+2053,3,L,,,,,0.947130817337,,,,,38,1,,5,90,0,1,3,0.713277513697,7,Why use a comb?, Write a song.,1
+2053,4,R,,,,,0.89769768456,,,,,30,1,,5,90,0,1,3,0.621500695461,8,Why use a remote?, Watch television.,1
+2053,5,L,,,,,4.36747512801,,,,,20,1,,5,90,0,1,3,1.07223566879,4,Why make art?, Show creativity.,3
+2053,6,L,,,,,1.02947271598,,,,,27,1,,5,90,0,1,3,1.32642089305,11,Why attend a school?, Get a degree.,3
+2053,7,L,,,,,2.99350580058,,,,,23,1,,5,90,0,1,3,0.6871942542,10,Why read articles?, Gain knowledge.,2
+2053,8,R,,,,,0.924393566819,,,,,25,1,,5,90,0,1,3,0.713205711004,1,Why watch television?, Show competence.,2
+2053,9,L,,,,,6.21547509049,,,,,40,1,,5,90,0,1,3,1.09929106772,3,How to show humility?, Build muscles.,6
+2053,10,R,,,,,1.70478688439,,,,,28,1,,5,90,0,1,3,1.43132824174,0,How to get a degree?, Attend a school.,6
+2053,11,R,,,,,1.38399261956,,,,,39,1,,5,90,0,1,3,0.520605352551,5,How to attend a school?, Enter a classroom.,5
+2053,12,R,,,,,1.01052038891,,,,,31,1,,5,90,0,1,3,0.995488063936,9,How to save money?, Clip coupons.,5

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2192,1,R,,,,,0.732706285898,,,,25,30,1,,9,,1,2,3,0.863805124668,0,How to reduce pain?, Consume medicine.,5
+2192,2,L,,,,,4.68997611843,,,,25,30,1,,1,,1,2,3,0.814911468637,2,How to express doubt?, Use scissors.,5
+2192,3,R,,,,,1.12185684182,,,,25,30,1,,4,,1,2,3,0.685033955752,3,Why paint a picture?, Make art.,2
+2192,4,L,,,,,1.98929351686,,,,25,30,1,,8,,1,2,3,0.762169792756,1,Why read articles?, Gain knowledge.,2

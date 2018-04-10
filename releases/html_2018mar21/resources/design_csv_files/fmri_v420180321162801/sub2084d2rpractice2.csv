@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2084,1,L,,,,,2.02738498749,,,,,28,1,,5,90,0,2,4,0.668369324823,0,Why gain knowledge?, Improve oneself.,3
+2084,2,R,,,,,2.05175190947,,,,,21,1,,5,90,0,2,4,0.624691912846,1,Why show competence?, Pass the time.,3
+2084,3,L,,,,,0.889190412928,,,,,39,1,,5,90,0,2,4,0.84787202179,2,How to reduce worry?, Plan ahead.,6
+2084,4,R,,,,,3.58356094851,,,,,37,1,,5,90,0,2,4,0.903697123701,3,How to show cleanliness?, Write an email.,6

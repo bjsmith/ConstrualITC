@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2043,1,L,,,,,1.6553990611,,,,25,30,1,,1,,1,1,4,1.43041011037,6,Why make a phone call?, Contact a friend.,2
+2043,2,R,,,,,0.693389599794,,,,25,30,1,,3,,1,1,4,1.54919479599,3,Why enter a classroom?, Attend a school.,2
+2043,3,L,,,,,4.04706423344,,,,25,30,1,,6,,1,1,4,1.0014395851,7,How to lift weights?, Fasten seatbelt.,4
+2043,4,R,,,,,2.22277988806,,,,25,30,1,,7,,1,1,4,0.560805462889,11,How to read articles?, Open a magazine.,4
+2043,5,R,,,,,2.63144499123,,,,25,30,1,,9,,1,1,4,0.644316483113,8,How to show ambition?, Serve alcohol.,5
+2043,6,L,,,,,1.39955795134,,,,25,30,1,,8,,1,1,4,0.500810356657,9,How to teach others?, Give a lecture.,5
+2043,7,L,,,,,0.660933783096,,,,25,30,1,,2,,1,1,4,0.731476635093,0,Why contact a friend?, Feel connected.,3
+2043,8,R,,,,,0.939863193816,,,,25,30,1,,4,,1,1,4,0.764343196237,10,Why save money?, Get fit.,3
+2043,9,L,,,,,3.11022879211,,,,25,30,1,,7,,1,1,4,1.10139601217,4,Why drink coffee?, Consume caffeine.,1
+2043,10,L,,,,,4.71723757435,,,,25,30,1,,5,,1,1,4,1.18816975488,2,Why wash ones hands?, Kill germs.,1
+2043,11,R,,,,,0.702340262942,,,,25,30,1,,6,,1,1,4,0.868658435719,5,How to impress others?, Show intelligence.,6
+2043,12,R,,,,,1.08345555575,,,,25,30,1,,9,,1,1,4,1.26786075056,1,How to show intellect?, Share ideas.,6

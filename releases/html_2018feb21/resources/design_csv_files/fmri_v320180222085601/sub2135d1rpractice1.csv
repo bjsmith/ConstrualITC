@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2135,1,R,,,,,2.06403924172,,,,,32,1,,5,90,0,1,3,1.16770917466,10,Why participate in class?, Show intelligence.,2
+2135,2,L,,,,,4.97290255728,,,,,36,1,,5,90,0,1,3,0.529784005056,7,Why lift weights?, Build muscles.,2
+2135,3,R,,,,,1.51885693782,,,,,33,1,,5,90,0,1,3,0.748557560481,11,Why use credit cards?, Go shopping.,1
+2135,4,L,,,,,0.781604130599,,,,,38,1,,5,90,0,1,3,1.58316130272,8,Why cut paper?, Clip coupons.,1
+2135,5,R,,,,,1.51333776275,,,,,39,1,,5,90,0,1,3,0.752863149133,2,Why reduce pain?, Feel well.,3
+2135,6,L,,,,,0.587274705212,,,,,21,1,,5,90,0,1,3,0.864285044863,0,Why get a promotion?, Achieve success.,3
+2135,7,R,,,,,0.518830382554,,,,,34,1,,5,90,0,1,3,0.594574438639,5,How to mix a cocktail?, Stir ingredients.,4
+2135,8,R,,,,,2.65956960029,,,,,30,1,,5,90,0,1,3,1.20061081676,4,How to dress formally?, Wear ties. ,4
+2135,9,L,,,,,3.50276840566,,,,,25,1,,5,90,0,1,3,0.696596627675,9,How to feel well?, Reduce pain.,6
+2135,10,L,,,,,1.49530895421,,,,,23,1,,5,90,0,1,3,2.16850097553,1,How to impress others?, Show intelligence.,6
+2135,11,L,,,,,3.3838318057,,,,,22,1,,5,90,0,1,3,0.719283578824,6,How to show ambition?, Serve alcohol.,5
+2135,12,R,,,,,0.736015232201,,,,,31,1,,5,90,0,1,3,0.683537854721,3,How to give to charity?, Use a camera.,5

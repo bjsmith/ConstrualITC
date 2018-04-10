@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2073,1,L,,,,,2.19698786245,,,,,20,1,,5,90,0,2,3,0.853733471611,1,Why open a browser?, Write an email.,2
+2073,2,R,,,,,1.63026072592,,,,,23,1,,5,90,0,2,3,0.859741157462,3,Why use a camera?, Give to charity.,2
+2073,3,R,,,,,0.837266753021,,,,,37,1,,5,90,0,2,3,1.64170487571,2,How to read articles?, Open a magazine.,4
+2073,4,L,,,,,2.45762662911,,,,,38,1,,5,90,0,2,3,1.4576478453,0,How to give a lecture?, Brush ones hair.,4

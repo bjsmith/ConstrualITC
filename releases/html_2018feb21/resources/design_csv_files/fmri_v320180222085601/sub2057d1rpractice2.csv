@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2057,1,L,,,,,3.29059888651,,,,25,30,1,,9,,1,1,4,0.773214725912,5,Why use a remote?, Watch television.,1
+2057,2,R,,,,,0.87287985659,,,,25,30,1,,7,,1,1,4,1.36789868363,11,Why follow recipes?, Prepare meals.,1
+2057,3,L,,,,,2.29490351971,,,,25,30,1,,2,,1,1,4,3.40288206453,7,How to write a check?, Sign ones name.,4
+2057,4,R,,,,,2.62601285565,,,,25,30,1,,6,,1,1,4,0.591089296105,2,How to open a browser?, Click a mouse.,4
+2057,5,L,,,,,2.59274479248,,,,25,30,1,,3,,1,1,4,0.561850309175,10,How to get a promotion?, Arrive on time.,5
+2057,6,R,,,,,1.79020840429,,,,25,30,1,,5,,1,1,4,0.520921953088,8,How to satisfy hunger?, Make breakfast.,5
+2057,7,R,,,,,0.6281402588,,,,25,30,1,,8,,1,1,4,0.530365819915,4,How to achieve success?, Get a promotion.,6
+2057,8,R,,,,,0.62733496548,,,,25,30,1,,4,,1,1,4,0.584231562577,3,How to live a long life?, Avoid diseases.,6
+2057,9,L,,,,,2.67194946944,,,,25,30,1,,5,,1,1,4,1.12491188641,0,Why finish a job?, Feel productive.,3
+2057,10,L,,,,,2.26622286844,,,,25,30,1,,3,,1,1,4,0.723941107239,6,Why satisfy hunger?, Show an ability.,3
+2057,11,L,,,,,3.33993029041,,,,25,30,1,,4,,1,1,4,0.559001762589,1,Why read articles?, Gain knowledge.,2
+2057,12,R,,,,,0.749406320774,,,,25,30,1,,6,,1,1,4,0.742463851355,9,Why watch television?, Show competence.,2

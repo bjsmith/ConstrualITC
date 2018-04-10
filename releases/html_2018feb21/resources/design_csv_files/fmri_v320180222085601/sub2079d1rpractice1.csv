@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2079,1,L,,,,,3.63171540949,,,,,38,1,,5,90,0,1,3,0.668665952527,9,How to feel secure?, Save money.,6
+2079,2,L,,,,,1.37093303102,,,,,33,1,,5,90,0,1,3,1.74321176219,3,How to feel productive?, Finish a job.,6
+2079,3,L,,,,,2.20895743684,,,,,32,1,,5,90,0,1,3,0.71169382404,4,How to avoid diseases?, Kill germs.,5
+2079,4,L,,,,,1.11559393606,,,,,37,1,,5,90,0,1,3,1.52666915138,8,How to write an email?, Open a browser.,5
+2079,5,R,,,,,3.65828750947,,,,,23,1,,5,90,0,1,3,0.921552201716,11,Why drink coffee?, Consume caffeine.,1
+2079,6,R,,,,,0.510377878131,,,,,20,1,,5,90,0,1,3,0.961316533571,7,Why use credit cards?, Go shopping.,1
+2079,7,R,,,,,4.0662003718,,,,,21,1,,5,90,0,1,3,0.528619801884,2,Why open a browser?, Write an email.,2
+2079,8,L,,,,,1.70081199034,,,,,29,1,,5,90,0,1,3,1.54332330405,6,Why use a camera?, Give to charity.,2
+2079,9,R,,,,,1.39767714759,,,,,28,1,,5,90,0,1,3,0.543262998262,5,How to take a picture?, Point a camera.,4
+2079,10,L,,,,,2.27106632893,,,,,27,1,,5,90,0,1,3,0.628687925151,10,How to give a lecture?, Brush ones hair.,4
+2079,11,R,,,,,0.757327404448,,,,,31,1,,5,90,0,1,3,1.06057789757,1,Why save money?, Get fit.,3
+2079,12,R,,,,,1.75006840717,,,,,40,1,,5,90,0,1,3,1.1109241505,0,Why build muscles?, Show humility.,3

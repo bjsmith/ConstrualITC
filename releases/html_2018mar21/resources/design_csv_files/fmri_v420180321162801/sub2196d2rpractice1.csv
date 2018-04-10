@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2196,1,R,,,,,3.71952803028,,,,25,30,1,,2,,1,2,3,1.51113346419,0,Why stir ingredients?, Mix a cocktail.,1
+2196,2,L,,,,,2.38025490632,,,,25,30,1,,5,,1,2,3,0.692504400705,3,Why use chalk?, Get fit.,1
+2196,3,R,,,,,0.951343064083,,,,25,30,1,,3,,1,2,3,1.8122220643,2,Why gain knowledge?, Improve oneself.,3
+2196,4,L,,,,,0.832545360277,,,,25,30,1,,8,,1,2,3,0.815529945075,1,Why write an email?, Send a message.,3

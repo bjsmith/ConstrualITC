@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2034,1,L,,,,,4.72472090698,,,,25,30,1,,4,,1,1,3,0.887387398681,11,Why make breakfast?, Satisfy hunger.,2
+2034,2,L,,,,,0.718018656749,,,,25,30,1,,5,,1,1,3,0.684289700081,6,Why watch television?, Show competence.,2
+2034,3,L,,,,,2.9268824565,,,,25,30,1,,3,,1,1,3,0.916874905281,3,Why drink coffee?, Consume caffeine.,1
+2034,4,R,,,,,0.874074064362,,,,25,30,1,,7,,1,1,3,1.6866258015,9,Why use a brush?, Paint a picture.,1
+2034,5,L,,,,,1.23629773197,,,,25,30,1,,2,,1,1,3,1.40774664936,1,Why show competence?, Pass the time.,3
+2034,6,L,,,,,0.698798641583,,,,25,30,1,,6,,1,1,3,0.661320366618,10,Why make art?, Show creativity.,3
+2034,7,R,,,,,0.674765885312,,,,25,30,1,,9,,1,1,3,1.46485330002,4,How to make a phone call?, Dial numbers.,4
+2034,8,L,,,,,2.90015673964,,,,25,30,1,,1,,1,1,3,1.19563976963,0,How to lift weights?, Fasten seatbelt.,4
+2034,9,R,,,,,0.775281792862,,,,25,30,1,,7,,1,1,3,0.8714876602,5,How to show ambition?, Serve alcohol.,5
+2034,10,R,,,,,3.64741343365,,,,25,30,1,,6,,1,1,3,0.511365012836,8,How to provide food?, Prepare meals.,5
+2034,11,R,,,,,2.23810829534,,,,25,30,1,,1,,1,1,3,0.935420314807,2,How to show cleanliness?, Write an email.,6
+2034,12,R,,,,,1.84107175802,,,,25,30,1,,5,,1,1,3,0.784145851734,7,How to impress others?, Show intelligence.,6

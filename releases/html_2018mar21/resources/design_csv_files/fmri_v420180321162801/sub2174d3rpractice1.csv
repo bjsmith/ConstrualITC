@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2174,1,L,,,,,1.22959310702,,,,25,30,1,,2,,1,3,3,1.02957594215,0,How to participate in class?, Raise a hand.,4
+2174,2,R,,,,,1.46745048971,,,,25,30,1,,9,,1,3,3,1.38988640942,2,How to make breakfast?, Crack eggs.,4
+2174,3,R,,,,,2.6177531947,,,,25,30,1,,3,,1,3,3,0.591409156956,1,How to avoid boredom?, Entertain oneself.,6
+2174,4,L,,,,,2.71312999784,,,,25,30,1,,5,,1,3,3,1.13524519983,3,How to impress others?, Show intelligence.,6

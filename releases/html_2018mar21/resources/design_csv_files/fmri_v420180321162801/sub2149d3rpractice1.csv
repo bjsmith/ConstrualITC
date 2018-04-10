@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2149,1,R,,,,,4.24811259166,,,,,31,1,,5,90,0,3,3,0.611616477892,3,How to make a purchase?, Go shopping.,5
+2149,2,L,,,,,2.32134977684,,,,,39,1,,5,90,0,3,3,1.30666772668,0,How to give to charity?, Use a camera.,5
+2149,3,L,,,,,0.968955294001,,,,,26,1,,5,90,0,3,3,0.783769867034,1,Why raise a hand?, Participate in class.,1
+2149,4,R,,,,,0.673858757323,,,,,29,1,,5,90,0,3,3,1.91637123028,2,Why point a camera?, Take a picture.,1

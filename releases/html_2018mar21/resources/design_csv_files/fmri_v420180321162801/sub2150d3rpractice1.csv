@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2150,1,L,,,,,1.30940593633,,,,25,30,1,,5,,1,3,3,1.14703240815,2,Why share ideas?, Show intellect.,3
+2150,2,L,,,,,1.70978375972,,,,25,30,1,,4,,1,3,3,0.832361392792,3,Why gain knowledge?, Improve oneself.,3
+2150,3,R,,,,,2.62703252352,,,,25,30,1,,2,,1,3,3,1.29513369645,1,Why raise a hand?, Participate in class.,1
+2150,4,R,,,,,1.83917149991,,,,25,30,1,,9,,1,3,3,0.866238833463,0,Why dial numbers?, Make a phone call.,1

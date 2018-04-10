@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2060,1,L,,,,,1.27884231828,,,,25,30,1,,5,,1,3,3,0.558182226358,3,Why use chalk?, Get fit.,1
+2060,2,L,,,,,2.51353569739,,,,25,30,1,,6,,1,3,3,0.725270523925,0,Why use a brush?, Paint a picture.,1
+2060,3,R,,,,,1.7687727486,,,,25,30,1,,1,,1,3,3,0.638237894282,1,Why get a promotion?, Achieve success.,3
+2060,4,R,,,,,3.1131976554,,,,25,30,1,,7,,1,3,3,1.83460678302,2,Why share ideas?, Show intellect.,3

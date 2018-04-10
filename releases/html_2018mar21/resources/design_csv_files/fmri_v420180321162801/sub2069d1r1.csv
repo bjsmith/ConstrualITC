@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2069,1,R,,,,,1.73387499975,,,,,40,1,,5,90,0,1,1,1.61750373069,3,How to read articles?, Open a magazine.,4
+2069,2,L,,,,,2.39665249744,,,,,28,1,,5,90,0,1,1,1.34456888691,34,How to write a poem?, Grab a pencil.,4
+2069,3,L,,,,,2.69231825003,,,,,36,1,,5,90,0,1,1,1.3427932858,40,Why lift a glass?, Drink wine.,1
+2069,4,L,,,,,1.54845489826,,,,,26,1,,5,90,0,1,1,1.41007759405,20,Why turn a doorknob?, Enter a classroom.,1
+2069,5,R,,,,,1.07457924514,,,,,20,1,,5,90,0,1,1,1.8416513784,33,How to show an ability?, Satisfy hunger.,6
+2069,6,R,,,,,1.11796100404,,,,,31,1,,5,90,0,1,1,1.65853554929,43,How to improve oneself?, Gain knowledge.,6
+2069,7,R,,,,,1.85130876822,,,,,35,1,,5,90,0,1,1,2.81069136531,8,Why show intelligence?, Impress others.,3
+2069,8,R,,,,,1.11961600523,,,,,39,1,,5,90,0,1,1,1.54310277463,41,Why gain knowledge?, Improve oneself.,3
+2069,9,L,,,,,5.27548846367,,,,,22,1,,5,90,0,1,1,1.78153833583,26,Why use a camera?, Give to charity.,2
+2069,10,L,,,,,3.10772492423,,,,,23,1,,5,90,0,1,1,2.26938153753,52,Why make a phone call?, Contact a friend.,2
+2069,11,L,,,,,2.95996590083,,,,,24,1,,5,90,0,1,1,2.70685001284,54,How to consume alcohol?, Drink wine.,5
+2069,12,R,,,,,2.0263118596,,,,,38,1,,5,90,0,1,1,3.04931724257,19,How to provide food?, Prepare meals.,5
+2069,13,L,,,,,2.83631677447,,,,,29,1,,5,90,0,1,1,1.27392885882,42,Why sign ones name?, Write a check.,1
+2069,14,R,,,,,1.10395381886,,,,,30,1,,5,90,0,1,1,1.40009146559,31,Why dial numbers?, Make a phone call.,1
+2069,15,R,,,,,1.59781382182,,,,,21,1,,5,90,0,1,1,1.11888568283,18,How to go shopping?, Use credit cards.,4
+2069,16,R,,,,,1.18978873997,,,,,33,1,,5,90,0,1,1,1.32099444091,29,How to open a browser?, Click a mouse.,4
+2069,17,L,,,,,1.53379595815,,,,,27,1,,5,90,0,1,1,1.56915614593,30,How to feel connected?, Contact a friend.,6
+2069,18,R,,,,,1.0574696645,,,,,25,1,,5,90,0,1,1,2.0665508018,44,How to avoid mistakes?, Obey laws.,6
+2069,19,L,,,,,2.73661685593,,,,,34,1,,5,90,0,1,1,2.32448890912,5,Why kill germs?, Avoid diseases.,2
+2069,20,L,,,,,1.44436768274,,,,,32,1,,5,90,0,1,1,2.12377845317,47,Why clip coupons?, Save money.,2
+2069,21,L,,,,,1.27097445405,,,,,37,1,,5,90,0,1,1,1.69232966246,16,How to make a purchase?, Go shopping.,5
+2069,22,L,,,,,1.44603641621,,,,,27,1,,5,90,0,1,1,1.61040149636,51,How to express doubt?, Use scissors.,5
+2069,23,R,,,,,1.86750804197,,,,,29,1,,5,90,0,1,1,2.31535516012,35,Why contact a friend?, Feel connected.,3
+2069,24,R,,,,,3.4006316253,,,,,35,1,,5,90,0,1,1,5.19471386907,45,Why satisfy hunger?, Show an ability.,3
+2069,25,L,,,,,3.87400145652,,,,,31,1,,5,90,0,1,1,2.12615853549,50,Why build muscles?, Show humility.,3
+2069,26,R,,,,,1.08002759544,,,,,40,1,,5,90,0,1,1,3.78665517611,15,Why attend a school?, Get a degree.,3
+2069,27,L,,,,,1.24095395771,,,,,30,1,,5,90,0,1,1,1.99334139628,9,How to give applause?, Clap hands.,4
+2069,28,R,,,,,1.38068015748,,,,,23,1,,5,90,0,1,1,1.09230046508,39,How to dress formally?, Wear ties. ,4
+2069,29,R,,,,,1.65226914092,,,,,38,1,,5,90,0,1,1,2.75553734703,36,Why make breakfast?, Satisfy hunger.,2
+2069,30,L,,,,,1.71928348147,,,,,32,1,,5,90,0,1,1,1.00678518565,57,Why give a lecture?, Teach others.,2
+2069,31,R,,,,,2.76126642486,,,,,36,1,,5,90,0,1,1,3.82716532141,10,Why use a remote?, Watch television.,1
+2069,32,R,,,,,1.80259523463,,,,,28,1,,5,90,0,1,1,1.50775867557,25,Why clap hands?, Give applause.,1
+2069,33,R,,,,,1.23563998822,,,,,33,1,,5,90,0,1,1,1.3021694674,13,How to support a cause?, Give to charity.,6
+2069,34,L,,,,,1.1522269336,,,,,26,1,,5,90,0,1,1,1.76101457866,17,How to feel secure?, Save money.,6
+2069,35,L,,,,,2.55218299161,,,,,22,1,,5,90,0,1,1,1.23042631017,2,How to plan ahead?, Make a list.,5
+2069,36,L,,,,,2.22284036592,,,,,21,1,,5,90,0,1,1,2.15650038374,56,How to teach others?, Give a lecture.,5
+2069,37,L,,,,,2.55255068214,,,,,34,1,,5,90,0,1,1,1.53091405697,6,Why consume medicine?, Reduce pain.,2
+2069,38,R,,,,,1.46665370286,,,,,39,1,,5,90,0,1,1,1.2174917471,58,Why dress formally?, Get a promotion.,2
+2069,39,L,,,,,1.43259943975,,,,,20,1,,5,90,0,1,1,1.31226362109,38,How to spread joy?, Get a job.,6
+2069,40,L,,,,,3.3165318305,,,,,25,1,,5,90,0,1,1,3.68767404423,24,How to avoid boredom?, Entertain oneself.,6
+2069,41,R,,,,,1.74869787045,,,,,25,1,,5,90,0,1,1,1.63814201865,37,Why make a purchase?, Satisfy a need.,3
+2069,42,R,,,,,1.50566492476,,,,,36,1,,5,90,0,1,1,2.3288700741,46,Why make art?, Show creativity.,3
+2069,43,R,,,,,2.16205279189,,,,,27,1,,5,90,0,1,1,2.24993799677,53,How to mix a cocktail?, Stir ingredients.,4
+2069,44,R,,,,,1.06896760013,,,,,28,1,,5,90,0,1,1,2.29288495943,14,How to make breakfast?, Crack eggs.,4
+2069,45,L,,,,,1.27049289542,,,,,32,1,,5,90,0,1,1,1.71147596611,28,Why throw away trash?, Make a list.,1
+2069,46,R,,,,,2.23365556172,,,,,23,1,,5,90,0,1,1,3.19220419341,21,Why follow recipes?, Prepare meals.,1
+2069,47,L,,,,,1.87834360585,,,,,40,1,,5,90,0,1,1,1.84029259491,0,How to contact a friend?, Make a phone call.,5
+2069,48,L,,,,,5.00980932919,,,,,33,1,,5,90,0,1,1,1.504794538,1,How to give to charity?, Use a camera.,5
+2069,49,L,,,,,1.07194463591,,,,,26,1,,5,90,0,1,1,1.75029967234,22,Why raise a hand?, Participate in class.,1
+2069,50,L,,,,,4.84372210402,,,,,20,1,,5,90,0,1,1,3.48772931892,4,Why stir ingredients?, Mix a cocktail.,1
+2069,51,R,,,,,1.59067990607,,,,,35,1,,5,90,0,1,1,2.1133545229,7,Why plan ahead?, Reduce worry.,3
+2069,52,L,,,,,1.11563560951,,,,,38,1,,5,90,0,1,1,2.2040537694,55,Why finish a job?, Feel productive.,3
+2069,53,R,,,,,1.26477530603,,,,,24,1,,5,90,0,1,1,1.11241677611,48,How to show ambition?, Serve alcohol.,5
+2069,54,R,,,,,2.14488513922,,,,,30,1,,5,90,0,1,1,1.38561556463,49,How to save money?, Clip coupons.,5
+2069,55,L,,,,,2.10663350123,,,,,34,1,,5,90,0,1,1,1.72824212662,32,Why write a song?, Seek advice.,2
+2069,56,R,,,,,1.0002244668,,,,,29,1,,5,90,0,1,1,4.57818380116,27,Why watch television?, Show competence.,2
+2069,57,L,,,,,1.22087750641,,,,,39,1,,5,90,0,1,1,1.49470700114,11,How to get a degree?, Attend a school.,6
+2069,58,R,,,,,1.96168764224,,,,,21,1,,5,90,0,1,1,1.52948945881,59,How to feel nostalgia?, Keep a memory.,6
+2069,59,R,,,,,3.6056784116,,,,,31,1,,5,90,0,1,1,1.04122014388,12,How to watch television?, Use a remote.,4
+2069,60,L,,,,,2.06076019517,,,,,37,1,,5,90,0,1,1,2.06096537339,23,How to kill germs?, Wash ones hands.,4

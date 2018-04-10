@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2019,1,R,,,,,0.518350528478,,,,25,30,1,,5,,1,1,4,1.14104920367,5,Why use a brush?, Paint a picture.,1
+2019,2,R,,,,,2.70815027121,,,,25,30,1,,4,,1,1,4,0.802580128403,10,Why open a bottle?, Consume medicine.,1
+2019,3,R,,,,,2.99082604161,,,,25,30,1,,9,,1,1,4,0.653315893604,7,How to show appreciation?, Give applause.,5
+2019,4,L,,,,,2.79461969189,,,,25,30,1,,7,,1,1,4,0.550690145717,0,How to reduce pain?, Consume medicine.,5
+2019,5,L,,,,,0.603858956416,,,,25,30,1,,3,,1,1,4,3.49815205601,8,How to write a check?, Sign ones name.,4
+2019,6,L,,,,,0.636559355366,,,,25,30,1,,1,,1,1,4,0.5455500349,2,How to take a picture?, Point a camera.,4
+2019,7,L,,,,,0.931659999119,,,,25,30,1,,8,,1,1,4,1.09457918433,6,Why participate in class?, Show intelligence.,2
+2019,8,L,,,,,4.10428321614,,,,25,30,1,,6,,1,1,4,0.815738855108,4,Why clip coupons?, Save money.,2
+2019,9,R,,,,,1.89951011833,,,,25,30,1,,2,,1,1,4,0.847869390071,9,Why make art?, Show creativity.,3
+2019,10,R,,,,,1.99152667748,,,,25,30,1,,4,,1,1,4,0.547164295923,3,Why contact a friend?, Feel connected.,3
+2019,11,L,,,,,2.03274454607,,,,25,30,1,,6,,1,1,4,1.36788425324,11,How to live a long life?, Avoid diseases.,6
+2019,12,R,,,,,3.07168122457,,,,25,30,1,,7,,1,1,4,0.685297745295,1,How to improve oneself?, Gain knowledge.,6

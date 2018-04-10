@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2166,1,L,,,,,1.34134591826,,,,,24,1,,5,90,0,1,4,0.881550196085,2,How to provide food?, Prepare meals.,5
+2166,2,R,,,,,0.831234959561,,,,,37,1,,5,90,0,1,4,1.34500553655,5,How to entertain others?, Write a song.,5
+2166,3,L,,,,,3.24581749843,,,,,21,1,,5,90,0,1,4,2.16719811315,11,Why use credit cards?, Go shopping.,1
+2166,4,R,,,,,0.795053380404,,,,,29,1,,5,90,0,1,4,0.713910710528,3,Why open a bottle?, Consume medicine.,1
+2166,5,R,,,,,2.20056890128,,,,,25,1,,5,90,0,1,4,0.775062480036,4,Why plan ahead?, Reduce worry.,3
+2166,6,L,,,,,1.90284301172,,,,,34,1,,5,90,0,1,4,1.01318865343,1,Why show intelligence?, Impress others.,3
+2166,7,R,,,,,1.45551155237,,,,,33,1,,5,90,0,1,4,0.588557960373,8,Why participate in class?, Show intelligence.,2
+2166,8,L,,,,,2.10425071356,,,,,38,1,,5,90,0,1,4,0.921443805162,9,Why teach a class?, Obey laws.,2
+2166,9,L,,,,,0.916075246599,,,,,30,1,,5,90,0,1,4,1.23558057524,6,How to live a long life?, Avoid diseases.,6
+2166,10,R,,,,,0.538222393077,,,,,27,1,,5,90,0,1,4,0.613632548402,7,How to get a degree?, Attend a school.,6
+2166,11,R,,,,,2.726400492,,,,,22,1,,5,90,0,1,4,0.606850235394,0,How to lift weights?, Fasten seatbelt.,4
+2166,12,L,,,,,4.94833025533,,,,,28,1,,5,90,0,1,4,1.28155713955,10,How to give a lecture?, Brush ones hair.,4

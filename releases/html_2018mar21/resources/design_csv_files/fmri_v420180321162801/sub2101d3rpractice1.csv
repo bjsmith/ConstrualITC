@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2101,1,L,,,,,3.08412292974,,,,,38,1,,5,90,0,3,3,0.602094399826,1,Why show competence?, Pass the time.,3
+2101,2,L,,,,,2.99196055367,,,,,28,1,,5,90,0,3,3,1.16996751891,0,Why contact a friend?, Feel connected.,3
+2101,3,R,,,,,1.78094510638,,,,,31,1,,5,90,0,3,3,0.548220427512,2,How to impress others?, Show intelligence.,6
+2101,4,R,,,,,0.539878972326,,,,,20,1,,5,90,0,3,3,1.21546151489,3,How to achieve success?, Get a promotion.,6

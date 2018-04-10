@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2041,1,L,,,,,0.794415424358,,,,25,30,1,,6,,1,3,4,1.09114403648,0,Why read articles?, Gain knowledge.,2
+2041,2,L,,,,,0.853717101204,,,,25,30,1,,7,,1,3,4,0.967005451779,3,Why watch television?, Show competence.,2
+2041,3,R,,,,,1.15401495918,,,,25,30,1,,8,,1,3,4,1.21505876486,1,How to satisfy hunger?, Make breakfast.,5
+2041,4,R,,,,,4.38657351559,,,,25,30,1,,1,,1,3,4,1.00159323421,2,How to attend a school?, Enter a classroom.,5

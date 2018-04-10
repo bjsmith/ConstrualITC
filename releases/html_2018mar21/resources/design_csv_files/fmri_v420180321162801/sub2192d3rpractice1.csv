@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2192,1,L,,,,,2.3529947816,,,,25,30,1,,4,,1,3,3,1.17769567492,2,Why take aspirin?, Serve alcohol.,1
+2192,2,L,,,,,2.41543597476,,,,25,30,1,,1,,1,3,3,1.20008414834,1,Why wear ties?, Dress formally.,1
+2192,3,R,,,,,1.96178825661,,,,25,30,1,,6,,1,3,3,0.602371346999,3,Why save money?, Get fit.,3
+2192,4,R,,,,,2.09397105722,,,,25,30,1,,9,,1,3,3,1.77759668901,0,Why show courtesy?, Make a friend.,3

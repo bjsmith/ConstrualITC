@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,1,,,,,1.61052730539,,,,,34,1,,5,90,0,1,2,1.59203282326,0,How to open a browser?, Click a mouse.,4
+2018,2,1,,,,,2.78212719274,,,,,28,1,,5,90,0,1,2,2.61730600676,0,How to go shopping?, Use credit cards.,4
+2018,3,2,,,,,1.023387037,,,,,26,1,,5,90,0,1,2,1.42715623594,0,How to spread joy?, Get a job.,6
+2018,4,1,,,,,1.22562950424,,,,,22,1,,5,90,0,1,2,1.94133601251,0,How to live a long life?, Avoid diseases.,6
+2018,5,2,,,,,3.43392435385,,,,,27,1,,5,90,0,1,2,1.16501560652,0,How to write an email?, Open a browser.,5
+2018,6,1,,,,,1.60271816765,,,,,30,1,,5,90,0,1,2,3.67288396505,0,How to avoid diseases?, Kill germs.,5
+2018,7,2,,,,,1.27647355169,,,,,23,1,,5,90,0,1,2,1.67106752735,0,Why give to charity?, Support a cause.,3
+2018,8,1,,,,,1.53772036957,,,,,40,1,,5,90,0,1,2,1.06578460197,0,Why plan ahead?, Reduce worry.,3
+2018,9,2,,,,,1.3858160979,,,,,37,1,,5,90,0,1,2,1.91163501903,0,Why clap hands?, Give applause.,1
+2018,10,1,,,,,2.25577221327,,,,,20,1,,5,90,0,1,2,1.194920963,0,Why use a brush?, Paint a picture.,1
+2018,11,2,,,,,3.49115309774,,,,,29,1,,5,90,0,1,2,1.03653027574,0,Why make breakfast?, Satisfy hunger.,2
+2018,12,2,,,,,2.24420598371,,,,,25,1,,5,90,0,1,2,1.75405471988,0,Why take a picture?, Keep a memory.,2
+2018,13,1,,,,,2.08535714574,,,,,39,1,,5,90,0,1,2,1.5095595516,1,How to show appreciation?, Give applause.,5
+2018,14,1,,,,,1.26173252079,,,,,32,1,,5,90,0,1,2,2.48971151961,0,How to teach others?, Give a lecture.,5
+2018,15,2,,,,,3.47969587991,,,,,33,1,,5,90,0,1,2,2.05925167298,0,Why show appreciation?, Spread joy.,3
+2018,16,1,,,,,2.32512343613,,,,,24,1,,5,90,0,1,2,1.21734383657,0,Why save money?, Get fit.,3
+2018,17,1,,,,,1.14983718529,,,,,36,1,,5,90,0,1,2,2.10480239389,0,How to improve oneself?, Gain knowledge.,6
+2018,18,1,,,,,1.73801537508,,,,,38,1,,5,90,0,1,2,1.08943076272,0,How to spread knowledge?, Teach others.,6
+2018,19,2,,,,,2.7623672544,,,,,31,1,,5,90,0,1,2,2.8339061826,0,Why read articles?, Gain knowledge.,2
+2018,20,1,,,,,1.37941345265,,,,,21,1,,5,90,0,1,2,2.10098673116,0,Why give a lecture?, Teach others.,2
+2018,21,1,,,,,1.08565834644,,,,,28,1,,5,90,0,1,2,3.13656190053,0,Why use a remote?, Watch television.,1
+2018,22,1,,,,,1.15443948105,,,,,29,1,,5,90,0,1,2,1.00740590588,0,Why dial numbers?, Make a phone call.,1
+2018,23,2,,,,,1.38915664041,,,,,32,1,,5,90,0,1,2,1.57539077281,0,How to clip coupons?, Cut paper.,4
+2018,24,2,,,,,1.86499108106,,,,,36,1,,5,90,0,1,2,1.64992034445,0,How to prepare meals?, Follow recipes.,4
+2018,25,1,,,,,1.10425982921,,,,,20,1,,5,90,0,1,2,1.36932062646,0,Why write an email?, Send a message.,3
+2018,26,2,,,,,2.61375720518,,,,,25,1,,5,90,0,1,2,2.39616612628,0,Why share ideas?, Show intellect.,3
+2018,27,1,,,,,1.784427892,,,,,22,1,,5,90,0,1,2,1.04742317358,0,How to contact a friend?, Make a phone call.,5
+2018,28,2,,,,,3.55890978431,,,,,30,1,,5,90,0,1,2,2.99937719377,0,How to entertain oneself?, Watch television.,5
+2018,29,2,,,,,2.64220556506,,,,,33,1,,5,90,0,1,2,5.6203236031,0,Why open a bottle?, Consume medicine.,1
+2018,30,1,,,,,2.52487334061,,,,,27,1,,5,90,0,1,2,1.41563263884,0,Why stir ingredients?, Mix a cocktail.,1
+2018,31,2,,,,,1.40117431092,,,,,40,1,,5,90,0,1,2,1.59927458513,0,Why open a browser?, Write an email.,2
+2018,32,2,,,,,2.42979163689,,,,,26,1,,5,90,0,1,2,2.74508201702,0,Why dress formally?, Get a promotion.,2
+2018,33,2,,,,,3.03617201032,,,,,31,1,,5,90,0,1,2,1.15813253696,0,How to satisfy a need?, Make a purchase.,6
+2018,34,1,,,,,1.05347623884,,,,,39,1,,5,90,0,1,2,2.30213308131,0,How to impress others?, Show intelligence.,6
+2018,35,2,,,,,2.24693374749,,,,,35,1,,5,90,0,1,2,2.48048300057,0,How to make a phone call?, Dial numbers.,4
+2018,36,2,,,,,1.84949066945,,,,,21,1,,5,90,0,1,2,2.99412272099,0,How to give a lecture?, Brush ones hair.,4

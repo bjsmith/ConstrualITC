@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2027,1,L,,,,,2.60201406991,,,,25,30,1,,2,,1,3,4,0.641210740325,1,,,
+2027,2,R,,,,,1.89488419344,,,,25,30,1,,1,,1,3,4,1.05966833347,0,,,
+2027,3,R,,,,,1.5217722167,,,,25,30,1,,7,,1,3,4,1.37606589816,2,,,
+2027,4,L,,,,,2.30083689143,,,,25,30,1,,8,,1,3,4,0.666472292051,3,,,

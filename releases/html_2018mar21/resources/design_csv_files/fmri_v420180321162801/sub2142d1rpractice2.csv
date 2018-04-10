@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2142,1,R,,,,,1.55350326125,,,,,25,1,,5,90,0,1,4,2.23809092178,8,How to read articles?, Open a magazine.,4
+2142,2,R,,,,,1.83126135149,,,,,31,1,,5,90,0,1,4,0.982915492126,6,How to consume medicine?, Take pills. ,4
+2142,3,L,,,,,0.792271872632,,,,,26,1,,5,90,0,1,4,0.876802337491,10,Why dial numbers?, Make a phone call.,1
+2142,4,L,,,,,2.69900620869,,,,,21,1,,5,90,0,1,4,1.26150570785,4,Why cut paper?, Clip coupons.,1
+2142,5,R,,,,,1.96449968919,,,,,34,1,,5,90,0,1,4,1.13067273091,11,Why write an email?, Send a message.,3
+2142,6,L,,,,,3.06300285789,,,,,39,1,,5,90,0,1,4,0.510466480049,0,Why avoid diseases?, Live a long life.,3
+2142,7,R,,,,,1.60469870952,,,,,33,1,,5,90,0,1,4,0.737842452647,1,How to feel nostalgia?, Keep a memory.,6
+2142,8,R,,,,,2.185951212,,,,,35,1,,5,90,0,1,4,1.51629835589,3,How to spread joy?, Get a job.,6
+2142,9,R,,,,,0.977635301082,,,,,37,1,,5,90,0,1,4,0.517338907013,9,How to save money?, Clip coupons.,5
+2142,10,L,,,,,0.593078348197,,,,,22,1,,5,90,0,1,4,1.09908536652,7,How to entertain oneself?, Watch television.,5
+2142,11,L,,,,,2.85988655886,,,,,38,1,,5,90,0,1,4,0.758397076475,5,Why drink wine?, Consume alcohol.,2
+2142,12,L,,,,,3.28614751539,,,,,24,1,,5,90,0,1,4,0.563454853698,2,Why give applause?, Show appreciation.,2

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2099,1,R,,,,,4.73493959988,,,,25,30,1,,8,,1,1,4,0.647992501758,6,How to feel connected?, Contact a friend.,6
+2099,2,R,,,,,2.40207625315,,,,25,30,1,,3,,1,1,4,1.1526871522,3,How to live a long life?, Avoid diseases.,6
+2099,3,R,,,,,2.21470375466,,,,25,30,1,,6,,1,1,4,0.56337043315,2,Why clip coupons?, Save money.,2
+2099,4,L,,,,,1.22246631537,,,,25,30,1,,1,,1,1,4,0.706345359229,7,Why give applause?, Show appreciation.,2
+2099,5,R,,,,,0.935788495919,,,,25,30,1,,5,,1,1,4,0.802261943442,1,How to gain knowledge?, Read articles.,5
+2099,6,R,,,,,3.15533754882,,,,25,30,1,,2,,1,1,4,0.627483738295,9,How to give to charity?, Use a camera.,5
+2099,7,L,,,,,1.64711654571,,,,25,30,1,,9,,1,1,4,0.850892655276,10,Why open a bottle?, Consume medicine.,1
+2099,8,L,,,,,0.675915352892,,,,25,30,1,,7,,1,1,4,1.1229785472,5,Why cut paper?, Clip coupons.,1
+2099,9,R,,,,,4.12691717101,,,,25,30,1,,5,,1,1,4,1.51756794058,0,How to open a browser?, Click a mouse.,4
+2099,10,L,,,,,0.711895161081,,,,25,30,1,,1,,1,1,4,0.612604112673,11,How to write a check?, Sign ones name.,4
+2099,11,L,,,,,0.650496885554,,,,25,30,1,,2,,1,1,4,1.0769074235,8,Why show courtesy?, Make a friend.,3
+2099,12,L,,,,,2.14352364709,,,,25,30,1,,4,,1,1,4,1.95947309989,4,Why get a promotion?, Achieve success.,3

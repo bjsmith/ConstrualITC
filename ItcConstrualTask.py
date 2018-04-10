@@ -426,12 +426,13 @@ def get_construal_set(n_total_trials, n_runs, n_repeats=1, construal_design=ItcC
             runs_n_trials = [n_trials] * n_runs
         else:
             runs_n_trials = n_trials
-
-        n_construal_conditions=len(condition_indices_range)
+        #ADDED THIS INDEX IN FOR THE CONDITION_INDICES RANGE BUT THAT BREAKS THE FMRI
+        n_construal_conditions=len(selected_condition_indices_set) #len(condition_indices_range[0])
 
         #create an array with just the conditions we actually want to access; this will be convenient.
         selected_condition_indices=[condition_indices[i] for i in selected_condition_indices_set]
 
+        #for each run
         for r in range(0, n_runs):
             n_t = runs_n_trials[r]
             run_vals = []
@@ -441,7 +442,7 @@ def get_construal_set(n_total_trials, n_runs, n_repeats=1, construal_design=ItcC
             n_conds=len(pandas.unique(condition_indices_range[r]))
             # get the number to select from each condition for this run
             run_selected_condition_count = (
-                [int(math.ceil(float(n_t) / n_conds))] * extras + [int(math.floor(n_t / n_conds))] * (n_construal_conditions - extras))
+                    [int(math.ceil(float(n_t) / n_conds))] * extras + [int(math.floor(n_t / n_conds))] * (n_construal_conditions - extras))
             # shuffle, making sure that we have at least enough.
             while True:
                 random.shuffle(run_selected_condition_count)

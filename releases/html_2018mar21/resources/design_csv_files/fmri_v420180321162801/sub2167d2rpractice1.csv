@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2167,1,L,,,,,0.840843144481,,,,,39,1,,5,90,0,2,3,1.52913548267,1,Why wash ones hands?, Kill germs.,1
+2167,2,L,,,,,4.7821696138,,,,,30,1,,5,90,0,2,3,0.928291532309,2,Why turn a doorknob?, Enter a classroom.,1
+2167,3,R,,,,,2.04723450374,,,,,20,1,,5,90,0,2,3,1.3222696315,3,How to live a long life?, Avoid diseases.,6
+2167,4,R,,,,,0.888091513771,,,,,29,1,,5,90,0,2,3,0.861731453307,0,How to show creativity?, Make art.,6

@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2002,1,R,,,,,1.98634408621,,,,,34,1,,5,90,0,2,2,1.69660032306,58,How to teach others?, Give a lecture.,5
+2002,2,L,,,,,1.14035240347,,,,,29,1,,5,90,0,2,2,2.80722719615,8,How to make a donation?, Mix a cocktail.,5
+2002,3,L,,,,,1.0208173529,,,,,35,1,,5,90,0,2,2,2.09550645523,56,Why dress formally?, Get a promotion.,2
+2002,4,L,,,,,1.04961584348,,,,,38,1,,5,90,0,2,2,2.2827623726,50,Why give applause?, Show appreciation.,2
+2002,5,R,,,,,1.0803021662,,,,,31,1,,5,90,0,2,2,1.35711966043,15,How to drink wine?, Open a bottle. ,4
+2002,6,R,,,,,1.45756802561,,,,,24,1,,5,90,0,2,2,2.2020975697,11,How to read articles?, Open a magazine.,4
+2002,7,L,,,,,1.08844405376,,,,,37,1,,5,90,0,2,2,2.34268302636,35,Why turn a doorknob?, Enter a classroom.,1
+2002,8,R,,,,,2.48994423719,,,,,21,1,,5,90,0,2,2,2.71784441016,26,Why sign ones name?, Write a check.,1
+2002,9,R,,,,,1.7687926605,,,,,23,1,,5,90,0,2,2,2.69757420736,42,Why show intelligence?, Impress others.,3
+2002,10,R,,,,,4.1993280047,,,,,32,1,,5,90,0,2,2,1.01794411973,17,Why reduce pain?, Feel well.,3
+2002,11,L,,,,,3.19753336777,,,,,30,1,,5,90,0,2,2,1.4871063639,52,How to feel nostalgia?, Keep a memory.,6
+2002,12,R,,,,,1.57654903411,,,,,25,1,,5,90,0,2,2,2.18100195832,12,How to show cleanliness?, Write an email.,6
+2002,13,R,,,,,3.74873066109,,,,,28,1,,5,90,0,2,2,3.61105269391,25,Why plan ahead?, Reduce worry.,3
+2002,14,L,,,,,1.90371784068,,,,,27,1,,5,90,0,2,2,2.502637371,41,Why provide food?, Help a person.,3
+2002,15,L,,,,,4.31269108114,,,,,33,1,,5,90,0,2,2,2.24850031267,38,How to get a degree?, Attend a school.,6
+2002,16,L,,,,,1.61647816327,,,,,40,1,,5,90,0,2,2,2.12014282224,31,How to spread knowledge?, Teach others.,6
+2002,17,R,,,,,1.93897538298,,,,,26,1,,5,90,0,2,2,3.02618671833,21,Why drink coffee?, Consume caffeine.,1
+2002,18,L,,,,,1.30691480764,,,,,39,1,,5,90,0,2,2,1.65601385852,55,Why raise a hand?, Participate in class.,1
+2002,19,R,,,,,1.9511509577,,,,,20,1,,5,90,0,2,2,1.26341373683,46,How to clip coupons?, Cut paper.,4
+2002,20,L,,,,,2.15287391904,,,,,22,1,,5,90,0,2,2,1.08314445159,22,How to lift weights?, Fasten seatbelt.,4
+2002,21,R,,,,,2.05337729024,,,,,36,1,,5,90,0,2,2,1.50446040979,6,How to give to charity?, Use a camera.,5
+2002,22,L,,,,,1.84388230949,,,,,38,1,,5,90,0,2,2,2.26707343811,40,How to plan ahead?, Make a list.,5
+2002,23,R,,,,,1.25868241501,,,,,26,1,,5,90,0,2,2,1.33641222661,1,Why consume medicine?, Reduce pain.,2
+2002,24,L,,,,,1.68655311383,,,,,30,1,,5,90,0,2,2,1.30995302602,0,Why enter a classroom?, Attend a school.,2
+2002,25,L,,,,,1.91330963558,,,,,24,1,,5,90,0,2,2,1.93767986951,36,Why open a magazine?, Read articles.,1
+2002,26,L,,,,,1.66186644034,,,,,40,1,,5,90,0,2,2,1.40085185389,20,Why point a camera?, Take a picture.,1
+2002,27,L,,,,,3.14804624499,,,,,23,1,,5,90,0,2,2,3.12088969303,18,Why satisfy hunger?, Show an ability.,3
+2002,28,R,,,,,1.1675321946,,,,,22,1,,5,90,0,2,2,1.38993117156,48,Why write an email?, Send a message.,3
+2002,29,R,,,,,2.43037023258,,,,,35,1,,5,90,0,2,2,1.04719724516,32,Why read articles?, Gain knowledge.,2
+2002,30,R,,,,,1.45907705677,,,,,21,1,,5,90,0,2,2,2.40214876332,44,Why lift weights?, Build muscles.,2
+2002,31,R,,,,,1.60345457888,,,,,29,1,,5,90,0,2,2,2.91297609282,47,How to entertain others?, Write a song.,5
+2002,32,L,,,,,2.32312509576,,,,,27,1,,5,90,0,2,2,2.9595815018,13,How to reduce pain?, Consume medicine.,5
+2002,33,L,,,,,2.09456298739,,,,,28,1,,5,90,0,2,2,1.29045181297,3,How to feel connected?, Contact a friend.,6
+2002,34,R,,,,,1.06214155608,,,,,25,1,,5,90,0,2,2,1.02055538702,51,How to show intellect?, Share ideas.,6
+2002,35,L,,,,,3.98401661819,,,,,34,1,,5,90,0,2,2,2.36443390642,24,How to give a lecture?, Brush ones hair.,4
+2002,36,R,,,,,1.01719843477,,,,,39,1,,5,90,0,2,2,1.51415476085,10,How to write a poem?, Grab a pencil.,4
+2002,37,R,,,,,1.34091255551,,,,,33,1,,5,90,0,2,2,3.75607205316,34,Why clap hands?, Give applause.,1
+2002,38,R,,,,,2.43172578223,,,,,37,1,,5,90,0,2,2,1.38990068442,16,Why dial numbers?, Make a phone call.,1
+2002,39,L,,,,,1.85978001144,,,,,20,1,,5,90,0,2,2,1.01231555123,2,Why make a list?, Plan ahead.,2
+2002,40,R,,,,,1.76351237729,,,,,31,1,,5,90,0,2,2,1.71613139086,54,Why go shopping?, Make a purchase.,2
+2002,41,L,,,,,2.77281927075,,,,,28,1,,5,90,0,2,2,1.12088303473,49,How to build muscles?, Lift weights.,5
+2002,42,L,,,,,1.15177827443,,,,,34,1,,5,90,0,2,2,1.86351579291,9,How to show intelligence?, Participate in class.,5
+2002,43,R,,,,,3.3709493333,,,,,39,1,,5,90,0,2,2,1.85801624225,27,How to prepare meals?, Follow recipes.,4
+2002,44,R,,,,,3.20084791447,,,,,25,1,,5,90,0,2,2,1.05173159114,59,How to take a picture?, Point a camera.,4
+2002,45,L,,,,,1.44834554584,,,,,26,1,,5,90,0,2,2,1.60313196937,29,How to support a cause?, Give to charity.,6
+2002,46,L,,,,,1.58123111137,,,,,23,1,,5,90,0,2,2,1.53715647793,57,How to spread joy?, Get a job.,6
+2002,47,R,,,,,2.68228168876,,,,,31,1,,5,90,0,2,2,4.52574116692,14,Why gain knowledge?, Improve oneself.,3
+2002,48,L,,,,,1.45430968725,,,,,37,1,,5,90,0,2,2,3.32189910324,23,Why finish a job?, Feel productive.,3
+2002,49,L,,,,,1.85880159877,,,,,24,1,,5,90,0,2,2,1.50152551494,30,How to make a phone call?, Dial numbers.,4
+2002,50,L,,,,,3.90916654383,,,,,21,1,,5,90,0,2,2,3.14224646142,39,How to go shopping?, Use credit cards.,4
+2002,51,L,,,,,1.55771821999,,,,,38,1,,5,90,0,2,2,1.96960669463,5,Why stir ingredients?, Mix a cocktail.,1
+2002,52,R,,,,,1.52190443176,,,,,30,1,,5,90,0,2,2,1.85894960965,33,Why take aspirin?, Serve alcohol.,1
+2002,53,R,,,,,1.29578198723,,,,,33,1,,5,90,0,2,2,1.77161285159,7,Why contact a friend?, Feel connected.,3
+2002,54,R,,,,,1.11422119911,,,,,20,1,,5,90,0,2,2,1.30940017096,4,Why get a promotion?, Achieve success.,3
+2002,55,L,,,,,4.90115145175,,,,,27,1,,5,90,0,2,2,2.2320494065,43,How to express doubt?, Use scissors.,5
+2002,56,L,,,,,1.49091887616,,,,,29,1,,5,90,0,2,2,1.21482041775,53,How to provide food?, Prepare meals.,5
+2002,57,R,,,,,1.01690724934,,,,,32,1,,5,90,0,2,2,3.36436841026,37,Why give a lecture?, Teach others.,2
+2002,58,L,,,,,1.72247453837,,,,,22,1,,5,90,0,2,2,1.06627338621,45,Why open a browser?, Write an email.,2
+2002,59,R,,,,,1.80199925001,,,,,35,1,,5,90,0,2,2,1.52751211186,28,How to express a talent?, Entertain others.,6
+2002,60,R,,,,,1.28067655705,,,,,40,1,,5,90,0,2,2,2.2298865651,19,How to feel productive?, Finish a job.,6

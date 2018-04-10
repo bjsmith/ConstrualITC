@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2020,1,1,,,,,0.881722416421,,,,,22,1,,5,90,0,2,4,0.999168593181,0,How to make a purchase?, Go shopping.,5
+2020,2,2,,,,,0.766788899791,,,,,29,1,,5,90,0,2,4,1.38975623736,0,How to make a phone call?, Dial numbers.,4
+2020,3,1,,,,,0.811673883723,,,,,35,1,,5,90,0,2,4,0.964042906463,0,Why give to charity?, Support a cause.,3
+2020,4,2,,,,,5.48936783673,,,,,36,1,,5,90,0,2,4,0.522988073073,1,Why make a phone call?, Contact a friend.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2048,1,L,,,,,1.59697703916,,,,,35,1,,5,90,0,2,4,0.589823041388,3,Why satisfy hunger?, Show an ability.,3
+2048,2,L,,,,,1.82360154373,,,,,21,1,,5,90,0,2,4,1.23083731194,0,Why attend a school?, Get a degree.,3
+2048,3,R,,,,,1.14479757396,,,,,30,1,,5,90,0,2,4,1.07059725899,2,Why kill germs?, Avoid diseases.,2
+2048,4,R,,,,,3.56407688503,,,,,29,1,,5,90,0,2,4,0.587134496568,1,Why clip coupons?, Save money.,2

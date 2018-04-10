@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2185,1,R,,,,,1.48767060715,,,,,25,1,,5,90,0,1,3,1.07094813286,8,How to paint a picture?, Use a brush.,4
+2185,2,R,,,,,5.34139114209,,,,,39,1,,5,90,0,1,3,2.68348067964,0,How to consume medicine?, Take pills. ,4
+2185,3,R,,,,,1.60561052522,,,,,28,1,,5,90,0,1,3,1.22859213118,2,Why provide food?, Help a person.,3
+2185,4,L,,,,,1.33037617095,,,,,36,1,,5,90,0,1,3,0.932947591489,11,Why show intelligence?, Impress others.,3
+2185,5,L,,,,,2.46542658993,,,,,37,1,,5,90,0,1,3,0.542320906804,1,How to feel well?, Reduce pain.,6
+2185,6,L,,,,,2.0026090047,,,,,34,1,,5,90,0,1,3,1.19951028417,9,How to show creativity?, Make art.,6
+2185,7,L,,,,,1.03661203048,,,,,33,1,,5,90,0,1,3,0.646849034343,3,Why use a camera?, Give to charity.,2
+2185,8,L,,,,,3.28305540514,,,,,23,1,,5,90,0,1,3,0.575373361209,5,Why consume medicine?, Reduce pain.,2
+2185,9,R,,,,,0.70168475416,,,,,31,1,,5,90,0,1,3,0.505496961583,7,Why dial numbers?, Make a phone call.,1
+2185,10,R,,,,,0.968198584414,,,,,21,1,,5,90,0,1,3,0.574209238219,10,Why sign ones name?, Write a check.,1
+2185,11,R,,,,,1.08654449966,,,,,20,1,,5,90,0,1,3,1.36251996828,6,How to gain knowledge?, Read articles.,5
+2185,12,L,,,,,2.53699302496,,,,,40,1,,5,90,0,1,3,0.8083650105,4,How to express doubt?, Use scissors.,5

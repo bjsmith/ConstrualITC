@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2095,1,L,,,,,0.798815623083,,,,,24,1,,5,90,0,1,3,2.04012899796,11,Why keep a memory?, Feel nostalgia.,3
+2095,2,L,,,,,2.96486247444,,,,,39,1,,5,90,0,1,3,0.65037500314,1,Why finish a job?, Feel productive.,3
+2095,3,R,,,,,1.67789229136,,,,,40,1,,5,90,0,1,3,1.16329852461,7,Why clip coupons?, Save money.,2
+2095,4,L,,,,,3.76451725411,,,,,35,1,,5,90,0,1,3,0.661787714005,9,Why take a picture?, Keep a memory.,2
+2095,5,R,,,,,2.16644878515,,,,,22,1,,5,90,0,1,3,0.820313789075,10,How to make a phone call?, Dial numbers.,4
+2095,6,L,,,,,2.03240804258,,,,,37,1,,5,90,0,1,3,0.962826668742,2,How to consume medicine?, Take pills. ,4
+2095,7,L,,,,,4.75299606467,,,,,28,1,,5,90,0,1,3,0.512190535201,3,How to save money?, Clip coupons.,5
+2095,8,R,,,,,1.73677141458,,,,,30,1,,5,90,0,1,3,0.592405527759,6,How to avoid diseases?, Kill germs.,5
+2095,9,R,,,,,1.06601160414,,,,,34,1,,5,90,0,1,3,0.820303063719,4,Why click a mouse?, Open a browser.,1
+2095,10,R,,,,,0.69938104274,,,,,21,1,,5,90,0,1,3,1.79608311735,0,Why follow recipes?, Prepare meals.,1
+2095,11,R,,,,,1.29034065524,,,,,33,1,,5,90,0,1,3,0.713511762808,8,How to achieve success?, Get a promotion.,6
+2095,12,L,,,,,1.68734201614,,,,,27,1,,5,90,0,1,3,0.538853781921,5,How to express a talent?, Entertain others.,6

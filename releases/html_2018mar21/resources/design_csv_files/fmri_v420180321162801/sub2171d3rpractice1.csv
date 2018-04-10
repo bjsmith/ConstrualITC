@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2171,1,R,,,,,2.08671790541,,,,,34,1,,5,90,0,3,3,1.16357365721,1,Why open a magazine?, Read articles.,1
+2171,2,L,,,,,3.23404171765,,,,,33,1,,5,90,0,3,3,0.679394722936,2,Why use a remote?, Watch television.,1
+2171,3,L,,,,,1.27689726158,,,,,29,1,,5,90,0,3,3,0.675655418809,0,Why dress formally?, Get a promotion.,2
+2171,4,R,,,,,0.672474696091,,,,,22,1,,5,90,0,3,3,1.83761824975,3,Why use a camera?, Give to charity.,2

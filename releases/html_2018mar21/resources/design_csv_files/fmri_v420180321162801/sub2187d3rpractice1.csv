@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2187,1,R,,,,,2.27165431686,,,,,32,1,,5,90,0,3,3,0.731823158393,2,How to avoid diseases?, Kill germs.,5
+2187,2,R,,,,,0.900464452577,,,,,30,1,,5,90,0,3,3,1.14150930794,0,How to save money?, Clip coupons.,5
+2187,3,L,,,,,3.23447678834,,,,,23,1,,5,90,0,3,3,0.717152370574,3,Why write an email?, Send a message.,3
+2187,4,L,,,,,1.87938052884,,,,,38,1,,5,90,0,3,3,0.589760097975,1,Why satisfy hunger?, Show an ability.,3

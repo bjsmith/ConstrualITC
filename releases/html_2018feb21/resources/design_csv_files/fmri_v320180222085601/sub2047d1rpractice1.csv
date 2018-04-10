@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2047,1,R,,,,,1.24792537691,,,,,36,1,,5,90,0,1,3,1.12631779674,10,Why consume caffeine?, Stay alert.,2
+2047,2,L,,,,,2.56387750094,,,,,40,1,,5,90,0,1,3,1.07964645175,2,Why use a camera?, Give to charity.,2
+2047,3,R,,,,,1.01561014617,,,,,31,1,,5,90,0,1,3,1.97846903392,11,How to give applause?, Clap hands.,4
+2047,4,R,,,,,1.03867071645,,,,,28,1,,5,90,0,1,3,0.867992122637,6,How to lift weights?, Fasten seatbelt.,4
+2047,5,L,,,,,2.14426021262,,,,,22,1,,5,90,0,1,3,0.710912312036,5,Why cut paper?, Clip coupons.,1
+2047,6,R,,,,,0.705648930794,,,,,29,1,,5,90,0,1,3,0.802320440648,0,Why turn a doorknob?, Enter a classroom.,1
+2047,7,L,,,,,2.10648710113,,,,,21,1,,5,90,0,1,3,1.07824097756,3,How to feel productive?, Finish a job.,6
+2047,8,R,,,,,3.17288861427,,,,,37,1,,5,90,0,1,3,0.574409491379,4,How to show an ability?, Satisfy hunger.,6
+2047,9,L,,,,,5.10471295153,,,,,32,1,,5,90,0,1,3,0.620613979962,7,Why avoid diseases?, Live a long life.,3
+2047,10,L,,,,,1.10358623949,,,,,35,1,,5,90,0,1,3,0.507159952971,1,Why get a promotion?, Achieve success.,3
+2047,11,R,,,,,1.57202307354,,,,,38,1,,5,90,0,1,3,1.35709670298,9,How to give to charity?, Use a camera.,5
+2047,12,L,,,,,2.53608295657,,,,,25,1,,5,90,0,1,3,0.678818416386,8,How to express doubt?, Use scissors.,5

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2098,1,R,,,,,1.41200133169,,,,25,30,1,,2,,1,1,3,0.677751466331,1,How to dress formally?, Wear ties. ,4
+2098,2,L,,,,,1.28005994499,,,,25,30,1,,8,,1,1,3,1.33129469703,11,How to participate in class?, Raise a hand.,4
+2098,3,L,,,,,1.73431461384,,,,25,30,1,,1,,1,1,3,0.584662122918,0,How to reduce pain?, Consume medicine.,5
+2098,4,L,,,,,2.58140598714,,,,25,30,1,,3,,1,1,3,0.863226744061,10,How to show intelligence?, Participate in class.,5
+2098,5,R,,,,,1.22740783744,,,,25,30,1,,7,,1,1,3,0.581628174324,3,Why follow recipes?, Prepare meals.,1
+2098,6,L,,,,,5.4110363773,,,,25,30,1,,4,,1,1,3,3.049500468,2,Why take aspirin?, Serve alcohol.,1
+2098,7,R,,,,,1.29777150467,,,,25,30,1,,5,,1,1,3,0.666034446181,4,Why show intelligence?, Impress others.,3
+2098,8,L,,,,,2.48438260351,,,,25,30,1,,6,,1,1,3,0.57040068324,6,Why show courtesy?, Make a friend.,3
+2098,9,R,,,,,0.541446001568,,,,25,30,1,,2,,1,1,3,0.573586366093,5,Why participate in class?, Show intelligence.,2
+2098,10,L,,,,,1.77614563105,,,,25,30,1,,8,,1,1,3,1.06228331642,9,Why make breakfast?, Satisfy hunger.,2
+2098,11,R,,,,,2.47950235023,,,,25,30,1,,5,,1,1,3,0.662991098731,8,How to improve oneself?, Gain knowledge.,6
+2098,12,R,,,,,0.917240548941,,,,25,30,1,,1,,1,1,3,0.963104109126,7,How to show creativity?, Make art.,6

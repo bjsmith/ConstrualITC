@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2092,1,L,,,,,1.76081329833,,,,25,30,1,,7,,1,3,1,1.50296178735,28,Why attend a school?, Get a degree.,3
+2092,2,L,,,,,2.07780418197,,,,25,30,1,,2,,1,3,1,2.80586020356,47,Why plan ahead?, Reduce worry.,3
+2092,3,L,,,,,1.97917930113,,,,25,30,1,,3,,1,3,1,1.68869231943,43,How to express a talent?, Entertain others.,6
+2092,4,L,,,,,3.93147307699,,,,25,30,1,,1,,1,3,1,2.3132014109,34,How to feel productive?, Finish a job.,6
+2092,5,R,,,,,3.3833663953,,,,25,30,1,,9,,1,3,1,1.39713484107,10,How to write a check?, Sign ones name.,4
+2092,6,L,,,,,2.56730019876,,,,25,30,1,,8,,1,3,1,1.0080802682,5,How to watch television?, Use a remote.,4
+2092,7,R,,,,,2.19151280517,,,,25,30,1,,5,,1,3,1,1.484786482,55,Why write a song?, Seek advice.,2
+2092,8,R,,,,,1.69783788885,,,,25,30,1,,6,,1,3,1,1.03362226801,4,Why kill germs?, Avoid diseases.,2
+2092,9,L,,,,,2.34253317909,,,,25,30,1,,9,,1,3,1,1.89274098239,17,Why lift a glass?, Drink wine.,1
+2092,10,L,,,,,1.93971795186,,,,25,30,1,,5,,1,3,1,1.09419074374,30,Why sign ones name?, Write a check.,1
+2092,11,L,,,,,1.29525882351,,,,25,30,1,,7,,1,3,1,1.02651743092,37,How to build muscles?, Lift weights.,5
+2092,12,L,,,,,1.30236912105,,,,25,30,1,,6,,1,3,1,1.27588329077,45,How to gain knowledge?, Read articles.,5
+2092,13,R,,,,,1.47265741401,,,,25,30,1,,3,,1,3,1,1.28483693455,56,Why make art?, Show creativity.,3
+2092,14,R,,,,,1.40082043969,,,,25,30,1,,8,,1,3,1,1.220356296,18,Why make a purchase?, Satisfy a need.,3
+2092,15,R,,,,,2.17746935026,,,,25,30,1,,1,,1,3,1,1.12330642461,15,Why open a magazine?, Read articles.,1
+2092,16,R,,,,,1.55385744873,,,,25,30,1,,2,,1,3,1,3.4471150391,26,Why use a comb?, Write a song.,1
+2092,17,R,,,,,3.55065001398,,,,25,30,1,,6,,1,3,1,1.77950019663,24,Why dress formally?, Get a promotion.,2
+2092,18,R,,,,,1.0433155489,,,,25,30,1,,2,,1,3,1,1.23666977107,57,Why make a phone call?, Contact a friend.,2
+2092,19,L,,,,,1.68106009471,,,,25,30,1,,7,,1,3,1,1.61888243628,32,How to give a lecture?, Brush ones hair.,4
+2092,20,L,,,,,1.13893207371,,,,25,30,1,,3,,1,3,1,3.12229214399,6,How to consume medicine?, Take pills. ,4
+2092,21,R,,,,,1.89804753353,,,,25,30,1,,8,,1,3,1,5.62834264775,51,How to entertain oneself?, Watch television.,5
+2092,22,L,,,,,1.35058463898,,,,25,30,1,,9,,1,3,1,1.46508889032,2,How to show ambition?, Serve alcohol.,5
+2092,23,R,,,,,2.82588966197,,,,25,30,1,,1,,1,3,1,4.77210732524,35,How to get a degree?, Attend a school.,6
+2092,24,R,,,,,2.11086514632,,,,25,30,1,,4,,1,3,1,2.13019036117,22,How to achieve success?, Get a promotion.,6
+2092,25,L,,,,,2.64664543069,,,,25,30,1,,4,,1,3,1,2.30432445833,49,How to give applause?, Clap hands.,4
+2092,26,L,,,,,3.68300057879,,,,25,30,1,,6,,1,3,1,4.59346103369,29,How to make a phone call?, Dial numbers.,4
+2092,27,L,,,,,1.08677089173,,,,25,30,1,,8,,1,3,1,1.63123542611,13,How to support a cause?, Give to charity.,6
+2092,28,R,,,,,1.33999709004,,,,25,30,1,,3,,1,3,1,1.01319453371,23,How to show an ability?, Satisfy hunger.,6
+2092,29,R,,,,,1.85316341808,,,,25,30,1,,9,,1,3,1,1.17382021869,7,Why avoid diseases?, Live a long life.,3
+2092,30,R,,,,,1.52857459956,,,,25,30,1,,2,,1,3,1,1.67730198872,1,Why reduce pain?, Feel well.,3
+2092,31,L,,,,,1.48111796666,,,,25,30,1,,5,,1,3,1,2.03920916449,52,How to show appreciation?, Give applause.,5
+2092,32,R,,,,,1.31868785052,,,,25,30,1,,1,,1,3,1,2.30339768937,21,How to consume alcohol?, Drink wine.,5
+2092,33,R,,,,,1.05464415865,,,,25,30,1,,5,,1,3,1,1.7834396961,38,Why write a poem?, Express an idea.,2
+2092,34,L,,,,,1.34083428942,,,,25,30,1,,6,,1,3,1,1.38433029776,9,Why make breakfast?, Satisfy hunger.,2
+2092,35,L,,,,,2.0510771446,,,,25,30,1,,7,,1,3,1,1.45844794262,42,Why use a remote?, Watch television.,1
+2092,36,R,,,,,3.49452750562,,,,25,30,1,,1,,1,3,1,3.4679637557,54,Why raise a hand?, Participate in class.,1
+2092,37,L,,,,,2.17655404506,,,,25,30,1,,8,,1,3,1,2.61014476466,58,Why show appreciation?, Spread joy.,3
+2092,38,R,,,,,1.16439315942,,,,25,30,1,,3,,1,3,1,1.28286214104,39,Why finish a job?, Feel productive.,3
+2092,39,R,,,,,2.29779963333,,,,25,30,1,,4,,1,3,1,1.02130624828,3,How to get a promotion?, Arrive on time.,5
+2092,40,R,,,,,2.43591983035,,,,25,30,1,,2,,1,3,1,3.0498275244,0,How to give to charity?, Use a camera.,5
+2092,41,L,,,,,1.09972964332,,,,25,30,1,,8,,1,3,1,1.5294564336,36,How to avoid boredom?, Entertain oneself.,6
+2092,42,L,,,,,3.57093601682,,,,25,30,1,,9,,1,3,1,2.19512448318,48,How to show humility?, Build muscles.,6
+2092,43,L,,,,,2.1717375549,,,,25,30,1,,4,,1,3,1,1.18547104936,44,Why watch television?, Show competence.,2
+2092,44,R,,,,,1.47158065053,,,,25,30,1,,6,,1,3,1,2.44527561876,41,Why take a picture?, Keep a memory.,2
+2092,45,L,,,,,3.14041398091,,,,25,30,1,,7,,1,3,1,2.719469728,25,Why wear ties?, Dress formally.,1
+2092,46,R,,,,,2.45815608899,,,,25,30,1,,2,,1,3,1,1.20033944269,31,Why crack eggs?, Make breakfast.,1
+2092,47,L,,,,,1.46532897297,,,,25,30,1,,3,,1,3,1,1.09514470827,20,How to make breakfast?, Crack eggs.,4
+2092,48,R,,,,,1.78060684319,,,,25,30,1,,1,,1,3,1,3.21281915031,33,How to make a list?, Throw away trash.,4
+2092,49,L,,,,,1.22143249506,,,,25,30,1,,1,,1,3,1,1.63958591385,53,How to entertain others?, Write a song.,5
+2092,50,R,,,,,2.21118384957,,,,25,30,1,,9,,1,3,1,2.06864357216,12,How to make a donation?, Mix a cocktail.,5
+2092,51,L,,,,,3.07203023868,,,,25,30,1,,3,,1,3,1,1.3982144026,50,How to spread joy?, Get a job.,6
+2092,52,R,,,,,1.63192417805,,,,25,30,1,,6,,1,3,1,1.51185858025,8,How to impress others?, Show intelligence.,6
+2092,53,L,,,,,1.31175244401,,,,25,30,1,,7,,1,3,1,2.42953704988,19,How to take a picture?, Point a camera.,4
+2092,54,R,,,,,1.25375412156,,,,25,30,1,,8,,1,3,1,3.05384847621,46,How to kill germs?, Wash ones hands.,4
+2092,55,L,,,,,1.33575811767,,,,25,30,1,,2,,1,3,1,2.63823333425,27,Why write an email?, Send a message.,3
+2092,56,L,,,,,1.56574228398,,,,25,30,1,,5,,1,3,1,2.39234340684,59,Why hold a party?, Feel sociable.,3
+2092,57,R,,,,,3.00973659947,,,,25,30,1,,6,,1,3,1,1.78460505174,40,Why dial numbers?, Make a phone call.,1
+2092,58,R,,,,,1.41800959279,,,,25,30,1,,2,,1,3,1,1.25891151456,11,Why stir ingredients?, Mix a cocktail.,1
+2092,59,R,,,,,3.01936728132,,,,25,30,1,,4,,1,3,1,1.68914157929,16,Why give applause?, Show appreciation.,2
+2092,60,L,,,,,1.53878264203,,,,25,30,1,,3,,1,3,1,2.06911140031,14,Why consume medicine?, Reduce pain.,2

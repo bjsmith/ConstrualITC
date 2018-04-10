@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2044,1,L,,,,,4.77407795247,,,,,38,1,,5,90,0,1,4,0.517845079284,8,How to make a purchase?, Go shopping.,5
+2044,2,R,,,,,2.13795461257,,,,,33,1,,5,90,0,1,4,0.572877530933,10,How to entertain oneself?, Watch television.,5
+2044,3,L,,,,,0.617862080579,,,,,26,1,,5,90,0,1,4,0.880524734133,4,How to feel secure?, Save money.,6
+2044,4,L,,,,,0.941550053495,,,,,22,1,,5,90,0,1,4,0.567029580766,5,How to live a long life?, Avoid diseases.,6
+2044,5,R,,,,,2.6200391246,,,,,27,1,,5,90,0,1,4,0.558004769754,1,Why watch television?, Show competence.,2
+2044,6,L,,,,,1.59901144128,,,,,36,1,,5,90,0,1,4,1.40700327681,9,Why give a lecture?, Teach others.,2
+2044,7,R,,,,,1.70785304956,,,,,24,1,,5,90,0,1,4,0.813511751769,11,Why open a magazine?, Read articles.,1
+2044,8,R,,,,,1.50474652936,,,,,25,1,,5,90,0,1,4,2.51330237099,0,Why dial numbers?, Make a phone call.,1
+2044,9,L,,,,,0.553850748906,,,,,35,1,,5,90,0,1,4,2.07683886823,6,How to take a picture?, Point a camera.,4
+2044,10,R,,,,,0.995351759846,,,,,37,1,,5,90,0,1,4,0.791651604205,2,How to make a phone call?, Dial numbers.,4
+2044,11,R,,,,,0.990541788789,,,,,39,1,,5,90,0,1,4,0.831135226693,3,Why write an email?, Send a message.,3
+2044,12,L,,,,,4.73610780229,,,,,29,1,,5,90,0,1,4,0.652600535785,7,Why gain knowledge?, Improve oneself.,3

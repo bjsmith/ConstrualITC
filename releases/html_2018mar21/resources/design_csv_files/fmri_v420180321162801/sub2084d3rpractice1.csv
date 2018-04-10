@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2084,1,L,,,,,1.49461990729,,,,25,30,1,,5,,1,3,3,0.661932877599,1,Why lift a glass?, Drink wine.,1
+2084,2,R,,,,,1.49399372258,,,,25,30,1,,9,,1,3,3,0.873668318917,3,Why dial numbers?, Make a phone call.,1
+2084,3,L,,,,,1.46978667625,,,,25,30,1,,3,,1,3,3,0.951406276979,2,How to feel sociable?, Hold a party.,6
+2084,4,R,,,,,3.70439610451,,,,25,30,1,,2,,1,3,3,1.05850605154,0,How to improve oneself?, Gain knowledge.,6

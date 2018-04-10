@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2160,1,R,,,,,1.92143218157,,,,25,30,1,,5,,1,1,3,0.571986477008,6,Why teach a class?, Obey laws.,2
+2160,2,R,,,,,1.46796522427,,,,25,30,1,,8,,1,1,3,1.12119791301,10,Why clip coupons?, Save money.,2
+2160,3,L,,,,,3.226362452,,,,25,30,1,,2,,1,1,3,0.743855554798,7,Why use a comb?, Write a song.,1
+2160,4,R,,,,,2.97574117518,,,,25,30,1,,3,,1,1,3,0.546787440399,9,Why wash ones hands?, Kill germs.,1
+2160,5,L,,,,,0.933697050486,,,,25,30,1,,1,,1,1,3,1.54220440487,0,How to kill germs?, Wash ones hands.,4
+2160,6,R,,,,,2.49716822945,,,,25,30,1,,9,,1,1,3,0.77858470476,11,How to participate in class?, Raise a hand.,4
+2160,7,R,,,,,0.648586418824,,,,25,30,1,,6,,1,1,3,1.15964861704,1,How to make a purchase?, Go shopping.,5
+2160,8,L,,,,,0.682399449192,,,,25,30,1,,7,,1,1,3,1.65974860995,4,How to teach others?, Give a lecture.,5
+2160,9,R,,,,,1.38810080151,,,,25,30,1,,4,,1,1,3,0.618880416478,2,How to show cleanliness?, Write an email.,6
+2160,10,L,,,,,5.38942899115,,,,25,30,1,,8,,1,1,3,0.769045252137,3,How to avoid mistakes?, Obey laws.,6
+2160,11,L,,,,,1.24402054768,,,,25,30,1,,3,,1,1,3,0.623589512381,8,Why hold a party?, Feel sociable.,3
+2160,12,L,,,,,0.923056272486,,,,25,30,1,,5,,1,1,3,1.07413162975,5,Why show competence?, Pass the time.,3

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2096,1,L,,,,,1.27268263371,,,,25,30,1,,6,,1,1,3,1.45434557668,10,Why open a magazine?, Read articles.,1
+2096,2,L,,,,,1.73201598046,,,,25,30,1,,2,,1,1,3,1.14836260084,8,Why use credit cards?, Go shopping.,1
+2096,3,R,,,,,1.1699530296,,,,25,30,1,,9,,1,1,3,0.673528432999,7,How to consume alcohol?, Drink wine.,5
+2096,4,L,,,,,2.12607275417,,,,25,30,1,,4,,1,1,3,1.31164074544,4,How to show intelligence?, Participate in class.,5
+2096,5,R,,,,,0.594644914312,,,,25,30,1,,8,,1,1,3,1.53399177287,11,Why write a poem?, Express an idea.,2
+2096,6,L,,,,,1.93579509683,,,,25,30,1,,7,,1,1,3,1.05905043503,9,Why use a camera?, Give to charity.,2
+2096,7,R,,,,,0.731575186845,,,,25,30,1,,3,,1,1,3,1.18791615727,6,How to show cleanliness?, Write an email.,6
+2096,8,L,,,,,1.20173608225,,,,25,30,1,,1,,1,1,3,0.676126614934,5,How to reduce worry?, Plan ahead.,6
+2096,9,R,,,,,2.93600985894,,,,25,30,1,,6,,1,1,3,1.12168610208,1,Why share ideas?, Show intellect.,3
+2096,10,R,,,,,5.32193155512,,,,25,30,1,,7,,1,1,3,0.928594907618,0,Why provide food?, Help a person.,3
+2096,11,L,,,,,1.75033697552,,,,25,30,1,,9,,1,1,3,0.723221032477,3,How to write a check?, Sign ones name.,4
+2096,12,R,,,,,2.27928583702,,,,25,30,1,,8,,1,1,3,0.517254204655,2,How to make a list?, Throw away trash.,4

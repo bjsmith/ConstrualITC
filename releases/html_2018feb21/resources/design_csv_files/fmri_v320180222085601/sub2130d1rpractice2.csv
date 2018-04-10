@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2130,1,R,,,,,1.44625994754,,,,,27,1,,5,90,0,1,4,1.41636267464,11,How to clip coupons?, Cut paper.,4
+2130,2,R,,,,,0.728446804703,,,,,34,1,,5,90,0,1,4,0.736445761738,8,How to give a lecture?, Brush ones hair.,4
+2130,3,R,,,,,5.11474705991,,,,,35,1,,5,90,0,1,4,3.49213777742,6,Why kill germs?, Avoid diseases.,2
+2130,4,R,,,,,1.57709939095,,,,,33,1,,5,90,0,1,4,0.609520060689,10,Why participate in class?, Show intelligence.,2
+2130,5,R,,,,,2.79654747609,,,,,29,1,,5,90,0,1,4,0.994604232548,0,How to feel connected?, Contact a friend.,6
+2130,6,L,,,,,1.96761804243,,,,,28,1,,5,90,0,1,4,1.04354347896,1,How to avoid mistakes?, Obey laws.,6
+2130,7,L,,,,,1.20519265093,,,,,31,1,,5,90,0,1,4,0.730531218658,5,How to express doubt?, Use scissors.,5
+2130,8,L,,,,,1.01588330709,,,,,22,1,,5,90,0,1,4,0.52437501176,9,How to provide food?, Prepare meals.,5
+2130,9,L,,,,,1.75913789578,,,,,26,1,,5,90,0,1,4,0.617512580176,7,Why follow recipes?, Prepare meals.,1
+2130,10,R,,,,,2.72879107028,,,,,21,1,,5,90,0,1,4,0.974754317165,2,Why use a brush?, Paint a picture.,1
+2130,11,L,,,,,1.28252937697,,,,,39,1,,5,90,0,1,4,0.740391204587,3,Why show intelligence?, Impress others.,3
+2130,12,L,,,,,1.78552662725,,,,,32,1,,5,90,0,1,4,0.752540400482,4,Why build muscles?, Show humility.,3

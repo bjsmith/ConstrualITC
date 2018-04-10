@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2119,1,L,,,,,0.835649215959,,,,,33,1,,5,90,0,1,3,0.645998478968,3,How to provide food?, Prepare meals.,5
+2119,2,R,,,,,4.48548314002,,,,,26,1,,5,90,0,1,3,0.948998421864,6,How to make a purchase?, Go shopping.,5
+2119,3,R,,,,,2.28682132609,,,,,23,1,,5,90,0,1,3,1.29921036121,4,Why sign ones name?, Write a check.,1
+2119,4,L,,,,,2.71428932428,,,,,24,1,,5,90,0,1,3,0.548508038527,7,Why point a camera?, Take a picture.,1
+2119,5,R,,,,,1.43164730577,,,,,40,1,,5,90,0,1,3,1.60058637567,9,How to feel secure?, Save money.,6
+2119,6,L,,,,,0.55188791887,,,,,37,1,,5,90,0,1,3,0.51301418103,5,How to reduce worry?, Plan ahead.,6
+2119,7,R,,,,,0.559048863524,,,,,34,1,,5,90,0,1,3,1.0958580386,11,Why teach a class?, Obey laws.,2
+2119,8,L,,,,,1.2787669306,,,,,27,1,,5,90,0,1,3,0.834459834553,2,Why go shopping?, Make a purchase.,2
+2119,9,R,,,,,3.47768689143,,,,,30,1,,5,90,0,1,3,2.05484919138,8,Why attend a school?, Get a degree.,3
+2119,10,L,,,,,3.10206873561,,,,,28,1,,5,90,0,1,3,0.646270120566,1,Why show appreciation?, Spread joy.,3
+2119,11,L,,,,,1.12253684846,,,,,29,1,,5,90,0,1,3,1.053767627,0,How to consume medicine?, Take pills. ,4
+2119,12,R,,,,,1.24613374619,,,,,36,1,,5,90,0,1,3,0.812785659461,10,How to lift weights?, Fasten seatbelt.,4

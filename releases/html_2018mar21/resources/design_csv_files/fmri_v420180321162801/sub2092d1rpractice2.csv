@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2092,1,L,,,,,1.7374951293,,,,,36,1,,5,90,0,1,4,0.693527770355,2,How to gain knowledge?, Read articles.,5
+2092,2,L,,,,,0.55888875159,,,,,22,1,,5,90,0,1,4,0.508932139959,5,How to write an email?, Open a browser.,5
+2092,3,R,,,,,3.98865544622,,,,,23,1,,5,90,0,1,4,1.13735464462,9,How to improve oneself?, Gain knowledge.,6
+2092,4,L,,,,,2.67172694336,,,,,20,1,,5,90,0,1,4,1.11893975008,7,How to feel connected?, Contact a friend.,6
+2092,5,R,,,,,2.24884178585,,,,,34,1,,5,90,0,1,4,1.0102497775,10,Why kill germs?, Avoid diseases.,2
+2092,6,R,,,,,2.58863207166,,,,,25,1,,5,90,0,1,4,0.756235532825,6,Why write a song?, Seek advice.,2
+2092,7,L,,,,,3.02820243824,,,,,39,1,,5,90,0,1,4,0.574530316936,1,Why write an email?, Send a message.,3
+2092,8,L,,,,,0.682915235702,,,,,38,1,,5,90,0,1,4,0.72126818683,4,Why finish a job?, Feel productive.,3
+2092,9,L,,,,,2.55608921433,,,,,35,1,,5,90,0,1,4,1.28226465327,11,Why sign ones name?, Write a check.,1
+2092,10,R,,,,,1.1926555363,,,,,33,1,,5,90,0,1,4,1.46066081155,0,Why lift a glass?, Drink wine.,1
+2092,11,R,,,,,1.60630095601,,,,,24,1,,5,90,0,1,4,2.77965840816,8,How to give a lecture?, Brush ones hair.,4
+2092,12,R,,,,,1.45929357857,,,,,28,1,,5,90,0,1,4,0.663395679079,3,How to make breakfast?, Crack eggs.,4

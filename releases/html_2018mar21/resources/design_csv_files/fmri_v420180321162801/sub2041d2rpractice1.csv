@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2041,1,L,,,,,2.2698313992,,,,,34,1,,5,90,0,2,3,0.635398070421,1,How to feel productive?, Finish a job.,6
+2041,2,R,,,,,3.39164805876,,,,,36,1,,5,90,0,2,3,1.28500544605,0,How to show an ability?, Satisfy hunger.,6
+2041,3,R,,,,,0.940442339661,,,,,23,1,,5,90,0,2,3,0.97909651844,3,How to show intelligence?, Participate in class.,5
+2041,4,L,,,,,0.909612510616,,,,,25,1,,5,90,0,2,3,0.541153118316,2,How to show appreciation?, Give applause.,5

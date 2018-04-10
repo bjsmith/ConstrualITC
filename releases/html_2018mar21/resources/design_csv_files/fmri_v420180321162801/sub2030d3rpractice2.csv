@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,L,,,,,4.8122954832,,,,,27,1,,5,90,0,3,4,0.675639963772,0,Why contact a friend?, Feel connected.,3
+2030,2,L,,,,,1.08533090441,,,,,24,1,,5,90,0,3,4,0.831443153882,3,Why gain knowledge?, Improve oneself.,3
+2030,3,R,,,,,0.63221590498,,,,,34,1,,5,90,0,3,4,1.6989288669,1,How to express a talent?, Entertain others.,6
+2030,4,R,,,,,2.28424960823,,,,,38,1,,5,90,0,3,4,0.693407553658,2,How to feel sociable?, Hold a party.,6

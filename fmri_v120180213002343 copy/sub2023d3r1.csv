@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,1,,,,,2.28532027433,,,,,21,1,,5,90,0,3,1,2.52043599588,0,How to consume caffeine?, Press buttons.,4
+2023,2,2,,,,,1.55126918585,,,,,23,1,,5,90,0,3,1,4.43986518817,0,How to go shopping?, Use credit cards.,4
+2023,3,2,,,,,5.02134975667,,,,,27,1,,5,90,0,3,1,1.29234367396,0,How to feel sociable?, Hold a party.,6
+2023,4,1,,,,,1.57384299113,,,,,29,1,,5,90,0,3,1,1.47952935534,0,How to show an ability?, Satisfy hunger.,6
+2023,5,2,,,,,3.04771119375,,,,,38,1,,5,90,0,3,1,2.44829228094,0,Why write a poem?, Express an idea.,2
+2023,6,2,,,,,1.23653518202,,,,,32,1,,5,90,0,3,1,3.38317046895,0,Why consume caffeine?, Stay alert.,2
+2023,7,1,,,,,1.0892754864,,,,,31,1,,5,90,0,3,1,1.60730534892,0,Why give to charity?, Support a cause.,3
+2023,8,1,,,,,2.08022233052,,,,,26,1,,5,90,0,3,1,1.71091272093,0,Why avoid diseases?, Live a long life.,3
+2023,9,1,,,,,1.22420878345,,,,,22,1,,5,90,0,3,1,2.66895646057,0,Why raise a hand?, Participate in class.,1
+2023,10,1,,,,,1.53389774254,,,,,40,1,,5,90,0,3,1,1.32541047976,0,Why turn a doorknob?, Enter a classroom.,1
+2023,11,2,,,,,2.89957852228,,,,,24,1,,5,90,0,3,1,1.48540059238,0,How to entertain others?, Write a song.,5
+2023,12,2,,,,,1.78634996579,,,,,37,1,,5,90,0,3,1,1.37735362917,0,How to make a donation?, Mix a cocktail.,5
+2023,13,1,,,,,1.17343955812,,,,,35,1,,5,90,0,3,1,1.22703275825,0,Why wash ones hands?, Kill germs.,1
+2023,14,2,,,,,1.72724577971,,,,,33,1,,5,90,0,3,1,4.65187460603,0,Why dial numbers?, Make a phone call.,1
+2023,15,1,,,,,1.82931721062,,,,,39,1,,5,90,0,3,1,4.35963090081,0,Why dress formally?, Get a promotion.,2
+2023,16,1,,,,,2.14130281543,,,,,30,1,,5,90,0,3,1,1.4493644555,0,Why drink wine?, Consume alcohol.,2
+2023,17,2,,,,,1.42728861189,,,,,25,1,,5,90,0,3,1,5.0902057947,0,How to prepare meals?, Follow recipes.,4
+2023,18,2,,,,,3.59132537174,,,,,36,1,,5,90,0,3,1,1.35261641774,0,How to write a poem?, Grab a pencil.,4
+2023,19,1,,,,,1.10918145496,,,,,20,1,,5,90,0,3,1,1.52061613045,0,How to reduce worry?, Plan ahead.,6
+2023,20,1,,,,,1.46409265938,,,,,28,1,,5,90,0,3,1,1.24563354481,0,How to live a long life?, Avoid diseases.,6
+2023,21,2,,,,,2.52120928666,,,,,22,1,,5,90,0,3,1,1.46928508312,0,Why entertain others?, Express a talent.,3
+2023,22,2,,,,,1.66238045199,,,,,24,1,,5,90,0,3,1,1.87362328033,0,Why share ideas?, Show intellect.,3
+2023,23,1,,,,,6.2851800624,,,,,21,1,,5,90,0,3,1,1.41506950498,0,How to entertain oneself?, Watch television.,5
+2023,24,2,,,,,1.49981237008,,,,,40,1,,5,90,0,3,1,2.01078242579,0,How to contact a friend?, Make a phone call.,5
+2023,25,2,,,,,4.04202861639,,,,,36,1,,5,90,0,3,1,1.42078672721,0,How to teach others?, Give a lecture.,5
+2023,26,2,,,,,1.16196663602,,,,,26,1,,5,90,0,3,1,1.36592885742,0,How to provide food?, Prepare meals.,5
+2023,27,1,,,,,1.44992423406,,,,,33,1,,5,90,0,3,1,1.58915648187,0,Why reduce pain?, Feel well.,3
+2023,28,1,,,,,1.21745924013,,,,,37,1,,5,90,0,3,1,1.89487059725,0,Why plan ahead?, Reduce worry.,3
+2023,29,1,,,,,1.32535465962,,,,,28,1,,5,90,0,3,1,1.50499560268,0,How to clip coupons?, Cut paper.,4
+2023,30,1,,,,,2.56921881334,,,,,35,1,,5,90,0,3,1,2.04963188718,1,How to participate in class?, Raise a hand.,4
+2023,31,2,,,,,1.25030680525,,,,,30,1,,5,90,0,3,1,2.65406650516,0,Why open a bottle?, Consume medicine.,1
+2023,32,2,,,,,1.49063972278,,,,,20,1,,5,90,0,3,1,1.31031486806,0,Why open a magazine?, Read articles.,1
+2023,33,1,,,,,1.3072273678,,,,,29,1,,5,90,0,3,1,1.17138811472,0,How to feel connected?, Contact a friend.,6
+2023,34,1,,,,,2.09455278966,,,,,32,1,,5,90,0,3,1,1.23347739737,0,How to spread knowledge?, Teach others.,6
+2023,35,2,,,,,1.23894535511,,,,,23,1,,5,90,0,3,1,1.45536129044,0,Why lift weights?, Build muscles.,2
+2023,36,2,,,,,1.19015615596,,,,,38,1,,5,90,0,3,1,1.67208529848,0,Why kill germs?, Avoid diseases.,2

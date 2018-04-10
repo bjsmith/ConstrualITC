@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2069,1,R,,,,,0.979816000148,,,,,28,1,,5,90,0,3,3,0.579957041937,0,Why lift a glass?, Drink wine.,1
+2069,2,L,,,,,6.63010385027,,,,,37,1,,5,90,0,3,3,1.56028274092,2,Why open a magazine?, Read articles.,1
+2069,3,R,,,,,0.55752361904,,,,,21,1,,5,90,0,3,3,0.757513499814,1,Why make breakfast?, Satisfy hunger.,2
+2069,4,L,,,,,0.666898745936,,,,,38,1,,5,90,0,3,3,0.508580684593,3,Why clip coupons?, Save money.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2185,1,L,,,,,2.38478002591,,,,,39,1,,5,90,0,2,3,0.927026418916,3,How to achieve success?, Get a promotion.,6
+2185,2,R,,,,,1.01988515953,,,,,35,1,,5,90,0,2,3,0.895888069926,0,How to spread joy?, Get a job.,6
+2185,3,R,,,,,0.501701741001,,,,,25,1,,5,90,0,2,3,0.884261823349,1,Why sign ones name?, Write a check.,1
+2185,4,L,,,,,4.90412022194,,,,,24,1,,5,90,0,2,3,0.735261145184,2,Why click a mouse?, Open a browser.,1

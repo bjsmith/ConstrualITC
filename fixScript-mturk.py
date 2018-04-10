@@ -1,6 +1,6 @@
 import re
-script_to_fix_filepath='/Users/benjaminsmith/GDrive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html/index.html'
-find_replace_location='/Users/benjaminsmith/GDrive/neural-construal-level/code/SmithAdaptConstrualITC/replacer/'
+script_to_fix_filepath='/Users/benjaminsmith/Google Drive/neural-construal-level/code/SmithAdaptConstrualITCmTurk/html/index.html'
+find_replace_location='/Users/benjaminsmith/Google Drive/neural-construal-level/code/SmithAdaptConstrualITC/replacer/'
 script_text=open(script_to_fix_filepath).read()
 
 find_replace_list=[['find'+str.zfill(str(i),2)+'.txt','replace'+str.zfill(str(i),2)+'.txt'] for i in range(1,14+1) ]

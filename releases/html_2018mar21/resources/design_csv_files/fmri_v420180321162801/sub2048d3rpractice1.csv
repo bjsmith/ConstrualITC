@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2048,1,L,,,,,3.0006424574,,,,25,30,1,,5,,1,3,3,0.56754321216,1,How to lift weights?, Fasten seatbelt.,4
+2048,2,R,,,,,2.27183632258,,,,25,30,1,,9,,1,3,3,1.36072970947,2,How to mix a cocktail?, Stir ingredients.,4
+2048,3,R,,,,,0.976514081423,,,,25,30,1,,2,,1,3,3,1.62173407431,0,How to feel nostalgia?, Keep a memory.,6
+2048,4,L,,,,,2.65952340636,,,,25,30,1,,7,,1,3,3,0.674914049211,3,How to feel sociable?, Hold a party.,6

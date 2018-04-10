@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2078,1,L,,,,,1.43793387719,,,,,40,1,,5,90,0,1,4,0.628266953057,9,Why use a remote?, Watch television.,1
+2078,2,R,,,,,2.20802157112,,,,,34,1,,5,90,0,1,4,0.671755906421,8,Why wash ones hands?, Kill germs.,1
+2078,3,L,,,,,3.45609735762,,,,,28,1,,5,90,0,1,4,0.903445683013,7,How to make a purchase?, Go shopping.,5
+2078,4,R,,,,,2.90425779557,,,,,32,1,,5,90,0,1,4,0.696227134979,5,How to avoid diseases?, Kill germs.,5
+2078,5,R,,,,,1.90113624087,,,,,29,1,,5,90,0,1,4,1.37975735816,4,How to satisfy a need?, Make a purchase.,6
+2078,6,L,,,,,0.558324805252,,,,,31,1,,5,90,0,1,4,0.725883752225,10,How to show intellect?, Share ideas.,6
+2078,7,L,,,,,3.59560652579,,,,,25,1,,5,90,0,1,4,1.33038897441,2,Why show intelligence?, Impress others.,3
+2078,8,R,,,,,2.98673344368,,,,,30,1,,5,90,0,1,4,0.519742208962,0,Why make a purchase?, Satisfy a need.,3
+2078,9,R,,,,,0.815289220371,,,,,23,1,,5,90,0,1,4,0.87709211528,11,How to write a song?, Play piano.,4
+2078,10,R,,,,,2.41311198921,,,,,37,1,,5,90,0,1,4,0.98936889102,6,How to kill germs?, Wash ones hands.,4
+2078,11,L,,,,,1.87583747012,,,,,39,1,,5,90,0,1,4,0.837634135105,1,Why make breakfast?, Satisfy hunger.,2
+2078,12,L,,,,,0.689844613387,,,,,21,1,,5,90,0,1,4,1.60777127633,3,Why dress formally?, Get a promotion.,2

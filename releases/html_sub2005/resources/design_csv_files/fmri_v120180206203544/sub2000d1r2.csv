@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2000,1,2,,,,,3.45225873173,,,,,30,1,,5,90,0,1,2,0.67611133243,0,Why stir ingredients?, Mix a cocktail.,1
+2000,2,1,,,,,2.93520234858,,,,,27,1,,5,90,0,1,2,0.518888321921,0,How to feel well?, Reduce pain.,6
+2000,3,2,,,,,1.33247051739,,,,,31,1,,5,90,0,1,2,2.36364386622,0,Why kill germs?, Avoid diseases.,2
+2000,4,1,,,,,1.6708663758,,,,,28,1,,5,90,0,1,2,1.06851341863,0,How to participate in class?, Raise a hand.,4
+2000,5,1,,,,,1.67021929093,,,,,33,1,,5,90,0,1,2,0.942739104262,0,Why share ideas?, Show intellect.,3
+2000,6,2,,,,,1.08710921999,,,,,35,1,,5,90,0,1,2,0.856583330599,0,How to write an email?, Open a browser.,5
+2000,7,2,,,,,1.43944954016,,,,,24,1,,5,90,0,1,2,1.07544027309,0,How to express doubt?, Use scissors.,5
+2000,8,1,,,,,5.99682835113,,,,,38,1,,5,90,0,1,2,0.880291050484,0,How to feel nostalgia?, Keep a memory.,6
+2000,9,1,,,,,2.49590851778,,,,,29,1,,5,90,0,1,2,1.21640049787,0,Why lift a glass?, Drink wine.,1
+2000,10,2,,,,,4.39050679747,,,,,39,1,,5,90,0,1,2,1.59786177984,0,How to go shopping?, Use credit cards.,4
+2000,11,2,,,,,0.530314159483,,,,,34,1,,5,90,0,1,2,1.10268499122,0,Why gain knowledge?, Improve oneself.,3
+2000,12,1,,,,,1.19364478982,,,,,21,1,,5,90,0,1,2,1.77324007865,0,Why open a browser?, Write an email.,2
+2000,13,2,,,,,1.15133499757,,,,,25,1,,5,90,0,1,2,0.581040976907,0,How to attend a school?, Enter a classroom.,5
+2000,14,2,,,,,0.602488941234,,,,,20,1,,5,90,0,1,2,0.545475728288,0,Why make a phone call?, Contact a friend.,2
+2000,15,2,,,,,0.801488315498,,,,,32,1,,5,90,0,1,2,0.630783675312,0,Why use credit cards?, Go shopping.,1
+2000,16,1,,,,,3.82726619656,,,,,40,1,,5,90,0,1,2,1.17592580567,0,How to feel connected?, Contact a friend.,6
+2000,17,2,,,,,1.96984986815,,,,,26,1,,5,90,0,1,2,1.38663928306,0,How to prepare meals?, Follow recipes.,4
+2000,18,2,,,,,1.26014526218,,,,,36,1,,5,90,0,1,2,1.51774523881,0,Why entertain others?, Express a talent.,3
+2000,19,2,,,,,1.48098078765,,,,,22,1,,5,90,0,1,2,1.13459084134,0,Why teach a class?, Obey laws.,2
+2000,20,1,,,,,1.64647745715,,,,,37,1,,5,90,0,1,2,0.740760237996,0,Why crack eggs?, Make breakfast.,1
+2000,21,2,,,,,0.522759874443,,,,,28,1,,5,90,0,1,2,0.88449149025,0,How to contact a friend?, Make a phone call.,5
+2000,22,1,,,,,1.08094022252,,,,,38,1,,5,90,0,1,2,0.748377566654,0,How to dress formally?, Wear ties. ,4
+2000,23,1,,,,,2.90036650227,,,,,22,1,,5,90,0,1,2,0.737404303898,0,Why satisfy hunger?, Show an ability.,3
+2000,24,1,,,,,0.999043841394,,,,,40,1,,5,90,0,1,2,0.789822145388,0,How to avoid boredom?, Entertain oneself.,6
+2000,25,2,,,,,1.41178996507,,,,,21,1,,5,90,0,1,2,1.22434290197,0,Why get a promotion?, Achieve success.,3
+2000,26,1,,,,,3.27748981678,,,,,20,1,,5,90,0,1,2,0.802927774063,1,How to spread joy?, Get a job.,6
+2000,27,2,,,,,0.578085385043,,,,,25,1,,5,90,0,1,2,1.26558751879,0,Why open a magazine?, Read articles.,1
+2000,28,1,,,,,4.95622548276,,,,,33,1,,5,90,0,1,2,0.728380087885,0,How to give to charity?, Use a camera.,5
+2000,29,2,,,,,4.73178194482,,,,,35,1,,5,90,0,1,2,2.44227491985,0,How to open a browser?, Click a mouse.,4
+2000,30,2,,,,,1.75384624491,,,,,24,1,,5,90,0,1,2,0.920383429155,0,Why paint a picture?, Make art.,2
+2000,31,1,,,,,1.35207175127,,,,,36,1,,5,90,0,1,2,0.65282589849,0,How to write a poem?, Grab a pencil.,4
+2000,32,2,,,,,3.03154585932,,,,,23,1,,5,90,0,1,2,0.57909124969,0,Why hold a party?, Feel sociable.,3
+2000,33,1,,,,,2.31067181216,,,,,32,1,,5,90,0,1,2,1.26623197858,0,How to live a long life?, Avoid diseases.,6
+2000,34,1,,,,,1.54015121523,,,,,39,1,,5,90,0,1,2,0.697072098856,0,How to make a donation?, Mix a cocktail.,5
+2000,35,1,,,,,1.40402097963,,,,,31,1,,5,90,0,1,2,0.563363530951,0,Why open a bottle?, Consume medicine.,1
+2000,36,1,,,,,1.9724050181,,,,,37,1,,5,90,0,1,2,0.857853079526,0,Why participate in class?, Show intelligence.,2
+2000,37,2,,,,,1.8582694322,,,,,27,1,,5,90,0,1,2,0.54114619667,0,How to clip coupons?, Cut paper.,4
+2000,38,2,,,,,1.09424460554,,,,,26,1,,5,90,0,1,2,1.3021067125,0,Why lift weights?, Build muscles.,2
+2000,39,1,,,,,0.746987433707,,,,,29,1,,5,90,0,1,2,1.0315179788,0,How to feel secure?, Save money.,6
+2000,40,1,,,,,0.632103548811,,,,,30,1,,5,90,0,1,2,0.705351479969,0,How to make a purchase?, Go shopping.,5

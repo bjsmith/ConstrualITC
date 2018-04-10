@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2005,1,L,,,,,1.06995992669,,,,,35,1,,5,90,0,1,3,0.657259751265,4,Why crack eggs?, Make breakfast.,1
+2005,2,R,,,,,0.605940013741,,,,,39,1,,5,90,0,1,3,0.613250227906,5,Why sign ones name?, Write a check.,1
+2005,3,R,,,,,2.90385931932,,,,,24,1,,5,90,0,1,3,0.560869916549,9,Why consume medicine?, Reduce pain.,2
+2005,4,L,,,,,2.00125248208,,,,,23,1,,5,90,0,1,3,1.30894436702,8,Why give a lecture?, Teach others.,2
+2005,5,R,,,,,1.02776534511,,,,,26,1,,5,90,0,1,3,0.553005055094,3,How to attend a school?, Enter a classroom.,5
+2005,6,L,,,,,2.00039885048,,,,,28,1,,5,90,0,1,3,0.510533447166,11,How to get a promotion?, Arrive on time.,5
+2005,7,R,,,,,1.64288548449,,,,,27,1,,5,90,0,1,3,1.77591699966,6,How to spread joy?, Get a job.,6
+2005,8,R,,,,,2.22478968473,,,,,40,1,,5,90,0,1,3,0.707003490031,0,How to feel productive?, Finish a job.,6
+2005,9,L,,,,,1.97332124585,,,,,29,1,,5,90,0,1,3,1.36734311426,7,Why finish a job?, Feel productive.,3
+2005,10,R,,,,,2.00487175701,,,,,31,1,,5,90,0,1,3,1.24809072578,2,Why make a purchase?, Satisfy a need.,3
+2005,11,L,,,,,1.24199468492,,,,,20,1,,5,90,0,1,3,1.91116359776,1,How to write a song?, Play piano.,4
+2005,12,L,,,,,4.64642385223,,,,,37,1,,5,90,0,1,3,1.21813832509,10,How to read articles?, Open a magazine.,4

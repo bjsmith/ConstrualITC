@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2087,1,R,,,,,2.27723147673,,,,,30,1,,5,90,0,2,3,1.57897577631,1,Why use a camera?, Give to charity.,2
+2087,2,L,,,,,2.98321131842,,,,,36,1,,5,90,0,2,3,0.962837220171,0,Why lift weights?, Build muscles.,2
+2087,3,R,,,,,1.38241362322,,,,,37,1,,5,90,0,2,3,0.958285544858,2,How to reduce worry?, Plan ahead.,6
+2087,4,L,,,,,0.662992245167,,,,,22,1,,5,90,0,2,3,0.675271167598,3,How to get a degree?, Attend a school.,6

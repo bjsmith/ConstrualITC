@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,1,,,,,5.15034111397,,,,,23,1,,5,90,0,3,3,0.5385246349,0,Why dial numbers?, Make a phone call.,1
+2001,2,1,,,,,1.86453314137,,,,,37,1,,5,90,0,3,3,2.41687755533,0,Why paint a picture?, Make art.,2
+2001,3,2,,,,,0.972608861634,,,,,35,1,,5,90,0,3,3,0.544075443719,0,How to feel sociable?, Hold a party.,6
+2001,4,2,,,,,0.640698865219,,,,,21,1,,5,90,0,3,3,0.614638389509,1,Why write an email?, Send a message.,3

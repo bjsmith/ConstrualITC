@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2006,1,2,,,,,1.26352451146,,,,,20,1,,5,90,0,2,4,0.744559313102,0,How to dress formally?, Wear ties. ,4
+2006,2,1,,,,,2.73769849017,,,,,34,1,,5,90,0,2,4,2.48433634706,0,How to lift weights?, Fasten seatbelt.,4
+2006,3,1,,,,,1.82726638294,,,,,26,1,,5,90,0,2,4,4.71082845736,1,Why raise a hand?, Participate in class.,1
+2006,4,2,,,,,2.34371515811,,,,,38,1,,5,90,0,2,4,0.948812296328,0,Why use credit cards?, Go shopping.,1

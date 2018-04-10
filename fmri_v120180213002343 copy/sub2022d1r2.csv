@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2022,1,2,,,,,2.33004294656,,,,,25,1,,5,90,0,1,2,3.73129196686,0,How to entertain others?, Write a song.,5
+2022,2,1,,,,,1.31814780926,,,,,35,1,,5,90,0,1,2,1.75044716844,0,How to show ambition?, Serve alcohol.,5
+2022,3,1,,,,,1.54766019832,,,,,37,1,,5,90,0,1,2,1.68154341863,0,Why clap hands?, Give applause.,1
+2022,4,1,,,,,3.27126577508,,,,,30,1,,5,90,0,1,2,1.65582180189,0,Why sign ones name?, Write a check.,1
+2022,5,2,,,,,2.05893428294,,,,,39,1,,5,90,0,1,2,2.13144515875,0,Why get a promotion?, Achieve success.,3
+2022,6,2,,,,,1.02858065225,,,,,34,1,,5,90,0,1,2,3.27657631272,0,Why write an email?, Send a message.,3
+2022,7,2,,,,,1.47882403022,,,,,22,1,,5,90,0,1,2,1.10111532381,0,Why take a picture?, Keep a memory.,2
+2022,8,1,,,,,5.54927884684,,,,,27,1,,5,90,0,1,2,1.05972137078,0,Why use a camera?, Give to charity.,2
+2022,9,1,,,,,2.29803162307,,,,,38,1,,5,90,0,1,2,4.34802030548,0,How to support a cause?, Give to charity.,6
+2022,10,1,,,,,1.38186224763,,,,,23,1,,5,90,0,1,2,1.15217147451,0,How to show creativity?, Make art.,6
+2022,11,2,,,,,1.42765497448,,,,,33,1,,5,90,0,1,2,1.23315978142,0,How to make breakfast?, Crack eggs.,4
+2022,12,1,,,,,1.11412092637,,,,,20,1,,5,90,0,1,2,1.23588476252,0,How to clip coupons?, Cut paper.,4
+2022,13,1,,,,,1.99042817223,,,,,31,1,,5,90,0,1,2,1.94535930083,0,Why use credit cards?, Go shopping.,1
+2022,14,1,,,,,2.61175099693,,,,,32,1,,5,90,0,1,2,3.78027061743,0,Why follow recipes?, Prepare meals.,1
+2022,15,2,,,,,3.49079070413,,,,,29,1,,5,90,0,1,2,1.6914415257,1,Why show intelligence?, Impress others.,3
+2022,16,2,,,,,2.69893108285,,,,,26,1,,5,90,0,1,2,2.07195191353,0,Why finish a job?, Feel productive.,3
+2022,17,2,,,,,1.9060533973,,,,,24,1,,5,90,0,1,2,1.8425389899,0,How to make a phone call?, Dial numbers.,4
+2022,18,1,,,,,1.35401943566,,,,,28,1,,5,90,0,1,2,3.38334891626,0,How to kill germs?, Wash ones hands.,4
+2022,19,1,,,,,1.19965178153,,,,,40,1,,5,90,0,1,2,3.05759123639,0,How to live a long life?, Avoid diseases.,6
+2022,20,1,,,,,3.67531362609,,,,,36,1,,5,90,0,1,2,1.1353770565,0,How to show intellect?, Share ideas.,6
+2022,21,2,,,,,1.34875076234,,,,,37,1,,5,90,0,1,2,2.81480854455,0,Why kill germs?, Avoid diseases.,2
+2022,22,2,,,,,1.06334827934,,,,,22,1,,5,90,0,1,2,1.84349650289,0,Why participate in class?, Show intelligence.,2
+2022,23,2,,,,,2.09995110993,,,,,33,1,,5,90,0,1,2,1.9527394823,0,How to gain knowledge?, Read articles.,5
+2022,24,2,,,,,1.41352930123,,,,,21,1,,5,90,0,1,2,2.79990130297,0,How to make a donation?, Mix a cocktail.,5
+2022,25,1,,,,,4.67147413723,,,,,20,1,,5,90,0,1,2,1.07832672672,0,How to make art?, Paint a picture.,5
+2022,26,1,,,,,1.65441124534,,,,,30,1,,5,90,0,1,2,1.14467609996,0,How to satisfy hunger?, Make breakfast.,5
+2022,27,1,,,,,1.37771974785,,,,,34,1,,5,90,0,1,2,1.16222165397,0,Why avoid diseases?, Live a long life.,3
+2022,28,2,,,,,1.82653322608,,,,,32,1,,5,90,0,1,2,1.60277114492,0,Why satisfy hunger?, Show an ability.,3
+2022,29,2,,,,,1.02519162361,,,,,24,1,,5,90,0,1,2,2.02011847723,0,How to show cleanliness?, Write an email.,6
+2022,30,2,,,,,1.55857377566,,,,,31,1,,5,90,0,1,2,3.10414159421,0,How to show an ability?, Satisfy hunger.,6
+2022,31,2,,,,,2.80489121237,,,,,28,1,,5,90,0,1,2,1.06654723512,0,Why paint a picture?, Make art.,2
+2022,32,1,,,,,1.22182679468,,,,,35,1,,5,90,0,1,2,2.54917829062,0,Why give a lecture?, Teach others.,2
+2022,33,1,,,,,1.86993896699,,,,,25,1,,5,90,0,1,2,1.54266837934,0,Why click a mouse?, Open a browser.,1
+2022,34,2,,,,,1.38275191283,,,,,27,1,,5,90,0,1,2,1.26143393394,0,Why drink coffee?, Consume caffeine.,1
+2022,35,1,,,,,1.1713603101,,,,,40,1,,5,90,0,1,2,1.00758482468,0,How to consume medicine?, Take pills. ,4
+2022,36,2,,,,,1.18403501034,,,,,23,1,,5,90,0,1,2,1.20561854117,0,How to watch television?, Use a remote.,4

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2146,1,R,,,,,1.99120291091,,,,25,30,1,,7,,1,1,3,1.28028139358,8,How to make art?, Paint a picture.,5
+2146,2,R,,,,,3.70807593877,,,,25,30,1,,9,,1,1,3,0.720448265785,7,How to give to charity?, Use a camera.,5
+2146,3,L,,,,,1.29642362871,,,,25,30,1,,6,,1,1,3,1.53151070309,3,Why teach a class?, Obey laws.,2
+2146,4,L,,,,,2.40504168113,,,,25,30,1,,1,,1,1,3,0.505139906429,6,Why write a song?, Seek advice.,2
+2146,5,R,,,,,2.65915698307,,,,25,30,1,,4,,1,1,3,1.83713957515,5,How to spread knowledge?, Teach others.,6
+2146,6,R,,,,,0.749327355975,,,,25,30,1,,8,,1,1,3,0.574784010815,11,How to feel connected?, Contact a friend.,6
+2146,7,R,,,,,2.40420816148,,,,25,30,1,,5,,1,1,3,0.841010404276,1,Why crack eggs?, Make breakfast.,1
+2146,8,L,,,,,0.742086221755,,,,25,30,1,,2,,1,1,3,0.925878740707,10,Why use a comb?, Write a song.,1
+2146,9,L,,,,,4.27982223939,,,,25,30,1,,3,,1,1,3,1.4110129498,2,How to make breakfast?, Crack eggs.,4
+2146,10,L,,,,,1.34474454443,,,,25,30,1,,2,,1,1,3,1.11369917501,0,How to give applause?, Clap hands.,4
+2146,11,R,,,,,0.708702558683,,,,25,30,1,,4,,1,1,3,0.501154331603,4,Why show intelligence?, Impress others.,3
+2146,12,L,,,,,1.6337188486,,,,25,30,1,,7,,1,1,3,0.980633563323,9,Why hold a party?, Feel sociable.,3

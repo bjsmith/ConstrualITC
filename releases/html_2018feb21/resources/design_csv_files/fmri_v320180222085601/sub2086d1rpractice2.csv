@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2086,1,L,,,,,1.86215501304,,,,,21,1,,5,90,0,1,4,0.617748013586,0,Why use a comb?, Write a song.,1
+2086,2,R,,,,,2.11633552083,,,,,38,1,,5,90,0,1,4,0.894055316072,8,Why wear ties?, Dress formally.,1
+2086,3,R,,,,,0.979617600326,,,,,20,1,,5,90,0,1,4,1.0824969604,11,How to feel sociable?, Hold a party.,6
+2086,4,L,,,,,1.87063085303,,,,,36,1,,5,90,0,1,4,1.7817421224,3,How to achieve success?, Get a promotion.,6
+2086,5,L,,,,,3.32239338605,,,,,33,1,,5,90,0,1,4,0.525458998081,6,How to reduce pain?, Consume medicine.,5
+2086,6,L,,,,,3.32721826405,,,,,35,1,,5,90,0,1,4,0.594241853374,4,How to teach others?, Give a lecture.,5
+2086,7,L,,,,,1.18528142243,,,,,27,1,,5,90,0,1,4,1.96329956851,9,Why plan ahead?, Reduce worry.,3
+2086,8,L,,,,,2.37220103176,,,,,34,1,,5,90,0,1,4,0.521668832096,10,Why provide food?, Help a person.,3
+2086,9,R,,,,,1.20705048551,,,,,28,1,,5,90,0,1,4,0.709344561521,7,How to go shopping?, Use credit cards.,4
+2086,10,R,,,,,0.647248318096,,,,,26,1,,5,90,0,1,4,0.848532893337,1,How to make a phone call?, Dial numbers.,4
+2086,11,R,,,,,0.727611855138,,,,,39,1,,5,90,0,1,4,1.49942148165,5,Why watch television?, Show competence.,2
+2086,12,R,,,,,4.44715895471,,,,,23,1,,5,90,0,1,4,1.51382003913,2,Why kill germs?, Avoid diseases.,2

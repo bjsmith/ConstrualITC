@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2143,1,L,,,,,0.739497041164,,,,,39,1,,5,90,0,3,3,0.740573358386,1,Why gain knowledge?, Improve oneself.,3
+2143,2,L,,,,,1.42826601322,,,,,22,1,,5,90,0,3,3,1.04958513497,0,Why show appreciation?, Spread joy.,3
+2143,3,R,,,,,1.53509321105,,,,,27,1,,5,90,0,3,3,1.89515891724,3,Why use a camera?, Give to charity.,2
+2143,4,R,,,,,3.66324213567,,,,,35,1,,5,90,0,3,3,0.559814959127,2,Why write a poem?, Express an idea.,2

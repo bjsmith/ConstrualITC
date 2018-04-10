@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2170,1,L,,,,,1.16688169985,,,,,27,1,,5,90,0,2,4,0.607652216305,3,How to make a phone call?, Dial numbers.,4
+2170,2,L,,,,,2.56983687976,,,,,22,1,,5,90,0,2,4,1.3236444026,1,How to take a picture?, Point a camera.,4
+2170,3,R,,,,,2.62438512978,,,,,32,1,,5,90,0,2,4,0.639988377146,0,Why give applause?, Show appreciation.,2
+2170,4,R,,,,,0.812554619772,,,,,35,1,,5,90,0,2,4,1.54322427526,2,Why take a picture?, Keep a memory.,2

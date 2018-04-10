@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2012,1,L,,,,,1.24167961384,,,,25,30,1,,1,,1,2,1,1.43905101046,44,How to express doubt?, Use scissors.,5
+2012,2,L,,,,,1.2099739017,,,,25,30,1,,5,,1,2,1,1.08240168273,1,How to show intelligence?, Participate in class.,5
+2012,3,L,,,,,3.10692343655,,,,25,30,1,,4,,1,2,1,1.82634080639,52,How to improve oneself?, Gain knowledge.,6
+2012,4,R,,,,,1.39152369951,,,,25,30,1,,2,,1,2,1,1.85652333076,37,How to get a degree?, Attend a school.,6
+2012,5,R,,,,,1.19612693414,,,,25,30,1,,8,,1,2,1,1.03536494741,12,How to watch television?, Use a remote.,4
+2012,6,R,,,,,2.19822302815,,,,25,30,1,,6,,1,2,1,3.41708733236,18,How to open a browser?, Click a mouse.,4
+2012,7,L,,,,,1.42419024925,,,,25,30,1,,7,,1,2,1,1.90984200162,4,Why watch television?, Show competence.,2
+2012,8,L,,,,,1.06346728104,,,,25,30,1,,3,,1,2,1,1.12205995575,22,Why lift weights?, Build muscles.,2
+2012,9,L,,,,,2.67469288056,,,,25,30,1,,6,,1,2,1,3.80652332209,32,Why avoid diseases?, Live a long life.,3
+2012,10,R,,,,,1.50693919424,,,,25,30,1,,2,,1,2,1,1.03732646183,0,Why attend a school?, Get a degree.,3
+2012,11,R,,,,,1.20225762754,,,,25,30,1,,4,,1,2,1,2.23986791826,15,Why crack eggs?, Make breakfast.,1
+2012,12,L,,,,,1.64318136137,,,,25,30,1,,3,,1,2,1,4.26166295705,46,Why drink coffee?, Consume caffeine.,1
+2012,13,R,,,,,1.24646815534,,,,25,30,1,,9,,1,2,1,2.64956702292,3,Why show competence?, Pass the time.,3
+2012,14,R,,,,,4.31288186007,,,,25,30,1,,5,,1,2,1,1.77427471483,20,Why entertain others?, Express a talent.,3
+2012,15,R,,,,,1.90867871175,,,,25,30,1,,7,,1,2,1,1.2544816,24,How to spread knowledge?, Teach others.,6
+2012,16,L,,,,,2.56802138551,,,,25,30,1,,1,,1,2,1,2.57445194988,36,How to reduce worry?, Plan ahead.,6
+2012,17,R,,,,,2.74481983027,,,,25,30,1,,7,,1,2,1,1.22857293578,34,How to consume alcohol?, Drink wine.,5
+2012,18,L,,,,,1.53296854979,,,,25,30,1,,4,,1,2,1,1.85268886344,41,How to gain knowledge?, Read articles.,5
+2012,19,R,,,,,1.96321380951,,,,25,30,1,,2,,1,2,1,1.60462192414,5,Why use a comb?, Write a song.,1
+2012,20,L,,,,,1.22376365584,,,,25,30,1,,8,,1,2,1,2.70595485598,26,Why use a brush?, Paint a picture.,1
+2012,21,R,,,,,2.93683722749,,,,25,30,1,,1,,1,2,1,2.62047614414,10,Why consume caffeine?, Stay alert.,2
+2012,22,R,,,,,1.9509331314,,,,25,30,1,,9,,1,2,1,2.18635434343,17,Why give a lecture?, Teach others.,2
+2012,23,L,,,,,2.57824089534,,,,25,30,1,,6,,1,2,1,2.18553897488,19,How to paint a picture?, Use a brush.,4
+2012,24,L,,,,,3.48457361469,,,,25,30,1,,5,,1,2,1,1.0639301374,9,How to write a song?, Play piano.,4
+2012,25,R,,,,,1.83479898203,,,,25,30,1,,2,,1,2,1,1.53052723623,8,How to drink wine?, Open a bottle. ,4
+2012,26,R,,,,,1.27150654784,,,,25,30,1,,5,,1,2,1,1.47099757653,48,How to make a phone call?, Dial numbers.,4
+2012,27,L,,,,,2.95305088392,,,,25,30,1,,6,,1,2,1,2.4861630585,7,Why give to charity?, Support a cause.,3
+2012,28,L,,,,,1.11717633926,,,,25,30,1,,3,,1,2,1,2.48277887673,21,Why contact a friend?, Feel connected.,3
+2012,29,L,,,,,1.42566126606,,,,25,30,1,,7,,1,2,1,1.68987760491,56,Why clap hands?, Give applause.,1
+2012,30,R,,,,,2.61601074682,,,,25,30,1,,8,,1,2,1,1.06191045618,29,Why sign ones name?, Write a check.,1
+2012,31,R,,,,,1.9542392409,,,,25,30,1,,9,,1,2,1,1.10841803492,51,How to spread joy?, Get a job.,6
+2012,32,R,,,,,1.4874670565,,,,25,30,1,,1,,1,2,1,2.16996453774,50,How to feel well?, Reduce pain.,6
+2012,33,R,,,,,1.65127435634,,,,25,30,1,,3,,1,2,1,2.56358568482,55,Why use a camera?, Give to charity.,2
+2012,34,L,,,,,2.12466421683,,,,25,30,1,,9,,1,2,1,3.85875869651,47,Why make breakfast?, Satisfy hunger.,2
+2012,35,L,,,,,3.51498723253,,,,25,30,1,,7,,1,2,1,1.2331218147,16,How to get a promotion?, Arrive on time.,5
+2012,36,L,,,,,1.77404897328,,,,25,30,1,,4,,1,2,1,1.63976208749,30,How to show appreciation?, Give applause.,5
+2012,37,R,,,,,2.26204577013,,,,25,30,1,,2,,1,2,1,1.19415747503,13,Why make a phone call?, Contact a friend.,2
+2012,38,L,,,,,2.64196154498,,,,25,30,1,,5,,1,2,1,1.46714939178,53,Why paint a picture?, Make art.,2
+2012,39,R,,,,,1.15380958926,,,,25,30,1,,6,,1,2,1,2.31304400498,54,Why dial numbers?, Make a phone call.,1
+2012,40,L,,,,,2.97915586703,,,,25,30,1,,8,,1,2,1,4.11835731948,2,Why wear ties?, Dress formally.,1
+2012,41,R,,,,,1.51398346667,,,,25,30,1,,7,,1,2,1,1.72967216004,31,Why provide food?, Help a person.,3
+2012,42,L,,,,,1.81999795229,,,,25,30,1,,3,,1,2,1,1.12798601741,25,Why satisfy hunger?, Show an ability.,3
+2012,43,L,,,,,2.88122216341,,,,25,30,1,,6,,1,2,1,3.07508026428,14,How to consume medicine?, Take pills. ,4
+2012,44,L,,,,,1.99267216489,,,,25,30,1,,2,,1,2,1,1.86474186188,6,How to make breakfast?, Crack eggs.,4
+2012,45,L,,,,,1.24100106146,,,,25,30,1,,8,,1,2,1,1.01723963927,35,How to teach others?, Give a lecture.,5
+2012,46,R,,,,,1.36154700846,,,,25,30,1,,4,,1,2,1,1.37259220899,39,How to build muscles?, Lift weights.,5
+2012,47,R,,,,,1.23677898788,,,,25,30,1,,9,,1,2,1,2.89301957739,33,How to live a long life?, Avoid diseases.,6
+2012,48,R,,,,,2.44144534392,,,,25,30,1,,1,,1,2,1,1.87732481083,27,How to feel productive?, Finish a job.,6
+2012,49,R,,,,,1.81185475639,,,,25,30,1,,5,,1,2,1,3.58604285857,58,Why cut paper?, Clip coupons.,1
+2012,50,R,,,,,1.94161783508,,,,25,30,1,,1,,1,2,1,2.40141177151,57,Why take aspirin?, Serve alcohol.,1
+2012,51,R,,,,,1.59913012957,,,,25,30,1,,2,,1,2,1,1.11195524816,45,How to contact a friend?, Make a phone call.,5
+2012,52,L,,,,,1.55987157339,,,,25,30,1,,4,,1,2,1,2.78289921903,23,How to give to charity?, Use a camera.,5
+2012,53,L,,,,,2.14454121413,,,,25,30,1,,3,,1,2,1,1.27666797124,28,How to show cleanliness?, Write an email.,6
+2012,54,L,,,,,3.28849030412,,,,25,30,1,,6,,1,2,1,1.41826543163,49,How to show an ability?, Satisfy hunger.,6
+2012,55,R,,,,,1.32881847842,,,,25,30,1,,9,,1,2,1,1.58783452992,59,Why kill germs?, Avoid diseases.,2
+2012,56,R,,,,,3.20065423575,,,,25,30,1,,8,,1,2,1,1.66982182703,43,Why dress formally?, Get a promotion.,2
+2012,57,L,,,,,1.36120355003,,,,25,30,1,,2,,1,2,1,1.60183996602,11,Why reduce pain?, Feel well.,3
+2012,58,L,,,,,1.71898712047,,,,25,30,1,,7,,1,2,1,1.97012937732,40,Why get a promotion?, Achieve success.,3
+2012,59,R,,,,,2.5950024471,,,,25,30,1,,1,,1,2,1,3.70122315197,42,How to take a picture?, Point a camera.,4
+2012,60,L,,,,,2.35819095929,,,,25,30,1,,5,,1,2,1,1.20248058603,38,How to go shopping?, Use credit cards.,4

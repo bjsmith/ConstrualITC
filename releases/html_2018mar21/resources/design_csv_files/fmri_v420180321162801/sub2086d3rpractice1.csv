@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2086,1,L,,,,,0.598708648064,,,,25,30,1,,7,,1,3,3,0.688813855486,2,How to impress others?, Show intelligence.,6
+2086,2,R,,,,,2.31466214073,,,,25,30,1,,4,,1,3,3,0.649587931741,3,How to feel well?, Reduce pain.,6
+2086,3,L,,,,,2.51680710646,,,,25,30,1,,2,,1,3,3,1.1116429252,0,How to give applause?, Clap hands.,4
+2086,4,R,,,,,2.11226332281,,,,25,30,1,,6,,1,3,3,0.634479149097,1,How to consume caffeine?, Press buttons.,4

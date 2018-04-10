@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2169,1,R,,,,,0.7205881705,,,,,33,1,,5,90,0,1,3,0.864934385718,7,How to avoid boredom?, Entertain oneself.,6
+2169,2,R,,,,,0.68497005854,,,,,28,1,,5,90,0,1,3,0.551777813071,1,How to spread joy?, Get a job.,6
+2169,3,L,,,,,0.914387903284,,,,,29,1,,5,90,0,1,3,0.680920246447,6,Why dress formally?, Get a promotion.,2
+2169,4,L,,,,,3.74756987664,,,,,20,1,,5,90,0,1,3,0.877460170637,5,Why drink wine?, Consume alcohol.,2
+2169,5,L,,,,,4.36048526949,,,,,36,1,,5,90,0,1,3,0.520941150624,3,Why clap hands?, Give applause.,1
+2169,6,R,,,,,4.85691816995,,,,,32,1,,5,90,0,1,3,0.643057827505,2,Why throw away trash?, Make a list.,1
+2169,7,R,,,,,2.37017044991,,,,,35,1,,5,90,0,1,3,1.59457071089,9,How to make a list?, Throw away trash.,4
+2169,8,L,,,,,0.802393722954,,,,,23,1,,5,90,0,1,3,2.03502443283,4,How to consume medicine?, Take pills. ,4
+2169,9,L,,,,,0.683508292187,,,,,39,1,,5,90,0,1,3,0.999571267055,10,Why build muscles?, Show humility.,3
+2169,10,R,,,,,0.849478080106,,,,,26,1,,5,90,0,1,3,1.03880694386,0,Why get a promotion?, Achieve success.,3
+2169,11,L,,,,,2.44254569752,,,,,24,1,,5,90,0,1,3,1.16274957702,11,How to write an email?, Open a browser.,5
+2169,12,R,,,,,1.77137733229,,,,,22,1,,5,90,0,1,3,0.692719806646,8,How to satisfy hunger?, Make breakfast.,5

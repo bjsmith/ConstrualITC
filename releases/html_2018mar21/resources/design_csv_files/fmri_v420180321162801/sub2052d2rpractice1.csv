@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2052,1,R,,,,,0.73266592066,,,,25,30,1,,9,,1,2,3,1.54045382862,1,How to lift weights?, Fasten seatbelt.,4
+2052,2,L,,,,,1.06211208906,,,,25,30,1,,1,,1,2,3,0.572276688449,2,How to open a browser?, Click a mouse.,4
+2052,3,R,,,,,2.19455642252,,,,25,30,1,,8,,1,2,3,1.38674217618,3,How to get a degree?, Attend a school.,6
+2052,4,L,,,,,3.67587597272,,,,25,30,1,,3,,1,2,3,0.544836406865,0,How to feel nostalgia?, Keep a memory.,6

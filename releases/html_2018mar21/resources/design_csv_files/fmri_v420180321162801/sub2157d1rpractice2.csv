@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2157,1,R,,,,,1.51932093334,,,,25,30,1,,1,,1,1,4,2.23517739116,4,Why drink wine?, Consume alcohol.,2
+2157,2,R,,,,,1.04527148296,,,,25,30,1,,5,,1,1,4,0.935027960815,0,Why use a camera?, Give to charity.,2
+2157,3,L,,,,,1.53423552653,,,,25,30,1,,7,,1,1,4,0.814259553011,9,How to write a song?, Play piano.,4
+2157,4,R,,,,,5.02192981184,,,,25,30,1,,2,,1,1,4,0.593441109637,6,How to read articles?, Open a magazine.,4
+2157,5,R,,,,,1.5378938269,,,,25,30,1,,3,,1,1,4,1.41741881146,7,How to provide food?, Prepare meals.,5
+2157,6,L,,,,,1.40580491326,,,,25,30,1,,9,,1,1,4,1.01472567845,5,How to show ambition?, Serve alcohol.,5
+2157,7,R,,,,,1.93374222478,,,,25,30,1,,6,,1,1,4,1.39804967426,11,Why make a purchase?, Satisfy a need.,3
+2157,8,L,,,,,1.50750250375,,,,25,30,1,,4,,1,1,4,0.78116127981,3,Why build muscles?, Show humility.,3
+2157,9,R,,,,,1.66211254294,,,,25,30,1,,9,,1,1,4,0.500578112382,2,How to feel well?, Reduce pain.,6
+2157,10,L,,,,,1.65827886818,,,,25,30,1,,4,,1,1,4,0.591864850967,10,How to express a talent?, Entertain others.,6
+2157,11,L,,,,,3.32112087922,,,,25,30,1,,3,,1,1,4,1.48919969897,8,Why wear ties?, Dress formally.,1
+2157,12,L,,,,,2.21511866597,,,,25,30,1,,6,,1,1,4,0.636278956357,1,Why open a magazine?, Read articles.,1

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2070,1,R,,,,,0.982305815939,,,,25,30,1,,9,,1,2,3,0.889755215417,3,Why show intelligence?, Impress others.,3
+2070,2,R,,,,,3.6197797594,,,,25,30,1,,4,,1,2,3,0.846822938069,1,Why give to charity?, Support a cause.,3
+2070,3,L,,,,,1.5963302623,,,,25,30,1,,3,,1,2,3,1.04839786751,0,Why consume medicine?, Reduce pain.,2
+2070,4,L,,,,,0.859416702703,,,,25,30,1,,5,,1,2,3,0.843088644273,2,Why make a phone call?, Contact a friend.,2

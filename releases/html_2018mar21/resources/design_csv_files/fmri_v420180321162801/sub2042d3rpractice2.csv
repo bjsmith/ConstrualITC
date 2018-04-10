@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2042,1,L,,,,,1.50264576152,,,,,23,1,,5,90,0,3,4,1.77043142229,1,How to paint a picture?, Use a brush.,4
+2042,2,L,,,,,1.11645170464,,,,,27,1,,5,90,0,3,4,0.958952405172,2,How to clip coupons?, Cut paper.,4
+2042,3,R,,,,,3.96567788545,,,,,38,1,,5,90,0,3,4,0.747973447042,3,Why satisfy hunger?, Show an ability.,3
+2042,4,R,,,,,1.85845618597,,,,,34,1,,5,90,0,3,4,0.599919721052,0,Why make art?, Show creativity.,3

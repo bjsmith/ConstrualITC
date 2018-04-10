@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2045,1,R,,,,,1.91744955749,,,,,31,1,,5,90,0,2,3,1.03418765066,1,Why sign ones name?, Write a check.,1
+2045,2,L,,,,,2.13724830886,,,,,40,1,,5,90,0,2,3,0.894866907672,0,Why use a remote?, Watch television.,1
+2045,3,L,,,,,2.32124218682,,,,,34,1,,5,90,0,2,3,0.61776184448,2,Why share ideas?, Show intellect.,3
+2045,4,R,,,,,0.891802703266,,,,,20,1,,5,90,0,2,3,0.574718102019,3,Why reduce pain?, Feel well.,3

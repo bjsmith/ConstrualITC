@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2172,1,L,,,,,1.07870070094,,,,,24,1,,5,90,0,2,4,0.679744074492,3,How to clip coupons?, Cut paper.,4
+2172,2,R,,,,,1.07816373271,,,,,35,1,,5,90,0,2,4,0.529323199859,2,How to watch television?, Use a remote.,4
+2172,3,L,,,,,2.07632281145,,,,,39,1,,5,90,0,2,4,0.907776489271,1,Why use a remote?, Watch television.,1
+2172,4,R,,,,,3.29528019762,,,,,20,1,,5,90,0,2,4,1.02470285219,0,Why take aspirin?, Serve alcohol.,1

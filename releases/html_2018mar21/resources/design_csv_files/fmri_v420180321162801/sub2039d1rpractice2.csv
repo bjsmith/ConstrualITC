@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2039,1,L,,,,,1.34543687382,,,,25,30,1,,2,,1,1,4,1.62028495984,8,Why point a camera?, Take a picture.,1
+2039,2,R,,,,,2.11602368116,,,,25,30,1,,3,,1,1,4,2.38244293385,7,Why sign ones name?, Write a check.,1
+2039,3,R,,,,,2.16785064779,,,,25,30,1,,8,,1,1,4,0.590062477228,11,Why contact a friend?, Feel connected.,3
+2039,4,L,,,,,1.7584097825,,,,25,30,1,,4,,1,1,4,1.31518864958,0,Why share ideas?, Show intellect.,3
+2039,5,R,,,,,0.596265317937,,,,25,30,1,,7,,1,1,4,0.56447794614,6,How to paint a picture?, Use a brush.,4
+2039,6,L,,,,,2.65141014909,,,,25,30,1,,6,,1,1,4,0.641705713194,10,How to participate in class?, Raise a hand.,4
+2039,7,R,,,,,3.46260159174,,,,25,30,1,,9,,1,1,4,0.565002204547,1,How to make a donation?, Mix a cocktail.,5
+2039,8,R,,,,,2.67834324628,,,,25,30,1,,5,,1,1,4,1.23245807909,5,How to show intelligence?, Participate in class.,5
+2039,9,L,,,,,1.04119366974,,,,25,30,1,,7,,1,1,4,0.525486430496,4,How to reduce worry?, Plan ahead.,6
+2039,10,R,,,,,3.23261508982,,,,25,30,1,,4,,1,1,4,0.697317139316,3,How to show humility?, Build muscles.,6
+2039,11,L,,,,,1.366228224,,,,25,30,1,,2,,1,1,4,0.86264873346,2,Why kill germs?, Avoid diseases.,2
+2039,12,L,,,,,0.63568028348,,,,25,30,1,,6,,1,1,4,0.694349822785,9,Why use a camera?, Give to charity.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2114,1,R,,,,,2.62633945189,,,,,20,1,,5,90,0,3,4,1.10422573519,3,How to make breakfast?, Crack eggs.,4
+2114,2,L,,,,,0.712484809378,,,,,23,1,,5,90,0,3,4,0.670479191415,1,How to clip coupons?, Cut paper.,4
+2114,3,R,,,,,2.13655059303,,,,,38,1,,5,90,0,3,4,0.754975937447,2,Why crack eggs?, Make breakfast.,1
+2114,4,L,,,,,2.33702377505,,,,,40,1,,5,90,0,3,4,2.38745648908,0,Why point a camera?, Take a picture.,1

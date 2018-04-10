@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2084,1,R,,,,,0.631370246876,,,,25,30,1,,2,,1,1,3,0.644468734098,11,Why drink coffee?, Consume caffeine.,1
+2084,2,R,,,,,0.851204370686,,,,25,30,1,,7,,1,1,3,0.537829986011,6,Why use a comb?, Write a song.,1
+2084,3,R,,,,,5.30194401459,,,,25,30,1,,5,,1,1,3,1.1979352283,9,How to build muscles?, Lift weights.,5
+2084,4,R,,,,,2.47113657643,,,,25,30,1,,3,,1,1,3,1.3094578422,7,How to get a promotion?, Arrive on time.,5
+2084,5,R,,,,,0.933910550358,,,,25,30,1,,9,,1,1,3,1.12104502556,0,Why paint a picture?, Make art.,2
+2084,6,L,,,,,1.78546820077,,,,25,30,1,,4,,1,1,3,0.513947635882,4,Why give applause?, Show appreciation.,2
+2084,7,L,,,,,1.28057714081,,,,25,30,1,,6,,1,1,3,0.532962801225,5,Why reduce pain?, Feel well.,3
+2084,8,L,,,,,2.46100730292,,,,25,30,1,,8,,1,1,3,1.175895652,3,Why show intelligence?, Impress others.,3
+2084,9,L,,,,,2.37575077772,,,,25,30,1,,4,,1,1,3,0.796109886293,10,How to give a lecture?, Brush ones hair.,4
+2084,10,L,,,,,4.16510722495,,,,25,30,1,,2,,1,1,3,1.03533885305,8,How to dress formally?, Wear ties. ,4
+2084,11,L,,,,,0.530709704316,,,,25,30,1,,3,,1,1,3,1.26892669917,1,How to support a cause?, Give to charity.,6
+2084,12,R,,,,,1.48984616705,,,,25,30,1,,6,,1,1,3,1.82784451205,2,How to show creativity?, Make art.,6

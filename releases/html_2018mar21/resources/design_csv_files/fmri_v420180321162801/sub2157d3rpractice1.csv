@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2157,1,L,,,,,1.49380492644,,,,,20,1,,5,90,0,3,3,0.764028823186,3,Why crack eggs?, Make breakfast.,1
+2157,2,R,,,,,1.93853395659,,,,,22,1,,5,90,0,3,3,0.977421771542,0,Why open a bottle?, Consume medicine.,1
+2157,3,L,,,,,2.61621695093,,,,,39,1,,5,90,0,3,3,1.26377242809,2,Why write a song?, Seek advice.,2
+2157,4,R,,,,,1.02250067324,,,,,36,1,,5,90,0,3,3,0.603255158696,1,Why give applause?, Show appreciation.,2

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2013,1,1,,,,,1.19807860348,,,,25,30,1,,5,,1,3,4,0.666932585148,1,Why open a browser?, Write an email.,2
+2013,2,2,,,,,1.5508997474,,,,25,30,1,,3,,1,3,4,1.99946314194,0,Why watch television?, Show competence.,2
+2013,3,2,,,,,2.63348970962,,,,25,30,1,,8,,1,3,4,5.21487776883,0,How to save money?, Clip coupons.,5
+2013,4,1,,,,,2.04993824749,,,,25,30,1,,2,,1,3,4,0.844301371773,0,How to satisfy hunger?, Make breakfast.,5

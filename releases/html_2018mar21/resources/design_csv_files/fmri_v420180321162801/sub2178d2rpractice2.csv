@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2178,1,R,,,,,2.74201889056,,,,,23,1,,5,90,0,2,4,0.818258797725,1,How to lift weights?, Fasten seatbelt.,4
+2178,2,L,,,,,0.823196570996,,,,,24,1,,5,90,0,2,4,0.788985491945,2,How to drink wine?, Open a bottle. ,4
+2178,3,L,,,,,0.762223952528,,,,,33,1,,5,90,0,2,4,1.04552196323,0,How to show appreciation?, Give applause.,5
+2178,4,R,,,,,4.00727801812,,,,,36,1,,5,90,0,2,4,1.05911621787,3,How to avoid diseases?, Kill germs.,5

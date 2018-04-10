@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2042,1,L,,,,,5.93778933884,,,,,21,1,,5,90,0,1,4,1.35306079131,3,How to give to charity?, Use a camera.,5
+2042,2,R,,,,,3.52617887551,,,,,26,1,,5,90,0,1,4,0.59239950575,7,How to make a purchase?, Go shopping.,5
+2042,3,L,,,,,1.26056796915,,,,,20,1,,5,90,0,1,4,1.46465379877,6,Why give a lecture?, Teach others.,2
+2042,4,L,,,,,1.75152303508,,,,,39,1,,5,90,0,1,4,0.751059823461,5,Why dress formally?, Get a promotion.,2
+2042,5,L,,,,,1.35862138162,,,,,40,1,,5,90,0,1,4,0.753952435006,9,Why point a camera?, Take a picture.,1
+2042,6,L,,,,,1.61915313706,,,,,23,1,,5,90,0,1,4,1.34062710668,1,Why clap hands?, Give applause.,1
+2042,7,R,,,,,1.02094922304,,,,,37,1,,5,90,0,1,4,0.844784471401,10,How to impress others?, Show intelligence.,6
+2042,8,R,,,,,0.891915874342,,,,,28,1,,5,90,0,1,4,0.7942995193,2,How to avoid mistakes?, Obey laws.,6
+2042,9,R,,,,,0.727183486301,,,,,24,1,,5,90,0,1,4,0.885732250412,8,Why write an email?, Send a message.,3
+2042,10,R,,,,,2.11185665344,,,,,27,1,,5,90,0,1,4,1.37473254612,4,Why make art?, Show creativity.,3
+2042,11,L,,,,,0.984096361273,,,,,36,1,,5,90,0,1,4,0.657309471075,0,How to take a picture?, Point a camera.,4
+2042,12,R,,,,,3.25693422473,,,,,38,1,,5,90,0,1,4,0.506196059308,11,How to give applause?, Clap hands.,4

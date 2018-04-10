@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2096,1,R,,,,,2.92877546384,,,,,36,1,,5,90,0,1,4,0.96276355516,11,How to write a song?, Play piano.,4
+2096,2,L,,,,,1.71898113232,,,,,40,1,,5,90,0,1,4,1.08593023865,6,How to read articles?, Open a magazine.,4
+2096,3,L,,,,,1.21770723853,,,,,24,1,,5,90,0,1,4,1.20230855457,0,How to make a purchase?, Go shopping.,5
+2096,4,L,,,,,0.512174868746,,,,,20,1,,5,90,0,1,4,1.00508376365,8,How to attend a school?, Enter a classroom.,5
+2096,5,R,,,,,1.83776462062,,,,,23,1,,5,90,0,1,4,1.40033250913,10,Why give applause?, Show appreciation.,2
+2096,6,R,,,,,3.40574757024,,,,,29,1,,5,90,0,1,4,0.633950020006,5,Why make a list?, Plan ahead.,2
+2096,7,L,,,,,2.22345394919,,,,,33,1,,5,90,0,1,4,0.961417053109,9,Why point a camera?, Take a picture.,1
+2096,8,R,,,,,2.81550615189,,,,,32,1,,5,90,0,1,4,0.626701572559,7,Why take aspirin?, Serve alcohol.,1
+2096,9,R,,,,,4.68757699078,,,,,35,1,,5,90,0,1,4,0.660394923224,4,Why avoid diseases?, Live a long life.,3
+2096,10,L,,,,,0.616223190178,,,,,28,1,,5,90,0,1,4,2.17016131039,1,Why show competence?, Pass the time.,3
+2096,11,R,,,,,1.48418326751,,,,,25,1,,5,90,0,1,4,0.739395293029,3,How to live a long life?, Avoid diseases.,6
+2096,12,L,,,,,1.24724336028,,,,,34,1,,5,90,0,1,4,0.720784945752,2,How to feel secure?, Save money.,6

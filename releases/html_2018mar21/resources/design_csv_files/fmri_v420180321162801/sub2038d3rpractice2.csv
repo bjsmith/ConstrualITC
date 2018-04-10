@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2038,1,R,,,,,0.756803194909,,,,,33,1,,5,90,0,3,4,0.698444720638,3,How to get a degree?, Attend a school.,6
+2038,2,L,,,,,1.08368933595,,,,,29,1,,5,90,0,3,4,0.645204200085,2,How to feel productive?, Finish a job.,6
+2038,3,R,,,,,0.818362900565,,,,,31,1,,5,90,0,3,4,1.27787830005,1,Why sign ones name?, Write a check.,1
+2038,4,L,,,,,4.52190675205,,,,,28,1,,5,90,0,3,4,1.80707492724,0,Why turn a doorknob?, Enter a classroom.,1

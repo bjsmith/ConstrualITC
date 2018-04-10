@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2132,1,L,,,,,0.585658276069,,,,25,30,1,,9,,1,2,3,1.53374484,1,How to consume caffeine?, Press buttons.,4
+2132,2,L,,,,,1.83439058621,,,,25,30,1,,1,,1,2,3,1.4758519122,2,How to participate in class?, Raise a hand.,4
+2132,3,R,,,,,3.73174073832,,,,25,30,1,,7,,1,2,3,0.697842657766,0,Why hold a party?, Feel sociable.,3
+2132,4,R,,,,,0.955988853973,,,,25,30,1,,2,,1,2,3,0.502630825128,3,Why write an email?, Send a message.,3

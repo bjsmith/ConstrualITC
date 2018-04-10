@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2112,1,L,,,,,0.624602932004,,,,,29,1,,5,90,0,3,4,1.18756339995,1,Why sign ones name?, Write a check.,1
+2112,2,L,,,,,0.765376645405,,,,,33,1,,5,90,0,3,4,0.740120546487,2,Why click a mouse?, Open a browser.,1
+2112,3,R,,,,,2.90720342216,,,,,25,1,,5,90,0,3,4,1.92347854155,3,How to write a song?, Play piano.,4
+2112,4,R,,,,,2.8087701183,,,,,36,1,,5,90,0,3,4,0.675985817895,0,How to drink wine?, Open a bottle. ,4

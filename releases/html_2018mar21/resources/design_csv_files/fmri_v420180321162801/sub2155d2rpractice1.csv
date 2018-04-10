@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2155,1,R,,,,,5.68827842031,,,,,29,1,,5,90,0,2,3,0.877808311741,0,How to show ambition?, Serve alcohol.,5
+2155,2,R,,,,,0.716179239096,,,,,26,1,,5,90,0,2,3,0.593525120663,1,How to avoid diseases?, Kill germs.,5
+2155,3,L,,,,,1.31452253933,,,,,35,1,,5,90,0,2,3,1.95725039601,3,Why clip coupons?, Save money.,2
+2155,4,L,,,,,1.10930066314,,,,,31,1,,5,90,0,2,3,0.601093197172,2,Why make a list?, Plan ahead.,2

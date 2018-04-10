@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2140,1,R,,,,,0.817225730393,,,,,26,1,,5,90,0,1,4,0.846129479938,5,How to show cleanliness?, Write an email.,6
+2140,2,L,,,,,0.965875146825,,,,,40,1,,5,90,0,1,4,1.37148561623,11,How to feel sociable?, Hold a party.,6
+2140,3,R,,,,,0.901875463194,,,,,37,1,,5,90,0,1,4,0.539854674098,2,How to paint a picture?, Use a brush.,4
+2140,4,L,,,,,2.92613731711,,,,,21,1,,5,90,0,1,4,0.808953443249,8,How to write a song?, Play piano.,4
+2140,5,L,,,,,2.79982435534,,,,,20,1,,5,90,0,1,4,1.08636757076,6,Why clip coupons?, Save money.,2
+2140,6,L,,,,,0.760248711503,,,,,35,1,,5,90,0,1,4,1.12436170873,4,Why write a song?, Seek advice.,2
+2140,7,R,,,,,1.36233717245,,,,,28,1,,5,90,0,1,4,0.552675199956,7,Why use a remote?, Watch television.,1
+2140,8,R,,,,,3.94679991103,,,,,24,1,,5,90,0,1,4,1.13533721915,10,Why follow recipes?, Prepare meals.,1
+2140,9,L,,,,,2.40294597971,,,,,36,1,,5,90,0,1,4,1.66893372488,3,Why provide food?, Help a person.,3
+2140,10,R,,,,,3.66419097533,,,,,22,1,,5,90,0,1,4,0.689041714744,9,Why make a purchase?, Satisfy a need.,3
+2140,11,L,,,,,2.86472806239,,,,,33,1,,5,90,0,1,4,0.671579209315,0,How to gain knowledge?, Read articles.,5
+2140,12,R,,,,,0.821821575696,,,,,32,1,,5,90,0,1,4,2.18137652515,1,How to plan ahead?, Make a list.,5

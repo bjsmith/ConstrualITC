@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2042,1,L,,,,,5.93778933884,,,,,21,1,,5,90,0,1,4,1.35306079131,3,Why crack eggs?, Make breakfast.,1
+2042,2,R,,,,,3.52617887551,,,,,26,1,,5,90,0,1,4,0.59239950575,7,Why raise a hand?, Participate in class.,1
+2042,3,L,,,,,1.26056796915,,,,,20,1,,5,90,0,1,4,1.46465379877,6,How to consume medicine?, Take pills. ,4
+2042,4,L,,,,,1.75152303508,,,,,39,1,,5,90,0,1,4,0.751059823461,5,How to paint a picture?, Use a brush.,4
+2042,5,L,,,,,1.35862138162,,,,,40,1,,5,90,0,1,4,0.753952435006,9,Why show competence?, Pass the time.,3
+2042,6,L,,,,,1.61915313706,,,,,23,1,,5,90,0,1,4,1.34062710668,1,Why save money?, Get fit.,3
+2042,7,R,,,,,1.02094922304,,,,,37,1,,5,90,0,1,4,0.844784471401,10,How to show appreciation?, Give applause.,5
+2042,8,R,,,,,0.891915874342,,,,,28,1,,5,90,0,1,4,0.7942995193,2,How to get a promotion?, Arrive on time.,5
+2042,9,R,,,,,0.727183486301,,,,,24,1,,5,90,0,1,4,0.885732250412,8,Why clip coupons?, Save money.,2
+2042,10,R,,,,,2.11185665344,,,,,27,1,,5,90,0,1,4,1.37473254612,4,Why read articles?, Gain knowledge.,2
+2042,11,L,,,,,0.984096361273,,,,,36,1,,5,90,0,1,4,0.657309471075,0,How to express a talent?, Entertain others.,6
+2042,12,R,,,,,3.25693422473,,,,,38,1,,5,90,0,1,4,0.506196059308,11,How to support a cause?, Give to charity.,6

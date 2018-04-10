@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2023,1,1,,,,,1.74784083301,,,,25,30,1,,7,,1,1,4,0.836573550143,0,How to show creativity?, Make art.,6
+2023,2,1,,,,,1.62378759116,,,,25,30,1,,6,,1,1,4,0.958918494196,0,How to show ambition?, Serve alcohol.,5
+2023,3,2,,,,,1.08324786117,,,,25,30,1,,4,,1,1,4,1.08419705396,0,Why dial numbers?, Make a phone call.,1
+2023,4,2,,,,,1.17564010711,,,,25,30,1,,1,,1,1,4,1.62941653946,0,How to make a phone call?, Dial numbers.,4
+2023,5,1,,,,,2.74882198277,,,,25,30,1,,9,,1,1,4,0.67273587938,0,Why give applause?, Show appreciation.,2
+2023,6,1,,,,,1.91621937515,,,,25,30,1,,2,,1,1,4,1.22048186132,0,Why show courtesy?, Make a friend.,3
+2023,7,2,,,,,0.882716258933,,,,25,30,1,,8,,1,1,4,0.880044144532,0,Why stir ingredients?, Mix a cocktail.,1
+2023,8,1,,,,,2.24602030911,,,,25,30,1,,5,,1,1,4,0.952183881839,0,How to satisfy hunger?, Make breakfast.,5
+2023,9,2,,,,,1.21002423287,,,,25,30,1,,6,,1,1,4,0.996086420419,1,Why write a song?, Seek advice.,2
+2023,10,2,,,,,3.56650249742,,,,25,30,1,,4,,1,1,4,0.579062624429,0,How to open a browser?, Click a mouse.,4
+2023,11,2,,,,,3.69438880493,,,,25,30,1,,9,,1,1,4,0.603583588774,0,Why make a purchase?, Satisfy a need.,3
+2023,12,1,,,,,1.47908391348,,,,25,30,1,,7,,1,1,4,0.749134700784,0,How to feel well?, Reduce pain.,6

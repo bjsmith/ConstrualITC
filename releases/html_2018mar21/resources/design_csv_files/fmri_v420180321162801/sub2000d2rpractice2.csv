@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2000,1,R,,,,,2.44845295701,,,,,39,1,,5,90,0,2,4,1.06719545761,3,Why attend a school?, Get a degree.,3
+2000,2,L,,,,,0.851487161201,,,,,28,1,,5,90,0,2,4,0.600999965456,0,Why show intelligence?, Impress others.,3
+2000,3,R,,,,,1.00905794388,,,,,21,1,,5,90,0,2,4,0.827253648614,2,Why clap hands?, Give applause.,1
+2000,4,L,,,,,3.39698023483,,,,,32,1,,5,90,0,2,4,0.905617110389,1,Why drink coffee?, Consume caffeine.,1

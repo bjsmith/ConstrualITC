@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2174,1,R,,,,,1.70052250916,,,,25,30,1,,9,,1,3,1,2.02767311651,50,How to entertain others?, Write a song.,5
+2174,2,L,,,,,1.70470652352,,,,25,30,1,,1,,1,3,1,1.10137403679,19,How to make a donation?, Mix a cocktail.,5
+2174,3,L,,,,,2.86773441187,,,,25,30,1,,7,,1,3,1,3.1996840971,54,Why finish a job?, Feel productive.,3
+2174,4,R,,,,,3.55297705662,,,,25,30,1,,3,,1,3,1,1.2190780073,30,Why entertain others?, Express a talent.,3
+2174,5,R,,,,,1.11983761511,,,,25,30,1,,5,,1,3,1,1.22356485118,18,Why participate in class?, Show intelligence.,2
+2174,6,R,,,,,1.6025627333,,,,25,30,1,,4,,1,3,1,1.46467614908,3,Why read articles?, Gain knowledge.,2
+2174,7,L,,,,,1.57152198567,,,,25,30,1,,6,,1,3,1,1.45726765418,57,Why cut paper?, Clip coupons.,1
+2174,8,R,,,,,1.47266732164,,,,25,30,1,,8,,1,3,1,1.42734863753,16,Why stir ingredients?, Mix a cocktail.,1
+2174,9,L,,,,,2.52415762375,,,,25,30,1,,2,,1,3,1,1.34924088365,15,How to write a song?, Play piano.,4
+2174,10,L,,,,,1.20622285632,,,,25,30,1,,1,,1,3,1,2.13600673929,24,How to clip coupons?, Cut paper.,4
+2174,11,R,,,,,1.03751623854,,,,25,30,1,,8,,1,3,1,1.13553505069,46,How to show cleanliness?, Write an email.,6
+2174,12,R,,,,,1.70468018174,,,,25,30,1,,9,,1,3,1,1.44176919885,2,How to feel well?, Reduce pain.,6
+2174,13,R,,,,,2.00906869882,,,,25,30,1,,3,,1,3,1,5.19485339762,7,Why wear ties?, Dress formally.,1
+2174,14,L,,,,,3.22769249358,,,,25,30,1,,7,,1,3,1,2.90124312303,45,Why turn a doorknob?, Enter a classroom.,1
+2174,15,R,,,,,1.55303485098,,,,25,30,1,,6,,1,3,1,1.21262214767,20,How to make a list?, Throw away trash.,4
+2174,16,L,,,,,1.30309616036,,,,25,30,1,,4,,1,3,1,1.57993211111,56,How to paint a picture?, Use a brush.,4
+2174,17,R,,,,,1.83596202421,,,,25,30,1,,1,,1,3,1,2.50741284034,36,Why make a list?, Plan ahead.,2
+2174,18,L,,,,,1.13675809026,,,,25,30,1,,4,,1,3,1,1.31426941912,23,Why clip coupons?, Save money.,2
+2174,19,R,,,,,1.82603363051,,,,25,30,1,,9,,1,3,1,1.03108786754,49,How to give to charity?, Use a camera.,5
+2174,20,L,,,,,2.51121190077,,,,25,30,1,,8,,1,3,1,4.16407339443,59,How to consume alcohol?, Drink wine.,5
+2174,21,R,,,,,1.0220349101,,,,25,30,1,,6,,1,3,1,1.04813571788,10,Why share ideas?, Show intellect.,3
+2174,22,L,,,,,4.24308338458,,,,25,30,1,,7,,1,3,1,4.42116580474,41,Why contact a friend?, Feel connected.,3
+2174,23,L,,,,,1.61041088682,,,,25,30,1,,2,,1,3,1,2.12407439686,25,How to avoid mistakes?, Obey laws.,6
+2174,24,L,,,,,3.54807294014,,,,25,30,1,,5,,1,3,1,1.1658304363,17,How to show an ability?, Satisfy hunger.,6
+2174,25,R,,,,,2.82089462123,,,,25,30,1,,3,,1,3,1,1.89856606268,58,How to take a picture?, Point a camera.,4
+2174,26,L,,,,,1.54308411097,,,,25,30,1,,5,,1,3,1,1.3132508967,32,How to make a phone call?, Dial numbers.,4
+2174,27,L,,,,,3.14507248918,,,,25,30,1,,7,,1,3,1,1.44805784444,38,How to achieve success?, Get a promotion.,6
+2174,28,R,,,,,1.13598942758,,,,25,30,1,,6,,1,3,1,1.26648455182,28,How to satisfy a need?, Make a purchase.,6
+2174,29,L,,,,,1.72045957329,,,,25,30,1,,1,,1,3,1,2.51678167952,33,How to provide food?, Prepare meals.,5
+2174,30,R,,,,,2.23091307579,,,,25,30,1,,9,,1,3,1,3.94968948921,35,How to express doubt?, Use scissors.,5
+2174,31,L,,,,,1.75653826225,,,,25,30,1,,8,,1,3,1,1.9646919886,51,Why use credit cards?, Go shopping.,1
+2174,32,L,,,,,1.87356346615,,,,25,30,1,,2,,1,3,1,1.08102748946,21,Why drink coffee?, Consume caffeine.,1
+2174,33,L,,,,,1.64855934786,,,,25,30,1,,5,,1,3,1,3.1016651393,48,Why make breakfast?, Satisfy hunger.,2
+2174,34,R,,,,,1.78147443642,,,,25,30,1,,2,,1,3,1,1.20523667746,12,Why use a camera?, Give to charity.,2
+2174,35,R,,,,,1.1763032696,,,,25,30,1,,4,,1,3,1,1.64357524893,29,Why show appreciation?, Spread joy.,3
+2174,36,R,,,,,3.21252272169,,,,25,30,1,,9,,1,3,1,2.49053538793,22,Why write an email?, Send a message.,3
+2174,37,L,,,,,1.58459980952,,,,25,30,1,,3,,1,3,1,3.68979489267,31,How to prepare meals?, Follow recipes.,4
+2174,38,R,,,,,1.28403436694,,,,25,30,1,,1,,1,3,1,2.52721583525,27,How to consume medicine?, Take pills. ,4
+2174,39,R,,,,,1.7422593546,,,,25,30,1,,6,,1,3,1,1.17848553201,1,Why enter a classroom?, Attend a school.,2
+2174,40,R,,,,,1.72223725718,,,,25,30,1,,7,,1,3,1,1.09833753663,14,Why paint a picture?, Make art.,2
+2174,41,L,,,,,4.24503838344,,,,25,30,1,,9,,1,3,1,1.62453228228,52,Why save money?, Get fit.,3
+2174,42,L,,,,,1.02847096794,,,,25,30,1,,5,,1,3,1,1.2236564538,8,Why gain knowledge?, Improve oneself.,3
+2174,43,L,,,,,1.96529802618,,,,25,30,1,,8,,1,3,1,1.51399634581,11,How to feel secure?, Save money.,6
+2174,44,R,,,,,1.33741993613,,,,25,30,1,,6,,1,3,1,2.38554007337,0,How to feel connected?, Contact a friend.,6
+2174,45,L,,,,,3.58146246736,,,,25,30,1,,4,,1,3,1,4.23865434756,42,Why use a brush?, Paint a picture.,1
+2174,46,R,,,,,1.75753375438,,,,25,30,1,,3,,1,3,1,1.60707184804,39,Why use a remote?, Watch television.,1
+2174,47,R,,,,,1.73289509066,,,,25,30,1,,2,,1,3,1,1.99347491266,53,How to show ambition?, Serve alcohol.,5
+2174,48,L,,,,,1.2368488033,,,,25,30,1,,1,,1,3,1,1.65245246294,4,How to contact a friend?, Make a phone call.,5
+2174,49,R,,,,,3.47063093252,,,,25,30,1,,5,,1,3,1,3.56099627716,47,Why go shopping?, Make a purchase.,2
+2174,50,L,,,,,1.59108403194,,,,25,30,1,,6,,1,3,1,1.69805068883,55,Why consume caffeine?, Stay alert.,2
+2174,51,R,,,,,2.94651427355,,,,25,30,1,,3,,1,3,1,1.88405600837,9,How to get a promotion?, Arrive on time.,5
+2174,52,R,,,,,1.73581184219,,,,25,30,1,,9,,1,3,1,1.06267853265,5,How to show intelligence?, Participate in class.,5
+2174,53,L,,,,,1.16939873175,,,,25,30,1,,2,,1,3,1,2.26538526116,26,Why open a magazine?, Read articles.,1
+2174,54,L,,,,,1.39229392736,,,,25,30,1,,7,,1,3,1,1.75907757249,37,Why wash ones hands?, Kill germs.,1
+2174,55,L,,,,,5.46878980536,,,,25,30,1,,8,,1,3,1,1.07608517453,40,How to mix a cocktail?, Stir ingredients.,4
+2174,56,L,,,,,1.48200662582,,,,25,30,1,,4,,1,3,1,2.00905374831,43,How to go shopping?, Use credit cards.,4
+2174,57,R,,,,,1.87815245387,,,,25,30,1,,7,,1,3,1,1.16732736346,34,How to live a long life?, Avoid diseases.,6
+2174,58,L,,,,,1.67962900532,,,,25,30,1,,4,,1,3,1,2.87274694353,13,How to support a cause?, Give to charity.,6
+2174,59,R,,,,,1.33747708608,,,,25,30,1,,6,,1,3,1,2.74880137374,44,Why provide food?, Help a person.,3
+2174,60,R,,,,,1.63577430818,,,,25,30,1,,5,,1,3,1,1.62588221724,6,Why satisfy hunger?, Show an ability.,3

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2085,1,R,,,,,3.8851389418,,,,,28,1,,5,90,0,1,3,1.08230508389,0,Why get a promotion?, Achieve success.,3
+2085,2,R,,,,,2.34766067507,,,,,21,1,,5,90,0,1,3,0.627305191295,10,Why show intelligence?, Impress others.,3
+2085,3,L,,,,,3.84066783502,,,,,33,1,,5,90,0,1,3,1.81360357438,9,Why wear ties?, Dress formally.,1
+2085,4,L,,,,,1.03175243757,,,,,32,1,,5,90,0,1,3,0.557061730066,5,Why throw away trash?, Make a list.,1
+2085,5,L,,,,,0.801155364737,,,,,27,1,,5,90,0,1,3,0.936767855122,3,Why give a lecture?, Teach others.,2
+2085,6,R,,,,,2.171795693,,,,,35,1,,5,90,0,1,3,0.705864364303,8,Why drink wine?, Consume alcohol.,2
+2085,7,R,,,,,1.35232286024,,,,,25,1,,5,90,0,1,3,2.01188075717,1,How to read articles?, Open a magazine.,4
+2085,8,R,,,,,1.14388814358,,,,,31,1,,5,90,0,1,3,0.890464322231,4,How to write a check?, Sign ones name.,4
+2085,9,L,,,,,2.73860011245,,,,,34,1,,5,90,0,1,3,0.541182446379,11,How to provide food?, Prepare meals.,5
+2085,10,L,,,,,4.16089728015,,,,,38,1,,5,90,0,1,3,0.594230735506,7,How to build muscles?, Lift weights.,5
+2085,11,L,,,,,0.696275307491,,,,,26,1,,5,90,0,1,3,1.33386935219,6,How to show intellect?, Share ideas.,6
+2085,12,R,,,,,0.538384108314,,,,,30,1,,5,90,0,1,3,0.578201001029,2,How to avoid boredom?, Entertain oneself.,6

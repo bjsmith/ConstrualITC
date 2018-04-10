@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2007,1,2,,,,,1.43897233593,,,,,20,1,,5,90,0,3,1,2.13320482779,0,How to prepare meals?, Follow recipes.,4
+2007,2,2,,,,,1.76063370287,,,,,29,1,,5,90,0,3,1,3.48182557522,0,How to participate in class?, Raise a hand.,4
+2007,3,2,,,,,1.50950899679,,,,,34,1,,5,90,0,3,1,2.05200005717,0,Why point a camera?, Take a picture.,1
+2007,4,2,,,,,1.46033370763,,,,,26,1,,5,90,0,3,1,1.35894398173,1,Why stir ingredients?, Mix a cocktail.,1
+2007,5,1,,,,,2.09284858615,,,,,32,1,,5,90,0,3,1,4.75290216092,0,Why paint a picture?, Make art.,2
+2007,6,1,,,,,1.55140346386,,,,,30,1,,5,90,0,3,1,2.09203686769,0,Why consume medicine?, Reduce pain.,2
+2007,7,1,,,,,1.64161105803,,,,,38,1,,5,90,0,3,1,2.03481123289,0,How to spread knowledge?, Teach others.,6
+2007,8,1,,,,,1.48617504588,,,,,36,1,,5,90,0,3,1,1.37073384265,0,How to show intellect?, Share ideas.,6
+2007,9,1,,,,,2.89570487074,,,,,28,1,,5,90,0,3,1,1.81823361124,0,How to attend a school?, Enter a classroom.,5
+2007,10,1,,,,,1.28320405065,,,,,35,1,,5,90,0,3,1,1.06938924475,0,How to give to charity?, Use a camera.,5
+2007,11,1,,,,,2.16380658591,,,,,25,1,,5,90,0,3,1,3.42500735015,0,Why show intelligence?, Impress others.,3
+2007,12,2,,,,,1.31478614206,,,,,27,1,,5,90,0,3,1,3.09776585312,0,Why satisfy hunger?, Show an ability.,3
+2007,13,1,,,,,2.85408042473,,,,,39,1,,5,90,0,3,1,1.67592819736,0,Why keep a memory?, Feel nostalgia.,3
+2007,14,1,,,,,1.83937349821,,,,,22,1,,5,90,0,3,1,3.08031207145,0,Why finish a job?, Feel productive.,3
+2007,15,2,,,,,3.7726989838,,,,,40,1,,5,90,0,3,1,1.30790595724,0,Why lift a glass?, Drink wine.,1
+2007,16,1,,,,,3.46740826311,,,,,37,1,,5,90,0,3,1,1.22456367403,0,Why open a magazine?, Read articles.,1
+2007,17,2,,,,,1.52632494361,,,,,21,1,,5,90,0,3,1,2.75359273627,0,How to show ambition?, Serve alcohol.,5
+2007,18,2,,,,,1.0952901722,,,,,24,1,,5,90,0,3,1,1.0638644615,0,How to consume alcohol?, Drink wine.,5
+2007,19,1,,,,,2.54583842805,,,,,33,1,,5,90,0,3,1,1.47232525801,0,Why make a phone call?, Contact a friend.,2
+2007,20,2,,,,,1.11436108491,,,,,31,1,,5,90,0,3,1,1.40918585596,0,Why dress formally?, Get a promotion.,2
+2007,21,2,,,,,4.37926119781,,,,,29,1,,5,90,0,3,1,1.35479516146,0,How to give applause?, Clap hands.,4
+2007,22,1,,,,,1.20359286877,,,,,20,1,,5,90,0,3,1,2.06365052473,0,How to watch television?, Use a remote.,4
+2007,23,2,,,,,1.11825933832,,,,,33,1,,5,90,0,3,1,2.54711103718,0,How to impress others?, Show intelligence.,6
+2007,24,1,,,,,1.15690167205,,,,,27,1,,5,90,0,3,1,2.29639278481,0,How to achieve success?, Get a promotion.,6
+2007,25,2,,,,,1.13126871789,,,,,30,1,,5,90,0,3,1,1.92927706243,0,Why share ideas?, Show intellect.,3
+2007,26,2,,,,,1.51145877188,,,,,22,1,,5,90,0,3,1,1.5571072077,0,Why contact a friend?, Feel connected.,3
+2007,27,1,,,,,1.84397568295,,,,,34,1,,5,90,0,3,1,2.66620484435,0,Why click a mouse?, Open a browser.,1
+2007,28,2,,,,,3.10636131208,,,,,39,1,,5,90,0,3,1,1.34168714671,0,Why dial numbers?, Make a phone call.,1
+2007,29,2,,,,,2.96204273829,,,,,37,1,,5,90,0,3,1,1.53721326133,0,How to show humility?, Build muscles.,6
+2007,30,2,,,,,1.55671325645,,,,,40,1,,5,90,0,3,1,1.08856976223,0,How to feel connected?, Contact a friend.,6
+2007,31,1,,,,,1.47982622149,,,,,24,1,,5,90,0,3,1,1.39960035576,0,Why read articles?, Gain knowledge.,2
+2007,32,2,,,,,1.10310606265,,,,,28,1,,5,90,0,3,1,1.31855022156,0,Why drink wine?, Consume alcohol.,2
+2007,33,1,,,,,4.30824124422,,,,,26,1,,5,90,0,3,1,1.8539757018,0,How to consume medicine?, Take pills. ,4
+2007,34,1,,,,,1.09766732345,,,,,32,1,,5,90,0,3,1,1.21853750628,0,How to dress formally?, Wear ties. ,4
+2007,35,1,,,,,1.63752914646,,,,,36,1,,5,90,0,3,1,1.42592672334,0,How to gain knowledge?, Read articles.,5
+2007,36,2,,,,,3.17712863089,,,,,31,1,,5,90,0,3,1,3.31557789363,0,How to save money?, Clip coupons.,5

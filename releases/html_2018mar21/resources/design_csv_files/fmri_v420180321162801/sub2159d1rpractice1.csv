@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2159,1,R,,,,,0.622756240729,,,,,33,1,,5,90,0,1,3,1.04759842753,1,How to consume medicine?, Take pills. ,4
+2159,2,R,,,,,3.2171899064,,,,,32,1,,5,90,0,1,3,1.18401673984,6,How to read articles?, Open a magazine.,4
+2159,3,L,,,,,1.41948947158,,,,,26,1,,5,90,0,1,3,1.75628360387,8,How to teach others?, Give a lecture.,5
+2159,4,R,,,,,0.786753793145,,,,,37,1,,5,90,0,1,3,0.746712428842,7,How to entertain oneself?, Watch television.,5
+2159,5,L,,,,,0.996171739166,,,,,28,1,,5,90,0,1,3,0.55038951883,5,Why share ideas?, Show intellect.,3
+2159,6,L,,,,,0.717633882287,,,,,25,1,,5,90,0,1,3,1.85911242971,11,Why make art?, Show creativity.,3
+2159,7,L,,,,,0.520360078344,,,,,27,1,,5,90,0,1,3,0.53657698983,9,How to show intellect?, Share ideas.,6
+2159,8,L,,,,,5.19884477518,,,,,38,1,,5,90,0,1,3,0.843844920996,3,How to express a talent?, Entertain others.,6
+2159,9,R,,,,,2.27002380332,,,,,34,1,,5,90,0,1,3,0.631158542969,4,Why use a remote?, Watch television.,1
+2159,10,R,,,,,1.90510363696,,,,,20,1,,5,90,0,1,3,0.636126971151,10,Why wash ones hands?, Kill germs.,1
+2159,11,R,,,,,3.20771446568,,,,,22,1,,5,90,0,1,3,1.821119982,0,Why kill germs?, Avoid diseases.,2
+2159,12,L,,,,,2.87902090178,,,,,21,1,,5,90,0,1,3,0.822096086865,2,Why give applause?, Show appreciation.,2

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2090,1,R,,,,,1.16543219463,,,,25,30,1,,1,,1,1,3,0.664883723631,1,How to feel nostalgia?, Keep a memory.,6
+2090,2,L,,,,,0.651815884996,,,,25,30,1,,7,,1,1,3,1.04073496296,7,How to achieve success?, Get a promotion.,6
+2090,3,R,,,,,4.78242635044,,,,25,30,1,,9,,1,1,3,1.66721806837,0,How to give to charity?, Use a camera.,5
+2090,4,R,,,,,1.80846179858,,,,25,30,1,,2,,1,1,3,0.56521879199,11,How to teach others?, Give a lecture.,5
+2090,5,R,,,,,0.587613125229,,,,25,30,1,,3,,1,1,3,0.73105139771,2,Why attend a school?, Get a degree.,3
+2090,6,R,,,,,2.35995637153,,,,25,30,1,,4,,1,1,3,1.47607721881,5,Why save money?, Get fit.,3
+2090,7,L,,,,,1.16416840847,,,,25,30,1,,5,,1,1,3,2.02132643255,9,How to write a poem?, Grab a pencil.,4
+2090,8,L,,,,,3.26693507844,,,,25,30,1,,8,,1,1,3,0.567320530514,10,How to take a picture?, Point a camera.,4
+2090,9,L,,,,,0.548722409327,,,,25,30,1,,1,,1,1,3,0.661024365518,3,Why throw away trash?, Make a list.,1
+2090,10,L,,,,,0.999630794174,,,,25,30,1,,9,,1,1,3,1.83267460303,4,Why clap hands?, Give applause.,1
+2090,11,R,,,,,1.1957475683,,,,25,30,1,,5,,1,1,3,0.501056745853,6,Why make breakfast?, Satisfy hunger.,2
+2090,12,L,,,,,6.27967066963,,,,25,30,1,,7,,1,1,3,0.711462304158,8,Why consume medicine?, Reduce pain.,2

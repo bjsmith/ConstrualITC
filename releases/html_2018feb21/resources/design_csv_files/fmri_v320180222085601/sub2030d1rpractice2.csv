@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,L,,,,,0.746863771481,,,,,35,1,,5,90,0,1,4,0.937554013513,2,How to achieve success?, Get a promotion.,6
+2030,2,R,,,,,0.67719498683,,,,,38,1,,5,90,0,1,4,1.36695930919,1,How to show an ability?, Satisfy hunger.,6
+2030,3,L,,,,,0.578302378093,,,,,24,1,,5,90,0,1,4,1.3821456055,11,Why use a comb?, Write a song.,1
+2030,4,R,,,,,0.777241871249,,,,,23,1,,5,90,0,1,4,1.05240812235,4,Why use a brush?, Paint a picture.,1
+2030,5,R,,,,,1.49784780806,,,,,39,1,,5,90,0,1,4,0.569293475722,8,Why satisfy hunger?, Show an ability.,3
+2030,6,L,,,,,3.99692132771,,,,,25,1,,5,90,0,1,4,1.15495497667,3,Why contact a friend?, Feel connected.,3
+2030,7,R,,,,,1.52966062751,,,,,32,1,,5,90,0,1,4,1.06973710163,7,How to watch television?, Use a remote.,4
+2030,8,L,,,,,1.77048687008,,,,,26,1,,5,90,0,1,4,0.631911030106,10,How to make breakfast?, Crack eggs.,4
+2030,9,L,,,,,3.87865483845,,,,,34,1,,5,90,0,1,4,1.15215882969,0,Why read articles?, Gain knowledge.,2
+2030,10,R,,,,,0.578656951901,,,,,28,1,,5,90,0,1,4,0.519749961569,6,Why enter a classroom?, Attend a school.,2
+2030,11,L,,,,,4.56797572708,,,,,20,1,,5,90,0,1,4,0.906732104953,9,How to teach others?, Give a lecture.,5
+2030,12,R,,,,,4.02105742318,,,,,33,1,,5,90,0,1,4,1.4741603705,5,How to give to charity?, Use a camera.,5

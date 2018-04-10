@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2047,1,R,,,,,2.54564474628,,,,,22,1,,5,90,0,2,3,1.2557378166,2,How to give applause?, Clap hands.,4
+2047,2,L,,,,,1.86611873708,,,,,37,1,,5,90,0,2,3,0.572106478967,3,How to write a poem?, Grab a pencil.,4
+2047,3,L,,,,,2.13222559699,,,,,23,1,,5,90,0,2,3,0.904993419654,0,Why plan ahead?, Reduce worry.,3
+2047,4,R,,,,,1.25961284306,,,,,33,1,,5,90,0,2,3,1.22565529965,1,Why write an email?, Send a message.,3

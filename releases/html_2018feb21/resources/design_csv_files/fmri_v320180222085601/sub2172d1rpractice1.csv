@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2172,1,R,,,,,2.98846653511,,,,25,30,1,,4,,1,1,3,0.56955212161,1,How to build muscles?, Lift weights.,5
+2172,2,L,,,,,1.89760137132,,,,25,30,1,,9,,1,1,3,1.95642078232,2,How to make art?, Paint a picture.,5
+2172,3,L,,,,,0.595844202961,,,,25,30,1,,7,,1,1,3,0.562715793571,10,Why dial numbers?, Make a phone call.,1
+2172,4,L,,,,,1.3056386484,,,,25,30,1,,3,,1,1,3,1.85759700652,5,Why throw away trash?, Make a list.,1
+2172,5,R,,,,,1.48582189104,,,,25,30,1,,6,,1,1,3,0.515603446885,4,Why gain knowledge?, Improve oneself.,3
+2172,6,L,,,,,0.777142343861,,,,25,30,1,,2,,1,1,3,0.77171396674,8,Why show intelligence?, Impress others.,3
+2172,7,L,,,,,2.62086169797,,,,25,30,1,,5,,1,1,3,1.5930323899,0,How to give applause?, Clap hands.,4
+2172,8,R,,,,,2.34271909772,,,,25,30,1,,8,,1,1,3,0.824475909113,9,How to write a poem?, Grab a pencil.,4
+2172,9,L,,,,,2.63141366663,,,,25,30,1,,2,,1,1,3,0.58154136883,11,Why write a poem?, Express an idea.,2
+2172,10,R,,,,,2.10884410503,,,,25,30,1,,4,,1,1,3,1.436329365,3,Why lift weights?, Build muscles.,2
+2172,11,R,,,,,2.84743139019,,,,25,30,1,,3,,1,1,3,0.501805946059,6,How to satisfy a need?, Make a purchase.,6
+2172,12,R,,,,,2.03608316426,,,,25,30,1,,7,,1,1,3,0.642991975796,7,How to live a long life?, Avoid diseases.,6

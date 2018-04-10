@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2190,1,R,,,,,3.05338037005,,,,25,30,1,,2,,1,3,3,0.620787767183,0,Why give a lecture?, Teach others.,2
+2190,2,L,,,,,2.66842052478,,,,25,30,1,,9,,1,3,3,1.04281464391,2,Why write a poem?, Express an idea.,2
+2190,3,L,,,,,1.44927442331,,,,25,30,1,,7,,1,3,3,0.539476200492,3,Why make a purchase?, Satisfy a need.,3
+2190,4,R,,,,,0.835632540957,,,,25,30,1,,1,,1,3,3,2.11485456307,1,Why contact a friend?, Feel connected.,3

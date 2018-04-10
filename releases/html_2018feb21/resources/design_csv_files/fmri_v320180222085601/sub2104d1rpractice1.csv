@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2104,1,L,,,,,1.02411877273,,,,25,30,1,,2,,1,1,3,1.40543989969,2,Why lift a glass?, Drink wine.,1
+2104,2,R,,,,,1.41074168023,,,,25,30,1,,8,,1,1,3,1.29257117702,0,Why wear ties?, Dress formally.,1
+2104,3,L,,,,,1.16828110156,,,,25,30,1,,3,,1,1,3,1.18542785765,6,Why clip coupons?, Save money.,2
+2104,4,R,,,,,1.35187035926,,,,25,30,1,,7,,1,1,3,0.613113156794,11,Why give applause?, Show appreciation.,2
+2104,5,L,,,,,3.62716008171,,,,25,30,1,,1,,1,1,3,0.903095623079,3,Why show appreciation?, Spread joy.,3
+2104,6,L,,,,,0.615892869602,,,,25,30,1,,9,,1,1,3,0.87938461073,7,Why keep a memory?, Feel nostalgia.,3
+2104,7,R,,,,,2.23772259701,,,,25,30,1,,4,,1,1,3,0.591347091877,8,How to feel secure?, Save money.,6
+2104,8,R,,,,,3.35048757013,,,,25,30,1,,6,,1,1,3,1.02890238111,4,How to feel nostalgia?, Keep a memory.,6
+2104,9,R,,,,,1.36179923779,,,,25,30,1,,4,,1,1,3,0.767889324265,5,How to express doubt?, Use scissors.,5
+2104,10,R,,,,,1.83252009795,,,,25,30,1,,3,,1,1,3,1.98960495262,10,How to show intelligence?, Participate in class.,5
+2104,11,L,,,,,0.756616823876,,,,25,30,1,,9,,1,1,3,0.501060354829,1,How to open a browser?, Click a mouse.,4
+2104,12,L,,,,,4.57964020026,,,,25,30,1,,7,,1,1,3,1.19580357678,9,How to give applause?, Clap hands.,4

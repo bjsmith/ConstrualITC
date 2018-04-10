@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2098,1,L,,,,,3.12133061262,,,,,32,1,,5,90,0,2,2,1.05915702773,6,Why sign ones name?, Write a check.,1
+2098,2,R,,,,,2.34469329479,,,,,22,1,,5,90,0,2,2,1.75596155635,20,Why cut paper?, Clip coupons.,1
+2098,3,R,,,,,1.18460028554,,,,,33,1,,5,90,0,2,2,2.08146336516,34,How to show an ability?, Satisfy hunger.,6
+2098,4,R,,,,,1.98124833236,,,,,38,1,,5,90,0,2,2,2.33519371841,12,How to show creativity?, Make art.,6
+2098,5,L,,,,,1.62137824677,,,,,37,1,,5,90,0,2,2,2.05765380555,32,Why take a picture?, Keep a memory.,2
+2098,6,R,,,,,2.8062263074,,,,,20,1,,5,90,0,2,2,1.18972024189,7,Why open a browser?, Write an email.,2
+2098,7,L,,,,,2.80917809363,,,,,21,1,,5,90,0,2,2,2.23451363404,50,How to make art?, Paint a picture.,5
+2098,8,L,,,,,2.13015853609,,,,,35,1,,5,90,0,2,2,1.81002243075,44,How to express doubt?, Use scissors.,5
+2098,9,L,,,,,2.62861511076,,,,,29,1,,5,90,0,2,2,1.05966681833,52,How to kill germs?, Wash ones hands.,4
+2098,10,R,,,,,1.73889488475,,,,,36,1,,5,90,0,2,2,2.91480207689,56,How to participate in class?, Raise a hand.,4
+2098,11,R,,,,,3.1235275464,,,,,24,1,,5,90,0,2,2,1.63194803779,11,Why hold a party?, Feel sociable.,3
+2098,12,L,,,,,1.5295477516,,,,,23,1,,5,90,0,2,2,1.34501298399,39,Why make art?, Show creativity.,3
+2098,13,L,,,,,1.20949803442,,,,,30,1,,5,90,0,2,2,2.18706295408,37,How to attend a school?, Enter a classroom.,5
+2098,14,R,,,,,1.13909894419,,,,,34,1,,5,90,0,2,2,1.01501099479,47,How to show intelligence?, Participate in class.,5
+2098,15,L,,,,,1.33002892119,,,,,39,1,,5,90,0,2,2,1.12489566331,3,How to write a poem?, Grab a pencil.,4
+2098,16,R,,,,,1.06452755359,,,,,28,1,,5,90,0,2,2,1.11084012521,28,How to paint a picture?, Use a brush.,4
+2098,17,L,,,,,1.29960701518,,,,,40,1,,5,90,0,2,2,1.2148159905,55,Why take aspirin?, Serve alcohol.,1
+2098,18,R,,,,,2.04875455489,,,,,31,1,,5,90,0,2,2,4.48493833156,14,Why click a mouse?, Open a browser.,1
+2098,19,R,,,,,1.03099865115,,,,,27,1,,5,90,0,2,2,1.23855424966,24,Why kill germs?, Avoid diseases.,2
+2098,20,L,,,,,1.44455823754,,,,,25,1,,5,90,0,2,2,2.2430486455,26,Why dress formally?, Get a promotion.,2
+2098,21,R,,,,,2.40894652595,,,,,29,1,,5,90,0,2,2,5.61870755457,19,Why contact a friend?, Feel connected.,3
+2098,22,L,,,,,4.41617125849,,,,,38,1,,5,90,0,2,2,2.01596977623,41,Why show appreciation?, Spread joy.,3
+2098,23,L,,,,,2.49993472535,,,,,20,1,,5,90,0,2,2,2.12786934946,57,How to feel sociable?, Hold a party.,6
+2098,24,R,,,,,1.17122811476,,,,,23,1,,5,90,0,2,2,1.41566934833,53,How to achieve success?, Get a promotion.,6
+2098,25,L,,,,,1.12293424025,,,,,34,1,,5,90,0,2,2,1.7651576885,23,How to contact a friend?, Make a phone call.,5
+2098,26,R,,,,,1.58460092486,,,,,33,1,,5,90,0,2,2,2.10605241168,21,How to gain knowledge?, Read articles.,5
+2098,27,R,,,,,1.88288326216,,,,,35,1,,5,90,0,2,2,1.97666701455,42,How to support a cause?, Give to charity.,6
+2098,28,R,,,,,1.27453709968,,,,,30,1,,5,90,0,2,2,2.19860295122,58,How to show humility?, Build muscles.,6
+2098,29,L,,,,,2.92579823423,,,,,37,1,,5,90,0,2,2,1.17133170814,46,How to consume caffeine?, Press buttons.,4
+2098,30,L,,,,,3.97674060997,,,,,22,1,,5,90,0,2,2,3.33154391864,0,How to make breakfast?, Crack eggs.,4
+2098,31,L,,,,,3.51476605584,,,,,27,1,,5,90,0,2,2,2.72923306087,16,Why stir ingredients?, Mix a cocktail.,1
+2098,32,L,,,,,1.13641847856,,,,,39,1,,5,90,0,2,2,1.50649969715,17,Why use credit cards?, Go shopping.,1
+2098,33,L,,,,,1.17408327148,,,,,25,1,,5,90,0,2,2,1.37794623522,2,Why clip coupons?, Save money.,2
+2098,34,R,,,,,2.64913589418,,,,,21,1,,5,90,0,2,2,1.33564741166,22,Why make a phone call?, Contact a friend.,2
+2098,35,R,,,,,1.05981183142,,,,,26,1,,5,90,0,2,2,3.55178755138,18,Why show courtesy?, Make a friend.,3
+2098,36,R,,,,,1.41485571958,,,,,24,1,,5,90,0,2,2,1.09696164627,38,Why write an email?, Send a message.,3
+2098,37,L,,,,,1.63451066569,,,,,28,1,,5,90,0,2,2,4.14764520065,5,How to spread joy?, Get a job.,6
+2098,38,L,,,,,1.29975510032,,,,,31,1,,5,90,0,2,2,2.03828712963,8,How to get a degree?, Attend a school.,6
+2098,39,R,,,,,1.08735281453,,,,,36,1,,5,90,0,2,2,2.58102694356,33,Why paint a picture?, Make art.,2
+2098,40,R,,,,,1.14005329288,,,,,40,1,,5,90,0,2,2,1.1376658005,25,Why consume medicine?, Reduce pain.,2
+2098,41,L,,,,,1.36662391187,,,,,24,1,,5,90,0,2,2,1.2719374342,48,Why open a bottle?, Consume medicine.,1
+2098,42,R,,,,,5.53567344519,,,,,26,1,,5,90,0,2,2,1.23974202095,29,Why clap hands?, Give applause.,1
+2098,43,R,,,,,1.93330304422,,,,,25,1,,5,90,0,2,2,3.01288639599,13,Why reduce pain?, Feel well.,3
+2098,44,R,,,,,1.27522930563,,,,,27,1,,5,90,0,2,2,2.38475909854,1,Why finish a job?, Feel productive.,3
+2098,45,L,,,,,3.11507544706,,,,,38,1,,5,90,0,2,2,1.67091149918,35,How to build muscles?, Lift weights.,5
+2098,46,L,,,,,1.9717222588,,,,,30,1,,5,90,0,2,2,1.6278416696,40,How to plan ahead?, Make a list.,5
+2098,47,R,,,,,3.03408034749,,,,,40,1,,5,90,0,2,2,1.41716438854,4,How to consume medicine?, Take pills. ,4
+2098,48,L,,,,,1.17595231135,,,,,39,1,,5,90,0,2,2,1.50626620594,49,How to go shopping?, Use credit cards.,4
+2098,49,R,,,,,2.75364476727,,,,,20,1,,5,90,0,2,2,2.48325025706,43,How to mix a cocktail?, Stir ingredients.,4
+2098,50,L,,,,,1.01971311228,,,,,29,1,,5,90,0,2,2,2.04909334894,51,How to write a check?, Sign ones name.,4
+2098,51,R,,,,,1.67915193225,,,,,23,1,,5,90,0,2,2,1.21956311835,54,How to entertain others?, Write a song.,5
+2098,52,L,,,,,1.39064364987,,,,,35,1,,5,90,0,2,2,1.95401356569,27,How to make a donation?, Mix a cocktail.,5
+2098,53,L,,,,,1.03156706944,,,,,33,1,,5,90,0,2,2,1.40269873854,30,Why save money?, Get fit.,3
+2098,54,R,,,,,3.2734144573,,,,,37,1,,5,90,0,2,2,2.59786383607,36,Why make a purchase?, Satisfy a need.,3
+2098,55,R,,,,,1.39708362811,,,,,31,1,,5,90,0,2,2,2.5826622052,10,Why open a magazine?, Read articles.,1
+2098,56,R,,,,,1.72102221288,,,,,36,1,,5,90,0,2,2,1.38716203838,31,Why drink coffee?, Consume caffeine.,1
+2098,57,L,,,,,2.15311523724,,,,,22,1,,5,90,0,2,2,1.83574510164,9,How to improve oneself?, Gain knowledge.,6
+2098,58,R,,,,,2.63458133896,,,,,28,1,,5,90,0,2,2,2.42722653095,59,How to avoid boredom?, Entertain oneself.,6
+2098,59,L,,,,,3.73710051659,,,,,34,1,,5,90,0,2,2,2.0273493362,45,Why watch television?, Show competence.,2
+2098,60,L,,,,,1.7920577338,,,,,21,1,,5,90,0,2,2,2.22606616768,15,Why lift weights?, Build muscles.,2

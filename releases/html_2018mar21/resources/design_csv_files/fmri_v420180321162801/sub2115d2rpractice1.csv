@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2115,1,L,,,,,0.744510140018,,,,,39,1,,5,90,0,2,3,0.947853857969,1,Why write a poem?, Express an idea.,2
+2115,2,R,,,,,1.20070755738,,,,,20,1,,5,90,0,2,3,1.48687959569,0,Why read articles?, Gain knowledge.,2
+2115,3,R,,,,,4.13267356627,,,,,23,1,,5,90,0,2,3,1.17911006128,2,Why wash ones hands?, Kill germs.,1
+2115,4,L,,,,,2.83157773602,,,,,40,1,,5,90,0,2,3,1.37026479506,3,Why dial numbers?, Make a phone call.,1

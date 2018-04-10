@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2077,1,L,,,,,2.89076095876,,,,,40,1,,5,90,0,1,3,0.70127676237,7,How to achieve success?, Get a promotion.,6
+2077,2,L,,,,,1.63724202486,,,,,37,1,,5,90,0,1,3,1.36075544402,2,How to show humility?, Build muscles.,6
+2077,3,R,,,,,0.645475861744,,,,,26,1,,5,90,0,1,3,0.783034000337,6,Why use a camera?, Give to charity.,2
+2077,4,R,,,,,2.04236709399,,,,,35,1,,5,90,0,1,3,1.13709782057,10,Why make a phone call?, Contact a friend.,2
+2077,5,R,,,,,0.648023055235,,,,,31,1,,5,90,0,1,3,2.31955479302,9,Why keep a memory?, Feel nostalgia.,3
+2077,6,R,,,,,1.85950792862,,,,,34,1,,5,90,0,1,3,0.742198118034,4,Why show intelligence?, Impress others.,3
+2077,7,R,,,,,3.49442900062,,,,,22,1,,5,90,0,1,3,0.618964053164,3,How to express doubt?, Use scissors.,5
+2077,8,L,,,,,3.64835005808,,,,,28,1,,5,90,0,1,3,1.11818602709,11,How to build muscles?, Lift weights.,5
+2077,9,L,,,,,1.70000526881,,,,,20,1,,5,90,0,1,3,1.15840331784,5,Why clap hands?, Give applause.,1
+2077,10,R,,,,,1.01263054403,,,,,36,1,,5,90,0,1,3,1.15529402182,8,Why lift a glass?, Drink wine.,1
+2077,11,L,,,,,0.982802195508,,,,,30,1,,5,90,0,1,3,0.634650465225,0,How to consume caffeine?, Press buttons.,4
+2077,12,L,,,,,4.35435698474,,,,,29,1,,5,90,0,1,3,0.837506173517,1,How to make a phone call?, Dial numbers.,4

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2197,1,L,,,,,2.94492113332,,,,,32,1,,5,90,0,3,3,0.576106422786,3,How to consume alcohol?, Drink wine.,5
+2197,2,L,,,,,0.899910411114,,,,,20,1,,5,90,0,3,3,0.691095096862,2,How to satisfy hunger?, Make breakfast.,5
+2197,3,R,,,,,3.07037607232,,,,,34,1,,5,90,0,3,3,0.846736227521,0,How to read articles?, Open a magazine.,4
+2197,4,R,,,,,0.696488579718,,,,,33,1,,5,90,0,3,3,2.05164266506,1,How to kill germs?, Wash ones hands.,4

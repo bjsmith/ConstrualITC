@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2148,1,R,,,,,1.11202956756,,,,25,30,1,,3,,1,3,3,0.568486922909,1,Why write a song?, Seek advice.,2
+2148,2,L,,,,,3.51800903081,,,,25,30,1,,8,,1,3,3,0.858177209798,2,Why write a poem?, Express an idea.,2
+2148,3,L,,,,,0.504115842477,,,,25,30,1,,7,,1,3,3,0.531518913306,3,How to get a promotion?, Arrive on time.,5
+2148,4,R,,,,,3.55646214775,,,,25,30,1,,2,,1,3,3,1.14556155576,0,How to avoid diseases?, Kill germs.,5

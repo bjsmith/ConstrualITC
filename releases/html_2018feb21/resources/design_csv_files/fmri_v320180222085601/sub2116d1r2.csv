@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2116,1,L,,,,,1.00247840135,,,,,33,1,,5,90,0,1,2,2.17720414629,28,Why raise a hand?, Participate in class.,1
+2116,2,L,,,,,1.05488647535,,,,,34,1,,5,90,0,1,2,1.24908417767,36,Why use credit cards?, Go shopping.,1
+2116,3,L,,,,,1.39869540422,,,,,32,1,,5,90,0,1,2,1.10692986475,30,Why make breakfast?, Satisfy hunger.,2
+2116,4,L,,,,,1.539168882,,,,,21,1,,5,90,0,1,2,1.51787972538,3,Why write a song?, Seek advice.,2
+2116,5,L,,,,,2.76165472145,,,,,37,1,,5,90,0,1,2,1.19330394423,44,How to show humility?, Build muscles.,6
+2116,6,L,,,,,1.08560080649,,,,,23,1,,5,90,0,1,2,1.68235389844,16,How to express a talent?, Entertain others.,6
+2116,7,L,,,,,1.04326775413,,,,,39,1,,5,90,0,1,2,1.26914784272,0,How to build muscles?, Lift weights.,5
+2116,8,R,,,,,2.087898933,,,,,36,1,,5,90,0,1,2,1.40759204211,10,How to show intelligence?, Participate in class.,5
+2116,9,R,,,,,3.42963201102,,,,,30,1,,5,90,0,1,2,4.01189020953,21,How to make a list?, Throw away trash.,4
+2116,10,R,,,,,1.31146277512,,,,,40,1,,5,90,0,1,2,1.64723959933,8,How to mix a cocktail?, Stir ingredients.,4
+2116,11,L,,,,,2.35741152277,,,,,27,1,,5,90,0,1,2,1.378667289,20,Why make art?, Show creativity.,3
+2116,12,L,,,,,1.49419047786,,,,,26,1,,5,90,0,1,2,2.81824834843,32,Why finish a job?, Feel productive.,3
+2116,13,R,,,,,1.21720129554,,,,,24,1,,5,90,0,1,2,1.68706760646,54,How to provide food?, Prepare meals.,5
+2116,14,L,,,,,2.6698210851,,,,,38,1,,5,90,0,1,2,1.66987757456,33,How to get a promotion?, Arrive on time.,5
+2116,15,L,,,,,1.84923096202,,,,,29,1,,5,90,0,1,2,3.80696212192,7,Why make a purchase?, Satisfy a need.,3
+2116,16,L,,,,,2.5540148496,,,,,35,1,,5,90,0,1,2,1.19687413158,48,Why give to charity?, Support a cause.,3
+2116,17,R,,,,,2.07065808762,,,,,31,1,,5,90,0,1,2,3.26589105311,39,Why clap hands?, Give applause.,1
+2116,18,R,,,,,2.90174926294,,,,,28,1,,5,90,0,1,2,1.03006287256,40,Why drink coffee?, Consume caffeine.,1
+2116,19,R,,,,,4.66682769001,,,,,20,1,,5,90,0,1,2,1.78157017677,49,Why watch television?, Show competence.,2
+2116,20,R,,,,,1.91554857292,,,,,25,1,,5,90,0,1,2,4.56879043458,59,Why go shopping?, Make a purchase.,2
+2116,21,R,,,,,1.59480755529,,,,,33,1,,5,90,0,1,2,1.31876959424,43,How to dress formally?, Wear ties. ,4
+2116,22,R,,,,,1.76656124085,,,,,40,1,,5,90,0,1,2,2.50517855778,24,How to clip coupons?, Cut paper.,4
+2116,23,R,,,,,2.8666988115,,,,,37,1,,5,90,0,1,2,1.28918161567,29,How to improve oneself?, Gain knowledge.,6
+2116,24,R,,,,,1.94422988917,,,,,24,1,,5,90,0,1,2,3.33552148525,26,How to feel sociable?, Hold a party.,6
+2116,25,L,,,,,2.33536241518,,,,,38,1,,5,90,0,1,2,2.38967657205,52,Why plan ahead?, Reduce worry.,3
+2116,26,L,,,,,2.00828506712,,,,,28,1,,5,90,0,1,2,1.26299019817,42,Why contact a friend?, Feel connected.,3
+2116,27,R,,,,,3.18487743466,,,,,32,1,,5,90,0,1,2,3.8414978478,46,How to show cleanliness?, Write an email.,6
+2116,28,L,,,,,1.12020204883,,,,,21,1,,5,90,0,1,2,1.094758751,37,How to avoid mistakes?, Obey laws.,6
+2116,29,R,,,,,1.92412226744,,,,,39,1,,5,90,0,1,2,1.18119935426,2,Why drink wine?, Consume alcohol.,2
+2116,30,R,,,,,1.09872009219,,,,,22,1,,5,90,0,1,2,2.14374966745,58,Why give applause?, Show appreciation.,2
+2116,31,L,,,,,3.12132453952,,,,,23,1,,5,90,0,1,2,2.67977362682,45,How to consume medicine?, Take pills. ,4
+2116,32,R,,,,,1.2470839193,,,,,25,1,,5,90,0,1,2,1.96730252538,13,How to go shopping?, Use credit cards.,4
+2116,33,R,,,,,1.46658621656,,,,,36,1,,5,90,0,1,2,1.84350908836,35,How to gain knowledge?, Read articles.,5
+2116,34,L,,,,,1.65757740282,,,,,35,1,,5,90,0,1,2,2.59692953446,22,How to consume alcohol?, Drink wine.,5
+2116,35,R,,,,,2.90040654477,,,,,30,1,,5,90,0,1,2,1.10396550389,47,Why dial numbers?, Make a phone call.,1
+2116,36,L,,,,,1.82295066119,,,,,27,1,,5,90,0,1,2,1.11118152611,38,Why use a comb?, Write a song.,1
+2116,37,R,,,,,1.06447343,,,,,29,1,,5,90,0,1,2,1.22438991998,56,Why provide food?, Help a person.,3
+2116,38,L,,,,,1.0326704956,,,,,20,1,,5,90,0,1,2,2.21488160809,14,Why reduce pain?, Feel well.,3
+2116,39,L,,,,,2.25349520503,,,,,34,1,,5,90,0,1,2,2.27206765864,11,How to show an ability?, Satisfy hunger.,6
+2116,40,R,,,,,3.20521733201,,,,,26,1,,5,90,0,1,2,2.14548987817,5,How to spread knowledge?, Teach others.,6
+2116,41,R,,,,,1.91783589547,,,,,31,1,,5,90,0,1,2,1.14822438649,53,How to take a picture?, Point a camera.,4
+2116,42,L,,,,,1.1467730725,,,,,28,1,,5,90,0,1,2,2.65364074632,51,How to read articles?, Open a magazine.,4
+2116,43,R,,,,,1.41288842684,,,,,40,1,,5,90,0,1,2,1.31003618998,23,How to give to charity?, Use a camera.,5
+2116,44,L,,,,,1.94188363258,,,,,27,1,,5,90,0,1,2,1.2410314921,41,How to write an email?, Open a browser.,5
+2116,45,R,,,,,2.21667013349,,,,,22,1,,5,90,0,1,2,1.57583144793,1,Why point a camera?, Take a picture.,1
+2116,46,L,,,,,1.78023324136,,,,,20,1,,5,90,0,1,2,2.63660836891,12,Why use chalk?, Get fit.,1
+2116,47,L,,,,,1.77099972133,,,,,39,1,,5,90,0,1,2,3.08933491357,18,Why use a camera?, Give to charity.,2
+2116,48,R,,,,,3.85598938634,,,,,25,1,,5,90,0,1,2,2.46718908996,17,Why make a list?, Plan ahead.,2
+2116,49,L,,,,,2.39462196937,,,,,35,1,,5,90,0,1,2,3.07343787881,55,Why stir ingredients?, Mix a cocktail.,1
+2116,50,R,,,,,2.29758147807,,,,,33,1,,5,90,0,1,2,1.54766408586,25,Why wear ties?, Dress formally.,1
+2116,51,R,,,,,1.34750197237,,,,,24,1,,5,90,0,1,2,1.7070835992,15,How to feel secure?, Save money.,6
+2116,52,R,,,,,3.98835287721,,,,,23,1,,5,90,0,1,2,1.73147465551,50,How to show intellect?, Share ideas.,6
+2116,53,L,,,,,1.26677260597,,,,,36,1,,5,90,0,1,2,1.82883655507,31,Why show appreciation?, Spread joy.,3
+2116,54,L,,,,,1.29747352935,,,,,30,1,,5,90,0,1,2,2.51175935803,34,Why hold a party?, Feel sociable.,3
+2116,55,L,,,,,2.43975077698,,,,,32,1,,5,90,0,1,2,1.41407625594,57,Why consume caffeine?, Stay alert.,2
+2116,56,R,,,,,1.85385688462,,,,,34,1,,5,90,0,1,2,2.32533777364,6,Why dress formally?, Get a promotion.,2
+2116,57,L,,,,,1.33449346295,,,,,29,1,,5,90,0,1,2,1.16638939713,19,How to plan ahead?, Make a list.,5
+2116,58,R,,,,,1.4724538724,,,,,37,1,,5,90,0,1,2,1.20180494122,9,How to entertain oneself?, Watch television.,5
+2116,59,R,,,,,1.56168501543,,,,,38,1,,5,90,0,1,2,2.09786374871,4,How to make a phone call?, Dial numbers.,4
+2116,60,L,,,,,3.13324109513,,,,,26,1,,5,90,0,1,2,2.94362073361,27,How to give applause?, Clap hands.,4

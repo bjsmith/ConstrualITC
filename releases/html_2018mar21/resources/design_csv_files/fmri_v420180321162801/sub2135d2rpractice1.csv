@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2135,1,R,,,,,2.61686122424,,,,,33,1,,5,90,0,2,3,2.11052507322,1,Why gain knowledge?, Improve oneself.,3
+2135,2,R,,,,,1.10497486048,,,,,20,1,,5,90,0,2,3,0.733306579229,0,Why make art?, Show creativity.,3
+2135,3,L,,,,,1.69773755054,,,,,40,1,,5,90,0,2,3,0.654467378963,3,How to entertain oneself?, Watch television.,5
+2135,4,L,,,,,1.9512960013,,,,,30,1,,5,90,0,2,3,0.767686629689,2,How to teach others?, Give a lecture.,5

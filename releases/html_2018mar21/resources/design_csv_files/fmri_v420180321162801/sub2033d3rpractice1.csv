@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2033,1,L,,,,,1.94360823467,,,,,20,1,,5,90,0,3,3,0.796188616953,0,How to spread joy?, Get a job.,6
+2033,2,R,,,,,0.694172744955,,,,,39,1,,5,90,0,3,3,0.5250849062,1,How to impress others?, Show intelligence.,6
+2033,3,R,,,,,4.18849795521,,,,,29,1,,5,90,0,3,3,0.991926537968,3,How to watch television?, Use a remote.,4
+2033,4,L,,,,,1.35772720492,,,,,36,1,,5,90,0,3,3,1.09001308992,2,How to make a phone call?, Dial numbers.,4

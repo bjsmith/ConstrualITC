@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2123,1,R,,,,,4.79106568629,,,,,31,1,,5,90,0,2,3,0.766840781705,0,Why consume medicine?, Reduce pain.,2
+2123,2,R,,,,,1.66127503785,,,,,37,1,,5,90,0,2,3,0.866722855124,3,Why make a phone call?, Contact a friend.,2
+2123,3,L,,,,,0.58016640416,,,,,21,1,,5,90,0,2,3,0.563816225915,2,How to entertain others?, Write a song.,5
+2123,4,L,,,,,0.682908444625,,,,,33,1,,5,90,0,2,3,1.1061795566,1,How to satisfy hunger?, Make breakfast.,5

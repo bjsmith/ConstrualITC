@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,1,,,,,2.34825918684,,,,,33,1,,5,90,0,3,3,2.18534082053,0,Why use a comb?, Write a song.,1
+2021,2,2,,,,,0.737291221733,,,,,32,1,,5,90,0,3,3,2.92126173847,0,Why point a camera?, Take a picture.,1
+2021,3,1,,,,,2.41184237088,,,,,22,1,,5,90,0,3,3,2.46943326727,1,Why consume caffeine?, Stay alert.,2
+2021,4,2,,,,,1.71279393249,,,,,34,1,,5,90,0,3,3,0.590125701188,0,Why make a phone call?, Contact a friend.,2

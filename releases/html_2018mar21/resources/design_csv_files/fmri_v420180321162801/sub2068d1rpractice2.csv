@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2068,1,L,,,,,0.672686997612,,,,,33,1,,5,90,0,1,4,0.988796611829,3,How to dress formally?, Wear ties. ,4
+2068,2,R,,,,,2.15814946084,,,,,26,1,,5,90,0,1,4,0.842879710363,6,How to open a browser?, Click a mouse.,4
+2068,3,L,,,,,1.54258846707,,,,,32,1,,5,90,0,1,4,0.988205506532,1,How to get a degree?, Attend a school.,6
+2068,4,R,,,,,0.875777005898,,,,,21,1,,5,90,0,1,4,1.16043774759,5,How to show an ability?, Satisfy hunger.,6
+2068,5,R,,,,,0.670298447818,,,,,36,1,,5,90,0,1,4,0.733764764193,11,Why write a song?, Seek advice.,2
+2068,6,R,,,,,2.31584509032,,,,,35,1,,5,90,0,1,4,1.37387307923,4,Why enter a classroom?, Attend a school.,2
+2068,7,L,,,,,1.09583157836,,,,,25,1,,5,90,0,1,4,0.944161978148,10,Why get a promotion?, Achieve success.,3
+2068,8,L,,,,,5.15128598209,,,,,22,1,,5,90,0,1,4,1.32634336978,9,Why make a purchase?, Satisfy a need.,3
+2068,9,L,,,,,6.07472741553,,,,,30,1,,5,90,0,1,4,0.997319455624,8,Why open a magazine?, Read articles.,1
+2068,10,L,,,,,2.20513106775,,,,,38,1,,5,90,0,1,4,1.22873220879,0,Why point a camera?, Take a picture.,1
+2068,11,R,,,,,0.535108594829,,,,,39,1,,5,90,0,1,4,0.747473669548,7,How to express doubt?, Use scissors.,5
+2068,12,R,,,,,1.57901948177,,,,,23,1,,5,90,0,1,4,0.882598064133,2,How to show ambition?, Serve alcohol.,5

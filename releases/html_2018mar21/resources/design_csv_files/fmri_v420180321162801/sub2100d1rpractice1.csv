@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2100,1,L,,,,,3.08587794657,,,,25,30,1,,4,,1,1,3,0.928248067284,6,How to satisfy hunger?, Make breakfast.,5
+2100,2,L,,,,,0.849188065657,,,,25,30,1,,9,,1,1,3,0.683193998787,8,How to make a donation?, Mix a cocktail.,5
+2100,3,R,,,,,3.58133297843,,,,25,30,1,,2,,1,1,3,0.854930489449,7,Why show courtesy?, Make a friend.,3
+2100,4,R,,,,,3.26685620215,,,,25,30,1,,6,,1,1,3,1.56300241671,5,Why keep a memory?, Feel nostalgia.,3
+2100,5,R,,,,,2.10579931531,,,,25,30,1,,8,,1,1,3,1.05219794106,4,Why dress formally?, Get a promotion.,2
+2100,6,L,,,,,1.02807292164,,,,25,30,1,,7,,1,1,3,1.89580288299,10,Why kill germs?, Avoid diseases.,2
+2100,7,L,,,,,1.05968606452,,,,25,30,1,,5,,1,1,3,0.93132635145,0,How to read articles?, Open a magazine.,4
+2100,8,L,,,,,0.754314416491,,,,25,30,1,,3,,1,1,3,0.630819185563,3,How to make a list?, Throw away trash.,4
+2100,9,R,,,,,2.00413517879,,,,25,30,1,,1,,1,1,3,0.775151471414,1,Why raise a hand?, Participate in class.,1
+2100,10,R,,,,,0.749518968562,,,,25,30,1,,3,,1,1,3,1.64662087861,11,Why wash ones hands?, Kill germs.,1
+2100,11,R,,,,,3.57954959572,,,,25,30,1,,5,,1,1,3,0.601633089794,2,How to avoid boredom?, Entertain oneself.,6
+2100,12,L,,,,,2.25043970421,,,,25,30,1,,9,,1,1,3,0.541819258536,9,How to spread knowledge?, Teach others.,6

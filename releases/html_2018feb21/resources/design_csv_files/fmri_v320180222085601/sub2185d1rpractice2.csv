@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2185,1,L,,,,,3.19413856882,,,,25,30,1,,9,,1,1,4,0.553499434123,9,How to open a browser?, Click a mouse.,4
+2185,2,R,,,,,1.57247001595,,,,25,30,1,,7,,1,1,4,0.578506479916,0,How to dress formally?, Wear ties. ,4
+2185,3,R,,,,,5.92692385745,,,,25,30,1,,8,,1,1,4,0.84164034258,5,How to reduce worry?, Plan ahead.,6
+2185,4,L,,,,,2.06519803049,,,,25,30,1,,1,,1,1,4,1.12323650826,7,How to show intellect?, Share ideas.,6
+2185,5,R,,,,,0.812266164067,,,,25,30,1,,6,,1,1,4,1.01150188353,11,Why keep a memory?, Feel nostalgia.,3
+2185,6,L,,,,,0.557068657466,,,,25,30,1,,4,,1,1,4,1.81106765653,2,Why attend a school?, Get a degree.,3
+2185,7,L,,,,,1.17292949908,,,,25,30,1,,5,,1,1,4,0.915636848506,3,How to plan ahead?, Make a list.,5
+2185,8,R,,,,,1.17706781399,,,,25,30,1,,3,,1,1,4,1.47350193933,6,How to satisfy hunger?, Make breakfast.,5
+2185,9,R,,,,,1.07252171927,,,,25,30,1,,2,,1,1,4,0.915285770504,8,Why use a remote?, Watch television.,1
+2185,10,L,,,,,1.13384247383,,,,25,30,1,,4,,1,1,4,0.729226687708,1,Why stir ingredients?, Mix a cocktail.,1
+2185,11,R,,,,,0.827015938644,,,,25,30,1,,3,,1,1,4,1.43640811868,10,Why drink wine?, Consume alcohol.,2
+2185,12,L,,,,,3.64325748866,,,,25,30,1,,6,,1,1,4,0.929896635189,4,Why clip coupons?, Save money.,2

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2095,1,R,,,,,1.74437230195,,,,25,30,1,,4,,1,1,4,0.538509792766,11,How to make a purchase?, Go shopping.,5
+2095,2,R,,,,,2.21418694832,,,,25,30,1,,9,,1,1,4,0.885711147792,8,How to show intelligence?, Participate in class.,5
+2095,3,R,,,,,2.2278187327,,,,25,30,1,,7,,1,1,4,0.87987621763,7,How to feel productive?, Finish a job.,6
+2095,4,R,,,,,1.62886993818,,,,25,30,1,,1,,1,1,4,1.96402488005,0,How to support a cause?, Give to charity.,6
+2095,5,L,,,,,1.94518729371,,,,25,30,1,,8,,1,1,4,1.33267822927,5,Why lift a glass?, Drink wine.,1
+2095,6,R,,,,,5.96878201075,,,,25,30,1,,5,,1,1,4,1.21356059161,3,Why wash ones hands?, Kill germs.,1
+2095,7,R,,,,,1.68526888269,,,,25,30,1,,2,,1,1,4,0.628146697267,1,Why give to charity?, Support a cause.,3
+2095,8,L,,,,,0.650689811898,,,,25,30,1,,3,,1,1,4,1.47722365079,10,Why plan ahead?, Reduce worry.,3
+2095,9,L,,,,,2.17509386857,,,,25,30,1,,7,,1,1,4,1.26030008631,9,Why give applause?, Show appreciation.,2
+2095,10,L,,,,,0.569196527366,,,,25,30,1,,5,,1,1,4,0.664228235464,4,Why open a browser?, Write an email.,2
+2095,11,L,,,,,2.11398840963,,,,25,30,1,,8,,1,1,4,0.821772478612,2,How to consume caffeine?, Press buttons.,4
+2095,12,L,,,,,0.76200874934,,,,25,30,1,,2,,1,1,4,0.699658517397,6,How to make breakfast?, Crack eggs.,4

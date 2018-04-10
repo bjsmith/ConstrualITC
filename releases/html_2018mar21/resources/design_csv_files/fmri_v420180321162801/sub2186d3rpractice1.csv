@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2186,1,L,,,,,0.797246481465,,,,25,30,1,,2,,1,3,3,0.520083356071,3,Why make art?, Show creativity.,3
+2186,2,L,,,,,2.86865399256,,,,25,30,1,,8,,1,3,3,0.8141799818,0,Why show courtesy?, Make a friend.,3
+2186,3,R,,,,,0.982336943052,,,,25,30,1,,1,,1,3,3,0.943544591145,2,How to feel productive?, Finish a job.,6
+2186,4,R,,,,,2.78083748133,,,,25,30,1,,9,,1,3,3,0.749642599031,1,How to show creativity?, Make art.,6

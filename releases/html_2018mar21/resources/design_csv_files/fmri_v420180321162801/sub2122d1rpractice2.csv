@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2122,1,R,,,,,1.40709698709,,,,,31,1,,5,90,0,1,4,0.566188432647,2,Why plan ahead?, Reduce worry.,3
+2122,2,L,,,,,1.96446369807,,,,,34,1,,5,90,0,1,4,0.588515414717,3,Why finish a job?, Feel productive.,3
+2122,3,L,,,,,1.78346562673,,,,,24,1,,5,90,0,1,4,2.07914948187,4,How to mix a cocktail?, Stir ingredients.,4
+2122,4,R,,,,,1.97097574468,,,,,29,1,,5,90,0,1,4,0.742750236916,5,How to make a list?, Throw away trash.,4
+2122,5,R,,,,,1.4902310371,,,,,28,1,,5,90,0,1,4,0.820788752576,7,Why paint a picture?, Make art.,2
+2122,6,L,,,,,2.16273628329,,,,,22,1,,5,90,0,1,4,1.29868136334,11,Why consume caffeine?, Stay alert.,2
+2122,7,R,,,,,2.80519977591,,,,,26,1,,5,90,0,1,4,0.870937367547,6,How to feel secure?, Save money.,6
+2122,8,R,,,,,1.48925970338,,,,,38,1,,5,90,0,1,4,0.640485181065,10,How to improve oneself?, Gain knowledge.,6
+2122,9,L,,,,,2.6902608993,,,,,32,1,,5,90,0,1,4,1.9334439656,1,How to consume alcohol?, Drink wine.,5
+2122,10,L,,,,,2.64306384797,,,,,36,1,,5,90,0,1,4,1.18946386738,9,How to attend a school?, Enter a classroom.,5
+2122,11,R,,,,,0.664761633848,,,,,33,1,,5,90,0,1,4,0.869531650406,0,Why open a magazine?, Read articles.,1
+2122,12,L,,,,,1.93895132244,,,,,23,1,,5,90,0,1,4,1.02290146607,8,Why click a mouse?, Open a browser.,1

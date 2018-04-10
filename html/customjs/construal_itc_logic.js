@@ -77,22 +77,23 @@ var trialFeedbackReceived=false;
 var startingK = null;
 var trial_choiceUp=null;
 function after_trialRoutineBegin(){
+	itc_trial_response_obtained=false;
 	
 	//BUG FIX
 	STARTED=psychoJS.STARTED;
 	
 	//load the k value if it hasn't been already
 	if(k_val==null){
-		k_val = expInfo['k_val']*1
+		k_val = [expInfo['k_val_amountsalient']*1,expInfo['k_val_delaysalient']*1];
 	}
-	startingK=k_val;
+	startingK=k_val[parseInt(salienceCondition)];//[salienceCondition];
 	//alert(delaySS + ',' + amountSS + ',' + delayLL + ',' + amountLL);
 	if(salienceCondition==SALIENCE_CONDITION_AMOUNT_SALIENT){
-		SSamount=get_amountSS(k_val,SSdelay,LLdelay,LLamount);
+		SSamount=get_amountSS(k_val[parseInt(salienceCondition)],SSdelay,LLdelay,LLamount);
 	}else if (salienceCondition==SALIENCE_CONDITION_DELAY_SALIENT){
 	//SSamount,LLamount,Condition,Choice,SSdelay,LLdelay
 		//alert('calling delayll;' + SSdelay + ',' + SSamount + ',' + LLdelay + ',' + LLamount);
-		LLdelay=get_delayLL(k_val,SSdelay,SSamount,LLamount);
+		LLdelay=get_delayLL(k_val[parseInt(salienceCondition)],SSdelay,SSamount,LLamount);
 	}
 	
 	//now that we've calculated these, if this is a Dominated condition
@@ -172,7 +173,7 @@ function after_TrialRoutineEachFrame(){
 		//function within function!!!
 		//this is run after subject response but before the feedback has fully been shown.
 		function saveTrialValuesAndWrapUp(){
-			endingK=k_val;
+			endingK=k_val[parseInt(salienceCondition)];
 			trials_set1.trialList[trials_set1.nTotal-trials_set1.nRemaining]['startingK']=startingK;
 			trials_set1.trialList[trials_set1.nTotal-trials_set1.nRemaining]['endingK']=endingK;
 			trials_set1.trialList[trials_set1.nTotal-trials_set1.nRemaining]['RT']=t;
@@ -191,12 +192,9 @@ function after_TrialRoutineEachFrame(){
 
 		}
 	//this is called every single screen frame.	
-	if (theseKeys.length > 0 & t<itc_feedback_limit) {  // at least one key was pressed
-		
-
-
-
+	if (theseKeys.length > 0 & t<itc_feedback_limit  & itc_trial_response_obtained==false) {  // at least one key was pressed
 		var trial_choice = null;
+		itc_trial_response_obtained= true;
 		
 		firstResp=theseKeys[0];
         if (firstResp=='1'){
@@ -244,7 +242,7 @@ function after_TrialRoutineEachFrame(){
 		
 		//recalculate k value, but only if we're not in a dominated condition.
 		if (Condition==condition_STANDARD){
-			k_val = increment_k_m(trial_choice,k_val);
+			k_val[parseInt(salienceCondition)] = increment_k_m(trial_choice,k_val[parseInt(salienceCondition)]);
 		}
 	}else if (theseKeys.length > 0 & t>=itc_feedback_limit){
 		//a key was pressed but after the time limit; ignore the keypress!
@@ -278,7 +276,7 @@ function after_TrialRoutineEachFrame(){
 	
 	
 	
-	if(t>=itc_feedback_limit){
+	if(t>=itc_feedback_limit & itc_trial_response_obtained==false){
 		//show the 'too slow' item.
 		showRespondFasterWarning=true;
 	}
@@ -289,7 +287,7 @@ function after_TrialRoutineEachFrame(){
 }
 //THIS SEEMS TO BE DEFUNCT AND NOT CALLED.
 function on_routine_end(choice){
-	k_val = increment_k_m(choice,k_val);
+	k_val[parseInt(salienceCondition)] = increment_k_m(choice,k_val[parseInt(salienceCondition)]);
 	console.log(total_time_limit);
 	console.log(get_fMRI_time());
 	//we're reaching the time limit, need to end.
@@ -302,7 +300,7 @@ function after_ITIfixRoutineEachFrame(){
 }
 
 function after_rTaskIntervalRoutineEachFrame(){
-	if(t>=ITI || time_limit_reached==true){
+	if(t>=TaskInterval || time_limit_reached==true){
 		continueRoutine=false;
 	}
 }
@@ -322,11 +320,13 @@ function on_rTaskIntervalFrame(){
 
 
 function run_replace_default_expInfo(){
-	expInfo = {'participant':'', 'session':'1','run':'1',
-	'k_val':0.01,
-	'designDir':'fmri_v320180222005112',
-	'total_time_limit':'400'
+	expInfo = {'participant':'', 'session':'','run':'',
+	'k_val_amountsalient':0.01,
+	'k_val_delaysalient':0.01,
+	'designDir':'fMRI_xxx',
+	'total_time_limit':'395'
 };
+	document.getElementById('fps').style.display="none";
 
 	return expInfo;
 }

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2169,1,R,,,,,2.4710516191,,,,25,30,1,,6,,1,2,4,0.980874311183,2,Why wash ones hands?, Kill germs.,1
+2169,2,R,,,,,0.902257495415,,,,25,30,1,,5,,1,2,4,0.84556095818,0,Why crack eggs?, Make breakfast.,1
+2169,3,L,,,,,0.856173166417,,,,25,30,1,,7,,1,2,4,0.949612674193,1,How to feel connected?, Contact a friend.,6
+2169,4,L,,,,,4.27709559042,,,,25,30,1,,3,,1,2,4,1.17015143727,3,How to show creativity?, Make art.,6

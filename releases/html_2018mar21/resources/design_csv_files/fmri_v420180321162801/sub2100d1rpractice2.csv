@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2100,1,L,,,,,1.78710009178,,,,,31,1,,5,90,0,1,4,0.67993543706,7,Why show appreciation?, Spread joy.,3
+2100,2,L,,,,,1.23951943209,,,,,27,1,,5,90,0,1,4,0.706166040769,5,Why satisfy hunger?, Show an ability.,3
+2100,3,R,,,,,1.04308334521,,,,,28,1,,5,90,0,1,4,0.685849394989,4,How to give a lecture?, Brush ones hair.,4
+2100,4,L,,,,,1.59562942757,,,,,24,1,,5,90,0,1,4,1.67527519762,6,How to prepare meals?, Follow recipes.,4
+2100,5,R,,,,,3.62509722751,,,,,29,1,,5,90,0,1,4,0.668342971758,11,Why make breakfast?, Satisfy hunger.,2
+2100,6,R,,,,,2.70017757862,,,,,37,1,,5,90,0,1,4,0.821235506881,8,Why watch television?, Show competence.,2
+2100,7,L,,,,,1.02345105064,,,,,40,1,,5,90,0,1,4,2.21869633882,3,How to live a long life?, Avoid diseases.,6
+2100,8,L,,,,,0.722620693582,,,,,21,1,,5,90,0,1,4,0.681518128642,2,How to get a degree?, Attend a school.,6
+2100,9,R,,,,,0.650796195242,,,,,25,1,,5,90,0,1,4,1.01091385473,10,Why cut paper?, Clip coupons.,1
+2100,10,R,,,,,3.30193705447,,,,,39,1,,5,90,0,1,4,0.904311395072,0,Why wear ties?, Dress formally.,1
+2100,11,R,,,,,1.89537527671,,,,,35,1,,5,90,0,1,4,1.23069953209,1,How to reduce pain?, Consume medicine.,5
+2100,12,L,,,,,3.89060645685,,,,,20,1,,5,90,0,1,4,0.597693731474,9,How to attend a school?, Enter a classroom.,5

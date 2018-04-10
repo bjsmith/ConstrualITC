@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2146,1,R,,,,,2.79563466756,,,,,27,1,,5,90,0,2,4,1.26893890648,0,Why show competence?, Pass the time.,3
+2146,2,L,,,,,0.860631506083,,,,,31,1,,5,90,0,2,4,0.685189689279,1,Why show appreciation?, Spread joy.,3
+2146,3,R,,,,,3.37712022341,,,,,23,1,,5,90,0,2,4,0.780275720864,2,How to feel well?, Reduce pain.,6
+2146,4,L,,,,,0.737011203748,,,,,38,1,,5,90,0,2,4,0.573659282427,3,How to reduce worry?, Plan ahead.,6

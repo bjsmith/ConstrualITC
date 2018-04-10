@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,L,,,,,5.41486611795,,,,,28,1,,5,90,0,2,4,0.580890407914,2,How to take a picture?, Point a camera.,4
+2028,2,R,,,,,0.622284687949,,,,,32,1,,5,90,0,2,4,0.597574599295,0,How to drink wine?, Open a bottle. ,4
+2028,3,L,,,,,1.14597370325,,,,,27,1,,5,90,0,2,4,1.09226271196,1,Why wash ones hands?, Kill germs.,1
+2028,4,R,,,,,1.26452777858,,,,,33,1,,5,90,0,2,4,1.04361173344,3,Why lift a glass?, Drink wine.,1

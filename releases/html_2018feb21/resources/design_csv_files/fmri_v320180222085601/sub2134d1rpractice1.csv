@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2134,1,L,,,,,4.77410784057,,,,25,30,1,,3,,1,1,3,0.731550747871,11,How to make a list?, Throw away trash.,4
+2134,2,R,,,,,1.58844435327,,,,25,30,1,,7,,1,1,3,0.734475395838,10,How to make a phone call?, Dial numbers.,4
+2134,3,R,,,,,2.35922732342,,,,25,30,1,,5,,1,1,3,0.594411579154,3,Why show intelligence?, Impress others.,3
+2134,4,R,,,,,1.47564586277,,,,25,30,1,,6,,1,1,3,0.568357519481,9,Why entertain others?, Express a talent.,3
+2134,5,L,,,,,0.651128989287,,,,25,30,1,,2,,1,1,3,0.720387935893,1,How to gain knowledge?, Read articles.,5
+2134,6,L,,,,,0.67412148025,,,,25,30,1,,4,,1,1,3,1.14318214518,2,How to make a purchase?, Go shopping.,5
+2134,7,R,,,,,0.682843032002,,,,25,30,1,,8,,1,1,3,1.07155544018,5,Why make breakfast?, Satisfy hunger.,2
+2134,8,R,,,,,2.59532116262,,,,25,30,1,,1,,1,1,3,1.83287145725,8,Why give a lecture?, Teach others.,2
+2134,9,R,,,,,1.02893474352,,,,25,30,1,,1,,1,1,3,0.627220108793,7,Why wear ties?, Dress formally.,1
+2134,10,L,,,,,2.76311109106,,,,25,30,1,,2,,1,1,3,0.882786491215,4,Why crack eggs?, Make breakfast.,1
+2134,11,L,,,,,2.9646308198,,,,25,30,1,,5,,1,1,3,0.646923888718,6,How to feel productive?, Finish a job.,6
+2134,12,L,,,,,3.40601456713,,,,25,30,1,,9,,1,1,3,1.48950738653,0,How to live a long life?, Avoid diseases.,6

@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2182,1,R,,,,,1.39435002203,,,,25,30,1,,1,,1,2,3,1.06071045995,3,Why use a comb?, Write a song.,1
+2182,2,R,,,,,1.71045975174,,,,25,30,1,,5,,1,2,3,1.46027359913,2,Why click a mouse?, Open a browser.,1
+2182,3,L,,,,,0.544052366554,,,,25,30,1,,6,,1,2,3,0.871656946193,0,Why hold a party?, Feel sociable.,3
+2182,4,L,,,,,5.07131709751,,,,25,30,1,,8,,1,2,3,0.505123721676,1,Why show courtesy?, Make a friend.,3

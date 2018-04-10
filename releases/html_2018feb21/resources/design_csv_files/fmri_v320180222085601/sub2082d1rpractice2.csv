@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2082,1,L,,,,,3.44887088642,,,,,32,1,,5,90,0,1,4,0.977630186975,5,Why throw away trash?, Make a list.,1
+2082,2,L,,,,,5.6921371713,,,,,36,1,,5,90,0,1,4,1.68109609174,1,Why drink coffee?, Consume caffeine.,1
+2082,3,R,,,,,0.790639511257,,,,,33,1,,5,90,0,1,4,0.573064472222,9,How to make breakfast?, Crack eggs.,4
+2082,4,L,,,,,1.0709038658,,,,,30,1,,5,90,0,1,4,1.34007148791,4,How to go shopping?, Use credit cards.,4
+2082,5,L,,,,,2.09731085157,,,,,21,1,,5,90,0,1,4,0.573262438665,11,How to make a purchase?, Go shopping.,5
+2082,6,R,,,,,0.971475034682,,,,,28,1,,5,90,0,1,4,1.1907821351,3,How to provide food?, Prepare meals.,5
+2082,7,L,,,,,3.02196526568,,,,,34,1,,5,90,0,1,4,0.555754128311,8,How to show an ability?, Satisfy hunger.,6
+2082,8,R,,,,,0.533330285968,,,,,35,1,,5,90,0,1,4,1.09026028113,10,How to show creativity?, Make art.,6
+2082,9,R,,,,,1.02685376223,,,,,31,1,,5,90,0,1,4,0.521813476159,0,Why make art?, Show creativity.,3
+2082,10,R,,,,,1.81444459025,,,,,23,1,,5,90,0,1,4,1.1747574162,6,Why hold a party?, Feel sociable.,3
+2082,11,R,,,,,2.79590971174,,,,,26,1,,5,90,0,1,4,1.14504679947,7,Why enter a classroom?, Attend a school.,2
+2082,12,L,,,,,0.948368668968,,,,,22,1,,5,90,0,1,4,1.91473014474,2,Why make breakfast?, Satisfy hunger.,2

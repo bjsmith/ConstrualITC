@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2017,1,1,,,,,0.768305999555,,,,25,30,1,,4,,1,2,2,1.30308305781,0,Why consume caffeine?, Stay alert.,2
+2017,2,1,,,,,2.76926550622,,,,25,30,1,,6,,1,2,2,0.551386145413,0,How to express a talent?, Entertain others.,6
+2017,3,2,,,,,1.30291089424,,,,25,30,1,,1,,1,2,2,0.525053836884,0,How to express doubt?, Use scissors.,5
+2017,4,1,,,,,5.60882481607,,,,25,30,1,,5,,1,2,2,0.546145285529,0,Why follow recipes?, Prepare meals.,1
+2017,5,2,,,,,1.82910640752,,,,25,30,1,,8,,1,2,2,1.01963136942,0,Why show appreciation?, Spread joy.,3
+2017,6,1,,,,,0.585326262569,,,,25,30,1,,2,,1,2,2,1.22190627616,0,How to mix a cocktail?, Stir ingredients.,4
+2017,7,2,,,,,2.26491154705,,,,25,30,1,,9,,1,2,2,0.86823678444,0,How to feel nostalgia?, Keep a memory.,6
+2017,8,2,,,,,0.879443530905,,,,25,30,1,,3,,1,2,2,0.577879415881,0,Why paint a picture?, Make art.,2
+2017,9,1,,,,,2.27106616214,,,,25,30,1,,9,,1,2,2,0.945178030588,0,How to satisfy hunger?, Make breakfast.,5
+2017,10,1,,,,,1.40435505832,,,,25,30,1,,7,,1,2,2,0.71431051075,0,Why raise a hand?, Participate in class.,1
+2017,11,1,,,,,0.636836118393,,,,25,30,1,,6,,1,2,2,0.715255681384,0,How to give a lecture?, Brush ones hair.,4
+2017,12,2,,,,,1.50935276453,,,,25,30,1,,5,,1,2,2,0.832088006448,0,Why provide food?, Help a person.,3
+2017,13,1,,,,,2.78563416715,,,,25,30,1,,4,,1,2,2,1.09262886925,0,Why give to charity?, Support a cause.,3
+2017,14,1,,,,,0.67451622402,,,,25,30,1,,8,,1,2,2,2.06785988125,0,Why drink coffee?, Consume caffeine.,1
+2017,15,2,,,,,2.62761281246,,,,25,30,1,,3,,1,2,2,0.579233390207,0,Why go shopping?, Make a purchase.,2
+2017,16,2,,,,,1.92576147606,,,,25,30,1,,2,,1,2,2,0.631765421575,0,How to watch television?, Use a remote.,4
+2017,17,2,,,,,4.03829769678,,,,25,30,1,,7,,1,2,2,2.12945684606,0,How to live a long life?, Avoid diseases.,6
+2017,18,1,,,,,0.699118744955,,,,25,30,1,,2,,1,2,2,1.96235766601,0,How to teach others?, Give a lecture.,5
+2017,19,2,,,,,0.976536758597,,,,25,30,1,,6,,1,2,2,0.791777294343,0,How to make a donation?, Mix a cocktail.,5
+2017,20,2,,,,,3.30541810032,,,,25,30,1,,3,,1,2,2,0.78571154965,0,Why entertain others?, Express a talent.,3
+2017,21,2,,,,,1.39040877835,,,,25,30,1,,8,,1,2,2,0.699849438126,0,How to paint a picture?, Use a brush.,4
+2017,22,2,,,,,1.03188453545,,,,25,30,1,,9,,1,2,2,0.734657337901,0,Why make breakfast?, Satisfy hunger.,2
+2017,23,1,,,,,1.64412423682,,,,25,30,1,,4,,1,2,2,1.00537405688,0,How to feel connected?, Contact a friend.,6
+2017,24,2,,,,,4.53737615519,,,,25,30,1,,5,,1,2,2,0.586913054881,0,Why sign ones name?, Write a check.,1
+2017,25,1,,,,,2.36041734827,,,,25,30,1,,3,,1,2,2,0.862259683622,0,Why give a lecture?, Teach others.,2
+2017,26,1,,,,,2.03301381167,,,,25,30,1,,7,,1,2,2,0.800710724122,0,How to take a picture?, Point a camera.,4
+2017,27,1,,,,,2.23229503836,,,,25,30,1,,5,,1,2,2,1.79185081875,0,Why save money?, Get fit.,3
+2017,28,2,,,,,3.05419286893,,,,25,30,1,,9,,1,2,2,1.68049019888,0,How to build muscles?, Lift weights.,5
+2017,29,2,,,,,1.24624078583,,,,25,30,1,,4,,1,2,2,0.725984016032,0,How to feel productive?, Finish a job.,6
+2017,30,1,,,,,3.34582533055,,,,25,30,1,,8,,1,2,2,0.567627296043,0,Why open a bottle?, Consume medicine.,1
+2017,31,1,,,,,4.49264557464,,,,25,30,1,,2,,1,2,2,0.69754283779,0,Why use credit cards?, Go shopping.,1
+2017,32,2,,,,,1.35161986165,,,,25,30,1,,1,,1,2,2,1.46995304241,1,Why reduce pain?, Feel well.,3
+2017,33,2,,,,,1.08462936259,,,,25,30,1,,6,,1,2,2,0.697961970398,0,How to spread joy?, Get a job.,6
+2017,34,2,,,,,0.656188635202,,,,25,30,1,,8,,1,2,2,0.685217314097,0,How to contact a friend?, Make a phone call.,5
+2017,35,1,,,,,2.17795255117,,,,25,30,1,,2,,1,2,2,2.46843168779,0,How to give applause?, Clap hands.,4
+2017,36,1,,,,,1.04121994845,,,,25,30,1,,4,,1,2,2,0.796181622068,0,Why lift weights?, Build muscles.,2
+2017,37,1,,,,,0.782613914806,,,,25,30,1,,9,,1,2,2,0.914190940025,0,How to gain knowledge?, Read articles.,5
+2017,38,2,,,,,3.09158330635,,,,25,30,1,,3,,1,2,2,0.506049351306,0,Why satisfy hunger?, Show an ability.,3
+2017,39,2,,,,,2.26484002414,,,,25,30,1,,5,,1,2,2,0.805665616991,0,Why teach a class?, Obey laws.,2
+2017,40,1,,,,,1.58264007809,,,,25,30,1,,7,,1,2,2,1.42506257606,0,How to feel well?, Reduce pain.,6

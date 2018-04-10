@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2068,1,R,,,,,3.59419711586,,,,25,30,1,,8,,1,1,3,0.538661551822,7,How to get a promotion?, Arrive on time.,5
+2068,2,L,,,,,1.84856900941,,,,25,30,1,,7,,1,1,3,1.74587227148,2,How to give to charity?, Use a camera.,5
+2068,3,L,,,,,3.18440817593,,,,25,30,1,,5,,1,1,3,1.3965064573,3,Why share ideas?, Show intellect.,3
+2068,4,L,,,,,1.32613926228,,,,25,30,1,,9,,1,1,3,1.20728356117,6,Why show appreciation?, Spread joy.,3
+2068,5,L,,,,,0.568815724223,,,,25,30,1,,1,,1,1,3,1.03272137393,4,Why take a picture?, Keep a memory.,2
+2068,6,L,,,,,1.55234563937,,,,25,30,1,,2,,1,1,3,0.644893802435,10,Why make a list?, Plan ahead.,2
+2068,7,R,,,,,1.63129431393,,,,25,30,1,,3,,1,1,3,0.570584815831,5,How to feel secure?, Save money.,6
+2068,8,R,,,,,3.04126474617,,,,25,30,1,,6,,1,1,3,0.737383249085,11,How to avoid mistakes?, Obey laws.,6
+2068,9,L,,,,,1.23919623007,,,,25,30,1,,7,,1,1,3,0.747697204492,1,How to take a picture?, Point a camera.,4
+2068,10,R,,,,,2.31846755763,,,,25,30,1,,2,,1,1,3,1.36701342159,9,How to paint a picture?, Use a brush.,4
+2068,11,R,,,,,2.23829986244,,,,25,30,1,,9,,1,1,3,1.19378359571,8,Why stir ingredients?, Mix a cocktail.,1
+2068,12,R,,,,,2.43606997039,,,,25,30,1,,4,,1,1,3,0.925709085332,0,Why click a mouse?, Open a browser.,1

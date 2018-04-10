@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2076,1,R,,,,,1.31406594705,,,,,31,1,,5,90,0,2,4,1.2262868957,2,Why use a remote?, Watch television.,1
+2076,2,L,,,,,1.70944213357,,,,,36,1,,5,90,0,2,4,0.658710476153,0,Why wash ones hands?, Kill germs.,1
+2076,3,R,,,,,1.97327613556,,,,,29,1,,5,90,0,2,4,0.866268524128,1,Why watch television?, Show competence.,2
+2076,4,L,,,,,2.41921075007,,,,,20,1,,5,90,0,2,4,1.11735620773,3,Why make a phone call?, Contact a friend.,2

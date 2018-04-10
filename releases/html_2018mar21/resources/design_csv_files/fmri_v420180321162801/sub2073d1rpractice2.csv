@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2073,1,L,,,,,2.54861470253,,,,25,30,1,,9,,1,1,4,0.587092426445,0,How to make a purchase?, Go shopping.,5
+2073,2,R,,,,,1.79641406979,,,,25,30,1,,6,,1,1,4,0.660303853589,2,How to show ambition?, Serve alcohol.,5
+2073,3,L,,,,,1.31239240887,,,,25,30,1,,2,,1,1,4,0.584490611498,10,Why wash ones hands?, Kill germs.,1
+2073,4,L,,,,,1.86999838853,,,,25,30,1,,1,,1,1,4,1.60930245404,9,Why sign ones name?, Write a check.,1
+2073,5,R,,,,,0.944950819384,,,,25,30,1,,4,,1,1,4,0.694777884813,1,Why show courtesy?, Make a friend.,3
+2073,6,L,,,,,5.16718450658,,,,25,30,1,,5,,1,1,4,0.58104716555,6,Why plan ahead?, Reduce worry.,3
+2073,7,R,,,,,1.42772633289,,,,25,30,1,,8,,1,1,4,0.868537489355,5,How to prepare meals?, Follow recipes.,4
+2073,8,L,,,,,2.14488657667,,,,25,30,1,,7,,1,1,4,0.525770416657,11,How to write a song?, Play piano.,4
+2073,9,R,,,,,1.08332173516,,,,25,30,1,,6,,1,1,4,1.56817994414,7,Why use a camera?, Give to charity.,2
+2073,10,R,,,,,1.7844477578,,,,25,30,1,,4,,1,1,4,1.75738201033,3,Why drink wine?, Consume alcohol.,2
+2073,11,R,,,,,0.599478586856,,,,25,30,1,,9,,1,1,4,0.734678635097,4,How to get a degree?, Attend a school.,6
+2073,12,L,,,,,3.40046829681,,,,25,30,1,,3,,1,1,4,2.71295390449,8,How to show intellect?, Share ideas.,6

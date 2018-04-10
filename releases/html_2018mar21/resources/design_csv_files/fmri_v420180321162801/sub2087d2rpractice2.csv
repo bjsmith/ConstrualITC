@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2087,1,L,,,,,0.880942134824,,,,25,30,1,,8,,1,2,4,0.531805655525,3,Why get a promotion?, Achieve success.,3
+2087,2,R,,,,,1.47922304216,,,,25,30,1,,1,,1,2,4,0.524733698637,2,Why avoid diseases?, Live a long life.,3
+2087,3,L,,,,,4.25293912418,,,,25,30,1,,9,,1,2,4,0.948620114283,1,How to prepare meals?, Follow recipes.,4
+2087,4,R,,,,,0.519978069938,,,,25,30,1,,2,,1,2,4,2.59879509702,0,How to drink wine?, Open a bottle. ,4

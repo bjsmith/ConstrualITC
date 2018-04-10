@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2191,1,R,,,,,3.03964314208,,,,25,30,1,,2,,1,3,2,1.15714900071,32,Why attend a school?, Get a degree.,3
+2191,2,L,,,,,1.59620722831,,,,25,30,1,,5,,1,3,2,1.22015000049,48,Why provide food?, Help a person.,3
+2191,3,R,,,,,1.02471466431,,,,25,30,1,,1,,1,3,2,1.66957973773,40,How to entertain oneself?, Watch television.,5
+2191,4,L,,,,,1.02152479892,,,,25,30,1,,8,,1,3,2,1.09437628972,50,How to attend a school?, Enter a classroom.,5
+2191,5,L,,,,,1.62573073474,,,,25,30,1,,4,,1,3,2,3.73871911302,43,Why write a song?, Seek advice.,2
+2191,6,R,,,,,1.37364350615,,,,25,30,1,,3,,1,3,2,2.08766429447,2,Why consume caffeine?, Stay alert.,2
+2191,7,L,,,,,2.54073847948,,,,25,30,1,,6,,1,3,2,3.02437520572,14,How to watch television?, Use a remote.,4
+2191,8,L,,,,,2.16570678359,,,,25,30,1,,9,,1,3,2,1.06365124794,58,How to open a browser?, Click a mouse.,4
+2191,9,L,,,,,1.10769839591,,,,25,30,1,,9,,1,3,2,2.90398715188,49,Why cut paper?, Clip coupons.,1
+2191,10,L,,,,,2.3145009372,,,,25,30,1,,1,,1,3,2,1.59754932467,54,Why clap hands?, Give applause.,1
+2191,11,R,,,,,1.11364065835,,,,25,30,1,,6,,1,3,2,2.39563241327,53,How to achieve success?, Get a promotion.,6
+2191,12,R,,,,,3.19377747675,,,,25,30,1,,7,,1,3,2,1.34078714317,42,How to feel sociable?, Hold a party.,6
+2191,13,L,,,,,2.59172529899,,,,25,30,1,,2,,1,3,2,2.41883621384,29,Why enter a classroom?, Attend a school.,2
+2191,14,L,,,,,6.01066373666,,,,25,30,1,,4,,1,3,2,1.04335527801,52,Why drink wine?, Consume alcohol.,2
+2191,15,R,,,,,3.47912733569,,,,25,30,1,,3,,1,3,2,1.04443027838,33,How to teach others?, Give a lecture.,5
+2191,16,L,,,,,1.32713437854,,,,25,30,1,,8,,1,3,2,1.93113169116,13,How to entertain others?, Write a song.,5
+2191,17,R,,,,,1.57684399651,,,,25,30,1,,8,,1,3,2,3.90494389844,30,Why use a comb?, Write a song.,1
+2191,18,L,,,,,1.99761601347,,,,25,30,1,,4,,1,3,2,2.0593916947,11,Why dial numbers?, Make a phone call.,1
+2191,19,R,,,,,1.42525320262,,,,25,30,1,,2,,1,3,2,2.11012209757,59,How to show intellect?, Share ideas.,6
+2191,20,R,,,,,1.43537595776,,,,25,30,1,,1,,1,3,2,2.47471371206,17,How to show humility?, Build muscles.,6
+2191,21,L,,,,,1.83728158574,,,,25,30,1,,7,,1,3,2,1.33524511455,8,Why contact a friend?, Feel connected.,3
+2191,22,R,,,,,1.0059616573,,,,25,30,1,,6,,1,3,2,3.83694397982,26,Why show intelligence?, Impress others.,3
+2191,23,R,,,,,1.67184483177,,,,25,30,1,,5,,1,3,2,1.29941321975,9,How to drink wine?, Open a bottle. ,4
+2191,24,R,,,,,2.5009875438,,,,25,30,1,,3,,1,3,2,1.98940902069,55,How to make a phone call?, Dial numbers.,4
+2191,25,R,,,,,1.46013274657,,,,25,30,1,,9,,1,3,2,1.36828498439,18,Why lift weights?, Build muscles.,2
+2191,26,L,,,,,1.01375793032,,,,25,30,1,,2,,1,3,2,1.20179814321,4,Why kill germs?, Avoid diseases.,2
+2191,27,R,,,,,1.74780330384,,,,25,30,1,,8,,1,3,2,1.34106635444,28,Why crack eggs?, Make breakfast.,1
+2191,28,L,,,,,1.67725310154,,,,25,30,1,,3,,1,3,2,1.91905344901,36,Why use credit cards?, Go shopping.,1
+2191,29,R,,,,,1.89829857327,,,,25,30,1,,6,,1,3,2,3.19667538224,6,How to paint a picture?, Use a brush.,4
+2191,30,L,,,,,2.58856343342,,,,25,30,1,,1,,1,3,2,1.46469687997,10,How to write a poem?, Grab a pencil.,4
+2191,31,L,,,,,3.65892556005,,,,25,30,1,,7,,1,3,2,3.35401264568,24,Why build muscles?, Show humility.,3
+2191,32,R,,,,,1.19208712094,,,,25,30,1,,4,,1,3,2,3.28704213672,41,Why get a promotion?, Achieve success.,3
+2191,33,R,,,,,1.10006253989,,,,25,30,1,,1,,1,3,2,1.17613357243,22,How to feel secure?, Save money.,6
+2191,34,L,,,,,1.0800945145,,,,25,30,1,,2,,1,3,2,2.14440227628,12,How to show cleanliness?, Write an email.,6
+2191,35,R,,,,,2.10525504814,,,,25,30,1,,9,,1,3,2,2.15699005246,15,How to satisfy hunger?, Make breakfast.,5
+2191,36,L,,,,,4.4282735053,,,,25,30,1,,3,,1,3,2,1.27994372085,57,How to show appreciation?, Give applause.,5
+2191,37,R,,,,,1.46734121595,,,,25,30,1,,7,,1,3,2,1.30574040644,25,How to feel nostalgia?, Keep a memory.,6
+2191,38,L,,,,,1.08616492794,,,,25,30,1,,8,,1,3,2,1.49705015982,31,How to avoid mistakes?, Obey laws.,6
+2191,39,R,,,,,2.44899478116,,,,25,30,1,,5,,1,3,2,2.54293774805,34,Why open a bottle?, Consume medicine.,1
+2191,40,L,,,,,2.91214751002,,,,25,30,1,,6,,1,3,2,1.88711671069,51,Why raise a hand?, Participate in class.,1
+2191,41,R,,,,,1.19758713607,,,,25,30,1,,5,,1,3,2,3.424741281,45,How to write a song?, Play piano.,4
+2191,42,L,,,,,2.39487272905,,,,25,30,1,,7,,1,3,2,1.26985392111,35,How to prepare meals?, Follow recipes.,4
+2191,43,L,,,,,1.3021440861,,,,25,30,1,,2,,1,3,2,4.06086314691,23,Why give applause?, Show appreciation.,2
+2191,44,R,,,,,1.94783594452,,,,25,30,1,,9,,1,3,2,1.04999036248,20,Why open a browser?, Write an email.,2
+2191,45,R,,,,,2.0490703223,,,,25,30,1,,6,,1,3,2,1.16023012823,47,Why hold a party?, Feel sociable.,3
+2191,46,L,,,,,2.50539809048,,,,25,30,1,,8,,1,3,2,1.59729366245,3,Why finish a job?, Feel productive.,3
+2191,47,R,,,,,1.13977345865,,,,25,30,1,,3,,1,3,2,2.33443453899,1,How to give to charity?, Use a camera.,5
+2191,48,L,,,,,3.3834169088,,,,25,30,1,,1,,1,3,2,1.59875666401,37,How to make a donation?, Mix a cocktail.,5
+2191,49,R,,,,,1.52802049386,,,,25,30,1,,6,,1,3,2,1.36216992222,44,How to show creativity?, Make art.,6
+2191,50,L,,,,,1.62556577166,,,,25,30,1,,4,,1,3,2,3.84076597296,16,How to support a cause?, Give to charity.,6
+2191,51,R,,,,,1.34302263603,,,,25,30,1,,5,,1,3,2,1.50204119568,46,How to express doubt?, Use scissors.,5
+2191,52,R,,,,,1.79495525264,,,,25,30,1,,3,,1,3,2,1.95836481266,5,How to consume alcohol?, Drink wine.,5
+2191,53,L,,,,,4.41278694511,,,,25,30,1,,1,,1,3,2,1.94284697773,39,Why reduce pain?, Feel well.,3
+2191,54,L,,,,,1.51049178295,,,,25,30,1,,2,,1,3,2,1.2925908528,38,Why plan ahead?, Reduce worry.,3
+2191,55,R,,,,,1.71420903868,,,,25,30,1,,7,,1,3,2,1.30912786993,56,Why wash ones hands?, Kill germs.,1
+2191,56,L,,,,,2.39363680577,,,,25,30,1,,9,,1,3,2,1.00091578308,0,Why stir ingredients?, Mix a cocktail.,1
+2191,57,L,,,,,1.08906760287,,,,25,30,1,,3,,1,3,2,2.28798940341,21,Why watch television?, Show competence.,2
+2191,58,L,,,,,1.51608436608,,,,25,30,1,,2,,1,3,2,2.26318809973,27,Why use a camera?, Give to charity.,2
+2191,59,R,,,,,1.41753214058,,,,25,30,1,,6,,1,3,2,2.78136389887,19,How to lift weights?, Fasten seatbelt.,4
+2191,60,R,,,,,1.9340663512,,,,25,30,1,,5,,1,3,2,1.24024050894,7,How to write a check?, Sign ones name.,4

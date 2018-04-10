@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2147,1,L,,,,,1.3166859486,,,,25,30,1,,3,,1,2,4,1.35566857797,1,How to show creativity?, Make art.,6
+2147,2,L,,,,,4.56497440318,,,,25,30,1,,9,,1,2,4,1.0501624651,3,How to express a talent?, Entertain others.,6
+2147,3,R,,,,,1.02900020734,,,,25,30,1,,8,,1,2,4,0.92342830881,0,Why hold a party?, Feel sociable.,3
+2147,4,R,,,,,0.525165232481,,,,25,30,1,,2,,1,2,4,0.648289117475,2,Why contact a friend?, Feel connected.,3

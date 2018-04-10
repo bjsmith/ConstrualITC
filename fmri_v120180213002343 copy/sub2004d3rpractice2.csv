@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2004,1,2,,,,,2.19790289071,,,,,33,1,,5,90,0,3,4,1.23229374812,0,Why write a song?, Seek advice.,2
+2004,2,1,,,,,1.47801531901,,,,,29,1,,5,90,0,3,4,2.37187094178,0,Why clip coupons?, Save money.,2
+2004,3,2,,,,,3.89100671054,,,,,37,1,,5,90,0,3,4,1.94213400586,1,How to write a song?, Play piano.,4
+2004,4,1,,,,,0.590954542502,,,,,22,1,,5,90,0,3,4,1.61065522138,0,How to make breakfast?, Crack eggs.,4

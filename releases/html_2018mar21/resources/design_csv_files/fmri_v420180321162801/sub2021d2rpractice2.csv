@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2021,1,L,,,,,0.662872633563,,,,25,30,1,,1,,1,2,4,0.584236391837,0,Why watch television?, Show competence.,2
+2021,2,L,,,,,0.867781638884,,,,25,30,1,,6,,1,2,4,1.27244619543,3,Why make a list?, Plan ahead.,2
+2021,3,R,,,,,5.918157369,,,,25,30,1,,7,,1,2,4,1.10207609098,1,How to feel connected?, Contact a friend.,6
+2021,4,R,,,,,0.898362280478,,,,25,30,1,,5,,1,2,4,0.783654760706,2,How to reduce worry?, Plan ahead.,6

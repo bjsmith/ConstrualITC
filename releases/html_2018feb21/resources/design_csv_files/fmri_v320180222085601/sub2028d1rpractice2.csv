@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,R,,,,,1.25083851828,,,,,22,1,,5,90,0,1,4,1.47594597601,2,How to prepare meals?, Follow recipes.,4
+2028,2,R,,,,,2.15986707861,,,,,37,1,,5,90,0,1,4,0.502184719828,9,How to go shopping?, Use credit cards.,4
+2028,3,R,,,,,2.84243046854,,,,,40,1,,5,90,0,1,4,3.45984494569,8,Why gain knowledge?, Improve oneself.,3
+2028,4,L,,,,,1.42832174902,,,,,28,1,,5,90,0,1,4,0.630489840532,6,Why entertain others?, Express a talent.,3
+2028,5,L,,,,,4.40174950581,,,,,21,1,,5,90,0,1,4,1.06337756911,0,How to improve oneself?, Gain knowledge.,6
+2028,6,L,,,,,0.664062047147,,,,,34,1,,5,90,0,1,4,0.92032993953,3,How to feel productive?, Finish a job.,6
+2028,7,R,,,,,6.53606831067,,,,,24,1,,5,90,0,1,4,0.85838995999,5,How to entertain others?, Write a song.,5
+2028,8,L,,,,,0.817876458417,,,,,33,1,,5,90,0,1,4,0.633635075968,7,How to express doubt?, Use scissors.,5
+2028,9,L,,,,,0.512020628425,,,,,31,1,,5,90,0,1,4,1.12233421727,10,Why make breakfast?, Satisfy hunger.,2
+2028,10,L,,,,,0.835042548067,,,,,25,1,,5,90,0,1,4,0.655648665204,4,Why kill germs?, Avoid diseases.,2
+2028,11,R,,,,,1.84521531365,,,,,20,1,,5,90,0,1,4,0.711492191442,11,Why turn a doorknob?, Enter a classroom.,1
+2028,12,R,,,,,1.62326754059,,,,,32,1,,5,90,0,1,4,0.899257372069,1,Why open a magazine?, Read articles.,1

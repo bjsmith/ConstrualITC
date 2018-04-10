@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2163,1,L,,,,,3.68727677592,,,,,23,1,,5,90,0,3,3,1.10705672021,0,Why point a camera?, Take a picture.,1
+2163,2,L,,,,,2.40223979019,,,,,37,1,,5,90,0,3,3,0.548535884166,2,Why drink coffee?, Consume caffeine.,1
+2163,3,R,,,,,0.732426998427,,,,,40,1,,5,90,0,3,3,0.627033870988,1,Why gain knowledge?, Improve oneself.,3
+2163,4,R,,,,,0.580456233978,,,,,21,1,,5,90,0,3,3,0.901651934134,3,Why hold a party?, Feel sociable.,3

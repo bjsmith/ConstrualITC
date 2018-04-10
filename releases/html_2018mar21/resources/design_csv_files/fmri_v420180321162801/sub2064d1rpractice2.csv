@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2064,1,R,,,,,2.35616067613,,,,,24,1,,5,90,0,1,4,1.93609467926,0,How to feel well?, Reduce pain.,6
+2064,2,R,,,,,2.44006855424,,,,,38,1,,5,90,0,1,4,0.576626383694,1,How to feel sociable?, Hold a party.,6
+2064,3,R,,,,,1.46591330933,,,,,34,1,,5,90,0,1,4,2.82066836358,5,Why give to charity?, Support a cause.,3
+2064,4,R,,,,,3.98415342478,,,,,37,1,,5,90,0,1,4,1.06400916552,6,Why gain knowledge?, Improve oneself.,3
+2064,5,R,,,,,1.4141498118,,,,,32,1,,5,90,0,1,4,0.904533939227,10,How to plan ahead?, Make a list.,5
+2064,6,R,,,,,0.838557450174,,,,,33,1,,5,90,0,1,4,1.20792895498,11,How to teach others?, Give a lecture.,5
+2064,7,L,,,,,2.22777166649,,,,,22,1,,5,90,0,1,4,0.893670194369,7,How to dress formally?, Wear ties. ,4
+2064,8,L,,,,,1.66007057524,,,,,20,1,,5,90,0,1,4,0.545133767834,9,How to give a lecture?, Brush ones hair.,4
+2064,9,L,,,,,1.25568560816,,,,,29,1,,5,90,0,1,4,0.501476497226,2,Why make breakfast?, Satisfy hunger.,2
+2064,10,L,,,,,0.626153942478,,,,,28,1,,5,90,0,1,4,0.788799095954,3,Why go shopping?, Make a purchase.,2
+2064,11,L,,,,,1.08809957721,,,,,21,1,,5,90,0,1,4,0.582775669382,8,Why stir ingredients?, Mix a cocktail.,1
+2064,12,L,,,,,4.05220345699,,,,,26,1,,5,90,0,1,4,0.868058002299,4,Why raise a hand?, Participate in class.,1

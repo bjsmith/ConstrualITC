@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2091,1,R,,,,,4.70328689455,,,,,23,1,,5,90,0,3,3,1.30233887,2,Why show appreciation?, Spread joy.,3
+2091,2,R,,,,,2.32440771284,,,,,29,1,,5,90,0,3,3,1.59228183503,1,Why attend a school?, Get a degree.,3
+2091,3,L,,,,,0.939558905224,,,,,26,1,,5,90,0,3,3,0.753814615056,3,How to spread knowledge?, Teach others.,6
+2091,4,L,,,,,0.688883090072,,,,,39,1,,5,90,0,3,3,0.632071844505,0,How to show an ability?, Satisfy hunger.,6

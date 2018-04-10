@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2164,1,R,,,,,3.90668267239,,,,,28,1,,5,90,0,3,4,1.15746564749,0,Why stir ingredients?, Mix a cocktail.,1
+2164,2,R,,,,,2.09334420916,,,,,33,1,,5,90,0,3,4,0.765121071392,3,Why drink coffee?, Consume caffeine.,1
+2164,3,L,,,,,1.53905190083,,,,,27,1,,5,90,0,3,4,0.874140789278,2,How to drink wine?, Open a bottle. ,4
+2164,4,L,,,,,0.970934268594,,,,,37,1,,5,90,0,3,4,0.573839917219,1,How to make breakfast?, Crack eggs.,4

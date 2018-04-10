@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2144,1,L,,,,,0.583761237352,,,,,26,1,,5,90,0,2,4,1.20859290942,2,How to spread knowledge?, Teach others.,6
+2144,2,L,,,,,0.947969639453,,,,,36,1,,5,90,0,2,4,0.582997177475,0,How to support a cause?, Give to charity.,6
+2144,3,R,,,,,1.23378304384,,,,,27,1,,5,90,0,2,4,1.21593109067,1,Why attend a school?, Get a degree.,3
+2144,4,R,,,,,4.7204201768,,,,,33,1,,5,90,0,2,4,0.768850855685,3,Why entertain others?, Express a talent.,3

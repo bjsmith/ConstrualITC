@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2018,1,L,,,,,1.89138047089,,,,25,30,1,,5,,1,1,3,1.2630170278,9,How to avoid mistakes?, Obey laws.,6
+2018,2,L,,,,,2.82699664597,,,,25,30,1,,8,,1,1,3,0.713498152578,5,How to feel secure?, Save money.,6
+2018,3,L,,,,,1.84796668841,,,,25,30,1,,7,,1,1,3,0.660003048869,4,How to make a phone call?, Dial numbers.,4
+2018,4,R,,,,,3.08654609442,,,,25,30,1,,1,,1,1,3,1.79034024102,10,How to paint a picture?, Use a brush.,4
+2018,5,L,,,,,2.17950089011,,,,25,30,1,,4,,1,1,3,0.557347092495,1,How to attend a school?, Enter a classroom.,5
+2018,6,L,,,,,1.31060748143,,,,25,30,1,,9,,1,1,3,0.651839107495,2,How to write an email?, Open a browser.,5
+2018,7,R,,,,,0.856868783097,,,,25,30,1,,6,,1,1,3,0.858620981238,3,Why consume medicine?, Reduce pain.,2
+2018,8,R,,,,,1.09113776162,,,,25,30,1,,3,,1,1,3,0.891612080841,11,Why give applause?, Show appreciation.,2
+2018,9,R,,,,,1.17848024176,,,,25,30,1,,3,,1,1,3,0.858830589268,7,Why attend a school?, Get a degree.,3
+2018,10,R,,,,,4.53102509942,,,,25,30,1,,6,,1,1,3,0.678253445744,6,Why gain knowledge?, Improve oneself.,3
+2018,11,L,,,,,0.564445774584,,,,25,30,1,,4,,1,1,3,0.552741745116,0,Why use a remote?, Watch television.,1
+2018,12,R,,,,,2.09459425912,,,,25,30,1,,9,,1,1,3,2.11067809661,8,Why open a bottle?, Consume medicine.,1

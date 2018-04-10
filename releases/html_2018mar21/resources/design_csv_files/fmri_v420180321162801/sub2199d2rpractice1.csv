@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2199,1,L,,,,,4.6580659478,,,,,26,1,,5,90,0,2,3,0.982446097852,2,How to avoid diseases?, Kill germs.,5
+2199,2,R,,,,,2.24858495313,,,,,22,1,,5,90,0,2,3,0.527468865136,1,How to make a donation?, Mix a cocktail.,5
+2199,3,L,,,,,0.923895411085,,,,,36,1,,5,90,0,2,3,1.41032625555,0,How to spread joy?, Get a job.,6
+2199,4,R,,,,,0.677734251325,,,,,32,1,,5,90,0,2,3,0.698652254047,3,How to show cleanliness?, Write an email.,6

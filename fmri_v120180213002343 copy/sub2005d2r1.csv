@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2005,1,2,,,,,1.61136303723,,,,,36,1,,5,90,0,2,1,1.09289912346,0,How to feel connected?, Contact a friend.,6
+2005,2,1,,,,,1.17916364346,,,,,22,1,,5,90,0,2,1,1.15474400501,0,How to feel productive?, Finish a job.,6
+2005,3,2,,,,,1.22187641178,,,,,20,1,,5,90,0,2,1,3.49941360395,0,How to paint a picture?, Use a brush.,4
+2005,4,1,,,,,1.63642713208,,,,,35,1,,5,90,0,2,1,1.29076695514,0,How to open a browser?, Click a mouse.,4
+2005,5,1,,,,,1.11829507627,,,,,21,1,,5,90,0,2,1,3.22937005054,0,How to attend a school?, Enter a classroom.,5
+2005,6,2,,,,,1.24428828844,,,,,27,1,,5,90,0,2,1,1.25674466065,0,How to show appreciation?, Give applause.,5
+2005,7,1,,,,,4.24092955576,,,,,25,1,,5,90,0,2,1,2.13454273753,0,Why kill germs?, Avoid diseases.,2
+2005,8,1,,,,,1.50923927483,,,,,24,1,,5,90,0,2,1,2.47608912319,0,Why drink wine?, Consume alcohol.,2
+2005,9,1,,,,,2.190302683,,,,,32,1,,5,90,0,2,1,2.95934835607,0,Why get a promotion?, Achieve success.,3
+2005,10,1,,,,,1.29553529193,,,,,39,1,,5,90,0,2,1,1.32247553141,0,Why show intelligence?, Impress others.,3
+2005,11,2,,,,,3.34738528283,,,,,34,1,,5,90,0,2,1,4.84266399129,0,Why dial numbers?, Make a phone call.,1
+2005,12,2,,,,,1.2628567592,,,,,40,1,,5,90,0,2,1,1.2201641238,0,Why lift a glass?, Drink wine.,1
+2005,13,2,,,,,1.13435221789,,,,,23,1,,5,90,0,2,1,1.52105422317,0,Why take a picture?, Keep a memory.,2
+2005,14,1,,,,,1.6484385591,,,,,30,1,,5,90,0,2,1,2.91708678492,0,Why write a poem?, Express an idea.,2
+2005,15,2,,,,,1.99342577245,,,,,31,1,,5,90,0,2,1,1.35120816701,0,How to lift weights?, Fasten seatbelt.,4
+2005,16,2,,,,,3.87725154046,,,,,33,1,,5,90,0,2,1,1.16484344634,1,How to write a check?, Sign ones name.,4
+2005,17,1,,,,,3.1129274924,,,,,37,1,,5,90,0,2,1,1.05662188025,0,Why sign ones name?, Write a check.,1
+2005,18,2,,,,,3.16173466441,,,,,26,1,,5,90,0,2,1,1.88827661922,0,Why use chalk?, Get fit.,1
+2005,19,1,,,,,1.08269289864,,,,,28,1,,5,90,0,2,1,3.60239800224,0,How to satisfy hunger?, Make breakfast.,5
+2005,20,1,,,,,2.43088608921,,,,,29,1,,5,90,0,2,1,2.15071607179,0,How to entertain oneself?, Watch television.,5
+2005,21,2,,,,,2.46609013003,,,,,24,1,,5,90,0,2,1,1.13383619593,0,How to reduce worry?, Plan ahead.,6
+2005,22,2,,,,,1.60223133331,,,,,26,1,,5,90,0,2,1,2.14794809817,0,How to spread knowledge?, Teach others.,6
+2005,23,1,,,,,1.15466468377,,,,,34,1,,5,90,0,2,1,1.01988855155,0,Why contact a friend?, Feel connected.,3
+2005,24,1,,,,,1.73382910817,,,,,38,1,,5,90,0,2,1,1.07897018124,0,Why show competence?, Pass the time.,3
+2005,25,2,,,,,2.92460110691,,,,,21,1,,5,90,0,2,1,3.35731883375,0,How to express a talent?, Entertain others.,6
+2005,26,2,,,,,1.59977485694,,,,,27,1,,5,90,0,2,1,3.04787857506,0,How to impress others?, Show intelligence.,6
+2005,27,2,,,,,1.35487528759,,,,,36,1,,5,90,0,2,1,1.30105234578,0,Why make art?, Show creativity.,3
+2005,28,2,,,,,2.66333295894,,,,,20,1,,5,90,0,2,1,1.91215887903,0,Why provide food?, Help a person.,3
+2005,29,2,,,,,1.87841812602,,,,,29,1,,5,90,0,2,1,1.04358132314,0,Why open a magazine?, Read articles.,1
+2005,30,1,,,,,1.86628604017,,,,,28,1,,5,90,0,2,1,2.50961893847,0,Why take aspirin?, Serve alcohol.,1
+2005,31,1,,,,,1.73662456248,,,,,31,1,,5,90,0,2,1,2.25479132123,0,How to kill germs?, Wash ones hands.,4
+2005,32,1,,,,,3.0774798511,,,,,39,1,,5,90,0,2,1,1.16680781163,0,How to make a phone call?, Dial numbers.,4
+2005,33,1,,,,,2.44476960935,,,,,40,1,,5,90,0,2,1,3.09289858371,0,How to make a purchase?, Go shopping.,5
+2005,34,1,,,,,1.75249699378,,,,,30,1,,5,90,0,2,1,1.18249888047,0,How to give to charity?, Use a camera.,5
+2005,35,2,,,,,2.56249328471,,,,,32,1,,5,90,0,2,1,1.06358979216,0,Why use a camera?, Give to charity.,2
+2005,36,2,,,,,1.17862830732,,,,,33,1,,5,90,0,2,1,1.59450353313,0,Why clip coupons?, Save money.,2

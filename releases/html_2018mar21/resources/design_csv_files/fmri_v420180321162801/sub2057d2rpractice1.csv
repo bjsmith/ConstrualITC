@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2057,1,R,,,,,2.56305335347,,,,,32,1,,5,90,0,2,3,0.614205742583,2,Why gain knowledge?, Improve oneself.,3
+2057,2,L,,,,,0.552170757793,,,,,34,1,,5,90,0,2,3,1.2369352088,1,Why reduce pain?, Feel well.,3
+2057,3,R,,,,,3.02997616195,,,,,26,1,,5,90,0,2,3,1.24909773797,3,Why drink wine?, Consume alcohol.,2
+2057,4,L,,,,,2.45827606465,,,,,23,1,,5,90,0,2,3,1.81615406132,0,Why give a lecture?, Teach others.,2

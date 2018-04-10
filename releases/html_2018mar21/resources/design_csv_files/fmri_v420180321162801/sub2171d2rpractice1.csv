@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2171,1,R,,,,,0.949950072306,,,,,36,1,,5,90,0,2,3,0.675684247586,3,Why wear ties?, Dress formally.,1
+2171,2,L,,,,,1.24798303649,,,,,21,1,,5,90,0,2,3,1.28187391385,0,Why crack eggs?, Make breakfast.,1
+2171,3,R,,,,,1.06976209791,,,,,30,1,,5,90,0,2,3,1.3777302997,2,Why enter a classroom?, Attend a school.,2
+2171,4,L,,,,,4.42085638487,,,,,32,1,,5,90,0,2,3,0.598520510325,1,Why paint a picture?, Make art.,2

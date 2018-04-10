@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2146,1,R,,,,,0.901477586498,,,,,30,1,,5,90,0,1,4,0.945184956505,10,How to satisfy a need?, Make a purchase.,6
+2146,2,R,,,,,3.05852746374,,,,,39,1,,5,90,0,1,4,0.874309920909,5,How to show cleanliness?, Write an email.,6
+2146,3,L,,,,,0.761009051782,,,,,37,1,,5,90,0,1,4,1.72084972645,3,Why click a mouse?, Open a browser.,1
+2146,4,L,,,,,1.79856810924,,,,,21,1,,5,90,0,1,4,0.652950749863,2,Why crack eggs?, Make breakfast.,1
+2146,5,L,,,,,4.66641746817,,,,,33,1,,5,90,0,1,4,0.7117574747,9,How to write a song?, Play piano.,4
+2146,6,R,,,,,2.90286544766,,,,,20,1,,5,90,0,1,4,0.660742164976,1,How to write a poem?, Grab a pencil.,4
+2146,7,R,,,,,0.621654919065,,,,,38,1,,5,90,0,1,4,0.669712130638,0,How to express doubt?, Use scissors.,5
+2146,8,R,,,,,0.856402477737,,,,,23,1,,5,90,0,1,4,1.18997340027,4,How to avoid diseases?, Kill germs.,5
+2146,9,L,,,,,1.80629732317,,,,,34,1,,5,90,0,1,4,0.717229560754,11,Why give applause?, Show appreciation.,2
+2146,10,R,,,,,0.5636267158,,,,,35,1,,5,90,0,1,4,1.3225661059,8,Why dress formally?, Get a promotion.,2
+2146,11,L,,,,,0.846392305264,,,,,27,1,,5,90,0,1,4,1.26925304189,6,Why keep a memory?, Feel nostalgia.,3
+2146,12,L,,,,,4.70342294232,,,,,26,1,,5,90,0,1,4,0.560280905357,7,Why finish a job?, Feel productive.,3

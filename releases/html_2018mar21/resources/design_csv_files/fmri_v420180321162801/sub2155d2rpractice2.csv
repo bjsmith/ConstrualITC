@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2155,1,L,,,,,3.34534821892,,,,25,30,1,,5,,1,2,4,0.501801707773,1,Why lift weights?, Build muscles.,2
+2155,2,R,,,,,1.9949011562,,,,25,30,1,,8,,1,2,4,0.886072775008,0,Why drink wine?, Consume alcohol.,2
+2155,3,L,,,,,1.82812427801,,,,25,30,1,,3,,1,2,4,0.987002770716,3,How to make a purchase?, Go shopping.,5
+2155,4,R,,,,,1.70235740367,,,,25,30,1,,6,,1,2,4,1.01571258189,2,How to make a donation?, Mix a cocktail.,5

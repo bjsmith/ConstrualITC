@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2073,1,R,,,,,1.90095350577,,,,25,30,1,,8,,1,2,4,0.829416284168,1,How to make a purchase?, Go shopping.,5
+2073,2,L,,,,,1.49823073996,,,,25,30,1,,2,,1,2,4,0.686246326204,2,How to express doubt?, Use scissors.,5
+2073,3,L,,,,,1.17536331042,,,,25,30,1,,4,,1,2,4,1.75592137277,0,Why consume caffeine?, Stay alert.,2
+2073,4,R,,,,,2.43596422625,,,,25,30,1,,7,,1,2,4,1.2618681341,3,Why clip coupons?, Save money.,2

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2144,1,R,,,,,1.32438875151,,,,25,30,1,,3,,1,1,3,0.846140934496,4,How to open a browser?, Click a mouse.,4
+2144,2,L,,,,,0.631073011901,,,,25,30,1,,8,,1,1,3,1.44793259725,7,How to write a song?, Play piano.,4
+2144,3,R,,,,,3.19974005887,,,,25,30,1,,6,,1,1,3,1.33177470775,9,Why use a remote?, Watch television.,1
+2144,4,R,,,,,1.42743246881,,,,25,30,1,,7,,1,1,3,0.65676766625,2,Why throw away trash?, Make a list.,1
+2144,5,R,,,,,1.48118059958,,,,25,30,1,,1,,1,1,3,0.737405625211,11,Why take a picture?, Keep a memory.,2
+2144,6,R,,,,,1.32624824891,,,,25,30,1,,5,,1,1,3,1.53220996863,6,Why teach a class?, Obey laws.,2
+2144,7,L,,,,,1.12704475085,,,,25,30,1,,2,,1,1,3,1.25934421609,5,How to spread knowledge?, Teach others.,6
+2144,8,L,,,,,1.58484180908,,,,25,30,1,,4,,1,1,3,1.10176825598,8,How to feel secure?, Save money.,6
+2144,9,R,,,,,4.1414916446,,,,25,30,1,,9,,1,1,3,0.866794912651,3,Why entertain others?, Express a talent.,3
+2144,10,L,,,,,0.89723233122,,,,25,30,1,,8,,1,1,3,1.24347056215,1,Why make a purchase?, Satisfy a need.,3
+2144,11,L,,,,,1.40019224173,,,,25,30,1,,7,,1,1,3,0.531955835597,0,How to consume alcohol?, Drink wine.,5
+2144,12,L,,,,,4.81814276545,,,,25,30,1,,6,,1,1,3,1.37300825899,10,How to attend a school?, Enter a classroom.,5

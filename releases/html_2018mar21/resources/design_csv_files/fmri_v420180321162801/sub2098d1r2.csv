@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2098,1,R,,,,,1.73754080788,,,,,21,1,,5,90,0,1,2,1.11201300441,6,How to live a long life?, Avoid diseases.,6
+2098,2,L,,,,,1.14947201412,,,,,25,1,,5,90,0,1,2,1.0348753731,46,How to avoid mistakes?, Obey laws.,6
+2098,3,R,,,,,2.16370813769,,,,,20,1,,5,90,0,1,2,3.33022951579,49,Why clap hands?, Give applause.,1
+2098,4,L,,,,,3.43089449814,,,,,32,1,,5,90,0,1,2,1.99583180573,43,Why throw away trash?, Make a list.,1
+2098,5,R,,,,,1.79656775874,,,,,34,1,,5,90,0,1,2,1.88708183076,16,How to avoid diseases?, Kill germs.,5
+2098,6,R,,,,,1.72611034453,,,,,37,1,,5,90,0,1,2,5.06053546627,30,How to build muscles?, Lift weights.,5
+2098,7,R,,,,,1.25204970528,,,,,29,1,,5,90,0,1,2,1.08338859049,20,Why lift weights?, Build muscles.,2
+2098,8,R,,,,,1.05664534089,,,,,26,1,,5,90,0,1,2,1.5386226448,44,Why paint a picture?, Make art.,2
+2098,9,L,,,,,1.13390529812,,,,,33,1,,5,90,0,1,2,1.50790891613,38,How to open a browser?, Click a mouse.,4
+2098,10,L,,,,,1.37763290803,,,,,30,1,,5,90,0,1,2,3.10493254235,10,How to give applause?, Clap hands.,4
+2098,11,R,,,,,1.03789211762,,,,,31,1,,5,90,0,1,2,1.01827220544,45,Why save money?, Get fit.,3
+2098,12,L,,,,,1.33068227983,,,,,39,1,,5,90,0,1,2,1.2058671205,48,Why satisfy hunger?, Show an ability.,3
+2098,13,R,,,,,1.34632223397,,,,,35,1,,5,90,0,1,2,1.92274522577,47,Why show appreciation?, Spread joy.,3
+2098,14,L,,,,,1.1192022456,,,,,27,1,,5,90,0,1,2,1.1757737281,59,Why entertain others?, Express a talent.,3
+2098,15,L,,,,,1.23702908424,,,,,40,1,,5,90,0,1,2,3.62336527447,23,How to save money?, Clip coupons.,5
+2098,16,L,,,,,2.78216241458,,,,,28,1,,5,90,0,1,2,1.53965427758,31,How to get a promotion?, Arrive on time.,5
+2098,17,L,,,,,1.1750024932,,,,,38,1,,5,90,0,1,2,1.16652377659,36,Why use a brush?, Paint a picture.,1
+2098,18,L,,,,,3.62821520827,,,,,23,1,,5,90,0,1,2,2.37228315091,51,Why use credit cards?, Go shopping.,1
+2098,19,R,,,,,4.50245493165,,,,,22,1,,5,90,0,1,2,1.166558368,39,How to feel connected?, Contact a friend.,6
+2098,20,R,,,,,4.10361956635,,,,,24,1,,5,90,0,1,2,1.077864043,1,How to get a degree?, Attend a school.,6
+2098,21,R,,,,,2.47558061153,,,,,37,1,,5,90,0,1,2,3.00022296043,0,Why enter a classroom?, Attend a school.,2
+2098,22,L,,,,,2.6578044304,,,,,21,1,,5,90,0,1,2,1.76493894098,3,Why teach a class?, Obey laws.,2
+2098,23,R,,,,,1.29532949295,,,,,24,1,,5,90,0,1,2,3.82887299175,40,How to paint a picture?, Use a brush.,4
+2098,24,L,,,,,2.07104377664,,,,,29,1,,5,90,0,1,2,1.07451039337,8,How to mix a cocktail?, Stir ingredients.,4
+2098,25,R,,,,,1.94188082135,,,,,36,1,,5,90,0,1,2,1.87011787665,26,Why read articles?, Gain knowledge.,2
+2098,26,L,,,,,3.22746531761,,,,,22,1,,5,90,0,1,2,1.89682428254,41,Why make a phone call?, Contact a friend.,2
+2098,27,L,,,,,1.37396711168,,,,,40,1,,5,90,0,1,2,1.65485975475,32,How to feel nostalgia?, Keep a memory.,6
+2098,28,L,,,,,2.88265096075,,,,,32,1,,5,90,0,1,2,1.54711329452,28,How to spread joy?, Get a job.,6
+2098,29,R,,,,,1.68366983458,,,,,38,1,,5,90,0,1,2,1.02624118195,24,How to teach others?, Give a lecture.,5
+2098,30,R,,,,,1.84131797929,,,,,26,1,,5,90,0,1,2,4.77841791986,35,How to write an email?, Open a browser.,5
+2098,31,R,,,,,1.02102667051,,,,,33,1,,5,90,0,1,2,1.50566666801,54,Why reduce pain?, Feel well.,3
+2098,32,L,,,,,2.1995668582,,,,,20,1,,5,90,0,1,2,2.42598007022,37,Why plan ahead?, Reduce worry.,3
+2098,33,L,,,,,2.67563987616,,,,,39,1,,5,90,0,1,2,3.61500347891,50,Why cut paper?, Clip coupons.,1
+2098,34,R,,,,,2.25174415691,,,,,25,1,,5,90,0,1,2,2.01244844905,56,Why use chalk?, Get fit.,1
+2098,35,R,,,,,2.93418288172,,,,,30,1,,5,90,0,1,2,1.61789984777,58,How to go shopping?, Use credit cards.,4
+2098,36,L,,,,,1.02249468298,,,,,28,1,,5,90,0,1,2,1.14470485334,17,How to write a poem?, Grab a pencil.,4
+2098,37,R,,,,,1.02792577075,,,,,34,1,,5,90,0,1,2,1.90760782893,25,Why contact a friend?, Feel connected.,3
+2098,38,R,,,,,2.62134522163,,,,,31,1,,5,90,0,1,2,1.30758898516,19,Why build muscles?, Show humility.,3
+2098,39,L,,,,,1.36508706593,,,,,27,1,,5,90,0,1,2,2.08176749885,11,How to avoid boredom?, Entertain oneself.,6
+2098,40,L,,,,,1.27652047133,,,,,35,1,,5,90,0,1,2,1.34446157843,9,How to satisfy a need?, Make a purchase.,6
+2098,41,L,,,,,1.79935102804,,,,,28,1,,5,90,0,1,2,1.0710481846,18,How to make breakfast?, Crack eggs.,4
+2098,42,R,,,,,2.55497428015,,,,,24,1,,5,90,0,1,2,3.48942128001,27,How to make a list?, Throw away trash.,4
+2098,43,R,,,,,1.75575272252,,,,,21,1,,5,90,0,1,2,1.80648449977,52,Why use a comb?, Write a song.,1
+2098,44,L,,,,,3.71010382865,,,,,39,1,,5,90,0,1,2,2.94378774505,22,Why lift a glass?, Drink wine.,1
+2098,45,L,,,,,1.23695699207,,,,,29,1,,5,90,0,1,2,2.91448413335,4,Why drink wine?, Consume alcohol.,2
+2098,46,R,,,,,1.27022522278,,,,,20,1,,5,90,0,1,2,1.07580963608,7,Why write a poem?, Express an idea.,2
+2098,47,L,,,,,3.04703577176,,,,,26,1,,5,90,0,1,2,1.24549264463,53,How to gain knowledge?, Read articles.,5
+2098,48,R,,,,,1.82255377578,,,,,40,1,,5,90,0,1,2,1.32871525335,57,How to provide food?, Prepare meals.,5
+2098,49,R,,,,,2.994594904,,,,,33,1,,5,90,0,1,2,2.549198041,34,How to consume alcohol?, Drink wine.,5
+2098,50,L,,,,,2.09649971773,,,,,35,1,,5,90,0,1,2,2.09705895999,5,How to express doubt?, Use scissors.,5
+2098,51,L,,,,,1.5362441539,,,,,38,1,,5,90,0,1,2,3.7589635272,21,How to lift weights?, Fasten seatbelt.,4
+2098,52,L,,,,,1.43675610965,,,,,30,1,,5,90,0,1,2,1.63946377602,55,How to prepare meals?, Follow recipes.,4
+2098,53,R,,,,,2.59261145051,,,,,31,1,,5,90,0,1,2,1.31449625879,15,Why write an email?, Send a message.,3
+2098,54,R,,,,,2.13319075455,,,,,34,1,,5,90,0,1,2,1.71478304414,14,Why attend a school?, Get a degree.,3
+2098,55,L,,,,,2.17000527061,,,,,22,1,,5,90,0,1,2,2.25863986963,33,Why dial numbers?, Make a phone call.,1
+2098,56,R,,,,,1.45360878554,,,,,32,1,,5,90,0,1,2,1.32493160623,42,Why turn a doorknob?, Enter a classroom.,1
+2098,57,L,,,,,2.03568841148,,,,,27,1,,5,90,0,1,2,2.12128551338,2,Why give a lecture?, Teach others.,2
+2098,58,L,,,,,1.05768474194,,,,,23,1,,5,90,0,1,2,2.46570465379,29,Why consume caffeine?, Stay alert.,2
+2098,59,R,,,,,1.55838522582,,,,,25,1,,5,90,0,1,2,1.0631811027,12,How to express a talent?, Entertain others.,6
+2098,60,R,,,,,2.31078495885,,,,,37,1,,5,90,0,1,2,1.9747230462,13,How to support a cause?, Give to charity.,6

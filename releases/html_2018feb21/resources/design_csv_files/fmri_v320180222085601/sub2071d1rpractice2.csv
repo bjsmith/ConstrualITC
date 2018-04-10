@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2071,1,R,,,,,5.14348853232,,,,25,30,1,,3,,1,1,4,0.680006921053,6,Why plan ahead?, Reduce worry.,3
+2071,2,L,,,,,1.25387026011,,,,25,30,1,,7,,1,1,4,0.600229374526,7,Why avoid diseases?, Live a long life.,3
+2071,3,R,,,,,1.90436573685,,,,25,30,1,,9,,1,1,4,0.698577326408,2,Why clap hands?, Give applause.,1
+2071,4,R,,,,,1.89337922721,,,,25,30,1,,4,,1,1,4,1.09661966602,0,Why take aspirin?, Serve alcohol.,1
+2071,5,R,,,,,1.12646455937,,,,25,30,1,,5,,1,1,4,1.47665146793,9,How to prepare meals?, Follow recipes.,4
+2071,6,R,,,,,2.31021137783,,,,25,30,1,,8,,1,1,4,0.549477024324,3,How to consume medicine?, Take pills. ,4
+2071,7,L,,,,,2.22200725154,,,,25,30,1,,6,,1,1,4,1.13579700676,4,How to live a long life?, Avoid diseases.,6
+2071,8,L,,,,,1.59557998282,,,,25,30,1,,1,,1,1,4,1.31228953314,5,How to show an ability?, Satisfy hunger.,6
+2071,9,L,,,,,1.91255820436,,,,25,30,1,,5,,1,1,4,0.682959079293,1,How to reduce pain?, Consume medicine.,5
+2071,10,L,,,,,1.71602321539,,,,25,30,1,,3,,1,1,4,0.550557377017,11,How to show appreciation?, Give applause.,5
+2071,11,L,,,,,0.590309107055,,,,25,30,1,,8,,1,1,4,1.83582658529,10,Why lift weights?, Build muscles.,2
+2071,12,R,,,,,1.40736927843,,,,25,30,1,,1,,1,1,4,0.870749950008,8,Why make a list?, Plan ahead.,2

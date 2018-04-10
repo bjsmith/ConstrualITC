@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2102,1,R,,,,,3.56168979927,,,,,40,1,,5,90,0,2,4,0.838801209234,0,Why go shopping?, Make a purchase.,2
+2102,2,R,,,,,1.25198319819,,,,,24,1,,5,90,0,2,4,1.21267386854,3,Why open a browser?, Write an email.,2
+2102,3,L,,,,,0.903494329394,,,,,21,1,,5,90,0,2,4,1.09207024111,2,How to make a phone call?, Dial numbers.,4
+2102,4,L,,,,,2.45991889171,,,,,32,1,,5,90,0,2,4,0.576033714658,1,How to write a poem?, Grab a pencil.,4

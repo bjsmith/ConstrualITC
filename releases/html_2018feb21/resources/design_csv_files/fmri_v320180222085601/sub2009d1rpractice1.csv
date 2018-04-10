@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2009,1,L,,,,,0.668214694095,,,,,20,1,,5,90,0,1,3,1.12094804547,10,How to make a list?, Throw away trash.,4
+2009,2,L,,,,,3.41848859931,,,,,35,1,,5,90,0,1,3,0.700312753898,6,How to write a check?, Sign ones name.,4
+2009,3,R,,,,,1.04673136669,,,,,22,1,,5,90,0,1,3,0.601036545441,8,How to get a degree?, Attend a school.,6
+2009,4,R,,,,,2.11587920901,,,,,38,1,,5,90,0,1,3,0.603819981992,5,How to improve oneself?, Gain knowledge.,6
+2009,5,L,,,,,0.707481984767,,,,,31,1,,5,90,0,1,3,0.719413344776,4,Why wear ties?, Dress formally.,1
+2009,6,L,,,,,1.85005681707,,,,,23,1,,5,90,0,1,3,0.502374811415,9,Why lift a glass?, Drink wine.,1
+2009,7,R,,,,,1.54928374431,,,,,25,1,,5,90,0,1,3,1.30985508083,0,How to make a purchase?, Go shopping.,5
+2009,8,R,,,,,2.11755131412,,,,,21,1,,5,90,0,1,3,1.74727760729,1,How to contact a friend?, Make a phone call.,5
+2009,9,L,,,,,2.72180143971,,,,,40,1,,5,90,0,1,3,0.733635831612,11,Why make art?, Show creativity.,3
+2009,10,R,,,,,2.17707954364,,,,,36,1,,5,90,0,1,3,1.03521533131,7,Why give to charity?, Support a cause.,3
+2009,11,L,,,,,0.968501073868,,,,,37,1,,5,90,0,1,3,0.744441106444,2,Why consume medicine?, Reduce pain.,2
+2009,12,R,,,,,4.21929429182,,,,,34,1,,5,90,0,1,3,1.46356979562,3,Why make a list?, Plan ahead.,2

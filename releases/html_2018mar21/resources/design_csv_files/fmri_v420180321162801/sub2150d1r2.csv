@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2150,1,R,,,,,2.73224590827,,,,,21,1,,5,90,0,1,2,1.79195370042,38,Why stir ingredients?, Mix a cocktail.,1
+2150,2,L,,,,,4.18141700604,,,,,22,1,,5,90,0,1,2,2.11474189419,7,Why open a bottle?, Consume medicine.,1
+2150,3,L,,,,,1.10083837747,,,,,27,1,,5,90,0,1,2,1.22655149379,47,Why write a poem?, Express an idea.,2
+2150,4,L,,,,,1.26882698638,,,,,26,1,,5,90,0,1,2,1.22646592452,12,Why clip coupons?, Save money.,2
+2150,5,R,,,,,1.11149930965,,,,,24,1,,5,90,0,1,2,2.51719174871,29,How to make breakfast?, Crack eggs.,4
+2150,6,L,,,,,1.27798046041,,,,,29,1,,5,90,0,1,2,1.48261465318,10,How to make a phone call?, Dial numbers.,4
+2150,7,L,,,,,3.83102512606,,,,,39,1,,5,90,0,1,2,1.39693530694,6,How to satisfy a need?, Make a purchase.,6
+2150,8,R,,,,,1.01104059943,,,,,30,1,,5,90,0,1,2,1.09292925103,37,How to spread joy?, Get a job.,6
+2150,9,R,,,,,3.50096890598,,,,,20,1,,5,90,0,1,2,1.00536852172,0,How to plan ahead?, Make a list.,5
+2150,10,R,,,,,2.47355460806,,,,,37,1,,5,90,0,1,2,1.67354778365,28,How to consume alcohol?, Drink wine.,5
+2150,11,L,,,,,2.19721733527,,,,,23,1,,5,90,0,1,2,3.90719362623,15,Why show appreciation?, Spread joy.,3
+2150,12,L,,,,,1.17260317303,,,,,36,1,,5,90,0,1,2,1.98326324988,14,Why show courtesy?, Make a friend.,3
+2150,13,R,,,,,1.56246876204,,,,,31,1,,5,90,0,1,2,1.31016952302,39,Why throw away trash?, Make a list.,1
+2150,14,R,,,,,1.86077581964,,,,,38,1,,5,90,0,1,2,1.51403684649,57,Why use a comb?, Write a song.,1
+2150,15,R,,,,,1.35565861152,,,,,32,1,,5,90,0,1,2,4.67484792726,43,Why watch television?, Show competence.,2
+2150,16,L,,,,,2.11005176326,,,,,33,1,,5,90,0,1,2,1.76241666508,51,Why take a picture?, Keep a memory.,2
+2150,17,L,,,,,1.95457534238,,,,,34,1,,5,90,0,1,2,1.76076138622,27,Why reduce pain?, Feel well.,3
+2150,18,R,,,,,3.00738081098,,,,,25,1,,5,90,0,1,2,3.40043696905,36,Why make a purchase?, Satisfy a need.,3
+2150,19,R,,,,,1.04220050076,,,,,28,1,,5,90,0,1,2,1.43259986974,2,How to spread knowledge?, Teach others.,6
+2150,20,L,,,,,2.10945874627,,,,,40,1,,5,90,0,1,2,1.71027140023,22,How to reduce worry?, Plan ahead.,6
+2150,21,L,,,,,3.1023040896,,,,,38,1,,5,90,0,1,2,1.90841588086,19,How to entertain oneself?, Watch television.,5
+2150,22,R,,,,,1.26357004339,,,,,21,1,,5,90,0,1,2,1.52721430674,26,How to show intelligence?, Participate in class.,5
+2150,23,L,,,,,1.06666348204,,,,,39,1,,5,90,0,1,2,1.37540818771,11,How to give a lecture?, Brush ones hair.,4
+2150,24,R,,,,,2.25473401009,,,,,22,1,,5,90,0,1,2,3.80999767474,52,How to consume medicine?, Take pills. ,4
+2150,25,R,,,,,1.69458872079,,,,,35,1,,5,90,0,1,2,1.88872492892,25,Why turn a doorknob?, Enter a classroom.,1
+2150,26,R,,,,,2.81581965722,,,,,26,1,,5,90,0,1,2,1.85576464692,9,Why use credit cards?, Go shopping.,1
+2150,27,L,,,,,1.77110288168,,,,,37,1,,5,90,0,1,2,3.39373367453,18,Why use a camera?, Give to charity.,2
+2150,28,L,,,,,1.8208327793,,,,,29,1,,5,90,0,1,2,1.55876430995,45,Why consume medicine?, Reduce pain.,2
+2150,29,R,,,,,1.33228814514,,,,,34,1,,5,90,0,1,2,2.5913023576,56,How to live a long life?, Avoid diseases.,6
+2150,30,L,,,,,1.28922617954,,,,,30,1,,5,90,0,1,2,1.52378405703,23,How to feel well?, Reduce pain.,6
+2150,31,L,,,,,1.12614694576,,,,,33,1,,5,90,0,1,2,1.24977982288,16,Why give to charity?, Support a cause.,3
+2150,32,L,,,,,1.00209801198,,,,,23,1,,5,90,0,1,2,1.67770384351,5,Why show competence?, Pass the time.,3
+2150,33,R,,,,,2.66470639647,,,,,36,1,,5,90,0,1,2,1.03501615726,44,How to dress formally?, Wear ties. ,4
+2150,34,R,,,,,1.57469078273,,,,,32,1,,5,90,0,1,2,1.95165055056,53,How to drink wine?, Open a bottle. ,4
+2150,35,R,,,,,3.70851865568,,,,,28,1,,5,90,0,1,2,1.27438172065,48,How to attend a school?, Enter a classroom.,5
+2150,36,L,,,,,2.08404784404,,,,,25,1,,5,90,0,1,2,4.20124120089,24,How to contact a friend?, Make a phone call.,5
+2150,37,R,,,,,2.5151731244,,,,,40,1,,5,90,0,1,2,3.05342480774,32,How to feel secure?, Save money.,6
+2150,38,R,,,,,2.96623690999,,,,,20,1,,5,90,0,1,2,2.50700917698,3,How to avoid mistakes?, Obey laws.,6
+2150,39,R,,,,,2.58171639235,,,,,31,1,,5,90,0,1,2,2.0181039972,50,How to write a poem?, Grab a pencil.,4
+2150,40,L,,,,,1.67381963901,,,,,27,1,,5,90,0,1,2,1.98358668754,54,How to kill germs?, Wash ones hands.,4
+2150,41,L,,,,,1.51378831121,,,,,34,1,,5,90,0,1,2,1.22589016937,31,Why provide food?, Help a person.,3
+2150,42,L,,,,,1.5749564819,,,,,25,1,,5,90,0,1,2,2.20756417632,1,Why plan ahead?, Reduce worry.,3
+2150,43,L,,,,,1.79429092394,,,,,32,1,,5,90,0,1,2,1.10960407611,4,Why sign ones name?, Write a check.,1
+2150,44,R,,,,,2.07151282221,,,,,40,1,,5,90,0,1,2,1.53890568022,40,Why cut paper?, Clip coupons.,1
+2150,45,L,,,,,1.80428320428,,,,,27,1,,5,90,0,1,2,1.89912872576,58,How to show ambition?, Serve alcohol.,5
+2150,46,L,,,,,1.82818025558,,,,,28,1,,5,90,0,1,2,2.94836168213,59,How to make a donation?, Mix a cocktail.,5
+2150,47,R,,,,,2.39428269024,,,,,20,1,,5,90,0,1,2,1.92289327068,30,Why go shopping?, Make a purchase.,2
+2150,48,R,,,,,1.83451925412,,,,,23,1,,5,90,0,1,2,1.65044354014,49,Why make a phone call?, Contact a friend.,2
+2150,49,L,,,,,2.04291642075,,,,,38,1,,5,90,0,1,2,3.33969309974,17,Why use a remote?, Watch television.,1
+2150,50,R,,,,,1.39804726805,,,,,37,1,,5,90,0,1,2,1.01480923749,8,Why crack eggs?, Make breakfast.,1
+2150,51,L,,,,,4.25512000068,,,,,30,1,,5,90,0,1,2,1.21169565251,41,Why keep a memory?, Feel nostalgia.,3
+2150,52,R,,,,,1.52215565131,,,,,24,1,,5,90,0,1,2,1.372469134,13,Why contact a friend?, Feel connected.,3
+2150,53,L,,,,,1.31070963184,,,,,33,1,,5,90,0,1,2,3.05537340717,20,How to mix a cocktail?, Stir ingredients.,4
+2150,54,R,,,,,1.99002258236,,,,,21,1,,5,90,0,1,2,1.48932583712,46,How to prepare meals?, Follow recipes.,4
+2150,55,R,,,,,1.5508970987,,,,,36,1,,5,90,0,1,2,3.41745801874,21,How to express a talent?, Entertain others.,6
+2150,56,R,,,,,1.02888021831,,,,,39,1,,5,90,0,1,2,1.8094230505,35,How to achieve success?, Get a promotion.,6
+2150,57,L,,,,,1.31927071167,,,,,22,1,,5,90,0,1,2,1.22297002149,33,How to reduce pain?, Consume medicine.,5
+2150,58,L,,,,,4.79320348642,,,,,31,1,,5,90,0,1,2,2.53140522737,42,How to teach others?, Give a lecture.,5
+2150,59,L,,,,,1.80809649236,,,,,26,1,,5,90,0,1,2,1.05841434286,34,Why make a list?, Plan ahead.,2
+2150,60,R,,,,,1.29351629681,,,,,35,1,,5,90,0,1,2,1.82674699395,55,Why enter a classroom?, Attend a school.,2

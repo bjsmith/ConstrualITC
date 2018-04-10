@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2115,1,L,,,,,1.80564468056,,,,25,30,1,,3,,1,1,4,0.56120897774,9,Why lift a glass?, Drink wine.,1
+2115,2,R,,,,,2.20898763334,,,,25,30,1,,1,,1,1,4,1.82203440947,6,Why wear ties?, Dress formally.,1
+2115,3,R,,,,,0.85964212841,,,,25,30,1,,2,,1,1,4,1.04922017086,11,Why write a song?, Seek advice.,2
+2115,4,L,,,,,2.57735040227,,,,25,30,1,,5,,1,1,4,1.85518261098,5,Why dress formally?, Get a promotion.,2
+2115,5,R,,,,,2.75341293909,,,,25,30,1,,4,,1,1,4,0.55632970437,2,Why show intelligence?, Impress others.,3
+2115,6,L,,,,,2.97176334279,,,,25,30,1,,9,,1,1,4,1.32218502922,10,Why write an email?, Send a message.,3
+2115,7,R,,,,,1.19710497611,,,,25,30,1,,8,,1,1,4,0.910725210344,7,How to impress others?, Show intelligence.,6
+2115,8,R,,,,,3.41145181721,,,,25,30,1,,7,,1,1,4,0.609133851628,4,How to spread knowledge?, Teach others.,6
+2115,9,L,,,,,0.93705455141,,,,25,30,1,,4,,1,1,4,0.889692117651,3,How to dress formally?, Wear ties. ,4
+2115,10,L,,,,,2.0072373699,,,,25,30,1,,8,,1,1,4,0.773546360706,0,How to give a lecture?, Brush ones hair.,4
+2115,11,R,,,,,0.665391310211,,,,25,30,1,,6,,1,1,4,0.593830397808,1,How to satisfy hunger?, Make breakfast.,5
+2115,12,L,,,,,2.74523820915,,,,25,30,1,,9,,1,1,4,0.516260328001,8,How to consume alcohol?, Drink wine.,5

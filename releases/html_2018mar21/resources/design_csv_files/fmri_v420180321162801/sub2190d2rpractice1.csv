@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2190,1,R,,,,,1.2324460051,,,,25,30,1,,8,,1,2,3,1.33864374518,0,Why take a picture?, Keep a memory.,2
+2190,2,R,,,,,1.87897961897,,,,25,30,1,,7,,1,2,3,1.29300882054,1,Why write a song?, Seek advice.,2
+2190,3,L,,,,,2.03563047866,,,,25,30,1,,6,,1,2,3,0.876504948084,3,Why open a magazine?, Read articles.,1
+2190,4,L,,,,,2.20946906236,,,,25,30,1,,2,,1,2,3,0.772180699779,2,Why use credit cards?, Go shopping.,1

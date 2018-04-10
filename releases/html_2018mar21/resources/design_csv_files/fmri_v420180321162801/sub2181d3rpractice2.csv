@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2181,1,L,,,,,2.39095056919,,,,25,30,1,,2,,1,3,4,0.556841196249,1,Why plan ahead?, Reduce worry.,3
+2181,2,R,,,,,2.51263697675,,,,25,30,1,,8,,1,3,4,0.52455168108,3,Why get a promotion?, Achieve success.,3
+2181,3,R,,,,,1.60593531816,,,,25,30,1,,9,,1,3,4,1.27691386841,0,Why stir ingredients?, Mix a cocktail.,1
+2181,4,L,,,,,0.720197490761,,,,25,30,1,,1,,1,3,4,2.01516868106,2,Why use credit cards?, Go shopping.,1

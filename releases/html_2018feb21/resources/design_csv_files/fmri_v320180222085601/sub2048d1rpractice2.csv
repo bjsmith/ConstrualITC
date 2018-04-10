@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2048,1,L,,,,,2.78171764339,,,,,36,1,,5,90,0,1,4,0.674018599353,9,Why sign ones name?, Write a check.,1
+2048,2,R,,,,,2.4847115931,,,,,22,1,,5,90,0,1,4,0.916621573136,11,Why turn a doorknob?, Enter a classroom.,1
+2048,3,R,,,,,0.651255153124,,,,,28,1,,5,90,0,1,4,0.973899809095,0,Why finish a job?, Feel productive.,3
+2048,4,L,,,,,1.68029473993,,,,,25,1,,5,90,0,1,4,2.19425516805,8,Why satisfy hunger?, Show an ability.,3
+2048,5,R,,,,,3.77380186704,,,,,40,1,,5,90,0,1,4,0.789611923796,1,How to open a browser?, Click a mouse.,4
+2048,6,L,,,,,0.810234024608,,,,,24,1,,5,90,0,1,4,1.09149768875,3,How to give applause?, Clap hands.,4
+2048,7,L,,,,,2.03397510539,,,,,34,1,,5,90,0,1,4,1.30175549444,6,How to write an email?, Open a browser.,5
+2048,8,L,,,,,1.87532653789,,,,,37,1,,5,90,0,1,4,0.501701226483,2,How to show appreciation?, Give applause.,5
+2048,9,R,,,,,0.756144159098,,,,,35,1,,5,90,0,1,4,0.832621196088,5,How to show creativity?, Make art.,6
+2048,10,R,,,,,2.74229276098,,,,,20,1,,5,90,0,1,4,0.600321991457,7,How to achieve success?, Get a promotion.,6
+2048,11,L,,,,,1.41255247542,,,,,21,1,,5,90,0,1,4,0.56617406184,10,Why clip coupons?, Save money.,2
+2048,12,R,,,,,2.09721329029,,,,,38,1,,5,90,0,1,4,0.604693172038,4,Why watch television?, Show competence.,2

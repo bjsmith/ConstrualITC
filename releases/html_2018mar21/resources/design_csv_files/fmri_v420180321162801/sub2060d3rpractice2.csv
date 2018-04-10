@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2060,1,L,,,,,0.531379543034,,,,,32,1,,5,90,0,3,4,0.927875724596,1,How to express doubt?, Use scissors.,5
+2060,2,R,,,,,1.34868808056,,,,,21,1,,5,90,0,3,4,0.821021945802,2,How to make art?, Paint a picture.,5
+2060,3,L,,,,,0.886514720697,,,,,33,1,,5,90,0,3,4,1.69001118859,0,Why use a remote?, Watch television.,1
+2060,4,R,,,,,5.17771064592,,,,,36,1,,5,90,0,3,4,0.503450719416,3,Why click a mouse?, Open a browser.,1

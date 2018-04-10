@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2193,1,L,,,,,0.688348354669,,,,,26,1,,5,90,0,2,3,2.14159355521,1,How to get a promotion?, Arrive on time.,5
+2193,2,L,,,,,0.54694826479,,,,,32,1,,5,90,0,2,3,0.524831940953,2,How to plan ahead?, Make a list.,5
+2193,3,R,,,,,2.75921870513,,,,,34,1,,5,90,0,2,3,0.866391838109,3,Why save money?, Get fit.,3
+2193,4,R,,,,,3.16121079338,,,,,23,1,,5,90,0,2,3,0.794302478373,0,Why provide food?, Help a person.,3

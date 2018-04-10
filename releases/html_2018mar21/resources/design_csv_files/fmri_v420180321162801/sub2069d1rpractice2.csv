@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2069,1,L,,,,,3.84648226417,,,,25,30,1,,8,,1,1,4,1.1761193399,9,How to show creativity?, Make art.,6
+2069,2,R,,,,,0.584063376874,,,,25,30,1,,2,,1,1,4,0.534856439209,1,How to impress others?, Show intelligence.,6
+2069,3,R,,,,,0.595553306877,,,,25,30,1,,5,,1,1,4,0.973276647844,4,How to clip coupons?, Cut paper.,4
+2069,4,R,,,,,0.614523984259,,,,25,30,1,,6,,1,1,4,0.528996452366,2,How to lift weights?, Fasten seatbelt.,4
+2069,5,R,,,,,3.27073315062,,,,25,30,1,,1,,1,1,4,0.562062981606,5,Why open a browser?, Write an email.,2
+2069,6,R,,,,,3.82828412163,,,,25,30,1,,4,,1,1,4,1.03628360173,11,Why drink wine?, Consume alcohol.,2
+2069,7,L,,,,,0.771808967631,,,,25,30,1,,7,,1,1,4,0.647408911105,6,How to attend a school?, Enter a classroom.,5
+2069,8,L,,,,,0.90926529199,,,,25,30,1,,9,,1,1,4,0.598832269367,0,How to avoid diseases?, Kill germs.,5
+2069,9,L,,,,,2.45169958696,,,,25,30,1,,4,,1,1,4,1.53726698176,3,Why crack eggs?, Make breakfast.,1
+2069,10,L,,,,,1.32070452485,,,,25,30,1,,6,,1,1,4,1.1934393849,10,Why drink coffee?, Consume caffeine.,1
+2069,11,R,,,,,4.28335350718,,,,25,30,1,,5,,1,1,4,2.25106990047,8,Why show courtesy?, Make a friend.,3
+2069,12,L,,,,,0.846502255225,,,,25,30,1,,7,,1,1,4,0.507852263362,7,Why provide food?, Help a person.,3

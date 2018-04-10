@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2120,1,R,,,,,0.597878278266,,,,,39,1,,5,90,0,2,4,0.579105512365,3,Why open a magazine?, Read articles.,1
+2120,2,L,,,,,4.22900069379,,,,,23,1,,5,90,0,2,4,0.531246254275,1,Why wear ties?, Dress formally.,1
+2120,3,R,,,,,1.23868976827,,,,,26,1,,5,90,0,2,4,0.945965930909,2,How to consume alcohol?, Drink wine.,5
+2120,4,L,,,,,1.04546010566,,,,,35,1,,5,90,0,2,4,1.45128598256,0,How to attend a school?, Enter a classroom.,5

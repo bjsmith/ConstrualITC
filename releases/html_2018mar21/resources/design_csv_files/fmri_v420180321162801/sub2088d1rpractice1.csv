@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2088,1,L,,,,,0.782699162898,,,,25,30,1,,7,,1,1,3,0.715621194425,6,Why clip coupons?, Save money.,2
+2088,2,R,,,,,1.53878222408,,,,25,30,1,,2,,1,1,3,0.502068084281,8,Why watch television?, Show competence.,2
+2088,3,R,,,,,1.31730254615,,,,25,30,1,,5,,1,1,3,1.41294937139,0,Why open a bottle?, Consume medicine.,1
+2088,4,R,,,,,3.38433118222,,,,25,30,1,,8,,1,1,3,1.31244426423,5,Why lift a glass?, Drink wine.,1
+2088,5,L,,,,,4.897943263,,,,25,30,1,,9,,1,1,3,1.27279236042,2,How to plan ahead?, Make a list.,5
+2088,6,L,,,,,1.18793703876,,,,25,30,1,,4,,1,1,3,0.715111398837,1,How to save money?, Clip coupons.,5
+2088,7,R,,,,,0.759019829939,,,,25,30,1,,1,,1,1,3,0.770405199109,7,Why show appreciation?, Spread joy.,3
+2088,8,L,,,,,3.88586070633,,,,25,30,1,,3,,1,1,3,0.807322364925,3,Why give to charity?, Support a cause.,3
+2088,9,L,,,,,0.800658237127,,,,25,30,1,,5,,1,1,3,1.60956938235,9,How to spread joy?, Get a job.,6
+2088,10,L,,,,,0.893096808653,,,,25,30,1,,4,,1,1,3,0.732954907401,4,How to feel secure?, Save money.,6
+2088,11,R,,,,,2.15659969592,,,,25,30,1,,2,,1,1,3,0.846621582201,10,How to give applause?, Clap hands.,4
+2088,12,R,,,,,1.54071896323,,,,25,30,1,,9,,1,1,3,0.964291902637,11,How to kill germs?, Wash ones hands.,4

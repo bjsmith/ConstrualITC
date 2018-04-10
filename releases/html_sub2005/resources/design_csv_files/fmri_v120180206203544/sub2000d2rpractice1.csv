@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2000,1,1,,,,,0.889678477062,,,,25,30,1,,8,,1,2,3,1.77709934015,1,Why use credit cards?, Go shopping.,1
+2000,2,2,,,,,1.63850578766,,,,25,30,1,,4,,1,2,3,0.848986658231,0,How to show humility?, Build muscles.,6
+2000,3,2,,,,,1.38286810888,,,,25,30,1,,2,,1,2,3,0.902003718891,0,How to mix a cocktail?, Stir ingredients.,4
+2000,4,1,,,,,4.30581796331,,,,25,30,1,,5,,1,2,3,0.505726859691,0,Why open a browser?, Write an email.,2

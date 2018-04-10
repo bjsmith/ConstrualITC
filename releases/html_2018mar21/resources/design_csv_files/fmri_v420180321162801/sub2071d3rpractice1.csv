@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2071,1,R,,,,,0.892287955308,,,,,21,1,,5,90,0,3,3,1.00213075721,1,Why use a remote?, Watch television.,1
+2071,2,R,,,,,1.98937903199,,,,,30,1,,5,90,0,3,3,0.903783210329,0,Why lift a glass?, Drink wine.,1
+2071,3,L,,,,,1.4527376381,,,,,27,1,,5,90,0,3,3,0.732602570152,3,Why reduce pain?, Feel well.,3
+2071,4,L,,,,,3.92766017724,,,,,38,1,,5,90,0,3,3,0.54012239381,2,Why write an email?, Send a message.,3

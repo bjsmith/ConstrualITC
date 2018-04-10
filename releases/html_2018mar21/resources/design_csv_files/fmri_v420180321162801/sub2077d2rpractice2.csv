@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2077,1,L,,,,,3.73760659062,,,,25,30,1,,1,,1,2,4,0.540226479397,2,Why satisfy hunger?, Show an ability.,3
+2077,2,L,,,,,2.32568555816,,,,25,30,1,,8,,1,2,4,0.628638899068,0,Why make a purchase?, Satisfy a need.,3
+2077,3,R,,,,,0.690792423242,,,,25,30,1,,7,,1,2,4,1.90285341838,1,How to gain knowledge?, Read articles.,5
+2077,4,R,,,,,0.550751382241,,,,25,30,1,,2,,1,2,4,0.624222176666,3,How to express doubt?, Use scissors.,5

@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2078,1,R,,,,,1.32923213496,,,,,25,1,,5,90,0,2,2,1.7113451061,20,How to show intelligence?, Participate in class.,5
+2078,2,L,,,,,1.70555326288,,,,,21,1,,5,90,0,2,2,3.2576627219,4,How to avoid diseases?, Kill germs.,5
+2078,3,L,,,,,2.39881379765,,,,,36,1,,5,90,0,2,2,1.00981245951,11,Why show appreciation?, Spread joy.,3
+2078,4,R,,,,,3.226927328,,,,,20,1,,5,90,0,2,2,2.54839092509,16,Why contact a friend?, Feel connected.,3
+2078,5,L,,,,,2.02901983373,,,,,23,1,,5,90,0,2,2,1.77689823199,47,How to feel connected?, Contact a friend.,6
+2078,6,L,,,,,1.51682516581,,,,,28,1,,5,90,0,2,2,2.6967895931,0,How to show humility?, Build muscles.,6
+2078,7,L,,,,,1.57935431061,,,,,22,1,,5,90,0,2,2,1.2104586236,6,How to kill germs?, Wash ones hands.,4
+2078,8,R,,,,,1.56491777193,,,,,32,1,,5,90,0,2,2,3.62419788251,26,How to write a check?, Sign ones name.,4
+2078,9,R,,,,,1.57716751973,,,,,30,1,,5,90,0,2,2,1.65685034398,32,Why open a bottle?, Consume medicine.,1
+2078,10,R,,,,,1.21002695201,,,,,38,1,,5,90,0,2,2,2.17242925189,50,Why use a brush?, Paint a picture.,1
+2078,11,L,,,,,1.53826662212,,,,,33,1,,5,90,0,2,2,4.35495237324,12,Why enter a classroom?, Attend a school.,2
+2078,12,R,,,,,1.25863117191,,,,,37,1,,5,90,0,2,2,1.80834584517,13,Why open a browser?, Write an email.,2
+2078,13,L,,,,,3.06829858036,,,,,31,1,,5,90,0,2,2,2.1567102267,23,How to open a browser?, Click a mouse.,4
+2078,14,R,,,,,1.52428284433,,,,,39,1,,5,90,0,2,2,1.16663124105,24,How to take a picture?, Point a camera.,4
+2078,15,L,,,,,3.88612359892,,,,,26,1,,5,90,0,2,2,1.50862815198,1,Why wear ties?, Dress formally.,1
+2078,16,L,,,,,1.68734304104,,,,,40,1,,5,90,0,2,2,1.44058667641,9,Why use a comb?, Write a song.,1
+2078,17,L,,,,,1.46104161132,,,,,35,1,,5,90,0,2,2,1.03297133938,21,How to gain knowledge?, Read articles.,5
+2078,18,L,,,,,1.87937091691,,,,,29,1,,5,90,0,2,2,2.21741274898,36,How to make a donation?, Mix a cocktail.,5
+2078,19,R,,,,,2.43384352992,,,,,34,1,,5,90,0,2,2,2.61695263861,33,Why share ideas?, Show intellect.,3
+2078,20,L,,,,,2.5446469428,,,,,27,1,,5,90,0,2,2,1.37326560923,27,Why give to charity?, Support a cause.,3
+2078,21,R,,,,,1.00337041645,,,,,34,1,,5,90,0,2,2,1.95760021333,25,How to show an ability?, Satisfy hunger.,6
+2078,22,R,,,,,3.00703693702,,,,,23,1,,5,90,0,2,2,1.26415655687,54,How to get a degree?, Attend a school.,6
+2078,23,R,,,,,1.44897636816,,,,,31,1,,5,90,0,2,2,1.95968252229,49,Why write a poem?, Express an idea.,2
+2078,24,R,,,,,3.09380814358,,,,,21,1,,5,90,0,2,2,1.90562292281,59,Why make a phone call?, Contact a friend.,2
+2078,25,R,,,,,1.39101954591,,,,,24,1,,5,90,0,2,2,1.0867756118,3,Why show courtesy?, Make a friend.,3
+2078,26,L,,,,,1.23556599592,,,,,26,1,,5,90,0,2,2,1.49800959642,10,Why attend a school?, Get a degree.,3
+2078,27,R,,,,,3.72224767725,,,,,32,1,,5,90,0,2,2,3.31506364672,43,How to reduce pain?, Consume medicine.,5
+2078,28,L,,,,,1.33577385479,,,,,37,1,,5,90,0,2,2,1.885316096,28,How to entertain others?, Write a song.,5
+2078,29,L,,,,,3.13103957647,,,,,30,1,,5,90,0,2,2,2.19948885044,46,How to read articles?, Open a magazine.,4
+2078,30,R,,,,,1.62761383903,,,,,38,1,,5,90,0,2,2,1.7452249852,5,How to paint a picture?, Use a brush.,4
+2078,31,R,,,,,2.26517312708,,,,,36,1,,5,90,0,2,2,1.74638856771,17,How to feel nostalgia?, Keep a memory.,6
+2078,32,L,,,,,2.90578089515,,,,,28,1,,5,90,0,2,2,1.32570646899,15,How to support a cause?, Give to charity.,6
+2078,33,R,,,,,2.79289427441,,,,,25,1,,5,90,0,2,2,1.68560321345,52,Why read articles?, Gain knowledge.,2
+2078,34,R,,,,,1.67811880867,,,,,27,1,,5,90,0,2,2,1.04300104804,30,Why write a song?, Seek advice.,2
+2078,35,L,,,,,1.25008494294,,,,,20,1,,5,90,0,2,2,3.81337740342,58,Why raise a hand?, Participate in class.,1
+2078,36,L,,,,,1.46692161642,,,,,40,1,,5,90,0,2,2,1.67324554345,38,Why stir ingredients?, Mix a cocktail.,1
+2078,37,R,,,,,1.43790775858,,,,,33,1,,5,90,0,2,2,1.04009063896,14,How to satisfy hunger?, Make breakfast.,5
+2078,38,L,,,,,2.2213137024,,,,,39,1,,5,90,0,2,2,3.05654182924,55,How to show ambition?, Serve alcohol.,5
+2078,39,R,,,,,2.44102543302,,,,,35,1,,5,90,0,2,2,2.47949276241,19,How to satisfy a need?, Make a purchase.,6
+2078,40,L,,,,,1.74453886548,,,,,22,1,,5,90,0,2,2,1.10968622928,57,How to show intellect?, Share ideas.,6
+2078,41,L,,,,,1.00503593665,,,,,22,1,,5,90,0,2,2,3.97770968388,48,How to make breakfast?, Crack eggs.,4
+2078,42,R,,,,,3.21531011463,,,,,21,1,,5,90,0,2,2,1.42080722624,2,How to make a phone call?, Dial numbers.,4
+2078,43,R,,,,,3.15612902559,,,,,33,1,,5,90,0,2,2,1.02728991373,56,Why provide food?, Help a person.,3
+2078,44,R,,,,,1.13069053,,,,,38,1,,5,90,0,2,2,4.10197578486,35,Why get a promotion?, Achieve success.,3
+2078,45,L,,,,,2.70380331042,,,,,25,1,,5,90,0,2,2,1.34251725404,44,Why use a camera?, Give to charity.,2
+2078,46,R,,,,,1.2466846674,,,,,30,1,,5,90,0,2,2,1.41119239494,7,Why drink wine?, Consume alcohol.,2
+2078,47,L,,,,,1.00592344173,,,,,29,1,,5,90,0,2,2,1.75475748369,41,Why cut paper?, Clip coupons.,1
+2078,48,L,,,,,1.0337480732,,,,,32,1,,5,90,0,2,2,1.39481891444,18,Why open a magazine?, Read articles.,1
+2078,49,L,,,,,2.20052033516,,,,,31,1,,5,90,0,2,2,1.23689959479,53,Why make breakfast?, Satisfy hunger.,2
+2078,50,R,,,,,1.23628516512,,,,,39,1,,5,90,0,2,2,1.80020220282,42,Why kill germs?, Avoid diseases.,2
+2078,51,R,,,,,1.61947197315,,,,,26,1,,5,90,0,2,2,3.74288330491,45,Why save money?, Get fit.,3
+2078,52,R,,,,,4.49686710968,,,,,37,1,,5,90,0,2,2,1.77532674925,34,Why hold a party?, Feel sociable.,3
+2078,53,L,,,,,2.48721522158,,,,,40,1,,5,90,0,2,2,3.37993028349,37,Why use chalk?, Get fit.,1
+2078,54,L,,,,,1.24600631209,,,,,28,1,,5,90,0,2,2,1.17668561246,22,Why throw away trash?, Make a list.,1
+2078,55,R,,,,,2.53517878647,,,,,34,1,,5,90,0,2,2,1.74444472688,29,How to contact a friend?, Make a phone call.,5
+2078,56,L,,,,,1.06145907831,,,,,24,1,,5,90,0,2,2,3.1725130585,31,How to write an email?, Open a browser.,5
+2078,57,R,,,,,1.58709533899,,,,,27,1,,5,90,0,2,2,1.20920701394,40,How to mix a cocktail?, Stir ingredients.,4
+2078,58,R,,,,,3.33854530124,,,,,23,1,,5,90,0,2,2,3.36219626948,51,How to dress formally?, Wear ties. ,4
+2078,59,L,,,,,1.20680337129,,,,,36,1,,5,90,0,2,2,1.20963761793,8,How to live a long life?, Avoid diseases.,6
+2078,60,L,,,,,1.95104035159,,,,,20,1,,5,90,0,2,2,1.43725348819,39,How to avoid mistakes?, Obey laws.,6

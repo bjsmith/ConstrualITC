@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2077,1,L,,,,,3.46167048377,,,,25,30,1,,4,,1,1,4,1.44776200773,5,Why use chalk?, Get fit.,1
+2077,2,L,,,,,0.595831396511,,,,25,30,1,,6,,1,1,4,0.648811953491,4,Why dial numbers?, Make a phone call.,1
+2077,3,R,,,,,0.615535703609,,,,25,30,1,,7,,1,1,4,0.964570817302,10,Why build muscles?, Show humility.,3
+2077,4,L,,,,,2.79386402062,,,,25,30,1,,9,,1,1,4,1.56236102017,7,Why reduce pain?, Feel well.,3
+2077,5,L,,,,,3.99972722708,,,,25,30,1,,5,,1,1,4,0.585327496458,8,How to participate in class?, Raise a hand.,4
+2077,6,L,,,,,1.1836577377,,,,25,30,1,,2,,1,1,4,0.671668833098,0,How to write a check?, Sign ones name.,4
+2077,7,R,,,,,1.86447404496,,,,25,30,1,,3,,1,1,4,1.04790927863,2,How to spread joy?, Get a job.,6
+2077,8,R,,,,,2.22844119403,,,,25,30,1,,8,,1,1,4,3.12042590071,11,How to show an ability?, Satisfy hunger.,6
+2077,9,R,,,,,1.18637287306,,,,25,30,1,,7,,1,1,4,0.712494987467,1,How to make a donation?, Mix a cocktail.,5
+2077,10,L,,,,,2.28783026896,,,,25,30,1,,8,,1,1,4,0.558699746314,9,How to show intelligence?, Participate in class.,5
+2077,11,R,,,,,2.11150573836,,,,25,30,1,,2,,1,1,4,0.52715474241,3,Why clip coupons?, Save money.,2
+2077,12,R,,,,,1.63105962953,,,,25,30,1,,9,,1,1,4,0.984050436204,6,Why take a picture?, Keep a memory.,2

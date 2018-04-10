@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2065,1,R,,,,,2.32019385326,,,,,34,1,,5,90,0,2,3,0.691473817722,3,Why read articles?, Gain knowledge.,2
+2065,2,L,,,,,0.719641682702,,,,,25,1,,5,90,0,2,3,1.09478306787,1,Why make a list?, Plan ahead.,2
+2065,3,L,,,,,2.04195891268,,,,,26,1,,5,90,0,2,3,0.599025056441,2,How to avoid boredom?, Entertain oneself.,6
+2065,4,R,,,,,2.51032979604,,,,,32,1,,5,90,0,2,3,2.31521958303,0,How to spread joy?, Get a job.,6

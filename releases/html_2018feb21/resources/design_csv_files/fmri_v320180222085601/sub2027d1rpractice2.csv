@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2027,1,R,,,,,2.40735887193,,,,25,30,1,,3,,1,1,4,0.727901493819,6,How to reduce pain?, Consume medicine.,5
+2027,2,L,,,,,1.08173641344,,,,25,30,1,,7,,1,1,4,2.4183018914,1,How to entertain others?, Write a song.,5
+2027,3,R,,,,,1.7459754033,,,,25,30,1,,6,,1,1,4,1.12033845683,9,Why sign ones name?, Write a check.,1
+2027,4,L,,,,,1.47676866882,,,,25,30,1,,4,,1,1,4,1.0675698677,5,Why take aspirin?, Serve alcohol.,1
+2027,5,L,,,,,1.22501777675,,,,25,30,1,,1,,1,1,4,0.731327990388,10,Why make a phone call?, Contact a friend.,2
+2027,6,R,,,,,3.27019868388,,,,25,30,1,,8,,1,1,4,0.985336937182,3,Why kill germs?, Avoid diseases.,2
+2027,7,L,,,,,3.2801344999,,,,25,30,1,,2,,1,1,4,0.782543107625,2,How to mix a cocktail?, Stir ingredients.,4
+2027,8,L,,,,,1.19295370958,,,,25,30,1,,5,,1,1,4,1.31229417099,8,How to consume medicine?, Take pills. ,4
+2027,9,R,,,,,0.526531557338,,,,25,30,1,,7,,1,1,4,1.10036453396,0,Why avoid diseases?, Live a long life.,3
+2027,10,R,,,,,1.69236343485,,,,25,30,1,,9,,1,1,4,0.850759218267,11,Why contact a friend?, Feel connected.,3
+2027,11,R,,,,,5.24834554583,,,,25,30,1,,3,,1,1,4,0.64203394004,4,How to support a cause?, Give to charity.,6
+2027,12,L,,,,,1.10885481787,,,,25,30,1,,1,,1,1,4,0.719843650134,7,How to show intellect?, Share ideas.,6

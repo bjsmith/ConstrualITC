@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2052,1,L,,,,,3.07783234099,,,,,23,1,,5,90,0,2,4,0.567092695216,1,Why keep a memory?, Feel nostalgia.,3
+2052,2,L,,,,,1.97668162914,,,,,31,1,,5,90,0,2,4,1.06362817053,0,Why avoid diseases?, Live a long life.,3
+2052,3,R,,,,,2.6081138936,,,,,38,1,,5,90,0,2,4,0.986052354215,3,Why take aspirin?, Serve alcohol.,1
+2052,4,R,,,,,0.503759636016,,,,,27,1,,5,90,0,2,4,1.57150548262,2,Why use credit cards?, Go shopping.,1

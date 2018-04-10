@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2070,1,L,,,,,0.517434208327,,,,25,30,1,,1,,1,1,3,1.31675186013,4,Why give applause?, Show appreciation.,2
+2070,2,R,,,,,1.99372125416,,,,25,30,1,,6,,1,1,3,1.16444684789,11,Why make a phone call?, Contact a friend.,2
+2070,3,R,,,,,1.69376298366,,,,25,30,1,,5,,1,1,3,0.576196748408,10,How to provide food?, Prepare meals.,5
+2070,4,L,,,,,0.858353595688,,,,25,30,1,,8,,1,1,3,1.23531318497,5,How to express doubt?, Use scissors.,5
+2070,5,R,,,,,1.24979350687,,,,25,30,1,,7,,1,1,3,0.737586303565,6,How to feel secure?, Save money.,6
+2070,6,L,,,,,1.24470023151,,,,25,30,1,,4,,1,1,3,1.02522132499,1,How to feel well?, Reduce pain.,6
+2070,7,L,,,,,2.73200015825,,,,25,30,1,,2,,1,1,3,1.60282922168,8,Why point a camera?, Take a picture.,1
+2070,8,R,,,,,2.96778009665,,,,25,30,1,,3,,1,1,3,0.884931011977,3,Why follow recipes?, Prepare meals.,1
+2070,9,L,,,,,3.41964378062,,,,25,30,1,,9,,1,1,3,0.632849266266,2,How to consume medicine?, Take pills. ,4
+2070,10,R,,,,,4.72314648904,,,,25,30,1,,5,,1,1,3,0.65204373419,7,How to give applause?, Clap hands.,4
+2070,11,R,,,,,2.1035699809,,,,25,30,1,,6,,1,1,3,0.726075223255,0,Why make art?, Show creativity.,3
+2070,12,L,,,,,0.784279161328,,,,25,30,1,,2,,1,1,3,0.53610015914,9,Why save money?, Get fit.,3

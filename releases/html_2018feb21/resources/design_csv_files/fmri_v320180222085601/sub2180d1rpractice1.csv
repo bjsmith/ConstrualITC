@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2180,1,L,,,,,3.14696509079,,,,25,30,1,,5,,1,1,3,0.636173379092,2,Why give applause?, Show appreciation.,2
+2180,2,L,,,,,1.70014505948,,,,25,30,1,,1,,1,1,3,0.737477620042,5,Why use a camera?, Give to charity.,2
+2180,3,R,,,,,2.03580005603,,,,25,30,1,,7,,1,1,3,0.708232607532,0,How to show humility?, Build muscles.,6
+2180,4,R,,,,,0.78105513375,,,,25,30,1,,9,,1,1,3,1.86813271736,11,How to spread knowledge?, Teach others.,6
+2180,5,R,,,,,3.66266625872,,,,25,30,1,,2,,1,1,3,0.644512010649,10,How to make a purchase?, Go shopping.,5
+2180,6,R,,,,,0.506945085601,,,,25,30,1,,8,,1,1,3,2.07869613157,1,How to show intelligence?, Participate in class.,5
+2180,7,R,,,,,3.67469588272,,,,25,30,1,,6,,1,1,3,1.07507306511,4,Why lift a glass?, Drink wine.,1
+2180,8,L,,,,,2.84002715513,,,,25,30,1,,4,,1,1,3,0.960024977932,8,Why drink coffee?, Consume caffeine.,1
+2180,9,L,,,,,0.606660457942,,,,25,30,1,,5,,1,1,3,1.4372648114,6,How to participate in class?, Raise a hand.,4
+2180,10,L,,,,,1.18589462204,,,,25,30,1,,3,,1,1,3,0.965222454584,7,How to give applause?, Clap hands.,4
+2180,11,L,,,,,0.817731166223,,,,25,30,1,,7,,1,1,3,0.56244295999,3,Why show courtesy?, Make a friend.,3
+2180,12,R,,,,,2.52526675099,,,,25,30,1,,8,,1,1,3,1.20377789311,9,Why plan ahead?, Reduce worry.,3

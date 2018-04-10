@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2007,1,R,,,,,1.54475038812,,,,,20,1,,5,90,0,3,1,2.79667287137,41,Why write a song?, Seek advice.,2
+2007,2,L,,,,,2.23690857443,,,,,29,1,,5,90,0,3,1,1.48272491069,40,Why paint a picture?, Make art.,2
+2007,3,R,,,,,1.43667005775,,,,,34,1,,5,90,0,3,1,1.0065696881,43,How to read articles?, Open a magazine.,4
+2007,4,R,,,,,1.29992966413,,,,,26,1,,5,90,0,3,1,2.32986930166,12,How to write a poem?, Grab a pencil.,4
+2007,5,R,,,,,1.30270911973,,,,,32,1,,5,90,0,3,1,1.81193665384,0,Why make a purchase?, Satisfy a need.,3
+2007,6,L,,,,,5.51158187988,,,,,30,1,,5,90,0,3,1,1.28465025059,26,Why finish a job?, Feel productive.,3
+2007,7,L,,,,,4.49999670807,,,,,38,1,,5,90,0,3,1,1.87556739616,10,Why stir ingredients?, Mix a cocktail.,1
+2007,8,L,,,,,1.01741723337,,,,,36,1,,5,90,0,3,1,1.59878695512,17,Why lift a glass?, Drink wine.,1
+2007,9,R,,,,,1.03128145954,,,,,28,1,,5,90,0,3,1,1.23867696319,5,How to impress others?, Show intelligence.,6
+2007,10,R,,,,,1.31818927964,,,,,35,1,,5,90,0,3,1,2.74786194068,3,How to show creativity?, Make art.,6
+2007,11,L,,,,,1.38824556921,,,,,25,1,,5,90,0,3,1,2.68820583939,54,How to save money?, Clip coupons.,5
+2007,12,R,,,,,5.0509470521,,,,,27,1,,5,90,0,3,1,1.65202392467,19,How to give to charity?, Use a camera.,5
+2007,13,R,,,,,3.38880138827,,,,,39,1,,5,90,0,3,1,1.63914438938,34,How to give applause?, Clap hands.,4
+2007,14,L,,,,,1.14286304964,,,,,22,1,,5,90,0,3,1,1.060981854,33,How to kill germs?, Wash ones hands.,4
+2007,15,R,,,,,1.19354238738,,,,,40,1,,5,90,0,3,1,1.14826482212,42,Why open a magazine?, Read articles.,1
+2007,16,R,,,,,2.30843458757,,,,,37,1,,5,90,0,3,1,1.00918584179,6,Why use a brush?, Paint a picture.,1
+2007,17,R,,,,,1.04009297635,,,,,21,1,,5,90,0,3,1,2.68512962168,24,How to feel well?, Reduce pain.,6
+2007,18,L,,,,,1.3315371898,,,,,24,1,,5,90,0,3,1,3.32566227894,8,How to avoid mistakes?, Obey laws.,6
+2007,19,L,,,,,1.99760233417,,,,,33,1,,5,90,0,3,1,2.62690781631,52,Why consume caffeine?, Stay alert.,2
+2007,20,L,,,,,2.86904096089,,,,,31,1,,5,90,0,3,1,1.48928692993,58,Why open a browser?, Write an email.,2
+2007,21,L,,,,,1.30861529282,,,,,29,1,,5,90,0,3,1,2.62066755639,51,Why show appreciation?, Spread joy.,3
+2007,22,R,,,,,1.41365745418,,,,,20,1,,5,90,0,3,1,1.5571971795,48,Why save money?, Get fit.,3
+2007,23,L,,,,,1.87479430905,,,,,33,1,,5,90,0,3,1,3.89031734926,47,How to teach others?, Give a lecture.,5
+2007,24,L,,,,,1.45910737588,,,,,27,1,,5,90,0,3,1,3.11985927921,49,How to reduce pain?, Consume medicine.,5
+2007,25,R,,,,,1.11485107599,,,,,30,1,,5,90,0,3,1,2.53287900792,57,How to make art?, Paint a picture.,5
+2007,26,L,,,,,1.80863129436,,,,,22,1,,5,90,0,3,1,1.19175401889,16,How to gain knowledge?, Read articles.,5
+2007,27,R,,,,,1.38184647566,,,,,34,1,,5,90,0,3,1,2.01624625513,45,Why dial numbers?, Make a phone call.,1
+2007,28,L,,,,,4.70389695856,,,,,39,1,,5,90,0,3,1,1.9730942114,44,Why crack eggs?, Make breakfast.,1
+2007,29,L,,,,,1.70476275175,,,,,37,1,,5,90,0,3,1,1.1666447392,9,How to spread joy?, Get a job.,6
+2007,30,R,,,,,1.29128080323,,,,,40,1,,5,90,0,3,1,1.52930141319,13,How to avoid boredom?, Entertain oneself.,6
+2007,31,R,,,,,2.16883824519,,,,,24,1,,5,90,0,3,1,4.51224798328,11,Why plan ahead?, Reduce worry.,3
+2007,32,R,,,,,1.07908793038,,,,,28,1,,5,90,0,3,1,1.39860046726,53,Why get a promotion?, Achieve success.,3
+2007,33,L,,,,,2.48285378578,,,,,26,1,,5,90,0,3,1,2.55694951031,27,Why make a phone call?, Contact a friend.,2
+2007,34,L,,,,,2.07055472679,,,,,32,1,,5,90,0,3,1,1.22248042773,22,Why drink wine?, Consume alcohol.,2
+2007,35,R,,,,,1.95466912072,,,,,36,1,,5,90,0,3,1,1.76588705395,18,How to lift weights?, Fasten seatbelt.,4
+2007,36,L,,,,,1.35737948543,,,,,31,1,,5,90,0,3,1,1.84746083027,39,How to mix a cocktail?, Stir ingredients.,4
+2007,37,L,,,,,2.07204906815,,,,,38,1,,5,90,0,3,1,1.4330002398,1,Why give applause?, Show appreciation.,2
+2007,38,R,,,,,1.67748878687,,,,,25,1,,5,90,0,3,1,1.53546205773,37,Why give a lecture?, Teach others.,2
+2007,39,R,,,,,3.892815687,,,,,35,1,,5,90,0,3,1,2.81890569897,59,Why satisfy hunger?, Show an ability.,3
+2007,40,R,,,,,2.2936894232,,,,,23,1,,5,90,0,3,1,3.08583734528,14,Why provide food?, Help a person.,3
+2007,41,L,,,,,1.13376044707,,,,,25,1,,5,90,0,3,1,1.1581554023,25,How to take a picture?, Point a camera.,4
+2007,42,L,,,,,1.7250595682,,,,,24,1,,5,90,0,3,1,2.37598549638,20,How to consume caffeine?, Press buttons.,4
+2007,43,R,,,,,1.77449593868,,,,,35,1,,5,90,0,3,1,3.5734377863,36,How to entertain oneself?, Watch television.,5
+2007,44,L,,,,,4.32232331026,,,,,31,1,,5,90,0,3,1,1.21728992119,2,How to contact a friend?, Make a phone call.,5
+2007,45,R,,,,,1.68251974965,,,,,34,1,,5,90,0,3,1,1.30597648322,21,Why wash ones hands?, Kill germs.,1
+2007,46,R,,,,,1.21032817058,,,,,21,1,,5,90,0,3,1,1.53107764935,29,Why point a camera?, Take a picture.,1
+2007,47,L,,,,,1.2984762679,,,,,36,1,,5,90,0,3,1,1.64929228216,4,How to feel sociable?, Hold a party.,6
+2007,48,L,,,,,1.831299512,,,,,20,1,,5,90,0,3,1,1.8114486082,7,How to achieve success?, Get a promotion.,6
+2007,49,R,,,,,2.48927291148,,,,,27,1,,5,90,0,3,1,1.88995151801,30,How to get a degree?, Attend a school.,6
+2007,50,L,,,,,1.28866274582,,,,,38,1,,5,90,0,3,1,1.47109685238,15,How to reduce worry?, Plan ahead.,6
+2007,51,L,,,,,2.25258310215,,,,,39,1,,5,90,0,3,1,4.02358517944,35,Why raise a hand?, Participate in class.,1
+2007,52,R,,,,,2.37020838497,,,,,26,1,,5,90,0,3,1,1.35503122097,28,Why drink coffee?, Consume caffeine.,1
+2007,53,R,,,,,1.62394598136,,,,,32,1,,5,90,0,3,1,1.09694510051,38,How to consume medicine?, Take pills. ,4
+2007,54,L,,,,,1.57880181793,,,,,22,1,,5,90,0,3,1,2.08974101485,46,How to go shopping?, Use credit cards.,4
+2007,55,R,,,,,1.42610864404,,,,,28,1,,5,90,0,3,1,2.67305805074,50,Why participate in class?, Show intelligence.,2
+2007,56,R,,,,,1.17175586713,,,,,29,1,,5,90,0,3,1,2.63421247139,32,Why kill germs?, Avoid diseases.,2
+2007,57,R,,,,,3.15464539656,,,,,40,1,,5,90,0,3,1,1.28286143027,31,Why contact a friend?, Feel connected.,3
+2007,58,L,,,,,1.32295073252,,,,,23,1,,5,90,0,3,1,2.12396063236,56,Why make art?, Show creativity.,3
+2007,59,L,,,,,2.49133651969,,,,,37,1,,5,90,0,3,1,1.19132760352,55,How to show ambition?, Serve alcohol.,5
+2007,60,L,,,,,1.21561794854,,,,,33,1,,5,90,0,3,1,2.50005689811,23,How to express doubt?, Use scissors.,5

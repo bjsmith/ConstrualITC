@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2193,1,R,,,,,5.27523701133,,,,,37,1,,5,90,0,3,3,1.80496386503,0,How to provide food?, Prepare meals.,5
+2193,2,L,,,,,1.18414889566,,,,,25,1,,5,90,0,3,3,0.978719652846,1,How to plan ahead?, Make a list.,5
+2193,3,L,,,,,0.831212636411,,,,,28,1,,5,90,0,3,3,0.911875768255,2,How to watch television?, Use a remote.,4
+2193,4,R,,,,,1.46664390264,,,,,27,1,,5,90,0,3,3,0.727357667856,3,How to mix a cocktail?, Stir ingredients.,4

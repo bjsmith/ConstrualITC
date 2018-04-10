@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2003,1,L,,,,,2.10989254642,,,,,25,1,,5,90,0,2,1,1.47955510486,5,Why show courtesy?, Make a friend.,3
+2003,2,R,,,,,2.7443490716,,,,,27,1,,5,90,0,2,1,1.20090584309,17,Why finish a job?, Feel productive.,3
+2003,3,R,,,,,1.9070441373,,,,,29,1,,5,90,0,2,1,1.31365243615,45,How to show humility?, Build muscles.,6
+2003,4,L,,,,,1.01443389788,,,,,33,1,,5,90,0,2,1,2.46024137816,47,How to show intellect?, Share ideas.,6
+2003,5,L,,,,,1.03602079081,,,,,36,1,,5,90,0,2,1,1.49810187146,0,Why consume medicine?, Reduce pain.,2
+2003,6,R,,,,,1.84566180204,,,,,23,1,,5,90,0,2,1,2.2015978492,25,Why write a poem?, Express an idea.,2
+2003,7,R,,,,,1.75161091596,,,,,28,1,,5,90,0,2,1,1.13885824145,49,Why clap hands?, Give applause.,1
+2003,8,R,,,,,1.83781413073,,,,,32,1,,5,90,0,2,1,1.38828752112,38,Why lift a glass?, Drink wine.,1
+2003,9,L,,,,,1.37279414315,,,,,26,1,,5,90,0,2,1,1.40002013546,57,How to reduce pain?, Consume medicine.,5
+2003,10,L,,,,,5.75449145554,,,,,21,1,,5,90,0,2,1,1.67611814572,48,How to save money?, Clip coupons.,5
+2003,11,L,,,,,1.96594359008,,,,,20,1,,5,90,0,2,1,2.12031242109,34,How to mix a cocktail?, Stir ingredients.,4
+2003,12,R,,,,,1.2378485573,,,,,34,1,,5,90,0,2,1,1.5581221218,30,How to give applause?, Clap hands.,4
+2003,13,R,,,,,1.966121191,,,,,39,1,,5,90,0,2,1,1.10141528114,14,How to spread knowledge?, Teach others.,6
+2003,14,R,,,,,1.25553108174,,,,,38,1,,5,90,0,2,1,1.81879864279,8,How to feel nostalgia?, Keep a memory.,6
+2003,15,L,,,,,1.80553958477,,,,,35,1,,5,90,0,2,1,1.98716751299,27,Why click a mouse?, Open a browser.,1
+2003,16,R,,,,,2.78233717251,,,,,31,1,,5,90,0,2,1,1.40431230973,4,Why throw away trash?, Make a list.,1
+2003,17,L,,,,,1.1343240992,,,,,30,1,,5,90,0,2,1,2.33429711887,18,How to build muscles?, Lift weights.,5
+2003,18,R,,,,,1.13479700137,,,,,40,1,,5,90,0,2,1,5.11244133344,31,How to entertain oneself?, Watch television.,5
+2003,19,R,,,,,1.93643908218,,,,,24,1,,5,90,0,2,1,2.96232308139,19,Why attend a school?, Get a degree.,3
+2003,20,L,,,,,1.07275232253,,,,,22,1,,5,90,0,2,1,3.95702689732,7,Why plan ahead?, Reduce worry.,3
+2003,21,L,,,,,2.51559057877,,,,,38,1,,5,90,0,2,1,1.0561859599,50,How to write a check?, Sign ones name.,4
+2003,22,L,,,,,2.01217293164,,,,,34,1,,5,90,0,2,1,1.28955617203,36,How to write a song?, Play piano.,4
+2003,23,R,,,,,2.60838736903,,,,,27,1,,5,90,0,2,1,2.96358265044,56,Why make a list?, Plan ahead.,2
+2003,24,L,,,,,3.21025928893,,,,,40,1,,5,90,0,2,1,2.68260415258,15,Why use a camera?, Give to charity.,2
+2003,25,L,,,,,3.1908215581,,,,,32,1,,5,90,0,2,1,1.45330713946,24,Why make art?, Show creativity.,3
+2003,26,R,,,,,1.05135806822,,,,,29,1,,5,90,0,2,1,1.17117660458,21,Why make a purchase?, Satisfy a need.,3
+2003,27,L,,,,,1.17286691561,,,,,23,1,,5,90,0,2,1,1.70720901119,58,How to show appreciation?, Give applause.,5
+2003,28,R,,,,,2.40921280094,,,,,33,1,,5,90,0,2,1,1.40508672482,29,How to show ambition?, Serve alcohol.,5
+2003,29,R,,,,,1.47062035593,,,,,21,1,,5,90,0,2,1,2.33989483029,46,How to go shopping?, Use credit cards.,4
+2003,30,L,,,,,1.93725261825,,,,,36,1,,5,90,0,2,1,3.03596750386,43,How to watch television?, Use a remote.,4
+2003,31,R,,,,,3.01369593377,,,,,31,1,,5,90,0,2,1,1.94660935011,3,Why use credit cards?, Go shopping.,1
+2003,32,L,,,,,1.74634902561,,,,,24,1,,5,90,0,2,1,2.14497295975,35,Why stir ingredients?, Mix a cocktail.,1
+2003,33,L,,,,,1.30614007212,,,,,22,1,,5,90,0,2,1,1.12962889793,44,How to feel productive?, Finish a job.,6
+2003,34,R,,,,,2.98991338486,,,,,35,1,,5,90,0,2,1,2.85486423063,55,How to avoid boredom?, Entertain oneself.,6
+2003,35,L,,,,,1.43825618326,,,,,26,1,,5,90,0,2,1,1.89587381432,32,Why watch television?, Show competence.,2
+2003,36,R,,,,,2.54339176916,,,,,20,1,,5,90,0,2,1,2.63762299842,42,Why give a lecture?, Teach others.,2
+2003,37,R,,,,,3.35385843564,,,,,39,1,,5,90,0,2,1,1.68247516671,10,Why lift weights?, Build muscles.,2
+2003,38,R,,,,,1.324776425,,,,,30,1,,5,90,0,2,1,4.69098848064,39,Why go shopping?, Make a purchase.,2
+2003,39,R,,,,,1.39412457039,,,,,25,1,,5,90,0,2,1,1.19828393106,28,Why sign ones name?, Write a check.,1
+2003,40,L,,,,,1.02204918532,,,,,28,1,,5,90,0,2,1,1.39098906267,54,Why use chalk?, Get fit.,1
+2003,41,L,,,,,1.43466399384,,,,,38,1,,5,90,0,2,1,1.23810963573,1,Why give to charity?, Support a cause.,3
+2003,42,L,,,,,3.47455559294,,,,,39,1,,5,90,0,2,1,2.2590668563,52,Why avoid diseases?, Live a long life.,3
+2003,43,R,,,,,1.13815866495,,,,,22,1,,5,90,0,2,1,1.27704939194,6,How to read articles?, Open a magazine.,4
+2003,44,L,,,,,2.5215068345,,,,,37,1,,5,90,0,2,1,1.62622914214,51,How to clip coupons?, Cut paper.,4
+2003,45,L,,,,,1.09778713029,,,,,40,1,,5,90,0,2,1,2.02619538986,41,How to make a donation?, Mix a cocktail.,5
+2003,46,R,,,,,1.89653904858,,,,,26,1,,5,90,0,2,1,1.84114699015,12,How to provide food?, Prepare meals.,5
+2003,47,R,,,,,1.06462086745,,,,,27,1,,5,90,0,2,1,3.97033871816,20,How to show creativity?, Make art.,6
+2003,48,L,,,,,3.74058412643,,,,,24,1,,5,90,0,2,1,1.81641302146,37,How to live a long life?, Avoid diseases.,6
+2003,49,L,,,,,2.58249888464,,,,,33,1,,5,90,0,2,1,1.01407287927,33,Why get a promotion?, Achieve success.,3
+2003,50,L,,,,,1.4548067185,,,,,36,1,,5,90,0,2,1,2.47823036389,23,Why hold a party?, Feel sociable.,3
+2003,51,R,,,,,1.64597257072,,,,,31,1,,5,90,0,2,1,4.67981321608,16,Why make breakfast?, Satisfy hunger.,2
+2003,52,R,,,,,2.33516142038,,,,,34,1,,5,90,0,2,1,1.12193732464,13,Why write a song?, Seek advice.,2
+2003,53,L,,,,,2.04562566584,,,,,20,1,,5,90,0,2,1,1.11590799682,22,How to feel connected?, Contact a friend.,6
+2003,54,R,,,,,1.88151022096,,,,,35,1,,5,90,0,2,1,1.25507132388,2,How to show cleanliness?, Write an email.,6
+2003,55,L,,,,,1.06614203346,,,,,28,1,,5,90,0,2,1,3.65370405888,53,Why use a comb?, Write a song.,1
+2003,56,L,,,,,2.91875148697,,,,,25,1,,5,90,0,2,1,1.38107073217,40,Why open a bottle?, Consume medicine.,1
+2003,57,L,,,,,3.10088936062,,,,,23,1,,5,90,0,2,1,1.05432695534,11,How to write an email?, Open a browser.,5
+2003,58,R,,,,,1.38999850066,,,,,29,1,,5,90,0,2,1,1.18586183165,59,How to give to charity?, Use a camera.,5
+2003,59,R,,,,,1.84837885365,,,,,30,1,,5,90,0,2,1,3.06334538256,26,How to consume medicine?, Take pills. ,4
+2003,60,R,,,,,1.18511660615,,,,,21,1,,5,90,0,2,1,1.80670241273,9,How to paint a picture?, Use a brush.,4

@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2192,1,R,,,,,4.53617841889,,,,,39,1,,5,90,0,1,4,2.04209116987,2,How to show humility?, Build muscles.,6
+2192,2,L,,,,,2.43455931531,,,,,36,1,,5,90,0,1,4,0.954647116115,7,How to achieve success?, Get a promotion.,6
+2192,3,L,,,,,3.77677332126,,,,,31,1,,5,90,0,1,4,0.556951537117,6,How to express doubt?, Use scissors.,5
+2192,4,R,,,,,3.1111300183,,,,,40,1,,5,90,0,1,4,0.568692257042,0,How to teach others?, Give a lecture.,5
+2192,5,R,,,,,1.0375172344,,,,,22,1,,5,90,0,1,4,0.620728681096,1,How to go shopping?, Use credit cards.,4
+2192,6,L,,,,,1.71843315313,,,,,23,1,,5,90,0,1,4,0.654437817,4,How to read articles?, Open a magazine.,4
+2192,7,R,,,,,0.703686518425,,,,,25,1,,5,90,0,1,4,1.27671493846,9,Why sign ones name?, Write a check.,1
+2192,8,L,,,,,2.78722057606,,,,,26,1,,5,90,0,1,4,0.85926288016,8,Why turn a doorknob?, Enter a classroom.,1
+2192,9,R,,,,,0.972348219403,,,,,30,1,,5,90,0,1,4,1.17999541027,5,Why build muscles?, Show humility.,3
+2192,10,R,,,,,0.780406286502,,,,,38,1,,5,90,0,1,4,1.58830929511,3,Why keep a memory?, Feel nostalgia.,3
+2192,11,L,,,,,0.618034412191,,,,,29,1,,5,90,0,1,4,0.815527827228,11,Why clip coupons?, Save money.,2
+2192,12,L,,,,,1.2778540965,,,,,21,1,,5,90,0,1,4,0.803716915703,10,Why participate in class?, Show intelligence.,2

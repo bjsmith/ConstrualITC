@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2183,1,R,,,,,3.44251792102,,,,25,30,1,,7,,1,1,4,0.649868418502,4,How to plan ahead?, Make a list.,5
+2183,2,R,,,,,0.751005325053,,,,25,30,1,,6,,1,1,4,0.879163061206,11,How to consume alcohol?, Drink wine.,5
+2183,3,L,,,,,2.2690204545,,,,25,30,1,,3,,1,1,4,0.517153313626,10,How to show humility?, Build muscles.,6
+2183,4,R,,,,,1.59481302067,,,,25,30,1,,2,,1,1,4,0.898997247662,9,How to get a degree?, Attend a school.,6
+2183,5,R,,,,,1.50483885087,,,,25,30,1,,1,,1,1,4,2.29939321092,5,How to give applause?, Clap hands.,4
+2183,6,L,,,,,3.76084992341,,,,25,30,1,,9,,1,1,4,0.503839187028,0,How to read articles?, Open a magazine.,4
+2183,7,R,,,,,1.58482447093,,,,25,30,1,,8,,1,1,4,0.999822205313,7,Why show intelligence?, Impress others.,3
+2183,8,L,,,,,1.06311307373,,,,25,30,1,,5,,1,1,4,0.6541629141,6,Why gain knowledge?, Improve oneself.,3
+2183,9,L,,,,,3.0438349402,,,,25,30,1,,3,,1,1,4,0.537952541226,1,Why give applause?, Show appreciation.,2
+2183,10,R,,,,,1.26732550276,,,,25,30,1,,6,,1,1,4,0.791963317051,8,Why kill germs?, Avoid diseases.,2
+2183,11,L,,,,,1.18146665834,,,,25,30,1,,5,,1,1,4,0.618081716731,2,Why stir ingredients?, Mix a cocktail.,1
+2183,12,L,,,,,2.20601400392,,,,25,30,1,,1,,1,1,4,2.08246283403,3,Why sign ones name?, Write a check.,1

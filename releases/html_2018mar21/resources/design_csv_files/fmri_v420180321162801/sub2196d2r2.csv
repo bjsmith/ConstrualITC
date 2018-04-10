@@ -1,0 +1,61 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2196,1,R,,,,,2.56546179882,,,,,21,1,,5,90,0,2,2,1.43606182777,52,How to spread knowledge?, Teach others.,6
+2196,2,R,,,,,1.41087563287,,,,,37,1,,5,90,0,2,2,2.20356056239,37,How to impress others?, Show intelligence.,6
+2196,3,R,,,,,2.08956609996,,,,,34,1,,5,90,0,2,2,4.78097646801,34,How to open a browser?, Click a mouse.,4
+2196,4,R,,,,,1.49743952761,,,,,36,1,,5,90,0,2,2,1.63009589463,28,How to lift weights?, Fasten seatbelt.,4
+2196,5,L,,,,,1.24599188256,,,,,35,1,,5,90,0,2,2,1.21169076348,56,How to attend a school?, Enter a classroom.,5
+2196,6,L,,,,,3.30612506381,,,,,31,1,,5,90,0,2,2,2.10248268474,26,How to build muscles?, Lift weights.,5
+2196,7,L,,,,,1.35469609275,,,,,30,1,,5,90,0,2,2,1.26848668046,9,Why click a mouse?, Open a browser.,1
+2196,8,L,,,,,1.55761664087,,,,,25,1,,5,90,0,2,2,2.51883723533,16,Why use credit cards?, Go shopping.,1
+2196,9,R,,,,,2.39278331012,,,,,23,1,,5,90,0,2,2,2.90721509707,18,Why consume caffeine?, Stay alert.,2
+2196,10,R,,,,,3.68750121049,,,,,29,1,,5,90,0,2,2,1.15923743899,3,Why kill germs?, Avoid diseases.,2
+2196,11,R,,,,,1.05599910452,,,,,27,1,,5,90,0,2,2,2.13375474478,5,Why show intelligence?, Impress others.,3
+2196,12,L,,,,,3.69187681106,,,,,33,1,,5,90,0,2,2,1.42970135005,21,Why make a purchase?, Satisfy a need.,3
+2196,13,L,,,,,2.8976427646,,,,,32,1,,5,90,0,2,2,1.0032300854,6,How to plan ahead?, Make a list.,5
+2196,14,R,,,,,2.0080590723,,,,,28,1,,5,90,0,2,2,1.03024713516,25,How to provide food?, Prepare meals.,5
+2196,15,L,,,,,1.27136830605,,,,,22,1,,5,90,0,2,2,4.33186582215,36,Why enter a classroom?, Attend a school.,2
+2196,16,L,,,,,2.31992672226,,,,,24,1,,5,90,0,2,2,1.54336887018,35,Why consume medicine?, Reduce pain.,2
+2196,17,R,,,,,1.18917328784,,,,,39,1,,5,90,0,2,2,3.02559285403,10,Why contact a friend?, Feel connected.,3
+2196,18,L,,,,,2.20204363454,,,,,40,1,,5,90,0,2,2,1.58893037669,2,Why show appreciation?, Spread joy.,3
+2196,19,R,,,,,1.70493512243,,,,,26,1,,5,90,0,2,2,1.71536673483,40,Why dial numbers?, Make a phone call.,1
+2196,20,L,,,,,1.02190803634,,,,,38,1,,5,90,0,2,2,1.31739904518,17,Why throw away trash?, Make a list.,1
+2196,21,R,,,,,1.56914932637,,,,,29,1,,5,90,0,2,2,1.31738191179,42,How to consume caffeine?, Press buttons.,4
+2196,22,L,,,,,3.3789923055,,,,,33,1,,5,90,0,2,2,1.89700400184,0,How to clip coupons?, Cut paper.,4
+2196,23,R,,,,,1.0422248779,,,,,26,1,,5,90,0,2,2,1.45236481915,55,How to feel connected?, Contact a friend.,6
+2196,24,L,,,,,1.37542231898,,,,,35,1,,5,90,0,2,2,3.54669778989,47,How to feel productive?, Finish a job.,6
+2196,25,R,,,,,1.90655486172,,,,,24,1,,5,90,0,2,2,2.32815194559,51,Why make a list?, Plan ahead.,2
+2196,26,R,,,,,1.17975184103,,,,,27,1,,5,90,0,2,2,1.75409433005,13,Why read articles?, Gain knowledge.,2
+2196,27,R,,,,,1.13206305482,,,,,31,1,,5,90,0,2,2,1.94045347191,53,How to spread joy?, Get a job.,6
+2196,28,L,,,,,1.51696191038,,,,,25,1,,5,90,0,2,2,2.50760335083,48,How to show creativity?, Make art.,6
+2196,29,L,,,,,3.89105317312,,,,,22,1,,5,90,0,2,2,2.60285633551,19,How to entertain oneself?, Watch television.,5
+2196,30,L,,,,,3.14950163768,,,,,28,1,,5,90,0,2,2,1.16453513427,50,How to contact a friend?, Make a phone call.,5
+2196,31,L,,,,,1.08684885519,,,,,32,1,,5,90,0,2,2,2.18046452839,44,Why give to charity?, Support a cause.,3
+2196,32,L,,,,,1.23055870102,,,,,36,1,,5,90,0,2,2,1.25340652228,7,Why satisfy hunger?, Show an ability.,3
+2196,33,R,,,,,1.2054440976,,,,,38,1,,5,90,0,2,2,1.47491036323,49,Why take aspirin?, Serve alcohol.,1
+2196,34,R,,,,,1.38907497076,,,,,40,1,,5,90,0,2,2,1.98653130701,24,Why turn a doorknob?, Enter a classroom.,1
+2196,35,L,,,,,2.11643952523,,,,,34,1,,5,90,0,2,2,2.11737840635,43,How to write a poem?, Grab a pencil.,4
+2196,36,R,,,,,3.45243246545,,,,,21,1,,5,90,0,2,2,2.57041250357,57,How to make breakfast?, Crack eggs.,4
+2196,37,L,,,,,2.27076458004,,,,,39,1,,5,90,0,2,2,1.45664088827,12,How to show an ability?, Satisfy hunger.,6
+2196,38,R,,,,,1.50801663121,,,,,37,1,,5,90,0,2,2,1.28128470139,15,How to show cleanliness?, Write an email.,6
+2196,39,R,,,,,1.95745265833,,,,,23,1,,5,90,0,2,2,4.40266518724,11,How to make a phone call?, Dial numbers.,4
+2196,40,L,,,,,2.05697175817,,,,,20,1,,5,90,0,2,2,1.15256402726,23,How to take a picture?, Point a camera.,4
+2196,41,L,,,,,1.76912184453,,,,,29,1,,5,90,0,2,2,2.77759054775,22,How to satisfy hunger?, Make breakfast.,5
+2196,42,R,,,,,2.75241091187,,,,,21,1,,5,90,0,2,2,1.13145389025,45,How to make a purchase?, Go shopping.,5
+2196,43,R,,,,,4.13312148816,,,,,31,1,,5,90,0,2,2,1.00198585755,58,Why drink coffee?, Consume caffeine.,1
+2196,44,L,,,,,2.29455606051,,,,,25,1,,5,90,0,2,2,1.08385570153,14,Why cut paper?, Clip coupons.,1
+2196,45,R,,,,,2.15938021757,,,,,26,1,,5,90,0,2,2,1.03748478721,8,Why dress formally?, Get a promotion.,2
+2196,46,L,,,,,1.42555875022,,,,,22,1,,5,90,0,2,2,1.05801625837,46,Why write a poem?, Express an idea.,2
+2196,47,R,,,,,1.13649909814,,,,,36,1,,5,90,0,2,2,3.02254825355,33,Why get a promotion?, Achieve success.,3
+2196,48,L,,,,,2.13731768211,,,,,30,1,,5,90,0,2,2,3.96518112426,29,Why finish a job?, Feel productive.,3
+2196,49,L,,,,,2.55491059843,,,,,40,1,,5,90,0,2,2,2.77997934214,32,How to give a lecture?, Brush ones hair.,4
+2196,50,R,,,,,2.13296820537,,,,,38,1,,5,90,0,2,2,1.21909257996,38,How to participate in class?, Raise a hand.,4
+2196,51,L,,,,,1.52294013844,,,,,24,1,,5,90,0,2,2,2.22965472433,54,How to save money?, Clip coupons.,5
+2196,52,R,,,,,1.73788893309,,,,,23,1,,5,90,0,2,2,1.14822241948,59,How to show appreciation?, Give applause.,5
+2196,53,R,,,,,1.40395825389,,,,,35,1,,5,90,0,2,2,2.32629306678,30,Why go shopping?, Make a purchase.,2
+2196,54,L,,,,,2.06981743823,,,,,28,1,,5,90,0,2,2,2.09016978108,39,Why make breakfast?, Satisfy hunger.,2
+2196,55,L,,,,,1.89715420627,,,,,37,1,,5,90,0,2,2,4.8630286626,41,How to feel sociable?, Hold a party.,6
+2196,56,R,,,,,1.83040113469,,,,,34,1,,5,90,0,2,2,1.75479791503,31,How to show intellect?, Share ideas.,6
+2196,57,L,,,,,2.06801039623,,,,,20,1,,5,90,0,2,2,1.32860008001,4,Why use a brush?, Paint a picture.,1
+2196,58,R,,,,,1.01583273546,,,,,39,1,,5,90,0,2,2,2.01327612967,20,Why open a bottle?, Consume medicine.,1
+2196,59,L,,,,,1.77554528647,,,,,32,1,,5,90,0,2,2,1.05419967625,1,Why show competence?, Pass the time.,3
+2196,60,R,,,,,3.05310510095,,,,,27,1,,5,90,0,2,2,1.61333654238,27,Why attend a school?, Get a degree.,3

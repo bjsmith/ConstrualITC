@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2049,1,L,,,,,1.48244724567,,,,,24,1,,5,90,0,3,3,1.75903974073,3,How to consume alcohol?, Drink wine.,5
+2049,2,R,,,,,2.34781181291,,,,,29,1,,5,90,0,3,3,0.505746503642,0,How to write an email?, Open a browser.,5
+2049,3,L,,,,,1.4244555479,,,,,40,1,,5,90,0,3,3,0.981429261765,1,Why entertain others?, Express a talent.,3
+2049,4,R,,,,,3.50313357511,,,,,27,1,,5,90,0,3,3,1.65202870435,2,Why attend a school?, Get a degree.,3

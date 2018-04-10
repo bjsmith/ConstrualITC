@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2004,1,L,,,,,1.49102134604,,,,,39,1,,5,90,0,1,4,0.758479299068,4,Why gain knowledge?, Improve oneself.,3
+2004,2,L,,,,,0.909019501439,,,,,22,1,,5,90,0,1,4,0.865471000519,5,Why show competence?, Pass the time.,3
+2004,3,R,,,,,2.39114493751,,,,,25,1,,5,90,0,1,4,1.25512602905,11,Why open a magazine?, Read articles.,1
+2004,4,R,,,,,3.79724961122,,,,,33,1,,5,90,0,1,4,0.905871191487,10,Why turn a doorknob?, Enter a classroom.,1
+2004,5,L,,,,,1.45751030993,,,,,30,1,,5,90,0,1,4,0.755937398704,2,How to make a donation?, Mix a cocktail.,5
+2004,6,R,,,,,1.66873409511,,,,,31,1,,5,90,0,1,4,0.857308320143,6,How to teach others?, Give a lecture.,5
+2004,7,R,,,,,0.60679083105,,,,,26,1,,5,90,0,1,4,0.747302843453,9,Why go shopping?, Make a purchase.,2
+2004,8,L,,,,,0.739019706452,,,,,35,1,,5,90,0,1,4,0.671690157856,0,Why make a list?, Plan ahead.,2
+2004,9,R,,,,,1.73452017954,,,,,37,1,,5,90,0,1,4,1.00133741048,8,How to support a cause?, Give to charity.,6
+2004,10,R,,,,,6.26797620812,,,,,20,1,,5,90,0,1,4,0.567839972372,1,How to achieve success?, Get a promotion.,6
+2004,11,L,,,,,1.73180950961,,,,,36,1,,5,90,0,1,4,1.69884330243,7,How to prepare meals?, Follow recipes.,4
+2004,12,L,,,,,1.52130162607,,,,,21,1,,5,90,0,1,4,1.28849995727,3,How to write a poem?, Grab a pencil.,4

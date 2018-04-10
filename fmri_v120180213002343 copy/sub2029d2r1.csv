@@ -1,0 +1,37 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2029,1,1,,,,,1.06662351132,,,,,35,1,,5,90,0,2,1,1.43713480929,0,How to participate in class?, Raise a hand.,4
+2029,2,2,,,,,1.48336626805,,,,,22,1,,5,90,0,2,1,1.58576257035,0,How to write a check?, Sign ones name.,4
+2029,3,1,,,,,1.4509729179,,,,,36,1,,5,90,0,2,1,1.28893964319,0,How to show creativity?, Make art.,6
+2029,4,2,,,,,1.68656148359,,,,,33,1,,5,90,0,2,1,2.0027346169,0,How to feel secure?, Save money.,6
+2029,5,2,,,,,2.41863740984,,,,,40,1,,5,90,0,2,1,1.09649567648,0,Why show intelligence?, Impress others.,3
+2029,6,2,,,,,1.90350314045,,,,,38,1,,5,90,0,2,1,2.91243219009,0,Why show competence?, Pass the time.,3
+2029,7,1,,,,,1.63326577174,,,,,23,1,,5,90,0,2,1,1.38395140373,0,Why take a picture?, Keep a memory.,2
+2029,8,2,,,,,1.58847389309,,,,,25,1,,5,90,0,2,1,2.26688747792,0,Why clip coupons?, Save money.,2
+2029,9,2,,,,,1.27599765827,,,,,24,1,,5,90,0,2,1,2.63765269185,0,Why dial numbers?, Make a phone call.,1
+2029,10,2,,,,,1.44950244269,,,,,26,1,,5,90,0,2,1,1.18622993735,0,Why crack eggs?, Make breakfast.,1
+2029,11,1,,,,,1.02683971862,,,,,27,1,,5,90,0,2,1,1.84057476048,0,How to show ambition?, Serve alcohol.,5
+2029,12,1,,,,,2.01183812702,,,,,31,1,,5,90,0,2,1,5.16586462797,0,How to satisfy hunger?, Make breakfast.,5
+2029,13,1,,,,,1.24747615279,,,,,21,1,,5,90,0,2,1,1.20996251519,1,Why consume medicine?, Reduce pain.,2
+2029,14,2,,,,,1.65261752585,,,,,30,1,,5,90,0,2,1,1.12664596824,0,Why drink wine?, Consume alcohol.,2
+2029,15,2,,,,,2.93225787565,,,,,28,1,,5,90,0,2,1,2.0435347507,0,How to attend a school?, Enter a classroom.,5
+2029,16,2,,,,,1.1009803746,,,,,39,1,,5,90,0,2,1,1.05694072769,0,How to avoid diseases?, Kill germs.,5
+2029,17,2,,,,,1.66783526445,,,,,34,1,,5,90,0,2,1,1.0364396412,0,How to write a poem?, Grab a pencil.,4
+2029,18,2,,,,,2.50583988545,,,,,32,1,,5,90,0,2,1,1.86868882663,0,How to read articles?, Open a magazine.,4
+2029,19,2,,,,,2.44796952075,,,,,29,1,,5,90,0,2,1,1.33622646966,0,Why entertain others?, Express a talent.,3
+2029,20,1,,,,,1.5617465439,,,,,37,1,,5,90,0,2,1,1.87068765984,0,Why hold a party?, Feel sociable.,3
+2029,21,1,,,,,2.24193373356,,,,,40,1,,5,90,0,2,1,2.15109189925,0,How to spread knowledge?, Teach others.,6
+2029,22,1,,,,,2.0707319874,,,,,20,1,,5,90,0,2,1,1.55523557533,0,How to avoid boredom?, Entertain oneself.,6
+2029,23,2,,,,,1.69252478204,,,,,25,1,,5,90,0,2,1,3.96172380698,0,Why lift a glass?, Drink wine.,1
+2029,24,1,,,,,1.77840611621,,,,,24,1,,5,90,0,2,1,3.22697976132,0,Why click a mouse?, Open a browser.,1
+2029,25,1,,,,,1.20399975012,,,,,36,1,,5,90,0,2,1,1.27878667443,0,How to express a talent?, Entertain others.,6
+2029,26,2,,,,,1.6094186951,,,,,35,1,,5,90,0,2,1,3.20601440156,0,How to achieve success?, Get a promotion.,6
+2029,27,1,,,,,1.43307716057,,,,,33,1,,5,90,0,2,1,2.41891634583,0,Why participate in class?, Show intelligence.,2
+2029,28,2,,,,,5.86912227555,,,,,39,1,,5,90,0,2,1,2.35979123176,0,Why give applause?, Show appreciation.,2
+2029,29,2,,,,,1.84943952213,,,,,32,1,,5,90,0,2,1,1.95536290424,0,How to give applause?, Clap hands.,4
+2029,30,1,,,,,3.91440180275,,,,,31,1,,5,90,0,2,1,2.77244132621,0,How to clip coupons?, Cut paper.,4
+2029,31,1,,,,,2.86447869086,,,,,28,1,,5,90,0,2,1,2.77184344922,0,Why use credit cards?, Go shopping.,1
+2029,32,1,,,,,1.84295444794,,,,,37,1,,5,90,0,2,1,1.06624068791,0,Why wash ones hands?, Kill germs.,1
+2029,33,1,,,,,3.55628055846,,,,,23,1,,5,90,0,2,1,1.19489345402,0,Why make art?, Show creativity.,3
+2029,34,1,,,,,1.31537034773,,,,,26,1,,5,90,0,2,1,1.49817374596,0,Why build muscles?, Show humility.,3
+2029,35,1,,,,,2.5178980358,,,,,21,1,,5,90,0,2,1,1.19352038059,0,How to build muscles?, Lift weights.,5
+2029,36,2,,,,,1.32905388524,,,,,22,1,,5,90,0,2,1,2.09619234671,0,How to write an email?, Open a browser.,5

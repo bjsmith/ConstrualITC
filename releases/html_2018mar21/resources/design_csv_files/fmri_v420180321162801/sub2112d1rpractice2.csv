@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2112,1,R,,,,,1.16883305732,,,,,22,1,,5,90,0,1,4,0.594303071258,6,How to feel secure?, Save money.,6
+2112,2,L,,,,,3.62561663536,,,,,21,1,,5,90,0,1,4,0.50760360316,10,How to satisfy a need?, Make a purchase.,6
+2112,3,R,,,,,1.82147599154,,,,,35,1,,5,90,0,1,4,0.638177708558,4,Why dress formally?, Get a promotion.,2
+2112,4,R,,,,,0.988836213573,,,,,37,1,,5,90,0,1,4,0.771687718347,7,Why kill germs?, Avoid diseases.,2
+2112,5,R,,,,,2.51045478543,,,,,23,1,,5,90,0,1,4,1.11309194227,9,Why contact a friend?, Feel connected.,3
+2112,6,L,,,,,4.37140834676,,,,,28,1,,5,90,0,1,4,1.12915730659,8,Why satisfy hunger?, Show an ability.,3
+2112,7,L,,,,,0.643822168319,,,,,33,1,,5,90,0,1,4,0.913943273159,2,How to show appreciation?, Give applause.,5
+2112,8,L,,,,,1.68894685384,,,,,38,1,,5,90,0,1,4,1.08423158938,3,How to make a purchase?, Go shopping.,5
+2112,9,R,,,,,1.06297980527,,,,,39,1,,5,90,0,1,4,2.38602234399,11,How to write a poem?, Grab a pencil.,4
+2112,10,R,,,,,3.01160959554,,,,,26,1,,5,90,0,1,4,0.516554032581,5,How to clip coupons?, Cut paper.,4
+2112,11,L,,,,,0.686567197887,,,,,40,1,,5,90,0,1,4,1.18149663194,1,Why follow recipes?, Prepare meals.,1
+2112,12,L,,,,,1.849084659,,,,,30,1,,5,90,0,1,4,0.90585504591,0,Why wear ties?, Dress formally.,1

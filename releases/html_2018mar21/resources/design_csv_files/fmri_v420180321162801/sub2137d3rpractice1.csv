@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2137,1,L,,,,,3.22623552701,,,,,26,1,,5,90,0,3,3,0.792836188915,3,Why take aspirin?, Serve alcohol.,1
+2137,2,R,,,,,1.10369477472,,,,,33,1,,5,90,0,3,3,1.1409373119,1,Why point a camera?, Take a picture.,1
+2137,3,L,,,,,1.52640961011,,,,,38,1,,5,90,0,3,3,0.691411821683,2,How to participate in class?, Raise a hand.,4
+2137,4,R,,,,,2.70829256508,,,,,25,1,,5,90,0,3,3,0.648682357543,0,How to watch television?, Use a remote.,4

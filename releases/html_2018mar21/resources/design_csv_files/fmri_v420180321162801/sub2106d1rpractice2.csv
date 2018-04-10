@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2106,1,R,,,,,1.461795241,,,,,25,1,,5,90,0,1,4,0.671942311968,5,Why share ideas?, Show intellect.,3
+2106,2,R,,,,,1.09348956179,,,,,39,1,,5,90,0,1,4,1.00607567273,6,Why reduce pain?, Feel well.,3
+2106,3,R,,,,,1.93203686631,,,,,34,1,,5,90,0,1,4,2.00667594154,9,Why lift weights?, Build muscles.,2
+2106,4,L,,,,,0.737090579397,,,,,26,1,,5,90,0,1,4,1.43498235648,7,Why dress formally?, Get a promotion.,2
+2106,5,L,,,,,2.58919112576,,,,,22,1,,5,90,0,1,4,0.879542579504,1,How to express doubt?, Use scissors.,5
+2106,6,L,,,,,3.89737968021,,,,,21,1,,5,90,0,1,4,1.41888487346,10,How to plan ahead?, Make a list.,5
+2106,7,R,,,,,0.91487228083,,,,,24,1,,5,90,0,1,4,0.57923236606,2,Why drink coffee?, Consume caffeine.,1
+2106,8,L,,,,,1.34237837994,,,,,40,1,,5,90,0,1,4,0.5281103254,0,Why dial numbers?, Make a phone call.,1
+2106,9,L,,,,,0.672812586695,,,,,32,1,,5,90,0,1,4,0.740666111494,4,How to participate in class?, Raise a hand.,4
+2106,10,R,,,,,6.61723486783,,,,,33,1,,5,90,0,1,4,1.28014124602,11,How to mix a cocktail?, Stir ingredients.,4
+2106,11,R,,,,,1.81833660513,,,,,35,1,,5,90,0,1,4,0.50020696659,3,How to satisfy a need?, Make a purchase.,6
+2106,12,L,,,,,1.22667157571,,,,,23,1,,5,90,0,1,4,1.01504849509,8,How to show intellect?, Share ideas.,6

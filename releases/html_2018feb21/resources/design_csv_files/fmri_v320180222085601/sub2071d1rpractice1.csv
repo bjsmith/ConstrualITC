@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2071,1,R,,,,,1.19914838985,,,,,40,1,,5,90,0,1,3,0.820535593912,2,Why drink wine?, Consume alcohol.,2
+2071,2,R,,,,,1.35112866568,,,,,24,1,,5,90,0,1,3,0.524877952896,7,Why write a poem?, Express an idea.,2
+2071,3,R,,,,,0.901955485351,,,,,35,1,,5,90,0,1,3,1.40517065116,11,How to feel sociable?, Hold a party.,6
+2071,4,L,,,,,1.92881525815,,,,,23,1,,5,90,0,1,3,0.717416992797,8,How to express a talent?, Entertain others.,6
+2071,5,R,,,,,6.0524431002,,,,,37,1,,5,90,0,1,3,0.926287616604,1,Why use credit cards?, Go shopping.,1
+2071,6,L,,,,,1.51427094137,,,,,31,1,,5,90,0,1,3,1.16407953302,0,Why turn a doorknob?, Enter a classroom.,1
+2071,7,R,,,,,3.7028235162,,,,,28,1,,5,90,0,1,3,1.33084641004,9,How to entertain oneself?, Watch television.,5
+2071,8,L,,,,,0.510589198513,,,,,25,1,,5,90,0,1,3,1.08239946683,5,How to give to charity?, Use a camera.,5
+2071,9,L,,,,,2.86626082017,,,,,29,1,,5,90,0,1,3,0.984548470249,4,How to write a song?, Play piano.,4
+2071,10,L,,,,,1.32145497607,,,,,39,1,,5,90,0,1,3,1.29193715751,10,How to kill germs?, Wash ones hands.,4
+2071,11,L,,,,,1.22009957744,,,,,34,1,,5,90,0,1,3,0.861929563941,3,Why build muscles?, Show humility.,3
+2071,12,R,,,,,1.17423145766,,,,,22,1,,5,90,0,1,3,0.558189301817,6,Why gain knowledge?, Improve oneself.,3

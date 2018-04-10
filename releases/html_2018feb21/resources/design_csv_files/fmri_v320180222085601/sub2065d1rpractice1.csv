@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2065,1,L,,,,,1.33088582966,,,,,25,1,,5,90,0,1,3,1.17538306159,1,Why consume caffeine?, Stay alert.,2
+2065,2,L,,,,,0.767228329231,,,,,29,1,,5,90,0,1,3,0.88463698114,2,Why give applause?, Show appreciation.,2
+2065,3,L,,,,,4.98356542384,,,,,24,1,,5,90,0,1,3,0.544412852891,4,How to write a song?, Play piano.,4
+2065,4,R,,,,,5.41421861742,,,,,33,1,,5,90,0,1,3,0.958782128212,10,How to consume medicine?, Take pills. ,4
+2065,5,R,,,,,1.03458664303,,,,,40,1,,5,90,0,1,3,0.785166452526,5,Why throw away trash?, Make a list.,1
+2065,6,L,,,,,1.10597859992,,,,,27,1,,5,90,0,1,3,0.556397725957,0,Why stir ingredients?, Mix a cocktail.,1
+2065,7,R,,,,,0.521618546858,,,,,28,1,,5,90,0,1,3,0.522504022669,9,How to support a cause?, Give to charity.,6
+2065,8,L,,,,,1.10226880756,,,,,30,1,,5,90,0,1,3,0.749826520893,8,How to live a long life?, Avoid diseases.,6
+2065,9,R,,,,,1.16981906344,,,,,22,1,,5,90,0,1,3,1.27546522867,7,How to get a promotion?, Arrive on time.,5
+2065,10,R,,,,,2.68902237614,,,,,35,1,,5,90,0,1,3,1.31188926241,6,How to express doubt?, Use scissors.,5
+2065,11,R,,,,,3.10843202063,,,,,34,1,,5,90,0,1,3,1.26372169921,3,Why satisfy hunger?, Show an ability.,3
+2065,12,L,,,,,0.520737373581,,,,,38,1,,5,90,0,1,3,1.07988075576,11,Why finish a job?, Feel productive.,3

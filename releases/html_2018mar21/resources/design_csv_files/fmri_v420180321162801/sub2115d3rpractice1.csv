@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2115,1,L,,,,,1.65818856891,,,,,38,1,,5,90,0,3,3,0.92258317694,3,Why get a promotion?, Achieve success.,3
+2115,2,L,,,,,2.8041453594,,,,,24,1,,5,90,0,3,3,0.622824253828,1,Why avoid diseases?, Live a long life.,3
+2115,3,R,,,,,0.719176194772,,,,,30,1,,5,90,0,3,3,0.84931460996,0,Why turn a doorknob?, Enter a classroom.,1
+2115,4,R,,,,,1.89014397565,,,,,32,1,,5,90,0,3,3,1.25509944169,2,Why take aspirin?, Serve alcohol.,1

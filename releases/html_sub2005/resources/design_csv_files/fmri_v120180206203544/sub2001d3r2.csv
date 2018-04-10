@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2001,1,1,,,,,0.523633575889,,,,25,30,1,,5,,1,3,2,0.984365365204,0,How to save money?, Clip coupons.,5
+2001,2,1,,,,,2.42605603636,,,,25,30,1,,1,,1,3,2,0.791707424548,0,How to reduce worry?, Plan ahead.,6
+2001,3,2,,,,,1.34830001298,,,,25,30,1,,2,,1,3,2,0.861636794921,0,Why make a purchase?, Satisfy a need.,3
+2001,4,2,,,,,1.70366965621,,,,25,30,1,,6,,1,3,2,0.691917581703,0,Why watch television?, Show competence.,2
+2001,5,1,,,,,2.02014417827,,,,25,30,1,,3,,1,3,2,1.19426410466,0,Why cut paper?, Clip coupons.,1
+2001,6,2,,,,,0.898909240857,,,,25,30,1,,9,,1,3,2,0.80405961798,0,How to go shopping?, Use credit cards.,4
+2001,7,2,,,,,1.34554724157,,,,25,30,1,,4,,1,3,2,1.25648323267,0,How to make a purchase?, Go shopping.,5
+2001,8,2,,,,,0.552090782661,,,,25,30,1,,7,,1,3,2,1.74018155915,0,How to prepare meals?, Follow recipes.,4
+2001,9,1,,,,,2.0261049298,,,,25,30,1,,7,,1,3,2,0.707397671205,0,Why drink wine?, Consume alcohol.,2
+2001,10,2,,,,,0.883585492091,,,,25,30,1,,8,,1,3,2,0.855210202268,0,Why follow recipes?, Prepare meals.,1
+2001,11,1,,,,,1.45413995786,,,,25,30,1,,5,,1,3,2,0.535423333449,0,How to show cleanliness?, Write an email.,6
+2001,12,2,,,,,2.49364190384,,,,25,30,1,,1,,1,3,2,0.698806616458,0,Why build muscles?, Show humility.,3
+2001,13,2,,,,,2.81018840509,,,,25,30,1,,4,,1,3,2,1.16339798096,0,How to read articles?, Open a magazine.,4
+2001,14,2,,,,,2.83297509163,,,,25,30,1,,3,,1,3,2,0.808189075936,0,Why show appreciation?, Spread joy.,3
+2001,15,1,,,,,0.970295447224,,,,25,30,1,,9,,1,3,2,0.757667080159,0,How to feel connected?, Contact a friend.,6
+2001,16,1,,,,,0.702167215266,,,,25,30,1,,2,,1,3,2,1.19327382743,0,How to contact a friend?, Make a phone call.,5
+2001,17,1,,,,,3.64562523185,,,,25,30,1,,6,,1,3,2,0.584838359274,0,Why participate in class?, Show intelligence.,2
+2001,18,1,,,,,3.16495304826,,,,25,30,1,,3,,1,3,2,0.650244654629,1,Why crack eggs?, Make breakfast.,1
+2001,19,2,,,,,0.527197252899,,,,25,30,1,,9,,1,3,2,0.715751247059,0,How to feel secure?, Save money.,6
+2001,20,2,,,,,4.30804305845,,,,25,30,1,,8,,1,3,2,1.1156070153,0,Why get a promotion?, Achieve success.,3
+2001,21,2,,,,,5.38320749813,,,,25,30,1,,7,,1,3,2,0.957072029851,0,Why drink coffee?, Consume caffeine.,1
+2001,22,1,,,,,0.706028423075,,,,25,30,1,,1,,1,3,2,0.640993152073,0,How to give to charity?, Use a camera.,5
+2001,23,1,,,,,2.50322249972,,,,25,30,1,,5,,1,3,2,1.16601280849,0,How to mix a cocktail?, Stir ingredients.,4
+2001,24,1,,,,,1.33419952434,,,,25,30,1,,4,,1,3,2,2.08558760973,0,Why write a song?, Seek advice.,2
+2001,25,2,,,,,3.6505041506,,,,25,30,1,,3,,1,3,2,1.20311042045,0,Why entertain others?, Express a talent.,3
+2001,26,2,,,,,0.621866594043,,,,25,30,1,,2,,1,3,2,0.746254599477,0,Why stir ingredients?, Mix a cocktail.,1
+2001,27,1,,,,,4.99051341159,,,,25,30,1,,1,,1,3,2,0.769050133613,0,How to show intellect?, Share ideas.,6
+2001,28,2,,,,,1.27455923727,,,,25,30,1,,4,,1,3,2,1.69742319909,0,Why take a picture?, Keep a memory.,2
+2001,29,1,,,,,2.04484431512,,,,25,30,1,,8,,1,3,2,1.68187090859,0,How to take a picture?, Point a camera.,4
+2001,30,1,,,,,0.74439263992,,,,25,30,1,,7,,1,3,2,0.551861140978,0,How to attend a school?, Enter a classroom.,5
+2001,31,2,,,,,1.90232851617,,,,25,30,1,,5,,1,3,2,1.12612340977,0,How to get a degree?, Attend a school.,6
+2001,32,1,,,,,5.80759190101,,,,25,30,1,,6,,1,3,2,1.21733167209,0,How to get a promotion?, Arrive on time.,5
+2001,33,1,,,,,1.34263095132,,,,25,30,1,,5,,1,3,2,0.726427922845,0,How to make a list?, Throw away trash.,4
+2001,34,1,,,,,1.47652941054,,,,25,30,1,,7,,1,3,2,0.539937598649,0,Why clap hands?, Give applause.,1
+2001,35,2,,,,,0.785487979533,,,,25,30,1,,2,,1,3,2,0.90047224805,0,Why hold a party?, Feel sociable.,3
+2001,36,1,,,,,1.69580250156,,,,25,30,1,,9,,1,3,2,0.786006390222,0,Why read articles?, Gain knowledge.,2
+2001,37,1,,,,,2.68304104811,,,,25,30,1,,4,,1,3,2,2.21067152275,0,How to show humility?, Build muscles.,6
+2001,38,2,,,,,1.04703957077,,,,25,30,1,,8,,1,3,2,0.896127181048,0,How to express doubt?, Use scissors.,5
+2001,39,2,,,,,2.1522955826,,,,25,30,1,,3,,1,3,2,0.565290269377,0,How to write a check?, Sign ones name.,4
+2001,40,2,,,,,1.42176321396,,,,25,30,1,,6,,1,3,2,0.8809330407,0,Why gain knowledge?, Improve oneself.,3

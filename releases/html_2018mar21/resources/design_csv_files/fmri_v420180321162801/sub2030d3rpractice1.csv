@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2030,1,R,,,,,1.67117512691,,,,25,30,1,,1,,1,3,3,0.666211302995,0,How to spread knowledge?, Teach others.,6
+2030,2,L,,,,,2.38783937508,,,,25,30,1,,5,,1,3,3,0.619320385049,3,How to feel nostalgia?, Keep a memory.,6
+2030,3,R,,,,,1.3248557627,,,,25,30,1,,3,,1,3,3,1.04383400479,1,Why get a promotion?, Achieve success.,3
+2030,4,L,,,,,2.03654046648,,,,25,30,1,,8,,1,3,3,0.780494562197,2,Why entertain others?, Express a talent.,3

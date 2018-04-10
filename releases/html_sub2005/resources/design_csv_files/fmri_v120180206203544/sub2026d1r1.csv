@@ -1,0 +1,41 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2026,1,1,,,,,1.93403600342,,,,25,30,1,,4,,1,1,1,1.14413630838,0,Why point a camera?, Take a picture.,1
+2026,2,2,,,,,0.604349569301,,,,25,30,1,,3,,1,1,1,1.47175558297,0,How to avoid mistakes?, Obey laws.,6
+2026,3,1,,,,,0.875624326412,,,,25,30,1,,2,,1,1,1,1.42491971722,0,Why make a list?, Plan ahead.,2
+2026,4,2,,,,,5.42699665852,,,,25,30,1,,8,,1,1,1,0.633352522133,0,Why make a purchase?, Satisfy a need.,3
+2026,5,2,,,,,1.42232710806,,,,25,30,1,,7,,1,1,1,0.586279191613,0,How to kill germs?, Wash ones hands.,4
+2026,6,1,,,,,0.671090032696,,,,25,30,1,,5,,1,1,1,1.59460849298,0,How to entertain others?, Write a song.,5
+2026,7,1,,,,,5.3379639496,,,,25,30,1,,6,,1,1,1,0.568511955991,0,How to feel secure?, Save money.,6
+2026,8,1,,,,,2.89669120125,,,,25,30,1,,1,,1,1,1,0.546815822046,0,Why teach a class?, Obey laws.,2
+2026,9,1,,,,,0.81801535183,,,,25,30,1,,7,,1,1,1,0.9007506005,0,Why provide food?, Help a person.,3
+2026,10,2,,,,,1.38482832788,,,,25,30,1,,1,,1,1,1,0.880830682528,0,How to give to charity?, Use a camera.,5
+2026,11,1,,,,,0.773062296461,,,,25,30,1,,9,,1,1,1,1.03381027976,0,Why use a brush?, Paint a picture.,1
+2026,12,2,,,,,1.16458303461,,,,25,30,1,,6,,1,1,1,1.09276504996,0,How to consume caffeine?, Press buttons.,4
+2026,13,2,,,,,0.725025953777,,,,25,30,1,,4,,1,1,1,1.33434798655,0,Why use chalk?, Get fit.,1
+2026,14,2,,,,,2.08569533684,,,,25,30,1,,3,,1,1,1,0.63963684341,0,How to write a song?, Play piano.,4
+2026,15,1,,,,,3.36875908246,,,,25,30,1,,2,,1,1,1,0.935006827799,0,How to achieve success?, Get a promotion.,6
+2026,16,2,,,,,3.76653744398,,,,25,30,1,,5,,1,1,1,1.243479626,0,How to show appreciation?, Give applause.,5
+2026,17,1,,,,,4.27143555451,,,,25,30,1,,3,,1,1,1,0.973940216105,0,Why attend a school?, Get a degree.,3
+2026,18,2,,,,,0.879940896016,,,,25,30,1,,9,,1,1,1,0.629252928056,0,Why drink wine?, Consume alcohol.,2
+2026,19,2,,,,,0.782838934784,,,,25,30,1,,6,,1,1,1,1.42143537938,0,Why consume caffeine?, Stay alert.,2
+2026,20,2,,,,,3.03248167424,,,,25,30,1,,8,,1,1,1,1.16472988642,0,Why raise a hand?, Participate in class.,1
+2026,21,1,,,,,2.37204833516,,,,25,30,1,,1,,1,1,1,0.52808747251,0,How to make a donation?, Mix a cocktail.,5
+2026,22,2,,,,,1.6792010327,,,,25,30,1,,7,,1,1,1,1.03644626521,0,How to read articles?, Open a magazine.,4
+2026,23,1,,,,,0.906319552009,,,,25,30,1,,5,,1,1,1,1.0227950807,0,Why build muscles?, Show humility.,3
+2026,24,2,,,,,1.35978593699,,,,25,30,1,,2,,1,1,1,0.848335165657,0,How to improve oneself?, Gain knowledge.,6
+2026,25,2,,,,,0.889365720564,,,,25,30,1,,4,,1,1,1,0.679103307255,0,How to consume alcohol?, Drink wine.,5
+2026,26,1,,,,,3.95328035036,,,,25,30,1,,5,,1,1,1,0.828308456575,0,Why dial numbers?, Make a phone call.,1
+2026,27,2,,,,,1.90498640419,,,,25,30,1,,7,,1,1,1,1.30899639222,1,Why avoid diseases?, Live a long life.,3
+2026,28,1,,,,,1.02247998463,,,,25,30,1,,8,,1,1,1,1.53567063973,0,Why give a lecture?, Teach others.,2
+2026,29,1,,,,,2.16881302151,,,,25,30,1,,3,,1,1,1,1.20021809424,0,How to make a phone call?, Dial numbers.,4
+2026,30,1,,,,,1.60643925385,,,,25,30,1,,1,,1,1,1,0.506529079222,0,How to feel connected?, Contact a friend.,6
+2026,31,1,,,,,2.13638929053,,,,25,30,1,,2,,1,1,1,0.57617142036,0,Why gain knowledge?, Improve oneself.,3
+2026,32,2,,,,,2.8049580767,,,,25,30,1,,6,,1,1,1,0.900896924662,0,Why clip coupons?, Save money.,2
+2026,33,1,,,,,2.5169725117,,,,25,30,1,,4,,1,1,1,1.26782549278,0,How to save money?, Clip coupons.,5
+2026,34,1,,,,,0.60464147169,,,,25,30,1,,9,,1,1,1,0.964880043981,0,How to write a poem?, Grab a pencil.,4
+2026,35,1,,,,,0.848628184627,,,,25,30,1,,2,,1,1,1,0.575452892574,0,Why sign ones name?, Write a check.,1
+2026,36,2,,,,,2.69778190432,,,,25,30,1,,3,,1,1,1,1.05447027457,0,How to live a long life?, Avoid diseases.,6
+2026,37,2,,,,,1.59564832546,,,,25,30,1,,6,,1,1,1,2.31875261625,0,How to express doubt?, Use scissors.,5
+2026,38,1,,,,,2.0335234792,,,,25,30,1,,8,,1,1,1,0.830704899297,0,Why lift a glass?, Drink wine.,1
+2026,39,2,,,,,3.64946504703,,,,25,30,1,,1,,1,1,1,0.689729661756,0,Why finish a job?, Feel productive.,3
+2026,40,2,,,,,0.732077092932,,,,25,30,1,,5,,1,1,1,1.01793627753,0,Why make breakfast?, Satisfy hunger.,2

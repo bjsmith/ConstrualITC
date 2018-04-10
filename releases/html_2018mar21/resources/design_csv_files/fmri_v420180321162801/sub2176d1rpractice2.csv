@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2176,1,R,,,,,3.42092093724,,,,,37,1,,5,90,0,1,4,0.670849570287,3,How to make art?, Paint a picture.,5
+2176,2,R,,,,,0.604674451245,,,,,21,1,,5,90,0,1,4,0.752155192999,0,How to entertain others?, Write a song.,5
+2176,3,R,,,,,2.6711318682,,,,,33,1,,5,90,0,1,4,0.764970243945,1,How to show intellect?, Share ideas.,6
+2176,4,R,,,,,0.953783367968,,,,,36,1,,5,90,0,1,4,2.67947976101,11,How to avoid mistakes?, Obey laws.,6
+2176,5,L,,,,,2.33224050967,,,,,20,1,,5,90,0,1,4,1.33520997883,2,Why give a lecture?, Teach others.,2
+2176,6,L,,,,,0.911477571842,,,,,40,1,,5,90,0,1,4,0.550079505364,9,Why kill germs?, Avoid diseases.,2
+2176,7,R,,,,,1.6227217463,,,,,35,1,,5,90,0,1,4,0.522621835948,5,How to dress formally?, Wear ties. ,4
+2176,8,R,,,,,2.2243845124,,,,,25,1,,5,90,0,1,4,1.20940961257,6,How to consume caffeine?, Press buttons.,4
+2176,9,L,,,,,1.16110438795,,,,,39,1,,5,90,0,1,4,0.795462556262,4,Why open a bottle?, Consume medicine.,1
+2176,10,L,,,,,5.77979140475,,,,,28,1,,5,90,0,1,4,0.78141667032,7,Why dial numbers?, Make a phone call.,1
+2176,11,L,,,,,0.592612029036,,,,,26,1,,5,90,0,1,4,1.05270199349,10,Why show appreciation?, Spread joy.,3
+2176,12,L,,,,,1.03926699682,,,,,22,1,,5,90,0,1,4,0.73147895753,8,Why satisfy hunger?, Show an ability.,3

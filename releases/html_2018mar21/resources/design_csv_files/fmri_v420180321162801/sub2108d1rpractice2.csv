@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2108,1,L,,,,,0.740047274714,,,,,23,1,,5,90,0,1,4,1.54466291961,7,Why lift a glass?, Drink wine.,1
+2108,2,L,,,,,3.82184142286,,,,,27,1,,5,90,0,1,4,0.938484906904,4,Why cut paper?, Clip coupons.,1
+2108,3,R,,,,,2.00994163598,,,,,39,1,,5,90,0,1,4,0.570258594817,3,Why keep a memory?, Feel nostalgia.,3
+2108,4,L,,,,,3.35929368986,,,,,36,1,,5,90,0,1,4,0.688272824291,9,Why entertain others?, Express a talent.,3
+2108,5,R,,,,,6.43895571508,,,,,28,1,,5,90,0,1,4,1.80253594843,8,Why consume medicine?, Reduce pain.,2
+2108,6,R,,,,,0.642606812411,,,,,38,1,,5,90,0,1,4,0.782293188839,0,Why clip coupons?, Save money.,2
+2108,7,R,,,,,0.954053877686,,,,,20,1,,5,90,0,1,4,0.901020541574,10,How to impress others?, Show intelligence.,6
+2108,8,L,,,,,0.535797358999,,,,,29,1,,5,90,0,1,4,2.96875235243,2,How to satisfy a need?, Make a purchase.,6
+2108,9,L,,,,,1.14494679112,,,,,21,1,,5,90,0,1,4,0.764770047277,11,How to make a phone call?, Dial numbers.,4
+2108,10,L,,,,,1.23703774288,,,,,26,1,,5,90,0,1,4,0.64231453063,5,How to drink wine?, Open a bottle. ,4
+2108,11,R,,,,,0.743129714692,,,,,40,1,,5,90,0,1,4,0.579116690032,6,How to make a donation?, Mix a cocktail.,5
+2108,12,R,,,,,1.43354929124,,,,,25,1,,5,90,0,1,4,0.811838208907,1,How to express doubt?, Use scissors.,5

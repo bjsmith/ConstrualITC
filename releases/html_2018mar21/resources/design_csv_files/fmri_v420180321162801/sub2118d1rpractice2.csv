@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2118,1,R,,,,,1.10999930724,,,,,29,1,,5,90,0,1,4,1.39822254519,10,How to give a lecture?, Brush ones hair.,4
+2118,2,R,,,,,1.82716766546,,,,,25,1,,5,90,0,1,4,0.532565239789,11,How to consume medicine?, Take pills. ,4
+2118,3,R,,,,,0.605525720025,,,,,20,1,,5,90,0,1,4,0.948518464843,2,How to consume alcohol?, Drink wine.,5
+2118,4,L,,,,,2.34131268423,,,,,27,1,,5,90,0,1,4,1.24086803908,1,How to avoid diseases?, Kill germs.,5
+2118,5,R,,,,,3.23307842103,,,,,31,1,,5,90,0,1,4,0.997892848072,7,Why drink wine?, Consume alcohol.,2
+2118,6,R,,,,,1.84866705023,,,,,28,1,,5,90,0,1,4,0.925760798485,8,Why watch television?, Show competence.,2
+2118,7,R,,,,,4.16496544368,,,,,24,1,,5,90,0,1,4,0.608505424089,6,Why click a mouse?, Open a browser.,1
+2118,8,L,,,,,0.858345308529,,,,,32,1,,5,90,0,1,4,1.20103378251,9,Why open a magazine?, Read articles.,1
+2118,9,L,,,,,0.944387311569,,,,,34,1,,5,90,0,1,4,1.10045058142,5,How to express a talent?, Entertain others.,6
+2118,10,L,,,,,3.70014886504,,,,,33,1,,5,90,0,1,4,1.13461195366,4,How to show humility?, Build muscles.,6
+2118,11,L,,,,,0.700548528792,,,,,35,1,,5,90,0,1,4,1.30342535097,3,Why provide food?, Help a person.,3
+2118,12,L,,,,,1.76996364573,,,,,26,1,,5,90,0,1,4,0.723597066265,0,Why entertain others?, Express a talent.,3

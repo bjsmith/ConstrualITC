@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2100,1,R,,,,,3.32946601667,,,,25,30,1,,9,,1,2,3,1.57137978008,2,Why use a brush?, Paint a picture.,1
+2100,2,L,,,,,0.585466762559,,,,25,30,1,,1,,1,2,3,0.604901772732,1,Why take aspirin?, Serve alcohol.,1
+2100,3,R,,,,,1.23101192232,,,,25,30,1,,5,,1,2,3,1.09984517328,0,How to read articles?, Open a magazine.,4
+2100,4,L,,,,,2.09318828254,,,,25,30,1,,3,,1,2,3,1.06943131187,3,How to participate in class?, Raise a hand.,4

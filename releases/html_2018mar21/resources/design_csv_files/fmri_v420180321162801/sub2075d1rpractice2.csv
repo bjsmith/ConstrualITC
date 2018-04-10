@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2075,1,L,,,,,2.47443282065,,,,25,30,1,,9,,1,1,4,0.648908402763,2,Why use a remote?, Watch television.,1
+2075,2,L,,,,,1.92042996377,,,,25,30,1,,2,,1,1,4,0.815548018973,1,Why drink coffee?, Consume caffeine.,1
+2075,3,L,,,,,4.09580985933,,,,25,30,1,,4,,1,1,4,2.91848563802,8,How to show creativity?, Make art.,6
+2075,4,R,,,,,0.965880064059,,,,25,30,1,,5,,1,1,4,0.626958890656,7,How to feel nostalgia?, Keep a memory.,6
+2075,5,L,,,,,0.613672371919,,,,25,30,1,,6,,1,1,4,0.746403314213,0,Why write an email?, Send a message.,3
+2075,6,R,,,,,1.11449931326,,,,25,30,1,,1,,1,1,4,1.07551771384,5,Why finish a job?, Feel productive.,3
+2075,7,R,,,,,1.84151734246,,,,25,30,1,,7,,1,1,4,0.607973586441,10,How to give a lecture?, Brush ones hair.,4
+2075,8,R,,,,,0.592336526453,,,,25,30,1,,8,,1,1,4,1.0965912783,9,How to open a browser?, Click a mouse.,4
+2075,9,L,,,,,6.46861893676,,,,25,30,1,,1,,1,1,4,0.990007180252,3,Why paint a picture?, Make art.,2
+2075,10,L,,,,,1.33318077766,,,,25,30,1,,4,,1,1,4,0.502935790628,6,Why take a picture?, Keep a memory.,2
+2075,11,R,,,,,1.21177324556,,,,25,30,1,,6,,1,1,4,0.592623812898,4,How to gain knowledge?, Read articles.,5
+2075,12,R,,,,,1.69197543688,,,,25,30,1,,5,,1,1,4,0.700284915298,11,How to make a purchase?, Go shopping.,5

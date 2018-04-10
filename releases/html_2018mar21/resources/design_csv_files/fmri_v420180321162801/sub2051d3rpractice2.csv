@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2051,1,R,,,,,2.47889212856,,,,25,30,1,,3,,1,3,4,0.525871245761,3,How to satisfy hunger?, Make breakfast.,5
+2051,2,R,,,,,0.714773491139,,,,25,30,1,,2,,1,3,4,0.536947449789,1,How to entertain others?, Write a song.,5
+2051,3,L,,,,,4.05207303047,,,,25,30,1,,7,,1,3,4,0.668260152008,2,How to reduce worry?, Plan ahead.,6
+2051,4,L,,,,,0.568915717944,,,,25,30,1,,9,,1,3,4,1.63243069395,0,How to satisfy a need?, Make a purchase.,6

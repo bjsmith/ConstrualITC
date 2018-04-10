@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2088,1,R,,,,,2.05555023138,,,,,35,1,,5,90,0,1,4,0.678973756332,5,How to show humility?, Build muscles.,6
+2088,2,L,,,,,0.741065433771,,,,,26,1,,5,90,0,1,4,0.550110481448,6,How to achieve success?, Get a promotion.,6
+2088,3,L,,,,,3.48840481532,,,,,28,1,,5,90,0,1,4,0.521619304956,10,How to build muscles?, Lift weights.,5
+2088,4,R,,,,,3.3086051365,,,,,20,1,,5,90,0,1,4,1.11833940837,9,How to provide food?, Prepare meals.,5
+2088,5,L,,,,,1.5569943581,,,,,21,1,,5,90,0,1,4,1.09863732006,3,Why kill germs?, Avoid diseases.,2
+2088,6,L,,,,,1.99273288778,,,,,22,1,,5,90,0,1,4,0.757847505917,8,Why lift weights?, Build muscles.,2
+2088,7,R,,,,,2.30516700902,,,,,40,1,,5,90,0,1,4,0.973809082208,0,Why gain knowledge?, Improve oneself.,3
+2088,8,R,,,,,2.9667382477,,,,,27,1,,5,90,0,1,4,2.05652514736,4,Why finish a job?, Feel productive.,3
+2088,9,R,,,,,2.03940591375,,,,,31,1,,5,90,0,1,4,2.13549243104,1,How to make a phone call?, Dial numbers.,4
+2088,10,L,,,,,0.896461502726,,,,,39,1,,5,90,0,1,4,0.73319259312,7,How to watch television?, Use a remote.,4
+2088,11,L,,,,,0.858888350855,,,,,37,1,,5,90,0,1,4,0.760654753293,2,Why throw away trash?, Make a list.,1
+2088,12,R,,,,,1.78711404097,,,,,32,1,,5,90,0,1,4,0.752756606717,11,Why turn a doorknob?, Enter a classroom.,1

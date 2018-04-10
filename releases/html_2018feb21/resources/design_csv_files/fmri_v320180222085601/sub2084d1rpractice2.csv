@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2084,1,L,,,,,0.542927263087,,,,,34,1,,5,90,0,1,4,0.795639823344,9,Why avoid diseases?, Live a long life.,3
+2084,2,R,,,,,0.551267466235,,,,,21,1,,5,90,0,1,4,0.952229840722,7,Why attend a school?, Get a degree.,3
+2084,3,L,,,,,0.6666424854,,,,,38,1,,5,90,0,1,4,0.597918614119,10,How to avoid diseases?, Kill germs.,5
+2084,4,R,,,,,3.27419397093,,,,,26,1,,5,90,0,1,4,0.927080120003,2,How to make a purchase?, Go shopping.,5
+2084,5,R,,,,,5.16682489333,,,,,22,1,,5,90,0,1,4,0.892221635659,3,Why click a mouse?, Open a browser.,1
+2084,6,R,,,,,1.23840978284,,,,,25,1,,5,90,0,1,4,0.615625336624,6,Why sign ones name?, Write a check.,1
+2084,7,L,,,,,0.705051586178,,,,,39,1,,5,90,0,1,4,1.17631501042,5,How to express a talent?, Entertain others.,6
+2084,8,R,,,,,3.40820477403,,,,,37,1,,5,90,0,1,4,1.32801306938,8,How to live a long life?, Avoid diseases.,6
+2084,9,L,,,,,1.42994623082,,,,,33,1,,5,90,0,1,4,0.56084733035,1,How to clip coupons?, Cut paper.,4
+2084,10,R,,,,,1.68167587748,,,,,31,1,,5,90,0,1,4,0.666976339742,0,How to paint a picture?, Use a brush.,4
+2084,11,L,,,,,4.25199095867,,,,,30,1,,5,90,0,1,4,1.45647150127,4,Why enter a classroom?, Attend a school.,2
+2084,12,L,,,,,0.763378831813,,,,,29,1,,5,90,0,1,4,1.11663745347,11,Why write a song?, Seek advice.,2

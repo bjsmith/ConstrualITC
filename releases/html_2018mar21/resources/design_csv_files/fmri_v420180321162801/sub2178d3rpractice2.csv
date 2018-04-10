@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2178,1,L,,,,,0.6101342378,,,,,27,1,,5,90,0,3,4,0.668024617751,1,Why use a comb?, Write a song.,1
+2178,2,R,,,,,3.30395844597,,,,,22,1,,5,90,0,3,4,0.990690423553,0,Why raise a hand?, Participate in class.,1
+2178,3,R,,,,,3.23996282803,,,,,33,1,,5,90,0,3,4,0.60989761603,2,Why participate in class?, Show intelligence.,2
+2178,4,L,,,,,1.50364125703,,,,,40,1,,5,90,0,3,4,0.995142833377,3,Why clip coupons?, Save money.,2

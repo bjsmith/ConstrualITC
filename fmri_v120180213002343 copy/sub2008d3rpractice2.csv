@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2008,1,1,,,,,0.859806922561,,,,,20,1,,5,90,0,3,4,1.40895119301,0,Why give to charity?, Support a cause.,3
+2008,2,1,,,,,1.63759802312,,,,,37,1,,5,90,0,3,4,0.829308396207,0,Why avoid diseases?, Live a long life.,3
+2008,3,2,,,,,5.10397109338,,,,,39,1,,5,90,0,3,4,2.21911794876,1,How to attend a school?, Enter a classroom.,5
+2008,4,2,,,,,0.809343525463,,,,,23,1,,5,90,0,3,4,3.1454152564,0,How to contact a friend?, Make a phone call.,5

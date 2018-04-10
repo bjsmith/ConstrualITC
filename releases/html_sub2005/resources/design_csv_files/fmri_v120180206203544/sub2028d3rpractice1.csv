@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,2,,,,,0.663963279343,,,,25,30,1,,1,,1,3,3,1.72176289043,0,Why show courtesy?, Make a friend.,3
+2028,2,1,,,,,1.20734456772,,,,25,30,1,,9,,1,3,3,0.73760155789,0,Why lift weights?, Build muscles.,2
+2028,3,1,,,,,4.90457549135,,,,25,30,1,,6,,1,3,3,0.949534928951,0,How to show humility?, Build muscles.,6
+2028,4,2,,,,,0.586635305077,,,,25,30,1,,2,,1,3,3,0.863835101353,1,Why sign ones name?, Write a check.,1

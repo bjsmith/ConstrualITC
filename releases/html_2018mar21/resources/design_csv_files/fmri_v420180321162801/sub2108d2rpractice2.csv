@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2108,1,L,,,,,2.90509133455,,,,,32,1,,5,90,0,2,4,1.09846454299,3,How to show humility?, Build muscles.,6
+2108,2,L,,,,,0.775534554288,,,,,40,1,,5,90,0,2,4,0.55374734597,0,How to live a long life?, Avoid diseases.,6
+2108,3,R,,,,,1.6417872912,,,,,28,1,,5,90,0,2,4,0.960513635494,2,Why finish a job?, Feel productive.,3
+2108,4,R,,,,,2.4406434773,,,,,22,1,,5,90,0,2,4,0.580314494968,1,Why keep a memory?, Feel nostalgia.,3

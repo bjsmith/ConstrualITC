@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2053,1,R,,,,,1.49800845684,,,,25,30,1,,2,,1,1,4,1.00507570978,1,How to show intellect?, Share ideas.,6
+2053,2,R,,,,,2.44848737963,,,,25,30,1,,1,,1,1,4,0.715998575044,0,How to show creativity?, Make art.,6
+2053,3,R,,,,,1.96939196354,,,,25,30,1,,3,,1,1,4,0.840838330415,7,How to make art?, Paint a picture.,5
+2053,4,L,,,,,0.697587320244,,,,25,30,1,,4,,1,1,4,1.66061621875,5,How to make a purchase?, Go shopping.,5
+2053,5,L,,,,,2.89057626852,,,,25,30,1,,5,,1,1,4,0.977223783502,10,How to write a poem?, Grab a pencil.,4
+2053,6,L,,,,,1.41446216809,,,,25,30,1,,8,,1,1,4,1.06087693725,6,How to make breakfast?, Crack eggs.,4
+2053,7,L,,,,,3.79467585217,,,,25,30,1,,7,,1,1,4,1.89104978015,8,Why provide food?, Help a person.,3
+2053,8,R,,,,,3.45588253238,,,,25,30,1,,6,,1,1,4,1.12051938736,11,Why keep a memory?, Feel nostalgia.,3
+2053,9,L,,,,,0.53002432611,,,,25,30,1,,5,,1,1,4,0.593464170553,4,Why use a brush?, Paint a picture.,1
+2053,10,L,,,,,2.04121569968,,,,25,30,1,,8,,1,1,4,0.889094575729,2,Why use a remote?, Watch television.,1
+2053,11,R,,,,,2.21678250085,,,,25,30,1,,4,,1,1,4,0.543453443788,9,Why enter a classroom?, Attend a school.,2
+2053,12,R,,,,,1.94628605173,,,,25,30,1,,6,,1,1,4,1.06312390823,3,Why watch television?, Show competence.,2

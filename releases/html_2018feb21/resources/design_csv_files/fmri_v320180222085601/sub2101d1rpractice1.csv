@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2101,1,L,,,,,3.0407885762,,,,,27,1,,5,90,0,1,3,0.75466217816,11,Why give to charity?, Support a cause.,3
+2101,2,L,,,,,1.10458142971,,,,,32,1,,5,90,0,1,3,2.29502129264,0,Why attend a school?, Get a degree.,3
+2101,3,L,,,,,0.80829156324,,,,,35,1,,5,90,0,1,3,0.503368966071,1,How to make a list?, Throw away trash.,4
+2101,4,R,,,,,1.71674291503,,,,,33,1,,5,90,0,1,3,0.747046400182,3,How to write a check?, Sign ones name.,4
+2101,5,L,,,,,2.77814853359,,,,,22,1,,5,90,0,1,3,1.129478913,6,Why drink coffee?, Consume caffeine.,1
+2101,6,R,,,,,0.772557864666,,,,,38,1,,5,90,0,1,3,0.998633979204,7,Why cut paper?, Clip coupons.,1
+2101,7,L,,,,,2.99786231097,,,,,24,1,,5,90,0,1,3,1.39370917691,10,How to feel connected?, Contact a friend.,6
+2101,8,R,,,,,3.43163306418,,,,,25,1,,5,90,0,1,3,1.18821292903,9,How to satisfy a need?, Make a purchase.,6
+2101,9,R,,,,,1.57802083535,,,,,20,1,,5,90,0,1,3,1.29333347689,5,How to make a donation?, Mix a cocktail.,5
+2101,10,L,,,,,4.36699615987,,,,,39,1,,5,90,0,1,3,0.628251217678,8,How to give to charity?, Use a camera.,5
+2101,11,R,,,,,0.663693977401,,,,,29,1,,5,90,0,1,3,0.573460976789,2,Why paint a picture?, Make art.,2
+2101,12,R,,,,,0.794275587852,,,,,36,1,,5,90,0,1,3,1.16593214945,4,Why go shopping?, Make a purchase.,2

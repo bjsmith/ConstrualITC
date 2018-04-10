@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2105,1,L,,,,,1.50361866376,,,,,34,1,,5,90,0,3,3,0.837304077262,1,Why teach a class?, Obey laws.,2
+2105,2,R,,,,,4.08254136619,,,,,25,1,,5,90,0,3,3,0.555760566148,3,Why make a list?, Plan ahead.,2
+2105,3,R,,,,,1.07865632668,,,,,27,1,,5,90,0,3,3,0.920477149131,0,How to get a degree?, Attend a school.,6
+2105,4,L,,,,,1.0515040068,,,,,37,1,,5,90,0,3,3,1.50692246483,2,How to spread joy?, Get a job.,6

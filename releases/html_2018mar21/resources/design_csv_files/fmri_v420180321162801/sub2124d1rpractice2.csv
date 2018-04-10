@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2124,1,L,,,,,3.08684928406,,,,,28,1,,5,90,0,1,4,0.619103939244,3,Why show competence?, Pass the time.,3
+2124,2,R,,,,,0.76300848994,,,,,36,1,,5,90,0,1,4,1.07120209637,7,Why gain knowledge?, Improve oneself.,3
+2124,3,L,,,,,0.828387608878,,,,,37,1,,5,90,0,1,4,0.624903040544,10,How to reduce pain?, Consume medicine.,5
+2124,4,R,,,,,1.54026471044,,,,,32,1,,5,90,0,1,4,0.797871397366,6,How to make art?, Paint a picture.,5
+2124,5,L,,,,,2.31993100431,,,,,23,1,,5,90,0,1,4,1.10325973315,11,Why make breakfast?, Satisfy hunger.,2
+2124,6,L,,,,,2.21849559126,,,,,30,1,,5,90,0,1,4,1.50997058898,9,Why lift weights?, Build muscles.,2
+2124,7,L,,,,,0.683787474298,,,,,33,1,,5,90,0,1,4,0.543574886072,2,How to watch television?, Use a remote.,4
+2124,8,R,,,,,2.71535872874,,,,,34,1,,5,90,0,1,4,1.93851828244,5,How to take a picture?, Point a camera.,4
+2124,9,L,,,,,5.6539231679,,,,,38,1,,5,90,0,1,4,0.771145388753,8,How to live a long life?, Avoid diseases.,6
+2124,10,R,,,,,0.658368205198,,,,,29,1,,5,90,0,1,4,0.784406092185,0,How to show creativity?, Make art.,6
+2124,11,R,,,,,2.63630878175,,,,,27,1,,5,90,0,1,4,1.60528396054,1,Why throw away trash?, Make a list.,1
+2124,12,R,,,,,0.891438503692,,,,,20,1,,5,90,0,1,4,1.05265003583,4,Why raise a hand?, Participate in class.,1

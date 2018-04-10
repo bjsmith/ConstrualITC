@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2147,1,L,,,,,0.568550776561,,,,,29,1,,5,90,0,1,3,0.649910105563,1,How to spread knowledge?, Teach others.,6
+2147,2,R,,,,,1.35375325853,,,,,33,1,,5,90,0,1,3,0.705973964743,10,How to avoid boredom?, Entertain oneself.,6
+2147,3,L,,,,,1.63782767084,,,,,27,1,,5,90,0,1,3,0.692265071279,8,How to provide food?, Prepare meals.,5
+2147,4,L,,,,,2.03694279297,,,,,38,1,,5,90,0,1,3,0.785064232226,5,How to give to charity?, Use a camera.,5
+2147,5,L,,,,,1.29700788047,,,,,24,1,,5,90,0,1,3,0.569913125176,4,Why throw away trash?, Make a list.,1
+2147,6,L,,,,,6.55557781201,,,,,22,1,,5,90,0,1,3,0.792489490256,0,Why point a camera?, Take a picture.,1
+2147,7,R,,,,,4.19100305476,,,,,23,1,,5,90,0,1,3,1.52651929588,7,Why finish a job?, Feel productive.,3
+2147,8,R,,,,,2.24416506253,,,,,32,1,,5,90,0,1,3,1.20939529083,9,Why save money?, Get fit.,3
+2147,9,R,,,,,1.61767233648,,,,,26,1,,5,90,0,1,3,1.6829186697,11,How to make breakfast?, Crack eggs.,4
+2147,10,L,,,,,1.8541189184,,,,,25,1,,5,90,0,1,3,0.892720696246,2,How to write a check?, Sign ones name.,4
+2147,11,R,,,,,0.65650581603,,,,,28,1,,5,90,0,1,3,0.969983909401,3,Why use a camera?, Give to charity.,2
+2147,12,R,,,,,0.523158047914,,,,,37,1,,5,90,0,1,3,1.28917136022,6,Why open a browser?, Write an email.,2

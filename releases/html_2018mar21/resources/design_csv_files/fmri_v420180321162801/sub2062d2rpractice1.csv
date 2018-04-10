@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2062,1,L,,,,,3.73297070192,,,,25,30,1,,2,,1,2,3,0.642111726739,1,Why avoid diseases?, Live a long life.,3
+2062,2,L,,,,,0.556311994525,,,,25,30,1,,6,,1,2,3,1.09550888185,3,Why gain knowledge?, Improve oneself.,3
+2062,3,R,,,,,4.18445388315,,,,25,30,1,,5,,1,2,3,1.19166538534,2,Why make a list?, Plan ahead.,2
+2062,4,R,,,,,0.504142460512,,,,25,30,1,,4,,1,2,3,0.505050009274,0,Why consume caffeine?, Stay alert.,2

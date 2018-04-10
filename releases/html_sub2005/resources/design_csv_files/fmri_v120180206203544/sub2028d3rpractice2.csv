@@ -1,0 +1,5 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrial,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2028,1,2,,,,,3.02965688417,,,,,23,1,,5,90,0,3,4,1.09810151316,0,Why attend a school?, Get a degree.,3
+2028,2,1,,,,,2.12632278082,,,,,37,1,,5,90,0,3,4,1.84117322717,0,How to feel productive?, Finish a job.,6
+2028,3,1,,,,,0.563579843933,,,,,35,1,,5,90,0,3,4,0.730738414852,1,Why clip coupons?, Save money.,2
+2028,4,2,,,,,2.39390533433,,,,,28,1,,5,90,0,3,4,0.70581457714,0,How to make breakfast?, Crack eggs.,4

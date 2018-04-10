@@ -1,0 +1,13 @@
+Subject,Trial,SSonLorR,RT,startingK,endingK,TrialStart,ITI,choiceUp,choiceMade,TrialOver,SSamount,LLamount,Condition,Choice,SSdelay,LLdelay,salienceCondition,day,runid,TaskInterval,RewardTrialRanked,Construal_QuestionText,Construal_AnswerText,Construal_Condition
+2194,1,L,,,,,0.693910727188,,,,,24,1,,5,90,0,1,4,0.575041786809,1,How to build muscles?, Lift weights.,5
+2194,2,L,,,,,0.57930383945,,,,,30,1,,5,90,0,1,4,1.28033416206,10,How to entertain others?, Write a song.,5
+2194,3,R,,,,,2.05662214451,,,,,37,1,,5,90,0,1,4,0.551913478326,2,Why wash ones hands?, Kill germs.,1
+2194,4,R,,,,,5.80111619996,,,,,20,1,,5,90,0,1,4,1.79788062978,9,Why throw away trash?, Make a list.,1
+2194,5,R,,,,,0.529107993919,,,,,25,1,,5,90,0,1,4,0.885468902681,5,How to get a degree?, Attend a school.,6
+2194,6,R,,,,,0.737076388366,,,,,40,1,,5,90,0,1,4,0.858265929011,3,How to spread joy?, Get a job.,6
+2194,7,R,,,,,2.89002575861,,,,,38,1,,5,90,0,1,4,2.00083890454,8,Why show appreciation?, Spread joy.,3
+2194,8,L,,,,,2.27912423096,,,,,31,1,,5,90,0,1,4,0.805254320325,6,Why show competence?, Pass the time.,3
+2194,9,L,,,,,3.83292646341,,,,,27,1,,5,90,0,1,4,0.558810827863,4,Why teach a class?, Obey laws.,2
+2194,10,L,,,,,0.785383354357,,,,,29,1,,5,90,0,1,4,0.621736768406,0,Why make breakfast?, Satisfy hunger.,2
+2194,11,L,,,,,1.76178430314,,,,,26,1,,5,90,0,1,4,0.738996639102,11,How to go shopping?, Use credit cards.,4
+2194,12,R,,,,,1.18977877357,,,,,28,1,,5,90,0,1,4,0.901753023333,7,How to open a browser?, Click a mouse.,4
